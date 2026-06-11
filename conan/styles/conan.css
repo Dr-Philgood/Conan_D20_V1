@@ -1,0 +1,1162 @@
+/* Conan system stylesheet: shared visual rules for actor and item sheets. */
+
+/* Base theme colors and form control styling. */
+.conan.sheet .window-content,
+.conan-sheet,
+.conan-item-sheet {
+  background: #111;
+  color: #ddd;
+}
+
+.conan-sheet *,
+.conan-item-sheet * {
+  box-sizing: border-box;
+}
+
+.conan-sheet input,
+.conan-sheet select,
+.conan-sheet textarea,
+.conan-item-sheet input,
+.conan-item-sheet select,
+.conan-item-sheet textarea {
+  width: 100%;
+  background: #222;
+  color: #eee;
+  border: 1px solid #444;
+  border-radius: 4px;
+  padding: 4px 6px;
+}
+
+.conan-sheet input[type="checkbox"],
+.conan-item-sheet input[type="checkbox"] {
+  width: auto;
+  margin-left: 6px;
+}
+
+.conan-sheet button,
+.conan-item-sheet button {
+  background: #2a2a2a;
+  color: #f0e0b0;
+  border: 1px solid #555;
+  border-radius: 4px;
+  padding: 4px 8px;
+  cursor: pointer;
+}
+
+.conan-sheet button:hover,
+.conan-item-sheet button:hover {
+  background: #353535;
+  border-color: #777;
+}
+
+/* Header layout for portraits, names, and top-level actor/item fields. */
+.conan-sheet .sheet-header,
+.conan-item-sheet .sheet-header {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 12px;
+  margin-bottom: 12px;
+  align-items: start;
+}
+
+.conan-sheet .profile-img,
+.conan-item-sheet .profile-img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border: 1px solid #555;
+  border-radius: 6px;
+  background: #1a1a1a;
+}
+
+.conan-sheet .header-fields h1,
+.conan-item-sheet .header-fields h1 {
+  margin: 0 0 8px;
+}
+
+.conan-sheet .header-fields h1 input,
+.conan-item-sheet .header-fields h1 input {
+  font-size: 1.5rem;
+  font-weight: 700;
+  height: 2.2rem;
+}
+
+/* Reusable grids, labels, and panel containers used across all tabs. */
+.conan-sheet .grid,
+.conan-item-sheet .grid {
+  display: grid;
+  gap: 8px;
+}
+
+.conan-sheet .grid.two,
+.conan-item-sheet .grid.two {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.conan-sheet .grid.three {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.conan-sheet .grid.four {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.conan-sheet label,
+.conan-item-sheet label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 0.9rem;
+}
+
+.conan-sheet .panel,
+.conan-item-sheet .panel {
+  background: #181818;
+  border: 1px solid #333;
+  border-radius: 6px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.conan-sheet .panel h2,
+.conan-item-sheet .panel h2 {
+  margin: 0 0 8px;
+  font-size: 1rem;
+  color: #f0e0b0;
+  border-bottom: 1px solid #333;
+  padding-bottom: 4px;
+}
+
+.conan-sheet .panel-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+/* Actor overview summary and compact ability/save cards. */
+.conan-sheet .combat-defense-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.conan-sheet .combat-defense-card {
+  background: #202020;
+  border: 1px solid #4b4230;
+  border-radius: 6px;
+  padding: 12px;
+  text-align: center;
+}
+
+.conan-sheet .combat-defense-card .label {
+  display: block;
+  color: #bbb;
+  font-size: 0.85rem;
+  margin-bottom: 6px;
+}
+
+.conan-sheet .combat-defense-card strong {
+  display: block;
+  font-size: 2rem;
+  line-height: 1;
+}
+
+.conan-sheet .overview-dashboard {
+  margin-bottom: 10px;
+}
+
+.conan-sheet .overview-band {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  border: 1px solid #555;
+  border-radius: 5px;
+  overflow: hidden;
+  background: #d7d3c5;
+  color: #1d1d1d;
+  margin-bottom: 8px;
+}
+
+.conan-sheet .overview-two-cell-band {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.conan-sheet .overview-band-title {
+  grid-column: 1 / -1;
+  background: #4b4a43;
+  color: #f7f0d8;
+  font-weight: 800;
+  text-align: center;
+  padding: 4px 8px;
+  text-shadow: 0 1px 1px #000;
+}
+
+.conan-sheet .overview-cell,
+.conan-sheet .overview-stat,
+.conan-sheet .overview-ability {
+  min-height: 44px;
+  border-right: 1px solid #777;
+  background: linear-gradient(#ebe8dc, #d8d4c6);
+  text-align: center;
+  padding: 5px 6px;
+}
+
+.conan-sheet .overview-cell:last-child,
+.conan-sheet .overview-stat:last-child,
+.conan-sheet .overview-ability:last-child {
+  border-right: 0;
+}
+
+.conan-sheet .overview-cell span,
+.conan-sheet .overview-stat span,
+.conan-sheet .overview-ability span {
+  display: block;
+  color: #333;
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.conan-sheet .overview-cell strong,
+.conan-sheet .overview-stat strong,
+.conan-sheet .overview-ability strong {
+  display: block;
+  color: #111;
+  font-size: 1.1rem;
+  margin-top: 2px;
+}
+
+.conan-sheet .overview-cell input,
+.conan-sheet .overview-stat input,
+.conan-sheet .overview-ability input {
+  width: 70px;
+  margin: 2px auto 0;
+  text-align: center;
+  background: #f7f5eb;
+  color: #111;
+  border-color: #aaa;
+}
+
+.conan-sheet .overview-stat label {
+  display: block;
+  color: #333;
+  font-size: 0.72rem;
+  font-weight: 700;
+  margin-top: 3px;
+}
+
+.conan-sheet .overview-stat label input {
+  display: block;
+}
+
+.conan-sheet .header-fate-actions {
+  display: flex;
+  gap: 4px;
+  align-items: end;
+}
+
+.conan-sheet .header-fate-actions button {
+  padding: 3px 6px;
+  white-space: nowrap;
+}
+
+.conan-sheet .overview-section-title {
+  color: #f0e0b0;
+  font-size: 1rem;
+  font-weight: 800;
+  margin: 4px 0;
+  border-bottom: 1px solid #743c35;
+}
+
+.conan-sheet .overview-stat-grid,
+.conan-sheet .overview-ability-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 2px;
+  margin-bottom: 4px;
+}
+
+.conan-sheet .overview-ability-grid {
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+
+.conan-sheet .overview-stat button,
+.conan-sheet .overview-ability button {
+  margin-top: 2px;
+  min-width: 64px;
+}
+
+/* Compact chat cards for weapon attacks, damage, and critical follow-up rolls. */
+.conan-roll-card h2 {
+  margin: 0 0 0.35rem;
+  font-size: 1.05rem;
+}
+
+.conan-roll-card table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.conan-roll-card th,
+.conan-roll-card td {
+  padding: 0.2rem 0.25rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.conan-roll-card td:last-child {
+  text-align: right;
+}
+
+.conan-roll-card .conan-roll-total {
+  cursor: help;
+  text-decoration: underline dotted rgba(0, 0, 0, 0.35);
+  text-underline-offset: 2px;
+}
+
+.conan-roll-card .conan-roll-note {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  color: #4b463d;
+  font-size: 0.82rem;
+}
+
+.conan-sheet .quick-actions-panel {
+  border-top: 1px solid #743c35;
+  padding-top: 8px;
+}
+
+.conan-sheet .quick-action-group {
+  margin-bottom: 10px;
+}
+
+.conan-sheet .quick-action-group h3 {
+  margin: 0 0 6px;
+  color: #f0e0b0;
+  font-size: 0.95rem;
+}
+
+.conan-sheet .quick-action-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.conan-sheet .quick-action {
+  min-width: 120px;
+  background: #222;
+  border: 1px solid #555;
+  border-radius: 5px;
+  color: #eee;
+  padding: 6px 8px;
+}
+
+.conan-sheet button.quick-action {
+  display: inline-flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.conan-sheet .quick-action strong {
+  color: #f0e0b0;
+}
+
+.conan-sheet .weapon-quick-action {
+  display: grid;
+  gap: 4px;
+}
+
+.conan-sheet .weapon-quick-action small {
+  color: #bbb;
+}
+
+.conan-sheet .quick-action-buttons {
+  display: flex;
+  gap: 4px;
+}
+
+.conan-sheet .quick-resource-grid {
+  display: grid;
+  grid-template-columns: minmax(100px, 160px) repeat(2, auto);
+  gap: 8px;
+  align-items: end;
+}
+
+.conan-sheet .quick-action-empty {
+  color: #aaa;
+  font-style: italic;
+}
+
+.conan-sheet .sorcery-section textarea {
+  min-height: 70px;
+  resize: vertical;
+}
+
+.conan-sheet .sorcery-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+  align-items: end;
+}
+
+.conan-sheet .sorcery-total-card {
+  background: #202020;
+  border: 1px solid #4b4230;
+  border-radius: 6px;
+  padding: 8px;
+  text-align: center;
+}
+
+.conan-sheet .sorcery-total-card span {
+  display: block;
+  color: #bbb;
+  font-size: 0.85rem;
+  margin-bottom: 4px;
+}
+
+.conan-sheet .sorcery-total-card strong {
+  display: block;
+  font-size: 1.6rem;
+  margin-bottom: 6px;
+}
+
+.conan-sheet .sorcery-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.conan-sheet .sorcery-row {
+  display: grid;
+  gap: 8px;
+  align-items: end;
+  border-bottom: 1px solid #2d2d2d;
+  padding: 8px 0;
+}
+
+.conan-sheet .sorcery-style-row,
+.conan-sheet .sorcery-component-row {
+  grid-template-columns: minmax(160px, 1fr) minmax(140px, 1fr) minmax(240px, 2fr) auto;
+}
+
+.conan-sheet .sorcery-spell-row {
+  grid-template-columns: repeat(4, minmax(110px, 1fr)) minmax(160px, 1fr) auto auto;
+}
+
+.conan-sheet .sorcery-ritual-row {
+  grid-template-columns: repeat(4, minmax(120px, 1fr)) minmax(160px, 1fr) auto minmax(220px, 2fr) auto;
+}
+
+.conan-sheet .sorcery-sacrifice-row {
+  grid-template-columns: minmax(160px, 1fr) minmax(120px, 1fr) minmax(260px, 2fr) auto;
+}
+
+.conan-sheet .sorcery-notes {
+  grid-column: 1 / -2;
+}
+
+.conan-sheet .tracker-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.conan-sheet .tracker-row {
+  display: grid;
+  gap: 8px;
+  align-items: end;
+  border-bottom: 1px solid #2d2d2d;
+  padding: 8px 0;
+}
+
+.conan-sheet .feat-row {
+  grid-template-columns:
+    minmax(160px, 1.2fr)
+    minmax(110px, 0.8fr)
+    minmax(70px, 0.5fr)
+    minmax(120px, 0.8fr)
+    minmax(140px, 1fr)
+    minmax(80px, 0.6fr)
+    minmax(240px, 2fr)
+    auto;
+}
+
+.conan-sheet .compact-tracker-row {
+  grid-template-columns:
+    minmax(160px, 1.2fr)
+    minmax(120px, 0.8fr)
+    minmax(240px, 2fr)
+    auto;
+}
+
+.conan-sheet .class-feature-row {
+  display: block;
+}
+
+.conan-sheet .class-feature-details {
+  width: 100%;
+}
+
+.conan-sheet .class-feature-details summary {
+  cursor: pointer;
+  display: grid;
+  grid-template-columns: minmax(160px, 1.2fr) minmax(120px, 0.8fr) minmax(90px, 0.6fr);
+  gap: 8px;
+  align-items: center;
+  list-style-position: outside;
+}
+
+.conan-sheet .class-feature-details summary::marker {
+  color: #f0e0b0;
+}
+
+.conan-sheet .class-feature-details[open] summary {
+  margin-bottom: 8px;
+}
+
+.conan-sheet .feature-description {
+  grid-column: 1 / -1;
+  background: #171717;
+  border: 1px solid #303030;
+  border-radius: 6px;
+  color: #d8d0c0;
+  font-size: 0.9rem;
+  line-height: 1.45;
+  padding: 8px 10px;
+}
+
+.conan-sheet .feature-description p {
+  margin: 0 0 0.55rem;
+}
+
+.conan-sheet .feature-description p:last-child {
+  margin-bottom: 0;
+}
+
+.conan-sheet .tracker-notes textarea,
+.conan-sheet .movement-grid + label textarea {
+  min-height: 70px;
+}
+
+.conan-sheet .resource-grid,
+.conan-sheet .movement-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+  align-items: end;
+}
+
+.conan-sheet .movement-total-card {
+  background: #202020;
+  border: 1px solid #383838;
+  border-radius: 6px;
+  padding: 8px;
+  text-align: center;
+}
+
+.conan-sheet .movement-total-card span {
+  display: block;
+  color: #bbb;
+  font-size: 0.85rem;
+}
+
+.conan-sheet .movement-total-card strong {
+  display: block;
+  color: #f0e0b0;
+  font-size: 1.3rem;
+}
+
+.conan-sheet .ability-grid {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.conan-sheet .ability-card,
+.conan-sheet .save-card {
+  background: #202020;
+  border: 1px solid #383838;
+  border-radius: 6px;
+  padding: 8px;
+  text-align: center;
+}
+
+.conan-sheet .ability-card .mod {
+  margin-top: 6px;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #f0e0b0;
+}
+
+.conan-sheet .collapsible-panel summary {
+  cursor: pointer;
+  color: #f0e0b0;
+  font-size: 1.05rem;
+  font-weight: 800;
+  list-style-position: inside;
+}
+
+.conan-sheet .collapsible-panel[open] summary {
+  margin-bottom: 8px;
+}
+
+.conan-sheet .point-buy-controls {
+  display: grid;
+  grid-template-columns: minmax(160px, 1fr) minmax(220px, 1.4fr);
+  gap: 8px;
+  align-items: end;
+  margin-bottom: 8px;
+}
+
+.conan-sheet .point-buy-status {
+  display: flex;
+  gap: 12px;
+  justify-content: flex-end;
+  color: #d8d0c0;
+}
+
+.conan-sheet .point-buy-status strong {
+  color: #f0e0b0;
+}
+
+.conan-sheet .point-buy-grid {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.conan-sheet .point-buy-grid label {
+  background: #202020;
+  border: 1px solid #383838;
+  border-radius: 6px;
+  padding: 8px;
+}
+
+.conan-sheet .point-buy-grid span {
+  color: #b9b9b9;
+  font-size: 0.8rem;
+}
+
+.conan-sheet .point-buy-over .point-buy-status strong,
+.conan-sheet .point-buy-over .point-buy-grid span strong {
+  color: #ff9b8f;
+}
+
+.conan-sheet .apply-point-buy:disabled {
+  cursor: not-allowed;
+  opacity: 0.55;
+}
+
+.conan-sheet .save-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+}
+
+/* Skills and inventory rows. Each item type gets its own grid layout. */
+.conan-sheet .skill-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.conan-sheet .skill-row,
+.conan-sheet .item-row {
+  display: grid;
+  gap: 8px;
+  align-items: center;
+  border-bottom: 1px solid #2d2d2d;
+  padding: 6px 0;
+}
+
+.conan-sheet .skill-row {
+  grid-template-columns: minmax(180px, 2fr) 60px repeat(2, minmax(80px, 1fr)) repeat(4, 74px) 60px;
+}
+
+.conan-sheet .weapon-row {
+  grid-template-columns:
+    minmax(140px, 2fr)
+    minmax(90px, 1fr)
+    minmax(80px, 1fr)
+    minmax(92px, 1fr)
+    minmax(60px, 0.6fr)
+    minmax(100px, 1fr)
+    minmax(180px, 2fr)
+    minmax(90px, 1fr)
+    minmax(72px, auto)
+    repeat(4, minmax(72px, auto));
+}
+
+.conan-sheet .weapon-critical-input {
+  min-width: 0;
+  width: 100%;
+}
+
+.conan-sheet .iterative-attack-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.conan-sheet .attack-sequence-label {
+  flex-basis: 100%;
+  color: #f0e0b0;
+  font-size: 0.85rem;
+}
+
+.conan-sheet .iterative-attack-buttons button {
+  padding: 3px 6px;
+  white-space: nowrap;
+}
+
+.conan-sheet .feat-toggle-grid label {
+  justify-content: end;
+}
+
+.conan-sheet .armor-row {
+  grid-template-columns:
+    minmax(160px, 2fr)
+    minmax(80px, 1fr)
+    minmax(80px, 1fr)
+    minmax(90px, 1fr)
+    repeat(2, minmax(72px, auto));
+}
+
+.conan-sheet .gear-row {
+  grid-template-columns:
+    minmax(180px, 2fr)
+    minmax(80px, 1fr)
+    minmax(80px, 1fr)
+    minmax(90px, 1fr)
+    repeat(2, minmax(72px, auto));
+}
+
+.conan-sheet .item-row strong,
+.conan-sheet .item-row span,
+.conan-sheet .skill-row span,
+.conan-sheet .skill-row strong {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+/* Foundry tab navigation and rich-text editor surfaces. */
+.conan-sheet .sheet-tabs {
+  display: flex;
+  gap: 8px;
+  margin: 10px 0;
+  border-bottom: 1px solid #333;
+  padding-bottom: 8px;
+}
+
+.conan-sheet .sheet-tabs .item {
+  padding: 6px 10px;
+  border: 1px solid #444;
+  border-radius: 4px;
+  background: #1a1a1a;
+  color: #ddd;
+  text-decoration: none;
+}
+
+.conan-sheet .sheet-tabs .item.active {
+  background: #2a2a2a;
+  color: #f0e0b0;
+  border-color: #777;
+}
+
+.conan-sheet .tab,
+.conan-item-sheet .tab {
+  min-height: 100px;
+}
+
+.conan-sheet .editor,
+.conan-item-sheet .editor {
+  min-height: 240px;
+}
+
+.conan-sheet .editor-content,
+.conan-item-sheet .editor-content {
+  min-height: 200px;
+  padding: 8px;
+  background: #141414;
+  border: 1px solid #333;
+  border-radius: 4px;
+}
+
+.conan-sheet strong,
+.conan-item-sheet strong {
+  color: #f0e0b0;
+}
+
+/* First responsive pass: collapse dense sheet grids on narrow windows. */
+@media (max-width: 900px) {
+  .conan-sheet .ability-grid,
+  .conan-sheet .overview-band,
+  .conan-sheet .overview-stat-grid,
+  .conan-sheet .overview-ability-grid,
+  .conan-sheet .point-buy-controls,
+  .conan-sheet .point-buy-grid,
+  .conan-sheet .quick-resource-grid,
+  .conan-sheet .save-grid,
+  .conan-sheet .combat-defense-grid,
+  .conan-sheet .sorcery-summary-grid,
+  .conan-sheet .sorcery-style-row,
+  .conan-sheet .sorcery-component-row,
+  .conan-sheet .sorcery-spell-row,
+  .conan-sheet .sorcery-ritual-row,
+  .conan-sheet .sorcery-sacrifice-row,
+  .conan-sheet .feat-row,
+  .conan-sheet .compact-tracker-row,
+  .conan-sheet .resource-grid,
+  .conan-sheet .movement-grid,
+  .conan-sheet .grid.two,
+  .conan-sheet .grid.three,
+  .conan-sheet .grid.four,
+  .conan-sheet .skill-row,
+  .conan-sheet .weapon-row,
+  .conan-sheet .armor-row,
+  .conan-sheet .gear-row,
+  .conan-item-sheet .grid.two {
+    grid-template-columns: 1fr;
+  }
+
+  .conan-sheet .sheet-header,
+  .conan-item-sheet .sheet-header {
+    grid-template-columns: 1fr;
+  }
+
+  .conan-sheet .profile-img,
+  .conan-item-sheet .profile-img {
+    width: 100%;
+    max-width: 240px;
+    height: auto;
+  }
+}
+
+
+/* Custom skills and permanent injury row layouts. */
+.conan-sheet .custom-skill-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.conan-sheet .custom-skill-row {
+  display: grid;
+  grid-template-columns:
+    minmax(90px, auto)
+    minmax(180px, 2fr)
+    minmax(70px, 0.7fr)
+    minmax(70px, 0.7fr)
+    minmax(70px, 0.7fr)
+    minmax(74px, 0.7fr)
+    minmax(100px, 0.9fr)
+    minmax(50px, 0.5fr)
+    minmax(72px, auto);
+  gap: 8px;
+  align-items: center;
+  border-bottom: 1px solid #2d2d2d;
+  padding: 6px 0;
+}
+
+.conan-sheet .injury-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 10px;
+}
+
+.conan-sheet .injury-row {
+  display: grid;
+  grid-template-columns:
+    minmax(120px, 1.3fr)
+    minmax(90px, 1fr)
+    minmax(80px, 0.8fr)
+    minmax(100px, 1fr)
+    minmax(220px, 2fr)
+    minmax(80px, 0.8fr)
+    repeat(2, minmax(72px, auto));
+  gap: 8px;
+  align-items: center;
+  border-bottom: 1px solid #2d2d2d;
+  padding: 6px 0;
+}
+
+@media (max-width: 900px) {
+  .conan-sheet .custom-skill-row,
+  .conan-sheet .injury-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+/* Classes tab editor and derived progression summaries. */
+.conan-sheet .class-tab-section {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.conan-sheet .class-tab-section .inventory-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 4px;
+}
+
+.conan-sheet .class-tab-section .inventory-header h2 {
+  margin: 0;
+}
+
+.conan-sheet .class-rows {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.conan-sheet .class-row {
+  display: grid;
+  grid-template-columns:
+    minmax(180px, 2fr)
+    minmax(72px, 0.7fr)
+    minmax(90px, 0.8fr)
+    minmax(90px, 0.8fr)
+    minmax(180px, 2fr)
+    auto;
+  gap: 8px;
+  align-items: end;
+  padding: 8px 0;
+  border-bottom: 1px solid #2d2d2d;
+}
+
+.conan-sheet .class-row label {
+  min-width: 0;
+}
+
+.conan-sheet .class-row input[type="checkbox"] {
+  margin-left: 0;
+  justify-self: start;
+}
+
+.conan-sheet .class-row-actions {
+  display: flex;
+  align-items: end;
+  justify-content: flex-end;
+  height: 100%;
+}
+
+.conan-sheet .class-row-actions .remove-class-row {
+  min-width: 38px;
+  padding: 4px 8px;
+}
+
+.conan-sheet .class-tab .panel {
+  margin-bottom: 0;
+}
+
+@media (max-width: 900px) {
+  .conan-sheet .class-row {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .conan-sheet .class-row-actions {
+    justify-content: flex-start;
+  }
+}
+
+@media (max-width: 640px) {
+  .conan-sheet .class-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+/* Later Classes tab refinements for row blocks, derived cards, and feature lists. */
+.conan-sheet .class-tab-header {
+  align-items: center;
+}
+
+.conan-sheet .class-rows {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.conan-sheet .class-row-block {
+  border: 1px solid #333;
+  border-radius: 6px;
+  background: #151515;
+  padding: 10px;
+}
+
+.conan-sheet .grid.five {
+  grid-template-columns: repeat(5, minmax(0, 1fr)) auto;
+}
+
+.conan-sheet .class-row-actions {
+  display: flex;
+  align-items: end;
+  justify-content: flex-end;
+}
+
+.conan-sheet .class-derived-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.conan-sheet .class-derived-card {
+  background: #202020;
+  border: 1px solid #383838;
+  border-radius: 6px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-height: 64px;
+}
+
+.conan-sheet .class-derived-card .label {
+  font-size: 0.8rem;
+  color: #b9b9b9;
+}
+
+.conan-sheet .class-derived-card .value {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #f0e0b0;
+}
+
+.conan-sheet .class-features {
+  margin-top: 10px;
+  background: #1a1a1a;
+  border: 1px solid #2d2d2d;
+  border-radius: 6px;
+  padding: 8px 10px;
+}
+
+.conan-sheet .class-features-title {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #f0e0b0;
+  margin-bottom: 6px;
+}
+
+.conan-sheet .class-features-list {
+  margin: 0;
+  padding-left: 18px;
+}
+
+.conan-sheet .class-features-list li {
+  margin: 0 0 4px;
+}
+
+.conan-sheet .class-features-empty {
+  color: #999;
+  font-style: italic;
+}
+
+@media (max-width: 900px) {
+  .conan-sheet .grid.five,
+  .conan-sheet .class-derived-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  .conan-sheet .grid.five,
+  .conan-sheet .class-derived-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+/* Aggregate class totals summary shown above individual class rows. */
+.conan-sheet .class-totals-summary {
+  margin-bottom: 12px;
+}
+
+.conan-sheet .class-totals-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.conan-sheet .class-row-block {
+  background: #1b1b1b;
+  border: 1px solid #333;
+  border-radius: 6px;
+  padding: 10px;
+  margin-bottom: 12px;
+}
+
+.conan-sheet .class-derived-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.conan-sheet .class-derived-card {
+  background: #202020;
+  border: 1px solid #383838;
+  border-radius: 6px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.conan-sheet .class-derived-card .label {
+  font-size: 0.8rem;
+  color: #bbb;
+}
+
+.conan-sheet .class-derived-card .value {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #f0e0b0;
+}
+
+.conan-sheet .class-features {
+  margin-top: 10px;
+}
+
+.conan-sheet .class-features-title {
+  margin-bottom: 4px;
+  font-weight: 700;
+  color: #f0e0b0;
+}
+
+.conan-sheet .class-features-list {
+  margin: 0;
+  padding-left: 18px;
+}
+
+.conan-sheet .class-features-empty {
+  color: #aaa;
+  font-style: italic;
+}
+
+.conan-sheet .class-row-actions {
+  display: flex;
+  align-items: end;
+}
+
+@media (max-width: 900px) {
+  .conan-sheet .class-totals-grid,
+  .conan-sheet .class-derived-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 600px) {
+  .conan-sheet .class-totals-grid,
+  .conan-sheet .class-derived-grid,
+  .conan-sheet .class-row.grid.five {
+    grid-template-columns: 1fr;
+  }
+}

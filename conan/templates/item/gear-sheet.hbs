@@ -1,0 +1,43 @@
+{{!-- Gear item sheet. Generic equipment tracks quantity, carried state, weight, and cost. --}}
+<form class="conan-item-sheet" autocomplete="off">
+  {{!-- Header: item image and editable item name. --}}
+  <header class="sheet-header">
+    <img class="profile-img" src="{{item.img}}" data-edit="img" title="{{item.name}}">
+    <div class="header-fields">
+      <h1>
+        <input name="name" type="text" value="{{item.name}}" placeholder="Gear Name">
+      </h1>
+    </div>
+  </header>
+
+  {{!-- Main gear fields used for inventory bookkeeping. --}}
+  <section class="panel">
+    <div class="grid two">
+      <label>
+        Quantity
+        <input type="number" name="system.quantity" value="{{system.quantity}}">
+      </label>
+
+      <label>
+        Equipped
+        <input type="checkbox" name="system.equipped" {{#if system.equipped}}checked{{/if}}>
+      </label>
+
+      <label>
+        Weight
+        <input type="number" step="0.1" name="system.weight" value="{{system.weight}}">
+      </label>
+
+      <label>
+        Cost
+        <input type="text" name="system.cost" value="{{system.cost}}">
+      </label>
+    </div>
+  </section>
+
+  {{!-- Rich-text description stored on the item. --}}
+  <section class="panel">
+    <h2>Description</h2>
+    {{editor system.description target="system.description" button=true owner=owner editable=editable}}
+  </section>
+</form>

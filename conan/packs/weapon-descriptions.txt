@@ -1,0 +1,511 @@
+Weapon Descriptions
+Arbalest: This is a heavy and powerful steel-framed
+crossbow, designed for penetrating armour and long-range
+effectiveness. An arbalest is very slow to load, as it must be
+braced against the ground and laboriously ‘spanned’ with a
+mechanical device called a cranequin before a new bolt can
+be loaded in place. Reloading takes three full-round actions,
+so few adventurers bother to reload their arbalests during
+combat. An arbalest must be wielded with both hands.
+Axe: The axe is an effective off-hand weapon or
+backup weapon, easily carried in a loop on the belt and
+reasonably effective against armour. It can also be used to
+hook enemy weapons.
+Bardiche: The bardiche is a heavy axe-blade mounted on a
+thick ash shaft some four to six feet long. Though the blade
+is also quite large, it is highly curved so as to concentrate
+the initial impact in a very small area. This combination
+allows for both excellent armour penetration and the
+possibility of dealing heavy damage. The long doublehanded
+war-axes of the Aesir and Vanir can also be
+treated as bardiches.
+Battleaxe: The battleaxe is a powerful
+weapon, ideal for dealing
+deadly overhead blows
+from horseback but also
+sufficiently well-balanced
+for fast-moving
+melee combat. Mounted mercenaries favour it especially,
+since it is relatively cheap but highly effective against
+armoured enemies.
+Bill: This versatile polearm was originally derived from a
+hedging tool mounted on a long shaft but is in common
+use by heavy infantry and city watchmen alike. Nemedian
+soldiers, police and mercenaries favour its use. A bill has
+a spearhead, curved axe-head and hook, all forged from a
+single blade and mounted on a shaft around six feet long.
+In better quality weapons the shaft is protected by steel
+langets that extend down most of its length from the head.
+You can use a ready action to set a bill against a charge,
+in which case it deals double damage on a successful hit
+against a charging character. A bill may be used to make
+trip attempts. A character who is wielding a bill and who
+is tripped while making a trip attempt may drop the bill to
+avoid being tripped in return.
+Bow, Hunting: These small, simple bows are used around
+the world, for both hunting and combat. Any bow other
+than one of the regional longbows can be treated as a
+hunting bow. Hunting bows require two hands for use.
+They may be used while mounted. Hunting bows always
+have an effective strength rating of +0 (see sidebar).
+Bow, Hyrkanian: The Hyrkanian bow is a composite
+bow made from horn, wood and sinew. A Hyrkanian
+bow requires both hands to shoot and may be
+used while mounted. All Hyrkanian bows have
+strength ratings (see boxed text).
+Heavy Mace
+Mace
+Yuetshi Knife
+Club
+Hatchet
+Stiletto
+Dagger
+Knife
+Hunting
+Bow
+Gauntlet
+Sling
+Javelin
+War Spear
+Hunting Spear
+Staff
+147
+Equipment
+Bow, Shemite: The Shemite bow is very similar to the
+Hyrkanian bow. A Shemite bow requires both hands to
+shoot and may be used while mounted. All Shemite bows
+have strength ratings (see boxed text).
+Bow, Stygian: The Stygian bow is heavy and powerful,
+shooting a long, weighty arrow that does a great deal of
+damage but does not travel as far as most other arrows.
+A Stygian bow requires both hands to shoot and may
+not be used while mounted, though the Stygian nobility
+often use them from chariots. All Stygian bows have
+strength ratings (see boxed text).
+Broadsword: This heavy, slightly tapered sword is
+intended for battlefield use and is often wielded by
+knights expecting to face lightly armoured enemies. It is
+too expensive for most mercenaries but many adventurers
+favour broadswords for their good balance and reasonable
+effectiveness against armour. Though the broadsword’s
+handgrip is clearly only long enough for one hand to grip
+it comfortably, the pommel is large and often disc-shaped,
+allowing for a warrior to get his second hand behind
+the blow if need be and use the weapon two-handed. A
+broadsword being wielded two-handed can be
+used as a finesse weapon if desired.
+Club: The club is perhaps the simplest of man-made
+weapons. It is most often found in primitive countries
+but may also be used by peasants and city mobs
+in more civilised nations.
+Club,War: War clubs are used by warriors who cannot
+afford anything better or who live in areas where better
+weapons are not generally manufactured.
+Crossbow: Crossbows are favoured by
+countries that do not have many troops
+capable of wielding any type of longbow,
+which includes many of the Hyborian
+nations. A crossbow is effective but the
+experienced warrior will find that a bow of
+any kind allows a far more rapid rate of fire.
+A crossbow requires two hands to fire. It may
+be reloaded as a full-round action.
+Cutlass: Cutlasses are shorter than
+broadswords but almost as heavy and
+damaging. For this reason they are
+much-used by pirates, who need
+a weapon that is not likely to get
+entangled in rigging or stuck in
+the low ceilings below
+Strength Ratings for Bows
+All bows are made with a certain ‘pull’. The greater the pull, the more force can be put behind the arrow but the
+harder the bow is to draw. In game terms, all bows are made with a strength rating. A strength rating is given
+as the Strength modifier the weapon is ideally suited for and is given in brackets after the bow. For example,
+a Bossonian longbow made for a character of Strength 8 to 9 would be written as a ‘Bossonian longbow (–1)’
+whereas a Shemite bow made for a character of Strength 16 or 17 would be written as a ‘Shemite bow (+3).’
+The strength rating of a bow indicates the maximum amount of additional damage from Strength that can be
+added to the damage of its arrows. A character shooting a bow always modifies damage and Armour Piercing
+ratings with the worse of his Strength modifier and the strength rating of the bow. In addition, a character
+whose Strength modifier is less than the strength rating of the bow has a –2 circumstance penalty on his attack
+rolls with that bow.
+For longbows with strength ratings of +1 or above, the cost to buy the bow is increased by +20 sp for each +1
+of the strength rating.
+For example, a character of Strength 16 has a Strength bonus of +3. If he were proficient with the Bossonian
+longbow, the ideal weapon for him to wield would be a Bossonian longbow (+3), at a cost of 80 sp. He would
+deal 1d10+3 damage with this weapon and it would have an Armour Piercing value of 8. If he instead chose
+a Bossonian longbow (+2) at a cost of 60 sp, he would only deal 1d10+2 damage (AP 7). If he picked up a
+Bossonian longbow (+4), he would still deal only 1d10+3 damage (AP 8) and suffer a –2 penalty on his attack
+rolls with it.
+If, on the other hand, a character with Strength 8 picked up a Bossonian longbow (+1) he would deal 1d10–1
+damage with an Armour Piercing value of 4, and suffer a –2 penalty on his attack rolls with it.
+148
+Equipment
+Martial Weapons
+Weapon Cost Damage Critical
+Armour
+Piercing
+Range
+Increment Hardness
+Hit
+Points Weight Type
+Light Melee Weapons
+Axe F 3 sp 1d8 ×3 1** 10 ft. 5 3 2 lb. Slashing
+Knife, Ghanata F 2 sp 1d8 ×2 1** 10 ft. 8 3 2 lb. Slashing
+Pommel* * 1d4 ×2 1 — * * * Bludgeoning
+Poniard F 10 sp 1d6 19–20/×2 1** 5 ft. 10 2 1 lb. Piercing
+Sword, Short F 50 sp 1d8 19–20/×2 1 — 10 3 1½ lb. Slashing or
+Piercing
+One-Handed Melee Weapons
+Battleaxe 5 sp 1d10 ×3 4 — 7 5 3 lb. Slashing
+Broadsword* 125 sp 1d10 19–20/×2 3 — 10 5 2½ lb. Slashing
+Cutlass 50 sp 1d10 19–20/×2 2 — 8 5 2 lb. Slashing
+Knife, Zhaibar 25 sp 1d12 ×2 1 — 8 6 3 lb. Slashing
+Lance, Heavy* 7 sp 1d10 ×3 3 — 5 8 7 lb. Piercing
+Lance, Light* 5 sp 1d10 ×3 2 — 5 5 4 lb. Piercing
+Scimitar 75 sp 1d8 18–20/×2 2 — 10 5 2½ lb. Slashing
+Sword, Arming F 100 sp 1d10 19–20/×2 2 — 10 4 2 lb. Slashing or
+Piercing
+Warhammer 7 sp 1d6 ×3 7 — 7 4 4 lb. Bludgeoning
+or Piercing
+Two-Handed Melee Weapons
+Bardiche 8 sp 1d10+1d8 ×3 5 — 7 10 7 lb. Slashing
+Bill* 7 sp 2d8 ×3 6 — 7 10 6 lb. Slashing or
+Piercing
+Club, War 3 sp 2d6 ×2 4 — 5 10 6 lb. Bludgeoning
+Pike* R 5 sp 2d6 ×3 2 — 5 8 10 lb. Piercing
+Pollaxe* 8 sp 2d6 ×3 8 — 7 10 7 lb. Slashing or
+Piercing
+Sword, War* F 150 sp 1d12 19–20/×2 3 — 10 8 4 lb. Slashing or
+Piercing
+Ranged Weapons
+Arbalest 15 sp 2d8 ×2 6** 70 ft. 6 5 20 lb. Piercing
+Bolts (10) 3 sp — — — — 5 1 2 lb. —
+Crossbow 12 sp 2d6 ×2 4** 60 ft. 5 4 15 lb. Piercing
+Bolts (10) 2 sp — — — — 5 1 1 lb. —
+* See the weapon description for special rules.
+F Finesse weapon
+R Reach weapon
+** The Armour Piercing score for all ranged weapons is
+reduced by one for each range increment beyond the first.
+149
+Equipment
+decks. Any one-handed weapon larger than the cutlass that
+is wielded in a low-ceilinged environment is used with a –2
+circumstance penalty to the attack roll.
+Dagger: The dagger is an all-purpose weapon and tool that
+is carried by almost everyone in the Hyborian countries
+over the age of 10 or so. Most daggers have double-edged
+blades, making them more useful for stabbing than cutting
+but they are still short and handy enough to have many
+roles outside of combat.
+Gauntlet: Gauntlets come free with all medium and heavy
+armours but some characters may elect to buy a gauntlet
+by itself as a weapon. A gauntlet cannot be removed with a
+disarm action (see page 206).
+Greatsword: Possibly the most powerful weapon fielded on
+the battlefield by most Hyborian nations, the greatsword
+is a large, no-nonsense killing sword. Adventurers of
+Nemedia are particularly noted for wielding greatswords
+but most other Hyborian armies arm at least a few knights
+with this deadly weapon.
+Hatchet: The hatchet is more of a woodsman’s tool than a
+weapon, though it is often pressed into service in combat.
+Many armies carry a number of hatchets too, simply for
+cutting firewood, though a lowly man-at-arms or mercenary
+may certainly carry one onto the battlefield.
+Javelin: The javelin is a light throwing spear that is rarely
+seen among the Hyborian military but that is
+sometimes used by more primitive armies. It is
+rather better balanced for throwing than the hunting spear
+but is a little too fragile for effective use in melee combat.
+Knife: A short, single-edged cutting tool, the knife can
+only really be effective as a weapon against unarmoured
+or defenceless foes.
+Knife, Ghanata: The Ghanata knife is commonly used
+by the tribesmen of the Southern Desert. It is two feet
+long, heavy, razor-sharp and slightly curved.
+Knife, Yuetshi: The Yuetshi knife is a long, saw-edged
+knife with a crescent-shaped blade. It is wielded by the
+Yuetshi fishermen of the southern Vilayet sea.
+Knife, Zhaibar: The Zhaibar knife is as long as
+most swords, though it is shaped very much
+like a large knife and has a thicker blade than
+any sword. It is used throughout Ghulistan.
+Its blade is three feet long, triangular and
+intended for slashing rather than thrusting.
+Most Zhaibar knives are bone-handled.
+Lance, Heavy: A heavy lance used from
+the back of a charging mount does double
+damage and has a +2 circumstance bonus
+to its Armour Piercing rating. A heavy
+lance has reach: one can use it
+against opponents 10 feet away
+but not against an adjacent enemy.
+Heavy lances are intended for use
+when mounted and are
+War
+Club
+Cutlass
+Zhaibar
+Knife
+Axe
+Short
+Sword
+Ghanata
+Knife
+Battleaxe
+Poniard
+Warhammer
+Scimitar
+Broad
+Sword
+Arming
+Sword
+Bardiche
+Pollaxe
+Bill
+Light Lance
+Heavy Lance
+Pike
+150
+Equipment
+unbalanced for use on foot; if used while dismounted, treat
+a heavy lance as a war spear with a –2 circumstance penalty
+to all attack rolls.
+Lance, Light: A light lance used from the back of a charging
+mount does double damage and has a +1 circumstance
+bonus to its Armour Piercing rating. Light lances are
+intended for use when mounted but can still be reasonably
+effective on foot; if used while dismounted, treat a light
+lance as a hunting spear.
+Longbow, Bossonian: The Bossonian longbow has justly
+made the Bossonian Marches famous for the quality and
+deadliness of their archers. This massive yew bow does not
+have quite the range of the Hyrkanian or Shemite bows but
+the Bossonian archers make up for this with deadly accuracy
+when the enemy is within range and utter steadfastness when
+he is not. A Bossonian longbow requires both hands to
+shoot and may not be used while mounted. All Bossonian
+longbows have strength ratings (see page 147).
+Mace, Heavy or Light: The mace consists of a
+wooden or metal shaft topped with a heavy, blunt
+striking surface, usually flanged or ball-shaped.
+It is very effective against armour,
+crushing both the protection and
+the warrior inside it.
+Pike: Pikes are extremely
+long spears, highly
+effective in massed
+ranks but very
+unwieldy in close combat. A pike is a special variety of reach
+weapon. A character wielding a pike can attack opponents
+who are 20 feet away but cannot attack opponents
+closer than that.
+Pollaxe: With an axe-head backed by a warhammer-head,
+the whole thing surmounted by a spear-point, the pollaxe is
+a versatile if heavy weapon. The ash shaft is usually around
+four to five feet long and is protected by steel langets. A
+character can use a ready action to set a pollaxe against a
+charge, in which case it deals double damage on a successful
+hit against a charging character.
+Pommel: A pommel is the heavy steel counterweight on
+every sword-hilt. The following weapons can all be used
+to make pommel attacks: dagger, poniard, Ghanata knife,
+short sword, Zhaibar knife, arming sword, broad sword,
+scimitar, cutlass, sabre, war sword, greatsword and tulwar.
+Pommel attacks are useful when one wishes to make a
+bludgeoning attack or when one needs to use a light weapon
+– for example, when grappling an enemy. A pommel can
+also be used to make a stun attempt using the Stunning
+Attack feat if a character has it.
+Poniard: The poniard is a heavy, long dagger designed
+for war and favoured by fighting men as an off-hand or
+secondary weapon. The blade is usually fifteen to nineteen
+inches long, with the pommel, guard and handle bringing
+the total size of the weapon to over two feet.
+Sabre: The sabre is a common cavalry weapon in the
+East. It is intended for one-handed use from horseback
+Bossonian
+Longbow
+Stygian
+Bow
+Hyrkanian
+Bow
+Shemite
+Bow
+War Sword
+Greatsword Tulwar
+Sabre
+Arbalest
+Crossbow
+Whip
+151
+Equipment
+or two-handed use on foot. Although it is classified
+as an exotic weapon, it may be wielded as a martial
+weapon by a mounted character or by a character using
+it in both hands.
+Scimitar: The scimitar is the Eastern equivalent of the
+sword, with a heavy, curved blade that provides extreme
+cutting power. It is the most common weapon among
+Hyrkanian and Shemite nomads.
+Sling: The second most basic projectile weapon – one
+step up from throwing rocks – the sling is still highly
+effective, hurling lead bullets capable of breaking limbs
+or smashing skulls.
+Spear, Hunting: The hunting spear is light enough to be
+wielded with one hand and is commonly used in pairs, with
+the first spear being flung and the second used to finish
+off the wounded animal. Some warriors from primitive
+countries use a hunting spear and shield in war.
+Spear, War: The war spear is a long, heavy spear with a
+broad, often leaf-shaped head. The war spear is a reach
+weapon; a character wielding it may attack foes who are 10
+feet away but may not attack adjacent enemies.
+Staff: The staff is a thick piece of oak or ash fully eight
+or nine feet long and usually shod at each end with iron.
+When wielded with both hands close to the butt it provides
+a good five to six feet of striking length when it is held
+towards the enemy and used for thrusts, sweeps
+and swings. A staff is a reach weapon but unlike
+more usual reach weapons it may be used freely to attack
+both adjacent opponents and those who are 10 feet away.
+Stiletto: This is a long, narrow-bladed dagger, favoured at
+court and much used by noble ladies and assassins.
+Sword, Arming: The arming sword resembles the
+broadsword but is slightly shorter and lighter and often
+not quite so well made. Knights and mercenaries whose
+main weapon is a broadsword, battleaxe, heavy mace or
+two-handed weapon carry an arming sword as a backup
+weapon and some archers and crossbowmen also use
+it. Furthermore, it is the only weapon in its class
+light enough to be a finesse weapon (see page
+171). Well made, fancy-looking versions of
+the arming sword are often worn about town
+by nobles and other well-to-do types, since it
+does not attract quite so much attention as the
+more obviously military broadsword.
+Sword, Short: The short sword is somewhere
+between the arming sword and poniard in
+length, with a blade some two feet long
+or a little longer. It is handy, concealable
+and can be used as a finesse weapon,
+making it much favoured by thieves
+and skirmishers.
+Sword, War: Also known as a
+bastard sword or hand-and-ahalf
+sword, the war sword
+Exotic Weapons
+Weapon Cost Damage Critical
+Armour
+Piercing
+Range
+Increment Hardness
+Hit
+Points Weight Type
+One-Handed Melee Weapons
+Sabre 125 sp 1d10 18–20/×2 2 — 10 8 4 lb. Slashing
+Sword, War* 150 sp 1d12 19–20/×2 3 — 10 8 4 lb. Slashing
+Whip* F 2 sp 1d4 ×2 — — 2 2 1 lb. Slashing
+Two-Handed Melee Weapons
+Greatsword 200 sp 1d10+1d8 19–20/×2 4 — 10 10 6 lb. Slashing or
+Piercing
+Tulwar 150 sp 2d8 18–20/×2 3 — 10 10 6 lb. Slashing
+Ranged Weapons
+Bow,
+Hyrkanian
+25 sp 1d10 19–20/×2 3** 100 ft. 5 3 2 lb. Piercing
+Arrows (20) 3 sp — — — — 5 1 3 lb. —
+Bow, Shemite 25 sp 1d10 ×3 4** 100 ft. 5 3 2 lb. Piercing
+Arrows (20) 3 sp — — — — 5 1 3 lb. —
+Bow, Stygian 30 sp 1d12 19–20/×2 2** 60 ft. 5 4 3 lb. Piercing
+Arrows (20) 4 sp — — — — 5 1 4 lb. —
+Longbow,
+Bossonian
+20 sp 1d12 ×3 5** 80 ft. 5 3 2 lb. Piercing
+Arrows (20) 3 sp — — — — 5 1 3 lb. —
+* See the weapon description for special rules. F Finesse weapon R Reach weapon
+** The Armour Piercing score for all ranged weapons is reduced by one for each range increment beyond the first.
+152
+Equipment
+is intended for one-handed use from horseback or twohanded
+use on foot. Although it is classified as an exotic
+weapon, it may be wielded as a martial weapon by a
+mounted character or by a character using it in both hands.
+Any time a war sword is being wielded in two hands, it
+may be used as a finesse weapon and to make piercing
+attacks. The table below summarises the various uses of
+the war sword.
+Movement Hands Used Classification Finesse?
+Mounted One Handed Martial No
+Mounted Two Handed Exotic Yes
+On Foot One Handed Exotic No
+On Foot Two Handed Martial Yes
+Tulwar: This two-handed, heavy curved sword resembles a
+massive scimitar. It is wielded for its sheer cutting power and
+sometimes as symbol of rank among warriors of the East.
+Unarmed Strike: When you have lost your broadsword
+and poniard, or when you just want to prove a point, a fist
+to the jaw can be a devastatingly effective weapon.
+Warhammer: Though referred to as a warhammer, this
+weapon has a head that more closely resembles a meat
+tenderiser, which is used for bashing in the joints of an
+armoured opponent. The spike on the reverse of the head
+looks a little like a pickaxe blade and can be used to pierce
+right through heavy armour. The head is mounted on a
+three-foot long shaft of ash, allowing for good leverage.
+Whip: A whip deals nonlethal damage, though if it inflicts
+four or more damage in a single blow one point of this
+damage is considered to be lethal damage. It deals no
+damage to any creature with damage reduction of three or
+higher, whether from armour or natural DR. The whip is
+treated as a melee weapon with 15-foot reach, though one
+does not threaten the area into which one can make an
+attack. In addition, unlike most other weapons with reach,
+one can use the whip against foes anywhere within reach,
+including adjacent foes. Using a whip provokes an attack
+of opportunity, just as if one had used a ranged weapon.
+A character can make trip attacks with a whip. If one is
+tripped during his own trip attempt, he can drop the
+whip to avoid being tripped. When using a whip, a
+character get a +2 bonus on opposed attack rolls
+made to disarm an opponent, including the roll
+to keep from being disarmed if the attack
+fails. Whips are finesse weapons.
+A whip can also be used to
+torture captives, granting
+a +2 circumstance bonus
+to all Profession
+(torturer) tests. The whip is assumed to be a large bullwhip,
+capable of inflicting serious pain and some injury; a cheaper
+cat o’ nine tails or similar light whip can be made for one
+sp. This light whip is not a weapon but can be used to deal
+one point of lethal damage and 1d4 nonlethal damage per
+minute on an unarmoured, helpless opponent.
+
+Additional Weapon Descriptions
+Aquilonian Shieldknife: Given to advance infantry officers in Aquilonia, the shieldknife is a short, wide blade that is held in the shield hand. When the soldier loses his spear or sword the shieldknife is always a good secondary weapon that can be at the ready despite having a shield in the same hand. A character holding an Aquilonian shieldknife in the same hand/arm as a buckler, aspis or targe can consider it equipped for the purposes of attacks despite the shield's presence.
+Bladespear: A spear haft topped with a long blade similar to a scimitar's, the bladespear is designed like a smaller polearm, but is often held high on the haft and used at close quarters. Many Turanian hoplites use bladespears, giving them excellent versatility. The wielder of a bladespear can alter his grip on the weapon as a move action, changing it to or from a reach weapon.
+Cudgel: A cudgel is a specialised form of club that has an enlarged head for short swings. A number of Cimmerian clans and Pictish tribes use cudgels as their standard infantry weapon due to their inexpensive nature.
+Discus: A flat disk of fire-baked clay or chiselled stone, the discus is an implement often used in Argossean tests of physical skill. When hurled properly, the discus can reach great distances at remarkable speeds, making it a deadly projectile. Unlike most ranged attacks, the Armour Piercing rating of a discus is never lowered for the distance it travels.
+Flail: This awkward but powerful weapon is a favourite of gladiators and heavy infantry. A flail is a stout rod of hard wood that has a metre-long series of chain links driven into one end that attach to the weapon's head - a cylinder of metal or stone often set with spikes or bladed flanges. Because of the whipping motion and arm strength it requires to wield a flail, few are skilled enough to use it. Flail attacks made by a proficient wielder impose a -3 penalty on the Parry Defence of a target (Dodge Defence is unchanged).
+Halberd: One of the more difficult weapons to manufacture, the traditional halberd is a polearm topped with a wide axe-like blade that has a single spike at the top. Expensive to create due to the amount of skill it takes to forge the head properly, halberds are not often chosen as standard infantry weapons. They are more frequently seen in the hands of elite soldiers or royal guards.
+Half-Spear: A half-spear is exactly what it sounds like; a common spear with half the haft cut off and the remaining amount wrapped in leather to form a long 'hilt' of sorts. It is an excellent stabbing weapon for warriors who need to draw in close, or for spearmen that cannot afford to struggle with a long haft in a tunnel or tight pass. As a note, any spear can be turned into a half-spear permanently by breaking off two-and-a-half feet of its haft.
+Hook: A wicked-looking weapon wielded by pirates and pit fighters, the hook is a bent iron or bronze rod that has been filed to a point or blade. The weapon is often driven into a crossbar of wood, but some have been used to replace shorn hands on unlucky warriors that want to replace their loss with a useful tool.
+Horsebow: Used by Hyrkanian horse riders. The horsebow is an oversized hunting bow with a pronounced lower curve perfectly suited for use on the back of a warhorse. These bows can fire regular arrows (at -2 damage), but are designed to use much longer ammunition. These special arrows gain a +2 bonus to hit and damage when fired from horseback at targets within the first range increment.
+Hyborian Pick: In the ages before the greatsword became the traditional weapon of Hyborian peoples, weapons derived from tools were much more common. A good pick was useful for early settlements, and so the sharpened iron tools became good for war as well. These weapons still find use in the hands of some lower class warriors.
+Katar: The triangular blade of the katar punch-dagger is perfect for driving between the joints of heavy armour, and is commonly used in Vendhya as the secondary weapon of lancers and noble guardsmen.
+Knuckledusters: A metal rod inserted in front of the knuckles of a sewn leather glove or gauntlet, knuckledusters add some impact and lethality to the wearer's punches.
+Kusani Axe: Used almost solely by the royal headsmen of the tribes of Kusan, the Kusani axe is a sickle-bladed poleaxe that puts a massive amount of impact behind each swing. The haft of each axe is as big around as a man's arm, allowing for a much longer reach on every swing - if the wielder's arms are strong enough.
+Kushknife: Named for the long-bladed knives carried by the Esshura tribe of mercenary tribesmen, each Kushknife is carved from one piece of bone before being soaked in a variety of saps and waxes to give it a near-metal hardness and edge. Long, slender and wickedly sharp, the Kushknife is perfect for shearing through the light armour of Kushite tribal folk.
+Light Axe: The light axe is small like a hatchet, but has a slightly longer haft to hold a thinner but longer head. Similar to a throwing axe in shape but reinforced for melee fighting, the light axe is a good counterpart to any one-handed weapon.
+Long Darts: Wooden lengths tipped with metal points and fletched with thick goose or swan feathers, long darts are like miniature javelins. Skirmishers and hurlers in small units can inflict heavy casualties on lightly armoured targets with volleys of these missiles.
+Long Arrows: Long arrows are half-again the normal length of a common arrow and tipped with a wider head of hammered metal. They have a short and head-heavy flight pattern, which is perfect for the firing style of a horsebow.
+Machete: A stout piece of metal driven into a wooden handle and sharpened on one edge, the machete is perfect for cleaving limbs as well as underbrush. Characters that use a machete to travel through jungle or heavy forested areas can add a +2 bonus to their Survival skill to navigate such terrain.
+Maul: Heavy wooden hammers with large square heads, mauls are used for driving tent poles or picket stakes in single overhead swings. Someone with strong enough upper body strength can also deliver bone-crushing blows with a maul and some warriors reinforce these tools with iron bands or spikes to create 'war mauls'.
+Pommel Spike: A simple six-inch sharpened spike added to the pommel of any sword, this is often a weapon of opportunity. When in too close to use a warrior's blade effectively, the pommel spike can be quickly thrust down onto an enemy's arms, shoulders or even face to inflict grievous blows where otherwise they would have to withdraw and attack anew. Any weapon with an attached pommel spike counts as always having a light off-hand weapon that can be used when grappling as normal.
+Stygian Scimitar: A localised variant of the common single-bladed, curved sword, the Stygian scimitar has a distinct shape. The blade has an end that is twice as wide as where it connects with its hilt, and a flare to its back side that is given a sharpened edge to inflict wounds on the fore and backswing of the deadly sword.
+Swordfist: A weapon of gladiators, the swordfist is a forged metal gauntlet with no fingers. Instead of having any flexibility to it, the gauntlet is actually a brace for a two-foot long straight sword blade. Using a swordfist allows the wielder to use either his unarmed or sword styled feats and abilities. For instance, a warrior with a swordfist could use his Weapon Focus (unarmed) or Improved Critical (shortsword), but not both.
+Trident: This three-pronged weapon is a variant of that used to catch large fish off the coast of Argos and Zingara. It is a heavy and expensive weapon that requires specialised training, but the wounds it inflicts are terrible indeed.
+War Gauntlet: A heavier version of the common gauntlet, a war gauntlet is actually a full armlet of riveted metal that protects up to the elbow joint. Along the back of the thick fingers are rows of spines or sometimes even blades, with a set of jagged protrusions following suit to the bottom of the forearm. Although its design means that no weapon may be wielded or fine manipulation performed by that hand, its extensive metal construction does give the wearer the benefits of wearing a buckler shield.
+Warmace: The warmace is a common sight amongst Black Kingdoms warriors, as it is frequently used by their elite warriors to smash their foes to ruin. It is a solid piece of wood or bone (rarely metal) that has a dozen or more blades of copper or volcanic glass set in its wider end. The warmace inflicts heinous wounds when it strikes vital areas.

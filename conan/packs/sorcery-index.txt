@@ -1,0 +1,103 @@
+Sorcery Style Spells Prerequisites
+Counterspells Warding (Basic Counterspell) —
+Desperate Ward (Defensive Blast) —
+Greater Warding Knowledge (arcana) 10 ranks, warding
+Incantation of Amalric’s Witchman Knowledge (arcana) 4 ranks, warding
+Rune of Jhebbal Sag Wis 13, Knowledge (arcana) 4 ranks, Knowledge (religion)
+6 ranks, warding
+Ward Dwelling Knowledge (arcana) 4 ranks, warding
+Ward by Will Knowledge (arcana) 7 ranks, warding
+Curses Lesser Ill-Fortune (Basic Curse) —
+Weapon Curse (Defensive Blast) —
+Awful Rite of the Were-Beast Magic attack bonus +6, lesser ill-fortune
+Curse of Yizil Magic attack bonus +4, lesser ill-fortune, warding
+Dance of the Changing Serpent Must be a Pict, magic attack bonus +4, lesser ill-fortune
+Draw Forth the Soul Ritual Sacrifice, Tormented Sacrifice, magic attack
+bonus +7, lesser ill-fortune
+Gelid Bones Magic attack bonus +2, lesser ill-fortune, calm of the adept
+Greater Ill-Fortune Magic attack bonus +3, lesser ill-fortune
+Ill-Fortune Lesser ill-fortune
+Doom Magic attack bonus +2, lesser ill-fortune
+Divination Astrological Prediction
+(Basic Divination)
+Knowledge (arcana) 4 ranks
+Not This Day (Defensive Blast) —
+Blessing of Fate Knowledge (arcane) 4 ranks, astrological prediction
+Dream of Wisdom Knowledge (arcana) 10 ranks, knowledge is power class
+feature, astrological prediction, visions
+Mind-Reading Knowledge (arcana) 8 ranks, astrological prediction
+Psychometry Knowledge (arcana) 5 ranks, astrological prediction,
+Sorcerous News Knowledge (arcana) 12 ranks, astrological prediction
+Greater Sorcerous News Knowledge (arcana) 16 ranks, astrological prediction,
+sorcerous news
+Visions Knowledge (arcana) 8 ranks, astrological prediction
+Visions of Torment and Enlightenment Knowledge (arcana) 12 ranks, magic attack bonus +5,
+astrological prediction, visions, entrance
+Hypnotism Entrance (Basic Hypnotism) —
+Terrible Fascination (Defensive Blast) —
+Dance of the Cobras Perform (any musical instrument) 8 ranks, Ritual Sacrifice,
+must be a worshipper of Hanuman, entrance, telekinesis
+Domination Magic attack bonus +3, entrance
+Dread Serpent Magic attack bonus +4, entrance
+Hypnotic Suggestion Magic attack bonus +2, entrance
+Mass Hypnotic Suggestion Magic attack bonus +5, entrance, hypnotic suggestion
+Ranged Hypnotism Magic attack bonus +5, entrance, hypnotic suggestion
+Savage Beast Magic attack bonus +3, entrance, hypnotic suggestion
+Sorcery Styles
+The following styles of sorcery are available to scholar and temptress characters in Conan the Roleplaying Game. Some of
+them may also be gained in a limited form by non-scholar or temptress characters by characters who select the Dabbler
+feat (see page 124). Spells marked with an asterisk (*) are Mighty spells; potentially world-changing incantations that are
+especially likely to have runaway magic effects (see page 234).
+240
+Sorcery
+Sorcery Style Spells Prerequisites
+Nature Magic Summon Beast (Basic Nature Magic) Knowledge (nature) 4 ranks
+Animal Intercessor (Defensive Blast) —
+Animal Ally Knowledge (nature) 6 ranks, summon beast
+Children of the Night Knowledge (nature) 8 ranks, summon beast
+Greater Summon Beast Knowledge (nature) 5 ranks, summon beast
+Sorcerous Garden Knowledge (nature) 10 ranks, Craft (herbalism) 12 ranks,
+summon beast
+Spirit of the Land Knowledge (nature) 5 ranks, summon beast
+Command Weather* Knowledge (nature) 10 ranks, spirit of the land
+Necromancy Raise Corpse (Basic Necromancy) Magic attack bonus +2
+Chill of the Grave (Defensive Blast) —
+The Dead Speak Raise corpse
+Agonising Doom Magic attack bonus +6, raise corpse, death touch
+Black Plague* Magic attack bonus +7, raise corpse
+Greater Black Plague* Magic attack bonus +8, raise corpse, black plague
+Death Touch Magic attack bonus +5, raise corpse
+Draw Forth the Heart Ritual Sacrifice, Opportunistic Sacrifice, Tormented
+Sacrifice, magic attack bonus +7, raise corpse, death touch,
+agonising doom, conjuring, telekinesis
+Oriental Calm of the Adept (Basic Oriental Magic) Wis 13
+Magic Vanish (Defensive Blast) —
+Darting Serpent Scholar level 3, calm of the adept
+Willow Dance Scholar level 3, calm of the adept
+Shape-Shifter Scholar level 12, calm of the adept
+Warrior Trance Scholar level 3, calm of the adept
+Yimsha’s Carpet Scholar level 14, calm of the adept, summon elemental
+Prestidigitation Conjuring (Basic Prestidigitation) Sleight of Hand 4 ranks
+Blast Wave (Defensive Blast) —
+Burst Barrier Scholar level 3, conjuring
+Conjure Item Conjuring
+Telekinesis Scholar level 3, Sleight of Hand 5 ranks, conjuring
+Greater Telekinesis Scholar level 3, Sleight of Hand 6 ranks, Bluff 6 ranks,
+conjuring, telekinesis
+Deflection Scholar level 3, prestidigitation
+Summoning Master-Words and Signs
+(Basic Summoning)
+Knowledge (arcana) 15 ranks, magic attack bonus +6,
+must know at least four sorcery styles, must never have cast
+the demonic pact spell
+Master, Aid Me! (Defensive Blast) —
+Demonic Pact (Basic Summoning) Knowledge (arcana) 4 ranks
+Greater Demonic Pact Knowledge (arcana) 15 ranks, Ritual Sacrifice, Tortured
+Sacrifice, magic attack bonus +6, demonic pact, must know
+at least four sorcery styles, must be subject to a demonic pact
+Summon Demon* Magic attack bonus +4, master-words and signs or
+demonic pact
+Summon Elemental* Perform (song or any musical instrument) 10 ranks,
+magic attack bonus +7, master-words and signs or greater
+demonic pact
+Channel Demon Demonic pact

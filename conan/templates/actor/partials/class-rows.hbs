@@ -1,0 +1,148 @@
+{{!-- Classes tab: shared row editor and derived multiclass summary. --}}
+<section class="panel class-tab-section">
+  {{!-- Header with the Add Class button used by the actor sheet listener. --}}
+  <div class="inventory-header class-tab-header">
+    <h2>{{localize "CONAN.ClassTab.Title"}}</h2>
+    <button type="button" class="add-class-row">
+      <i class="fas fa-plus"></i>
+      {{localize "CONAN.ClassTab.AddClass"}}
+    </button>
+  </div>
+
+
+{{!-- Aggregate totals across all class rows. --}}
+<div class="class-totals-summary">
+  <div class="class-totals-grid">
+    <div class="class-derived-card">
+      <span class="label">{{localize "CONAN.ClassTab.TotalLevel"}}</span>
+      <span class="value">{{classTotals.level}}</span>
+    </div>
+    <div class="class-derived-card">
+      <span class="label">{{localize "CONAN.ClassTab.TotalBaseAttack"}}</span>
+      <span class="value">+{{classTotals.bab}}</span>
+    </div>
+    <div class="class-derived-card">
+      <span class="label">{{localize "CONAN.ClassTab.TotalDodge"}}</span>
+      <span class="value">+{{classTotals.dodge}}</span>
+    </div>
+    <div class="class-derived-card">
+      <span class="label">{{localize "CONAN.ClassTab.TotalParry"}}</span>
+      <span class="value">+{{classTotals.parry}}</span>
+    </div>
+    <div class="class-derived-card">
+      <span class="label">{{localize "CONAN.ClassTab.TotalMagicAttack"}}</span>
+      <span class="value">+{{classTotals.magicAttack}}</span>
+    </div>
+    <div class="class-derived-card">
+      <span class="label">{{localize "CONAN.ClassTab.TotalFortSave"}}</span>
+      <span class="value">+{{classTotals.fort}}</span>
+    </div>
+    <div class="class-derived-card">
+      <span class="label">{{localize "CONAN.ClassTab.TotalRefSave"}}</span>
+      <span class="value">+{{classTotals.ref}}</span>
+    </div>
+    <div class="class-derived-card">
+      <span class="label">{{localize "CONAN.ClassTab.TotalWillSave"}}</span>
+      <span class="value">+{{classTotals.will}}</span>
+    </div>
+  </div>
+</div>
+
+  <div class="class-rows">
+    {{#each classRows as |classRow index|}}
+      {{!-- One editable class row plus its level-derived progression details. --}}
+      <div class="class-row-block" data-class-index="{{index}}">
+        <div class="class-row grid five">
+          <label>
+            {{localize "CONAN.ClassTab.Class"}}
+            <select name="system.classes.{{index}}.classKey">
+              {{selectOptions @root.classSelectOptions selected=classRow.classKey}}
+            </select>
+          </label>
+
+          <label>
+            {{localize "CONAN.ClassTab.Level"}}
+            <input type="number" name="system.classes.{{index}}.level" value="{{classRow.level}}" min="1" max="20">
+          </label>
+
+          <label>
+            {{localize "CONAN.ClassTab.HpRolled"}}
+            <input type="number" name="system.classes.{{index}}.hpRolled" value="{{classRow.hpRolled}}" min="0">
+          </label>
+
+          <label>
+            {{localize "CONAN.ClassTab.Favored"}}
+            <input type="checkbox" name="system.classes.{{index}}.favored" {{#if classRow.favored}}checked{{/if}}>
+          </label>
+
+          <label>
+            {{localize "CONAN.ClassTab.Notes"}}
+            <input type="text" name="system.classes.{{index}}.notes" value="{{classRow.notes}}">
+          </label>
+
+          <div class="class-row-actions">
+            <button type="button" class="remove-class-row" title="{{localize "CONAN.ClassTab.RemoveClass"}}">
+              <i class="fas fa-trash"></i>
+            </button>
+          </div>
+        </div>
+
+        <div class="class-derived-grid">
+          <div class="class-derived-card">
+            <span class="label">{{localize "CONAN.ClassTab.HitDie"}}</span>
+            <span class="value">d{{classRow.derived.hitDie}}</span>
+          </div>
+          <div class="class-derived-card">
+            <span class="label">{{localize "CONAN.ClassTab.SkillPoints"}}</span>
+            <span class="value">{{classRow.derived.skillPointsPerLevel}}</span>
+          </div>
+          <div class="class-derived-card">
+            <span class="label">{{localize "CONAN.ClassTab.AttackSequence"}}</span>
+            <span class="value">{{classRow.derived.attackSequence}}</span>
+          </div>
+          <div class="class-derived-card">
+            <span class="label">{{localize "CONAN.ClassTab.BaseAttack"}}</span>
+            <span class="value">+{{classRow.derived.bab}}</span>
+          </div>
+          <div class="class-derived-card">
+            <span class="label">{{localize "CONAN.ClassTab.Dodge"}}</span>
+            <span class="value">+{{classRow.derived.dodge}}</span>
+          </div>
+          <div class="class-derived-card">
+            <span class="label">{{localize "CONAN.ClassTab.Parry"}}</span>
+            <span class="value">+{{classRow.derived.parry}}</span>
+          </div>
+          <div class="class-derived-card">
+            <span class="label">{{localize "CONAN.ClassTab.MagicAttack"}}</span>
+            <span class="value">+{{classRow.derived.magicAttack}}</span>
+          </div>
+          <div class="class-derived-card">
+            <span class="label">{{localize "CONAN.ClassTab.FortSave"}}</span>
+            <span class="value">+{{classRow.derived.fort}}</span>
+          </div>
+          <div class="class-derived-card">
+            <span class="label">{{localize "CONAN.ClassTab.RefSave"}}</span>
+            <span class="value">+{{classRow.derived.ref}}</span>
+          </div>
+          <div class="class-derived-card">
+            <span class="label">{{localize "CONAN.ClassTab.WillSave"}}</span>
+            <span class="value">+{{classRow.derived.will}}</span>
+          </div>
+        </div>
+
+        <div class="class-features">
+          <div class="class-features-title">{{localize "CONAN.ClassTab.Features"}}</div>
+          {{#if classRow.derived.features.length}}
+            <ul class="class-features-list">
+              {{#each classRow.derived.features as |feature|}}
+                <li>{{feature}}</li>
+              {{/each}}
+            </ul>
+          {{else}}
+            <div class="class-features-empty">{{localize "CONAN.ClassTab.NoFeatures"}}</div>
+          {{/if}}
+        </div>
+      </div>
+    {{/each}}
+  </div>
+</section>

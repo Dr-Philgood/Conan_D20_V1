@@ -1,0 +1,63 @@
+{{!-- Social tab: reputation, allegiances, codes, and languages. --}}
+<section class="panel">
+  <h2>Reputation</h2>
+  <div class="grid two">
+    <label>Reputation<input type="number" name="system.social.reputation.value" value="{{social.reputation.value}}"></label>
+    <label>Misc<input type="number" name="system.social.reputation.misc" value="{{social.reputation.misc}}"></label>
+  </div>
+  <label>Reputation Notes<textarea name="system.social.reputation.notes">{{social.reputation.notes}}</textarea></label>
+</section>
+
+<section class="panel">
+  <div class="panel-header">
+    <h2>Allegiances</h2>
+    <button type="button" class="add-tracker-entry" data-path="system.social.allegiances">Add Allegiance</button>
+  </div>
+  <div class="tracker-list">
+    {{#each social.allegiances}}
+      <div class="tracker-row compact-tracker-row" data-tracker-id="{{this.id}}">
+        <input type="hidden" name="system.social.allegiances.{{@index}}.id" value="{{this.id}}">
+        <label>Name<input type="text" name="system.social.allegiances.{{@index}}.name" value="{{this.name}}"></label>
+        <label>Type<input type="text" name="system.social.allegiances.{{@index}}.type" value="{{this.type}}"></label>
+        <label>Notes<textarea name="system.social.allegiances.{{@index}}.notes">{{this.notes}}</textarea></label>
+        <button type="button" class="delete-tracker-entry" data-path="system.social.allegiances">Delete</button>
+      </div>
+    {{/each}}
+  </div>
+</section>
+
+<section class="panel">
+  <div class="panel-header">
+    <h2>Codes of Honor</h2>
+    <button type="button" class="add-tracker-entry" data-path="system.social.codes">Add Code</button>
+  </div>
+  <div class="tracker-list">
+    {{#each social.codes}}
+      <div class="tracker-row compact-tracker-row" data-tracker-id="{{this.id}}">
+        <input type="hidden" name="system.social.codes.{{@index}}.id" value="{{this.id}}">
+        <label>Name<input type="text" name="system.social.codes.{{@index}}.name" value="{{this.name}}"></label>
+        <label>Source<input type="text" name="system.social.codes.{{@index}}.source" value="{{this.source}}"></label>
+        <label>Notes<textarea name="system.social.codes.{{@index}}.notes">{{this.notes}}</textarea></label>
+        <button type="button" class="delete-tracker-entry" data-path="system.social.codes">Delete</button>
+      </div>
+    {{/each}}
+  </div>
+</section>
+
+<section class="panel">
+  <div class="panel-header">
+    <h2>Languages</h2>
+    <button type="button" class="add-tracker-entry" data-path="system.social.languages">Add Language</button>
+  </div>
+  <div class="tracker-list">
+    {{#each social.languages}}
+      <div class="tracker-row compact-tracker-row" data-tracker-id="{{this.id}}">
+        <input type="hidden" name="system.social.languages.{{@index}}.id" value="{{this.id}}">
+        <label>Language<input type="text" name="system.social.languages.{{@index}}.name" value="{{this.name}}"></label>
+        <label>Fluency<input type="text" name="system.social.languages.{{@index}}.type" value="{{this.type}}"></label>
+        <label>Notes<textarea name="system.social.languages.{{@index}}.notes">{{this.notes}}</textarea></label>
+        <button type="button" class="delete-tracker-entry" data-path="system.social.languages">Delete</button>
+      </div>
+    {{/each}}
+  </div>
+</section>

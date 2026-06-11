@@ -1,0 +1,21 @@
+{{!-- Movement and encumbrance panel: speed and carried-weight bookkeeping. --}}
+<section class="panel">
+  <h2>Movement and Encumbrance</h2>
+  <div class="movement-grid">
+    <label>Base Speed<input type="number" name="system.movement.speed.base" value="{{movement.speed.base}}" min="0"></label>
+    <label>Armor Speed Mod<input type="number" name="system.movement.speed.armor" value="{{movement.speed.armor}}"></label>
+    <label>Misc Speed Mod<input type="number" name="system.movement.speed.misc" value="{{movement.speed.misc}}"></label>
+    <div class="movement-total-card">
+      <span>Speed</span>
+      <strong>{{movement.speed.total}}</strong>
+    </div>
+    <div class="movement-total-card">
+      <span>Current Load</span>
+      <strong>{{movement.encumbrance.current}}</strong>
+    </div>
+    <label>Light Load<input type="number" step="0.1" name="system.movement.encumbrance.light" value="{{movement.encumbrance.light}}" min="0"></label>
+    <label>Medium Load<input type="number" step="0.1" name="system.movement.encumbrance.medium" value="{{movement.encumbrance.medium}}" min="0"></label>
+    <label>Heavy Load<input type="number" step="0.1" name="system.movement.encumbrance.heavy" value="{{movement.encumbrance.heavy}}" min="0"></label>
+  </div>
+  <label>Encumbrance Notes<textarea name="system.movement.encumbrance.notes">{{movement.encumbrance.notes}}</textarea></label>
+</section>
