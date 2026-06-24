@@ -1,0 +1,53 @@
+{{!-- Feats tab: character feats, class features, and special abilities. --}}
+<section class="panel">
+  <div class="panel-header">
+    <h2>Class Features by Level</h2>
+  </div>
+  <div class="tracker-list">
+    {{#each classFeatureRows}}
+      <div class="tracker-row compact-tracker-row class-feature-row">
+        {{#if this.description}}
+          <details class="class-feature-details">
+            <summary>
+              <strong>{{this.name}}</strong>
+              <span>{{this.classLabel}}</span>
+              <span>Level {{this.level}}</span>
+            </summary>
+            <div class="feature-description">{{{this.description}}}</div>
+          </details>
+        {{else}}
+          <strong>{{this.name}}</strong>
+          <span>{{this.classLabel}}</span>
+          <span>Level {{this.level}}</span>
+          <span>No description found</span>
+        {{/if}}
+      </div>
+    {{else}}
+      <div class="tracker-row compact-tracker-row class-feature-row">
+        <span>No class features yet.</span>
+      </div>
+    {{/each}}
+  </div>
+</section>
+
+<section class="panel">
+  <div class="panel-header">
+    <h2>Feats and Special Abilities</h2>
+    <button type="button" class="add-tracker-entry" data-path="system.feats">Add Feat</button>
+  </div>
+  <div class="tracker-list">
+    {{#each feats}}
+      <div class="tracker-row feat-row" data-tracker-id="{{this.id}}">
+        <input type="hidden" name="system.feats.{{@index}}.id" value="{{this.id}}">
+        <label>Name<input type="text" name="system.feats.{{@index}}.name" value="{{this.name}}"></label>
+        <label>Type<input type="text" name="system.feats.{{@index}}.type" value="{{this.type}}" placeholder="General, bonus, class"></label>
+        <label>Level<input type="number" name="system.feats.{{@index}}.level" value="{{this.level}}" min="0"></label>
+        <label>Source<input type="text" name="system.feats.{{@index}}.source" value="{{this.source}}"></label>
+        <label>Bonus / Prereq<input type="text" name="system.feats.{{@index}}.bonus" value="{{this.bonus}}"></label>
+        <label><input type="checkbox" name="system.feats.{{@index}}.active" {{#if this.active}}checked{{/if}}> Active</label>
+        <label class="tracker-notes">Notes<textarea name="system.feats.{{@index}}.notes">{{this.notes}}</textarea></label>
+        <button type="button" class="delete-tracker-entry" data-path="system.feats">Delete</button>
+      </div>
+    {{/each}}
+  </div>
+</section>

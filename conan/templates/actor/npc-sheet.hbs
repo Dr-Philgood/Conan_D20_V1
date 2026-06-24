@@ -1,0 +1,564 @@
+{{!-- NPC actor sheet. This mirrors the character sheet with NPC data and shared controls. --}}
+<form class="conan-sheet {{cssClass}}" autocomplete="off">
+  {{!-- Sheet header: portrait, name, level, XP, and Fate point controls. --}}
+  <header class="sheet-header">
+    <img class="profile-img" src="{{actor.img}}" data-edit="img" title="{{actor.name}}">
+    <div class="header-fields">
+      <h1><input name="name" type="text" value="{{actor.name}}" placeholder="Name"></h1>
+
+      <div class="grid four header-summary">
+        <label>Level<input type="number" name="system.details.level" value="{{system.details.level}}"></label>
+        <label>XP<input type="number" name="system.details.xp" value="{{system.details.xp}}"></label>
+        <label>Fate Points<input type="number" name="system.resources.fate.value" value="{{resources.fate.value}}" min="0"></label>
+        <div class="header-fate-actions">
+          <button type="button" class="spend-fate-point">Spend</button>
+          <button type="button" class="recover-fate-point">Recover</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  {{!-- Primary tab navigation. Foundry wires these to matching data-tab panels below. --}}
+  <nav class="sheet-tabs tabs" data-group="primary">
+    <a class="item" data-tab="overview">Overview</a>
+    <a class="item" data-tab="combat">{{localize "CONAN.Tabs.Combat"}}</a>
+    <a class="item" data-tab="conditions">Conditions & Buffs</a>
+    <a class="item" data-tab="sorcery">{{localize "CONAN.Tabs.Sorcery"}}</a>
+    <a class="item" data-tab="skills">Skills</a>
+    <a class="item" data-tab="feats">Feats</a>
+    <a class="item" data-tab="social">Social</a>
+    <a class="item" data-tab="inventory">Inventory</a>
+    {{!-- Classes tab navigation. --}}
+    <a class="item" data-tab="classes">{{localize "CONAN.Tabs.Classes"}}</a>
+    <a class="item" data-tab="notes">Notes & Biography</a>
+  </nav>
+
+  <section class="sheet-body">
+    {{!-- Overview tab: dashboard and pinned quick actions. --}}
+    <div class="tab" data-group="primary" data-tab="overview">
+      {{> "systems/conan/templates/actor/partials/overview-tab.hbs"}}
+    </div>
+
+    {{!-- Combat tab: defenses, permanent damage, attack math, weapons, and armor. --}}
+    <div class="tab" data-group="primary" data-tab="combat">
+      <section class="panel">
+        <h2>Defenses</h2>
+        <div class="combat-defense-grid">
+          <div class="combat-defense-card">
+            <span class="label">{{localize "CONAN.Combat.Dodge"}}</span>
+            <strong>{{system.combat.dodge.total}}</strong>
+          </div>
+          <div class="combat-defense-card">
+            <span class="label">{{localize "CONAN.Combat.Parry"}}</span>
+            <strong>{{system.combat.parry.total}}</strong>
+          </div>
+          <div class="combat-defense-card">
+            <span class="label">{{localize "CONAN.Combat.MassiveDamageThreshold"}}</span>
+            <strong>{{system.combat.massiveDamage.total}}</strong>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>Damage Reduction</h2>
+        <div class="grid three">
+          <div>{{localize "CONAN.Combat.DR"}} Total: <strong>{{system.combat.damageReduction.total}}</strong></div>
+          <div>Armor DR: <strong>{{system.combat.damageReduction.armor}}</strong></div>
+          <label>{{localize "CONAN.Combat.DR"}} Misc<input type="number" name="system.combat.damageReduction.misc" value="{{system.combat.damageReduction.misc}}"></label>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>Permanent Damage</h2>
+        <div class="grid two">
+          <label>Use Permanent Damage
+            <input type="checkbox" name="system.optionalRules.permanentDamage" {{#if system.optionalRules.permanentDamage}}checked{{/if}}>
+          </label>
+          <div>Permanent Damage Threshold: <strong>{{system.combat.threshold.total}}</strong></div>
+        </div>
+        <button type="button" class="permanent-damage-check">Permanent Damage Check</button>
+
+        <div class="injury-list">
+          {{#each injuries}}
+            <div class="injury-row" data-injury-id="{{this.id}}">
+              <strong>{{this.label}}</strong>
+              <span>{{this.location}}</span>
+              <span>Heal DC {{this.healDc}}</span>
+              <span>{{this.bedRest}}</span>
+              <span>{{this.notes}}</span>
+              <span>{{#if this.active}}Active{{else}}Inactive{{/if}}</span>
+              <button type="button" class="injury-toggle">Toggle</button>
+              <button type="button" class="injury-delete">Delete</button>
+            </div>
+          {{/each}}
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>Attacks</h2>
+        <div class="grid three">
+          <label>{{localize "CONAN.Combat.Melee"}} Base<input type="number" value="{{system.combat.attack.melee.base}}" disabled></label>
+          <label>{{localize "CONAN.Combat.Melee"}} Misc<input type="number" name="system.combat.attack.melee.misc" value="{{system.combat.attack.melee.misc}}"></label>
+          <div>{{localize "CONAN.Combat.Melee"}} Total: {{system.combat.attack.melee.total}}</div>
+          <label>{{localize "CONAN.Combat.Ranged"}} Base<input type="number" value="{{system.combat.attack.ranged.base}}" disabled></label>
+          <label>{{localize "CONAN.Combat.Ranged"}} Misc<input type="number" name="system.combat.attack.ranged.misc" value="{{system.combat.attack.ranged.misc}}"></label>
+          <div>{{localize "CONAN.Combat.Ranged"}} Total: {{system.combat.attack.ranged.total}}</div>
+          <label>{{localize "CONAN.Combat.Dodge"}} Misc<input type="number" name="system.combat.dodge.misc" value="{{system.combat.dodge.misc}}"></label>
+          <label>{{localize "CONAN.Combat.Parry"}} Misc<input type="number" name="system.combat.parry.misc" value="{{system.combat.parry.misc}}"></label>
+          <label>{{localize "CONAN.Combat.Initiative"}} Misc<input type="number" name="system.combat.initiative.misc" value="{{system.combat.initiative.misc}}"></label>
+          <div>Armor Check Penalty: {{system.combat.armorCheckPenalty}}</div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>Combat Feats</h2>
+        <div class="grid four feat-toggle-grid">
+          <label>
+            <input type="checkbox" name="system.combat.featToggles.powerAttack.active" {{#if system.combat.featToggles.powerAttack.active}}checked{{/if}}>
+            Power Attack
+          </label>
+          <label>Attack Penalty / Damage Bonus
+            <input type="number" name="system.combat.featToggles.powerAttack.value" value="{{system.combat.featToggles.powerAttack.value}}" min="0">
+          </label>
+          <label>
+            <input type="checkbox" name="system.combat.featToggles.pointBlankShot.active" {{#if system.combat.featToggles.pointBlankShot.active}}checked{{/if}}>
+            Point Blank Shot
+          </label>
+          <label>
+            <input type="checkbox" name="system.combat.featToggles.rapidShot.active" {{#if system.combat.featToggles.rapidShot.active}}checked{{/if}}>
+            Rapid Shot
+          </label>
+          <label>Toughness Ranks
+            <input type="number" name="system.combat.featToggles.toughness.ranks" value="{{system.combat.featToggles.toughness.ranks}}" min="0" max="10">
+          </label>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Combat Maneuvers</h2>
+          <button type="button" class="add-tracker-entry" data-path="system.combat.maneuvers">Add Maneuver</button>
+        </div>
+        <div class="tracker-list">
+          {{#each system.combat.maneuvers}}
+            <div class="tracker-row compact-tracker-row" data-tracker-id="{{this.id}}">
+              <input type="hidden" name="system.combat.maneuvers.{{@index}}.id" value="{{this.id}}">
+              <label>Name<input type="text" name="system.combat.maneuvers.{{@index}}.name" value="{{this.name}}"></label>
+              <label>Type<input type="text" name="system.combat.maneuvers.{{@index}}.type" value="{{this.type}}"></label>
+              <label>Bonus / DC<input type="text" name="system.combat.maneuvers.{{@index}}.bonus" value="{{this.bonus}}"></label>
+              <label>Notes<textarea name="system.combat.maneuvers.{{@index}}.notes">{{this.notes}}</textarea></label>
+              <button type="button" class="delete-tracker-entry" data-path="system.combat.maneuvers">Delete</button>
+            </div>
+          {{/each}}
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Weapons</h2>
+          <button type="button" class="item-create" data-type="weapon">Add Weapon</button>
+        </div>
+        {{#each items.weapons}}
+          <div class="item-row weapon-row" data-item-id="{{this.id}}">
+            <strong>{{this.name}}</strong>
+            <span>{{this.system.attackType}}</span>
+            <span>{{this.system.damage}}</span>
+            <label>Crit
+              <input type="text" class="weapon-critical-input" value="{{this.system.critical}}" placeholder="19-20/x2">
+            </label>
+            <span>AP {{this.effects.armorPiercing}}</span>
+            <span>{{this.system.damageType}}</span>
+            <span>{{this.system.qualities}}</span>
+            <span>{{#if this.system.equipped}}Equipped{{else}}Stored{{/if}}</span>
+            <label><input type="checkbox" class="toggle-weapon-pin" {{#if this.system.pinned}}checked{{/if}}> Pin</label>
+            <div class="iterative-attack-buttons">
+              <span class="attack-sequence-label">{{#each this.attackSequence}}{{#if @first}}{{else}} / {{/if}}{{#if this.rapid}}Rapid {{/if}}{{this.label}}{{/each}}</span>
+              <button type="button" class="weapon-attack">Single Attack</button>
+              <button type="button" class="weapon-full-attack">Full Attack</button>
+            </div>
+            <button type="button" class="weapon-damage">Damage</button>
+            <button type="button" class="item-edit">Edit</button>
+            <button type="button" class="item-delete">Delete</button>
+          </div>
+        {{/each}}
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Armor</h2>
+          <button type="button" class="item-create" data-type="armor">Add Armor</button>
+        </div>
+        {{#each items.armor}}
+          <div class="item-row armor-row" data-item-id="{{this.id}}">
+            <strong>{{this.name}}</strong>
+            <span>DR {{this.effects.damageReduction}}</span>
+            {{#if this.system.shieldBonus}}<span>Shield +{{this.system.shieldBonus}}</span>{{/if}}
+            <span>ACP {{this.effects.armorPenalty}}</span>
+            <span>{{#if this.system.equipped}}Equipped{{else}}Stored{{/if}}</span>
+            <button type="button" class="item-edit">Edit</button>
+            <button type="button" class="item-delete">Delete</button>
+          </div>
+        {{/each}}
+      </section>
+    </div>
+
+    <div class="tab" data-group="primary" data-tab="conditions">
+      {{> "systems/conan/templates/actor/partials/conditions-tab.hbs"}}
+    </div>
+
+    {{!-- Sorcery tab: shared tracker for sorcerous resources, spells, rituals, and corruption. --}}
+    <div class="tab" data-group="primary" data-tab="sorcery">
+      {{> "systems/conan/templates/actor/partials/sorcery-tab.hbs"}}
+    </div>
+
+    {{!-- Feats tab: feats, bonus feats, and special abilities. --}}
+    <div class="tab" data-group="primary" data-tab="feats">
+      {{> "systems/conan/templates/actor/partials/feats-tab.hbs"}}
+    </div>
+
+    {{!-- Social tab: heroic resources, reputation, allegiances, codes, and languages. --}}
+    <div class="tab" data-group="primary" data-tab="social">
+      {{> "systems/conan/templates/actor/partials/social-tab.hbs"}}
+    </div>
+
+    {{!-- Skills tab: built-in skill list followed by custom Profession/Craft/Perform groups. --}}
+    <div class="tab" data-group="primary" data-tab="skills">
+      <section class="panel">
+        <h2>Skills</h2>
+        <div class="skill-list">
+          {{#each skills}}
+            <div class="skill-row">
+              <button type="button" class="rollable-skill" data-skill="{{this.key}}">{{this.label}}</button>
+              <span>{{this.data.keyAbility}}</span>
+              <label>Ranks<input type="number" name="system.skills.{{this.key}}.ranks" value="{{this.data.ranks}}"></label>
+              <label>Misc<input type="number" name="system.skills.{{this.key}}.misc" value="{{this.data.misc}}"></label>
+              <label><input type="checkbox" {{#if this.data.classSkill}}checked{{/if}} disabled> Class</label>
+              <label><input type="checkbox" class="toggle-skill-pin" name="system.skills.{{this.key}}.pinned" {{#if this.data.pinned}}checked{{/if}}> Pin</label>
+              <span>ACP {{#if this.data.armorCheck}}Yes{{else}}No{{/if}}</span>
+              <span>Trained {{#if this.data.trainedOnly}}Yes{{else}}No{{/if}}</span>
+              <strong>{{this.data.total}}</strong>
+            </div>
+          {{/each}}
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Custom Professions</h2>
+          <button type="button" class="add-custom-skill" data-group="professions">Add Profession</button>
+        </div>
+        <div class="custom-skill-list">
+          {{#each customSkills.professions}}
+            <div class="custom-skill-row" data-skill-id="{{this.id}}">
+              <button type="button" class="rollable-custom-skill" data-group="professions" data-skill-id="{{this.id}}">Profession</button>
+              <input type="text" name="system.customSkills.professions.{{@index}}.name" value="{{this.name}}" placeholder="e.g. Guard Captain">
+              <select name="system.customSkills.professions.{{@index}}.keyAbility">
+                <option value="str" {{#if (eq this.keyAbility "str")}}selected{{/if}}>STR</option>
+                <option value="dex" {{#if (eq this.keyAbility "dex")}}selected{{/if}}>DEX</option>
+                <option value="con" {{#if (eq this.keyAbility "con")}}selected{{/if}}>CON</option>
+                <option value="int" {{#if (eq this.keyAbility "int")}}selected{{/if}}>INT</option>
+                <option value="wis" {{#if (eq this.keyAbility "wis")}}selected{{/if}}>WIS</option>
+                <option value="cha" {{#if (eq this.keyAbility "cha")}}selected{{/if}}>CHA</option>
+              </select>
+              <input type="number" name="system.customSkills.professions.{{@index}}.ranks" value="{{this.ranks}}">
+              <input type="number" name="system.customSkills.professions.{{@index}}.misc" value="{{this.misc}}">
+              <label><input type="checkbox" {{#if this.classSkill}}checked{{/if}} disabled> Class</label>
+              <label><input type="checkbox" class="toggle-skill-pin" name="system.customSkills.professions.{{@index}}.pinned" {{#if this.pinned}}checked{{/if}}> Pin</label>
+              <label><input type="checkbox" name="system.customSkills.professions.{{@index}}.trainedOnly" {{#if this.trainedOnly}}checked{{/if}}> Trained</label>
+              <strong>{{this.total}}</strong>
+              <button type="button" class="delete-custom-skill" data-group="professions">Delete</button>
+            </div>
+          {{/each}}
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Custom Crafts</h2>
+          <button type="button" class="add-custom-skill" data-group="crafts">Add Craft</button>
+        </div>
+        <div class="custom-skill-list">
+          {{#each customSkills.crafts}}
+            <div class="custom-skill-row" data-skill-id="{{this.id}}">
+              <button type="button" class="rollable-custom-skill" data-group="crafts" data-skill-id="{{this.id}}">Craft</button>
+              <input type="text" name="system.customSkills.crafts.{{@index}}.name" value="{{this.name}}" placeholder="e.g. Fletcher">
+              <select name="system.customSkills.crafts.{{@index}}.keyAbility">
+                <option value="str" {{#if (eq this.keyAbility "str")}}selected{{/if}}>STR</option>
+                <option value="dex" {{#if (eq this.keyAbility "dex")}}selected{{/if}}>DEX</option>
+                <option value="con" {{#if (eq this.keyAbility "con")}}selected{{/if}}>CON</option>
+                <option value="int" {{#if (eq this.keyAbility "int")}}selected{{/if}}>INT</option>
+                <option value="wis" {{#if (eq this.keyAbility "wis")}}selected{{/if}}>WIS</option>
+                <option value="cha" {{#if (eq this.keyAbility "cha")}}selected{{/if}}>CHA</option>
+              </select>
+              <input type="number" name="system.customSkills.crafts.{{@index}}.ranks" value="{{this.ranks}}">
+              <input type="number" name="system.customSkills.crafts.{{@index}}.misc" value="{{this.misc}}">
+              <label><input type="checkbox" {{#if this.classSkill}}checked{{/if}} disabled> Class</label>
+              <label><input type="checkbox" class="toggle-skill-pin" name="system.customSkills.crafts.{{@index}}.pinned" {{#if this.pinned}}checked{{/if}}> Pin</label>
+              <label><input type="checkbox" name="system.customSkills.crafts.{{@index}}.trainedOnly" {{#if this.trainedOnly}}checked{{/if}}> Trained</label>
+              <strong>{{this.total}}</strong>
+              <button type="button" class="delete-custom-skill" data-group="crafts">Delete</button>
+            </div>
+          {{/each}}
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Custom Performs</h2>
+          <button type="button" class="add-custom-skill" data-group="performs">Add Perform</button>
+        </div>
+        <div class="custom-skill-list">
+          {{#each customSkills.performs}}
+            <div class="custom-skill-row" data-skill-id="{{this.id}}">
+              <button type="button" class="rollable-custom-skill" data-group="performs" data-skill-id="{{this.id}}">Perform</button>
+              <input type="text" name="system.customSkills.performs.{{@index}}.name" value="{{this.name}}" placeholder="e.g. Dance">
+              <select name="system.customSkills.performs.{{@index}}.keyAbility">
+                <option value="str" {{#if (eq this.keyAbility "str")}}selected{{/if}}>STR</option>
+                <option value="dex" {{#if (eq this.keyAbility "dex")}}selected{{/if}}>DEX</option>
+                <option value="con" {{#if (eq this.keyAbility "con")}}selected{{/if}}>CON</option>
+                <option value="int" {{#if (eq this.keyAbility "int")}}selected{{/if}}>INT</option>
+                <option value="wis" {{#if (eq this.keyAbility "wis")}}selected{{/if}}>WIS</option>
+                <option value="cha" {{#if (eq this.keyAbility "cha")}}selected{{/if}}>CHA</option>
+              </select>
+              <input type="number" name="system.customSkills.performs.{{@index}}.ranks" value="{{this.ranks}}">
+              <input type="number" name="system.customSkills.performs.{{@index}}.misc" value="{{this.misc}}">
+              <label><input type="checkbox" {{#if this.classSkill}}checked{{/if}} disabled> Class</label>
+              <label><input type="checkbox" class="toggle-skill-pin" name="system.customSkills.performs.{{@index}}.pinned" {{#if this.pinned}}checked{{/if}}> Pin</label>
+              <label><input type="checkbox" name="system.customSkills.performs.{{@index}}.trainedOnly" {{#if this.trainedOnly}}checked{{/if}}> Trained</label>
+              <strong>{{this.total}}</strong>
+              <button type="button" class="delete-custom-skill" data-group="performs">Delete</button>
+            </div>
+          {{/each}}
+        </div>
+      </section>
+    </div>
+
+    {{!-- Inventory tab: non-combat gear items. --}}
+    <div class="tab" data-group="primary" data-tab="inventory">
+      <section class="panel">
+        <h2>Wealth</h2>
+        <div class="grid four">
+          <label>Gold<input type="number" name="system.resources.wealth.gold" value="{{resources.wealth.gold}}" min="0"></label>
+          <label>Silver<input type="number" name="system.resources.wealth.silver" value="{{resources.wealth.silver}}" min="0"></label>
+          <label>Copper<input type="number" name="system.resources.wealth.copper" value="{{resources.wealth.copper}}" min="0"></label>
+          <div>Total: <strong>{{resources.wealth.totalSilver}} sp</strong></div>
+        </div>
+        <label>Valuables / Notes
+          <textarea name="system.resources.wealth.notes">{{resources.wealth.notes}}</textarea>
+        </label>
+      </section>
+
+      {{> "systems/conan/templates/actor/partials/movement-panel.hbs"}}
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Gear</h2>
+          <button type="button" class="item-create" data-type="gear">Add Gear</button>
+        </div>
+        {{#each items.gear}}
+          <div class="item-row gear-row" data-item-id="{{this.id}}">
+            <strong>{{this.name}}</strong>
+            <span>Qty {{this.system.quantity}}</span>
+            <span>Wt {{this.system.weight}}</span>
+            <span>{{#if this.system.equipped}}Equipped{{else}}Stored{{/if}}</span>
+            <button type="button" class="item-edit">Edit</button>
+            <button type="button" class="item-delete">Delete</button>
+          </div>
+        {{/each}}
+      </section>
+    </div>
+
+    {{!-- Classes tab: multiclass rows and progression-derived totals/features. --}}
+    <div class="tab" data-group="primary" data-tab="classes">
+      <details class="panel collapsible-panel point-buy-collapsible">
+        <summary>Ability Score Generator</summary>
+        {{> "systems/conan/templates/actor/partials/point-buy-panel.hbs"}}
+      </details>
+
+      {{!-- Classes tab: inlined here so it still renders even if partial loading fails. --}}
+      {{!-- Classes tab: shared row editor and derived multiclass summary. --}}
+      <section class="panel class-tab-section">
+        <div class="inventory-header class-tab-header">
+          <h2>{{localize "CONAN.ClassTab.Title"}}</h2>
+          <button type="button" class="add-class-row">
+            <i class="fas fa-plus"></i>
+            {{localize "CONAN.ClassTab.AddClass"}}
+          </button>
+        </div>
+
+
+      <div class="class-totals-summary">
+        <div class="class-totals-grid">
+          <div class="class-derived-card">
+            <span class="label">{{localize "CONAN.ClassTab.TotalLevel"}}</span>
+            <span class="value">{{classTotals.level}}</span>
+          </div>
+          <div class="class-derived-card">
+            <span class="label">{{localize "CONAN.ClassTab.TotalBaseAttack"}}</span>
+            <span class="value">+{{classTotals.bab}}</span>
+          </div>
+          <div class="class-derived-card">
+            <span class="label">{{localize "CONAN.ClassTab.TotalDodge"}}</span>
+            <span class="value">+{{classTotals.dodge}}</span>
+          </div>
+          <div class="class-derived-card">
+            <span class="label">{{localize "CONAN.ClassTab.TotalParry"}}</span>
+            <span class="value">+{{classTotals.parry}}</span>
+          </div>
+          <div class="class-derived-card">
+            <span class="label">{{localize "CONAN.ClassTab.TotalMagicAttack"}}</span>
+            <span class="value">+{{classTotals.magicAttack}}</span>
+          </div>
+          <div class="class-derived-card">
+            <span class="label">{{localize "CONAN.ClassTab.TotalFortSave"}}</span>
+            <span class="value">+{{classTotals.fort}}</span>
+          </div>
+          <div class="class-derived-card">
+            <span class="label">{{localize "CONAN.ClassTab.TotalRefSave"}}</span>
+            <span class="value">+{{classTotals.ref}}</span>
+          </div>
+          <div class="class-derived-card">
+            <span class="label">{{localize "CONAN.ClassTab.TotalWillSave"}}</span>
+            <span class="value">+{{classTotals.will}}</span>
+          </div>
+        </div>
+      </div>
+
+        <div class="class-rows">
+          {{#each classRows as |classRow index|}}
+            <div class="class-row-block" data-class-index="{{index}}">
+              <div class="class-row grid five">
+                <label>
+                  {{localize "CONAN.ClassTab.Class"}}
+                  <select name="system.classes.{{index}}.classKey">
+                    {{selectOptions @root.classSelectOptions selected=classRow.classKey}}
+                  </select>
+                </label>
+
+                <label>
+                  {{localize "CONAN.ClassTab.Level"}}
+                  <input type="number" name="system.classes.{{index}}.level" value="{{classRow.level}}" min="1" max="20">
+                </label>
+
+                <label>
+                  {{localize "CONAN.ClassTab.HpRolled"}}
+                  <input type="number" name="system.classes.{{index}}.hpRolled" value="{{classRow.hpRolled}}" min="0">
+                </label>
+
+                <label>
+                  {{localize "CONAN.ClassTab.Favored"}}
+                  <input type="checkbox" name="system.classes.{{index}}.favored" {{#if classRow.favored}}checked{{/if}}>
+                </label>
+
+                <label>
+                  {{localize "CONAN.ClassTab.Notes"}}
+                  <input type="text" name="system.classes.{{index}}.notes" value="{{classRow.notes}}">
+                </label>
+
+                <div class="class-row-actions">
+                  <button type="button" class="remove-class-row" title="{{localize "CONAN.ClassTab.RemoveClass"}}">
+                    <i class="fas fa-trash"></i>
+                  </button>
+                </div>
+              </div>
+
+              <div class="class-derived-grid">
+                <div class="class-derived-card">
+                  <span class="label">{{localize "CONAN.ClassTab.HitDie"}}</span>
+                  <span class="value">d{{classRow.derived.hitDie}}</span>
+                </div>
+                <div class="class-derived-card">
+                  <span class="label">{{localize "CONAN.ClassTab.SkillPoints"}}</span>
+                  <span class="value">{{classRow.derived.skillPointsPerLevel}}</span>
+                </div>
+                <div class="class-derived-card">
+                  <span class="label">{{localize "CONAN.ClassTab.AttackSequence"}}</span>
+                  <span class="value">{{classRow.derived.attackSequence}}</span>
+                </div>
+                <div class="class-derived-card">
+                  <span class="label">{{localize "CONAN.ClassTab.BaseAttack"}}</span>
+                  <span class="value">+{{classRow.derived.bab}}</span>
+                </div>
+                <div class="class-derived-card">
+                  <span class="label">{{localize "CONAN.ClassTab.Dodge"}}</span>
+                  <span class="value">+{{classRow.derived.dodge}}</span>
+                </div>
+                <div class="class-derived-card">
+                  <span class="label">{{localize "CONAN.ClassTab.Parry"}}</span>
+                  <span class="value">+{{classRow.derived.parry}}</span>
+                </div>
+                <div class="class-derived-card">
+                  <span class="label">{{localize "CONAN.ClassTab.MagicAttack"}}</span>
+                  <span class="value">+{{classRow.derived.magicAttack}}</span>
+                </div>
+                <div class="class-derived-card">
+                  <span class="label">{{localize "CONAN.ClassTab.FortSave"}}</span>
+                  <span class="value">+{{classRow.derived.fort}}</span>
+                </div>
+                <div class="class-derived-card">
+                  <span class="label">{{localize "CONAN.ClassTab.RefSave"}}</span>
+                  <span class="value">+{{classRow.derived.ref}}</span>
+                </div>
+                <div class="class-derived-card">
+                  <span class="label">{{localize "CONAN.ClassTab.WillSave"}}</span>
+                  <span class="value">+{{classRow.derived.will}}</span>
+                </div>
+              </div>
+
+              {{#if classRow.choices.length}}
+                <div class="class-choice-panel">
+                  <div class="class-features-title">Class Options</div>
+                  <div class="class-choice-grid">
+                    {{#each classRow.choices as |choice choiceIndex|}}
+                      <div class="class-choice-row">
+                        <input type="hidden" name="system.classes.{{choice.classIndex}}.choices.{{choiceIndex}}.key" value="{{choice.key}}">
+                        <input type="hidden" name="system.classes.{{choice.classIndex}}.choices.{{choiceIndex}}.label" value="{{choice.label}}">
+                        <label>
+                          {{choice.label}}
+                          <select name="system.classes.{{choice.classIndex}}.choices.{{choiceIndex}}.value" {{#if choice.required}}required{{/if}}>
+                            <option value="">Choose...</option>
+                            {{selectOptions choice.options selected=choice.value}}
+                          </select>
+                        </label>
+                        <label>
+                          {{choice.noteLabel}}
+                          <input type="text" name="system.classes.{{choice.classIndex}}.choices.{{choiceIndex}}.notes" value="{{choice.notes}}">
+                        </label>
+                      </div>
+                    {{/each}}
+                  </div>
+                </div>
+              {{/if}}
+
+              <div class="class-features">
+                <div class="class-features-title">{{localize "CONAN.ClassTab.Features"}}</div>
+                {{#if classRow.derived.features.length}}
+                  <ul class="class-features-list">
+                    {{#each classRow.derived.features as |feature|}}
+                      <li>{{feature}}</li>
+                    {{/each}}
+                  </ul>
+                {{else}}
+                  <div class="class-features-empty">{{localize "CONAN.ClassTab.NoFeatures"}}</div>
+                {{/if}}
+              </div>
+            </div>
+          {{/each}}
+        </div>
+      </section>
+    </div>
+
+    {{!-- Notes tab: rich-text biography stored on the actor. --}}
+    <div class="tab" data-group="primary" data-tab="notes">
+      <section class="panel">
+        <h2>Notes & Biography</h2>
+        <div class="grid three">
+          <label>Origin<input type="text" name="system.details.race" value="{{system.details.race}}"></label>
+          <label>Homeland<input type="text" name="system.details.homeland" value="{{system.details.homeland}}"></label>
+          <label>Religion<input type="text" name="system.details.religion" value="{{system.details.religion}}"></label>
+        </div>
+        {{editor system.details.biography target="system.details.biography" button=true owner=owner editable=editable}}
+      </section>
+    </div>
+  </section>
+</form>

@@ -1,0 +1,2549 @@
+Desperate Ward
+(Defensive Blast)
+Power Point Cost: All remaining points
+Components: V
+Casting Time: Immediate
+Range: Personal
+Target: One spell
+Duration: Instantaneous
+Magic Attack Roll: None required
+This form of defensive blast only works against sorcery
+and can only be invoked when a hostile spell targets the
+sorcerer. Roll 1d6 for every Power Point expended and
+add the total of these rolls as a circumstance bonus to the
+caster’s Saving Throw against the incoming spell.
+Greater Warding
+Power Point Cost: 4
+Components: V, S, M
+Casting Time: One full round
+Range: Touch
+Target: One spell or creature
+Duration: Instantaneous, up to one hour plus one hour/
+level or until used, depending on version chosen.
+Prerequisites: Knowledge (arcana) 10 ranks, warding.
+Magic Attack Roll: Opposes opponent’s magic attack roll
+Greater warding has two modes of use.
+The first acts like a warding spell that can be cast on
+another creature, immediately countering any spell or
+spells affecting it if the sorcerer can succeed at a magic
+attack roll opposing the magic attack roll of the sorcerer
+who originally cast the spell.
+The second use acts like a one-use warding spell that can
+be transferred to another creature. Unlike warding and the
+first use of greater warding, it may be cast in advance, in
+which case it comes into effect as soon as another sorcerer
+attempts to cast a spell on the subject. After one
+use, it stops working.
+Material Component: Paints and oils worth 50 silver pieces
+with which to inscribe protective runes on the subject.
+Incantation of
+Amalric’s Witchman
+Power Point Cost: 2
+Components: V
+Casting Time: One standard action
+Range: Close (25 ft. + 5 ft. per two levels)
+Target: One creature
+Duration: Mortal
+Saving Throw: Will negates
+Prerequisites: Knowledge (arcana) 4 ranks, warding.
+Magic Attack Roll: Sets DC for the target’s saving throw
+This spell renders any god or demon who has taken on
+humanoid form to walk the earth partially human, with all
+the vulnerabilities of any other human. That is, any innate
+damage reduction it may have had is lost, as is any immunity
+to critical hits, sneak attacks and other attack forms. If the
+god or demon had any particular vulnerabilities, however,
+these are unaffected.
+Rune of Jhebbal Sag
+Power Point Cost: 3
+Components: S, M
+Casting Time: One full round
+Range: Touch
+Target: Any worshippers of Jhebbal Sag who come within
+25 feet + 5 feet/level of the rune
+Duration: Mortal
+Saving Throw: None
+Prerequisites: Wis 13, Knowledge (arcana) 4 ranks,
+Knowledge (religion) 6 ranks, warding.
+The rune of Jhebbal Sag, when inscribed or
+painted onto any surface, lets any worshippers
+of Jhebbal Sag (see Chapter 12: Religion) know
+that the sorcerer is friendly. Its most notable
+effect is to release the subject or subjects of a
+summon beast spell as soon as they come within
+range. However, all animals remember their god
+Jhebbal Sag and will become calm and nonaggressive
+if they come within range. Likewise,
+if any human or other intelligent worshippers
+of the god come within range, the sorcerer
+gains a +2 circumstance bonus to all
+Charisma-based skill checks regarding
+them. In effect, he is demonstrating
+an allegiance to Jhebbal Sag, though
+this allegiance need
+not be genuine.
+242
+Sorcery
+Ward Dwelling
+Power Point Cost: 2+
+Components: S, M
+Casting Time: One hour per Power Point
+Range: Touch
+Target: One dwelling
+Duration: One month
+Prerequisites: Knowledge (arcana) 4 ranks, warding.
+Magic Attack Roll: Opposes opponent’s magic attack roll
+This spell protects a structure from evil magic. Two Power
+Points must be expended to shield a small hut or cave from
+evil magic; four points would suffice for the average house,
+six for a large mansion, while a Stygian palace might require
+10 or more Power Points. If anyone tries to cast a spell on
+a target inside the warded dwelling, or if a summoned or
+ensorcelled creature tries to enter the dwelling, the ward is
+triggered (as per greater warding). Each ward dwelling spell
+only works once, whether or not it blocks the hostile spell
+but a building can be protected by multiple wards.
+The caster of the spell knows when his ward dwelling spell
+is triggered.
+To cast ward dwelling, various arcane marks and runes must
+be carved into the threshold and pillars of the building. It
+is possible to ‘disarm’ a spell by removing the right marks
+(Knowledge (arcana) DC 15 to identify them).
+Material Component: Paints and gem dusts worth 100 silver
+pieces per Power Point with which to inscribe protective
+runes on the subject.
+Ward by Will
+Power Point Cost: One Power Point per 2 damage
+reduction per round
+Components: S
+Casting Time: Free
+Range: Personal
+Target: Self
+Duration: One round
+Prerequisites: Knowledge (arcana) 7 ranks, warding.
+This spell is a ward against physical blows. The
+caster gains two points of damage reduction for
+every Power Point expended on the spell.
+Armour Piercing rules work
+normally.
+Curses
+Sorcerers are feared most of all not for the dark powers
+with whom they traffic or the strange artefacts they create
+but for what they can do to ordinary folk: curse them in a
+variety of cruel and horrid ways.
+Any character who is under the effects of a curse that does
+not have immediately obvious physical effects may attempt
+a Knowledge (arcana) check (DC 10 + level of the sorcerer
+who cast the spell) to determine that he is affected by a
+curse. If he succeeds by at least 20, he can also determine
+the precise nature of the curse and the name of the sorcerer
+who cast it.
+Lesser Ill-Fortune
+(Basic Curse)
+Power Point Cost: 2
+Components: V
+Casting Time: One standard action
+Range: Evil Eye, Touch or Magical Link
+Target: One creature
+Duration: One day
+Saving Throw: Will negates
+Magic Attack Roll: Sets DC for the target’s saving throw
+A sorcerer places a curse on a victim. The victim suffers a
+–1 enhancement penalty to all attack rolls, saving throws,
+ability checks and skill checks. This is not cumulative with
+the effects of greater ill-fortune or ill-fortune − only the
+most severe penalty applies.
+Weapon Curse
+(Defensive Blast)
+Power Point Cost: All remaining points
+Components: V
+Casting Time: Immediate
+Range: Personal
+Target: Self
+Duration: One round
+Saving Throw: None
+Roll 1d6 for every Power Point expended when this spell
+is cast and note the total of these rolls. Whenever the
+caster takes damage from a weapon, the attacker takes the
+damage instead. For example, if a sorcerer is struck by a
+sword for 12 points of damage, the attacker takes 12 points
+of damage instead of the sorcerer. This effect persists for
+one round or until the total of the points roll is exhausted.
+Weapon curse only applies to damage taken from weapons,
+243
+Sorcery
+spells and other direct attacks – a sorcerer could not use the
+weapon curse if he was trapped in a cave-in, for instance.
+Awful Rite of the
+Were-Beast
+Power Point Cost: 8
+Components: V, S, M
+Casting Time: Five minutes
+Range: Touch
+Target: One creature
+Duration: Instantaneous
+Saving Throw: Will negates and see below
+Prerequisites: Magic attack bonus +6, lesser ill-fortune.
+Magic Attack Roll: Sets DC for the target’s saving throw
+This dire ritual permanently changes a human into a werecreature
+of a variety chosen by the sorcerer (see page 391).
+The target may attempt a Will saving throw to completely
+negate the effects.
+If the sorcerer has the Ritual Sacrifice feat, he gains Power
+Points as though he had sacrificed the target of the spell,
+assuming the target fails his save and becomes a werecreature.
+The magical energy released by this horrific
+transformation is at least as great as that released by killing
+the target outright.
+The creature altered in this way is at least partially under the
+thrall of the sorcerer and will attempt to remain within 500
+feet of the sorcerer at all times. However, any time
+the sorcerer gives the target a direct order he must make
+a magic attack roll against the target’s Will saving throw
+to compel him to obey. If the target succeeds in saving,
+he is temporarily released from the sorcerer’s command for
+1d6 rounds, after which time he may attempt another Will
+saving throw. Success on this save means he is permanently
+released, though he is still a were-creature; failure means
+he is once more under the sorcerer’s thrall. At any time,
+the sorcerer can elect to permanently release the creature
+from his control, though he cannot reverse the spell.
+Most sorcerers thus use this spell to create guards or just
+cause mischief, rather than in the hope of creating a
+legion of permanent servants; the risk of losing control
+is just too great and few were-creatures created by
+this spell will hold back if they get a chance to
+attack their erstwhile masters. However, for
+the sorcerer who rarely calls on his creations
+to carry out a direct order, were-creatures
+can make useful escorts or guards, perhaps for
+many years.
+Material Component: Various rare essences
+and herbs to a value of 100 silver pieces.
+244
+Sorcery
+Curse of Yizil
+Power Point Cost: 2+ points (see below)
+Components: V
+Casting Time: Free action
+Range: Evil Eye, Touch or Magical Link
+Target: One creature
+Duration: One day
+Saving Throw: None
+Prerequisites: Magic attack bonus +4, lesser ill-fortune,
+warding.
+This spell is a dying curse, used by a sorcerer to weaken a
+rival. It may only be cast by a character who has between
+–1 and –9 hit points (inclusive) but it may be cast even if
+that character would usually be unconscious and unable
+to act – he manages, somehow, to use the last of his fading
+willpower to cast the spell. Immediately upon casting the
+spell, he dies, Fate Points notwithstanding.
+The target of the spell suffers an enhancement penalty
+to his magic attack rolls equal to one-half the number
+of Power Points the sorcerer had left on casting the
+spell, rounded down. However, the curse of Yizil is so
+subtle that in most cases the sorcerer will have no idea
+it is affecting him.
+Special Note: Any sorcerer who meets the prerequisites
+for this spell automatically knows it, without needing
+to select it with either the New Spell class feature or the
+Sorcerer’s Boon feat.
+Dance of the
+Changing Serpent
+Power Point Cost: 5 points
+Components: V, S, M, F
+Casting Time: 10 minutes
+Range: Evil Eye
+Target: One creature
+Duration: Instantaneous, but see below
+Saving Throw: Will negates
+Prerequisites: Must be a Pict, magic attack bonus +4,
+lesser ill-fortune.
+Magic Attack Roll: Sets DC for targets’ saving
+throws
+This spell places a man’s soul
+in a ghost snake’s body and
+vice versa. However, unlike
+such spells as awful rite of
+the were-beast, the
+transposed
+souls are highly disorientated and have no insight into the
+correct way to control their new bodies. Both are regarded
+as helpless in all respects and if left alone will eventually
+die of starvation as they cannot even feed themselves. Both
+creatures get Will saving throws and if at least one of them
+succeeds, the spell fails.
+If the sorcerer has the Ritual Sacrifice feat, he gains Power
+Points as though he had sacrificed the target of the spell,
+assuming the target fails his saving throw and changes souls
+with the great serpent. The magical energy released by this
+horrific swapping of essences is at least as great as that
+released by killing the target outright.
+It is common among the Picts to immediately sacrifice both
+snake and man once it is clear the spell has worked. If this
+is done using the Ritual Sacrifice feat, the sorcerer gains
+Power Points as usual for the sacrifice. He also gains an
+enhancement bonus of +4 on all Intimidate checks against
+anyone who witnesses the whole ceremony. Furthermore,
+he gains a +1 enhancement bonus to all magic attack rolls
+due to the favour of his gods. These bonuses last for one
+day per scholar or temptress level.
+Material Components: Smoke-powders worth at least
+50 silver pieces, plus one ghost snake (see page 373). If
+desired, this can have been summoned by means of a
+summon beast spell.
+Focus: A bonfire at least five feet by five feet in size.
+Again Balthus recognized the monster from ancient legends.
+He saw and knew the ancient and evil serpent which swayed
+there, its wedge-shaped head, huge as that of a horse, as
+high as a tall man’s head, and its palely gleaming barrel
+rippling out behind it. A forked tongue darted in and out,
+and the firelight glittered on bared fangs.
+Balthus became incapable of emotion. The horror of his
+fate paralyzed him. That was the reptile that the ancients
+called Ghost Snake, the pale, abominable terror that of old
+glided into huts by night to devour whole families. Like the
+python it crushed its victim, but unlike other constrictors
+its fangs bore venom that carried madness and death. It
+too had long been considered extinct.
+– Beyond the Black River
+245
+Sorcery
+Doom
+Power Point Cost: 1
+Components: V, S
+Casting Time: One standard action
+Range: Evil Eye
+Target: One creature
+Duration: One round/level
+Saving Throw: Will negates
+Prerequisites: Magic attack bonus +2, lesser ill-fortune.
+Magic Attack Roll: Sets DC for the target’s saving throw
+The target must make an immediate Will saving throw or
+be unable to use Fate Points for the duration of the spell.
+Draw Forth the Soul
+Power Point Cost: 20 for the first hour, 10 per hour
+thereafter
+Components: V, S, M
+Casting Time: One day
+Range: Magical Link
+Target: One creature
+Duration: Up to one hour/level
+Saving Throw: See below
+Prerequisites: Ritual Sacrifice, Tormented Sacrifice, magic
+attack bonus +7, lesser ill-fortune.
+Magic Attack Roll: Sets DC for the target’s saving throw
+Draw forth the soul pulls forth the very soul from a single
+target, an agonising and maddening process that can take
+several hours.
+The victim makes a Will saving throw. If he succeeds,
+he is able to partially resist the effects of the spell – he
+is helpless for the next hour, though he is still able to
+speak in a somewhat rambling and pained manner. If he
+succeeds by 10 or more, he completely throws off the spell
+and the sorcerer may not attempt to cast it on him again
+for at least one day. If he fails, his body dies after 10 +
+5d6 minutes (during which he rambles and is helpless, as
+above) and his soul is forced into a demonic entity, to spend
+eternity in torment.
+A character who partially resists the spell must make
+another saving throw after the hour is up if the sorcerer
+elects to spend a further 10 Power Points on continuing the
+spell. The second save is at a penalty of –1 but otherwise
+has the same effects as the first. This process continues
+until the sorcerer chooses not to spend any more Power
+Points on the spell, the target succeeds by 10 or more or
+the target fails his saving throw. The save penalty increases
+by one for every hour of duration.
+A target who is killed by this spell counts as having been
+sacrificed by the Tormented Sacrifice feat; his hit points
+and the time it took him to die determine the number of
+Power Points gained by the sorcerer as usual.
+Material Component: A prized possession from the target
+of the spell and oils and powders worth at least 500
+silver pieces.
+Gelid Bones
+Power Point Cost: 1
+Components: S
+Casting Time: One standard action
+Range: Touch
+Target: One creature
+Duration: One hour/level
+Saving Throw: Will negates
+Prerequisites: Magic attack bonus +2, lesser ill-fortune,
+calm of the adept.
+Magic Attack Roll: Sets DC for the target’s saving throw
+The target must make an immediate Will saving throw
+or be paralysed for the duration of the spell, his bones
+unable to support his body.
+Ill-Fortune
+Power Point Cost: 4
+Components: V
+Casting Time: One standard action
+Range: Evil Eye, Touch or Magical Link
+Target: One creature
+Duration: One month
+Saving Throw: Will negates
+Prerequisite: Lesser ill-fortune.
+Magic Attack Roll: Sets DC for the target’s
+saving throw
+Gebal halted short in his headlong plunge, as if he had
+encountered a solid barrier. His bull head toppled forward
+on his breast, the sword slipped from his fingers, and
+then he melted slowly to the floor. It was as if all the
+bones of his frame had suddenly become flabby.
+– Beyond the Black River
+246
+Sorcery
+As with lesser ill-fortune but the enhancement penalty is
+increased to –2. This is not cumulative with the effects of
+greater ill-fortune or lesser ill-fortune − only the most severe
+penalty applies.
+Greater Ill-Fortune
+Power Point Cost: 8
+Components: V
+Casting Time: One action
+Range: Evil Eye, Touch or Magical Link
+Target: One creature
+Duration: One year
+Saving Throw: Will negates
+Prerequisites: Magic attack bonus +3 or higher, lesser illfortune.
+Magic Attack Roll: Sets DC for the target’s saving throw
+As with ill-fortune but the enhancement penalty is increased
+to –4. This is not cumulative with the effects of ill-fortune
+or lesser ill-fortune − only the most severe penalty applies.
+Divination
+Almost every sorcerer can find a use for divination.
+Information and knowledge are crucial, whether as ends in
+their own right or to show a path to greater power.
+Astrological Prediction
+(Basic Divination)
+Power Point Cost: 1
+Components: V, S
+Casting Time: Three hours
+Range: Touch
+Target: Creature touched
+Duration: Instantaneous
+Saving Throw: No (harmless)
+Prerequisite: Knowledge (arcana) 4 ranks.
+Skill Check: Knowledge (arcana) (DC 11)
+In the Hyborian Age, little distinction is made between
+astrology and astronomy. If you know another
+character’s date and hour of birth, you can use this
+spell to make a somewhat cryptic prediction
+about his immediate future. The subject
+of the spell gains a special insight
+bonus of +1 to one die roll.
+An astrological prediction
+will apply to some
+situation within the
+next week;
+the Games Master will inform the subject of the situation
+when it arises. This situation will typically be an encounter.
+Any one time the character must make a skill check, ability
+check, attack roll or saving throw during that encounter,
+he may apply the insight bonus to the roll. A character
+can only ever be the subject of one astrological prediction
+at a time. If the sorcerer’s Knowledge (arcana) check is 20
+or more greater than the DC (that is, if the roll is 31 or
+higher) the insight bonus is doubled to +2.
+Not This Hour
+(Defensive Blast)
+Power Point Cost: All remaining points
+Components: V
+Casting Time: Immediate
+Range: Personal
+Target: Self
+Duration: One round
+Saving Throw: None
+It is not the caster’s time to die! When this spell is cast,
+the caster gains 1d6 bonus hit points per Power Point
+expended. Any damage suffered during the round is taken
+from those bonus hit points first. At the end of the round,
+the bonus hit points vanish. Unlike most other Defensive
+Blasts, Not This Hour can be cast in response to any damage
+that affects the caster.
+Blessing of Fate
+Power Point Cost: 1
+Components: V, S
+Casting Time: 10 minutes
+Range: Evil Eye
+Target: One creature
+Duration: Instantaneous
+Saving Throw: None (harmless)
+Prerequisites: Knowledge (arcana) 4 ranks, astrological
+prediction.
+As part of this spell, the sorcerer must perform various
+divinatory rituals, such as casting bones or drawing cards.
+The spell allows the caster to intuit some danger that will
+affect the target and gives the target the power to avoid it.
+The spell’s effect is that the sorcerer transfers one of his
+Fate Points to another creature.
+Dream of Wisdom
+Power Point Cost: 6
+Components: V, S
+Casting Time: One hour
+247
+Sorcery
+Range: Personal
+Target: Self
+Duration: Eight hours
+Prerequisites: Knowledge (arcana) 10 ranks, knowledge is
+power class feature, astrological prediction, visions.
+The sorcerer casts this spell just before going to sleep at
+night. He dreams of significant events, places or people,
+depending on what he has decided the night before.
+When he wakes in the morning, he may have some
+sort of useful insight.
+A dream of wisdom brings to the character’s mind legends
+or other information concerning an important person,
+place or thing. If the person or thing is at hand, or if the
+character is in the place in question, then only one casting
+is necessary. If the character has only information on the
+person, place or thing, then 2d6 castings will be necessary
+over the course of successive nights. The resulting lore is
+also less complete and specific, though it often provides
+enough information to help the character find the person,
+place or thing, thus allowing for a better dream of wisdom
+next time. If the character knows only rumours, at least
+2d6 × 10 castings will be necessary over successive nights.
+The resulting lore is also vague and incomplete, though it
+often directs the character to more detailed information,
+thus allowing for a better dream of wisdom.
+When completed, the divination brings legends (if any)
+about the person, place or things to the character’s mind.
+These may be legends that are still current, legends that
+have been forgotten or even information that has never
+been generally known. If the person, place or thing is not of
+legendary importance, the character gains no information.
+As a rule of thumb, characters of 11th level and higher are
+‘legendary,’ as are the sorts of creatures they contend with,
+the major magic items they wield and the places where
+they perform their key deeds.
+Material Component: A feather, placed under the sorcerer’s
+pillow when he goes to sleep.
+Mind-Reading
+Power Point Cost: 2
+Components: V, S
+Casting Time: One standard action
+Range: Evil Eye
+Target: One creature
+Duration: Concentration, up to 1 round plus 1 round/level
+Saving Throw: Will negates
+Prerequisites: Knowledge (arcana) 8 ranks,
+astrological prediction.
+Magic Attack Roll: Sets DC for the
+target’s saving throw
+Unless the target succeeds at a Will saving throw, you
+are able to detect its emotional state and current surface
+thoughts, including its immediate intentions. This can only
+affect creatures that have an Intelligence score. Creatures of
+animal intelligence (Intelligence 1 or 2) will only have the
+simplest thoughts and most basic of emotions.
+Psychometry
+Power Point Cost: 1
+Components: V, S
+Casting Time: One standard action
+Range: Touch
+Target: One object
+Duration: Concentration, up to 10 minutes plus one
+minute/level
+Saving Throw: None
+Prerequisites: Knowledge (arcana) 5 ranks, astrological
+prediction.
+Skill Check: Knowledge (arcana) (DC 11)
+Psychometry allows the sorcerer to determine information
+about the previous owner of an object he touches. The
+object may be a completely lifeless inanimate
+object, a body part or fluid previously
+‘owned’ by a still-living creature. Examples
+of the latter include the hair of a wolf, found
+caught in thorn-bush or the blood of a king,
+spilled on the sand during a desperate fight
+to the death.
+Each round the sorcerer concentrates on the
+object, he may make a Knowledge (arcana)
+check to learn one piece of information,
+as shown on the Psychometry
+table. If he fails, he may make
+‘We found the spot where the fight was fought,’ they
+said. ‘Blood was on the sand. But the king was gone.’
+The fourth Khitan drew imaginary symbols upon the carpet
+with his staff, which glistened scalily in the lamplight.
+‘Did you read naught from the sands?’ he asked.
+‘Aye,’ they answered. ‘The king lives, and he has gone
+southward in a ship.’
+– The Hour of the Dragon
+248
+Sorcery
+another attempt to determine the same information in the
+following round instead of moving directly on to the next
+piece of information.
+Round Information Learned
+1 Last owner’s species (human, man-ape,
+jaguar and so on)
+2 Last owner’s gender
+3 Last owner’s land of origin (Cimmeria,
+Hyrkania, the Vilayet Sea and so on)
+4 Last owner’s age
+5 Last owner’s current state of health
+6 Last owner’s current location and heading,
+if moving
+7 Last owner’s name, if any
+8 How the last owner came by the object
+9 How the last owner lost the object
+10 Whether the last owner had any Corruption
+11 Previous-to-last owner’s species (human,
+man-ape, jaguar and so on)
+12 Previous-to-last owner’s gender
+And so on And so on
+Sorcerous News
+Power Point Cost: 2
+Components: V, S, M
+Casting Time: One hour
+Range: 2,000 miles plus 1,000 miles/level
+Duration: Concentration, up to 10 minutes plus one
+minute/level
+Saving Throw: None
+Prerequisites: Knowledge (arcana) 12 ranks, astrological
+prediction.
+Skill Check: Knowledge (arcana) (see below)
+Certain animals, supernatural creatures and high-level
+sorcerers alike are connected by a sorcerous ‘news network’
+that keeps them informed of major developments around
+the world. Sorcerous news allows the sorcerer to listen in
+on this network and send messages out. Sorcerous news
+may only be cast during the hours of darkness.
+A Knowledge (arcana) check is made.
+The check result indicates the
+type of news gained:
+Check Result News
+15 Movements of major artefacts such as
+the Heart of Ahriman
+20 The sudden appearance or reappearance
+of a sorcerer of great power
+(level 15+)
+25 The death of a king
+30 The plundering of an ancient tomb
+The precise form and extent of the news given is always
+up to the Games Master but it should usually include the
+location and time-scale of any events covered.
+Sending out a message with sorcerous news does not
+require a check. However, the news will not carry far
+unless the various messengers who pass it on regard it as
+highly interesting.
+Material Component: Assorted incenses and powders worth
+20 silver pieces
+greater Sorcerous News
+Power Point Cost: 4+ points
+Components: V, S, M
+Casting Time: One hour
+Range: 10,000 miles plus 2,000 miles/level
+Duration: Concentration, up to 10 minutes plus one
+minute/level
+Saving Throw: See below
+Prerequisites: Knowledge (arcana) 16 ranks, astrological
+prediction, sorcerous news.
+Magic Attack Roll: Sets DC for the target’s saving throw
+Skill Check: Knowledge (arcana), Bluff, Intimidate or
+Diplomacy (see below)
+This works much like sorcerous news, except as follows:
+* The sorcerer gains a +2 bonus to the relevant Knowledge
+(arcana) check.
+* By making a magic attack roll, the sorcerer can attempt
+to prevent a specific other sorcerer who has the sorcerous
+news spell from hearing a particular piece of news that
+night, or insert a piece of false news for that sorcerer’s
+ears only. The target may make a Will saving throw
+to avoid this effect, in which case he also has a chance
+of discovering the attempted meddling when he uses
+sorcerous news himself and makes his Knowledge
+(arcana) check and beats DC 30.
+249
+Sorcery
+* The sorcerer can extend the sorcerous news network
+to carry rumours or news to ordinary people, as well
+as the usual sorcerers and similar beings. For each
+city to which the news is to be carried, this process
+takes around one hour and costs an additional Power
+Point. The sorcerer can select specific pieces of news
+to deliver. This effect can be used to stir up trouble
+or calm it, depending on the news spread. In this case
+the sorcerer makes a Bluff, Diplomacy or Intimidate
+check, as agreed by the player and the Games Master,
+depending on the type of news to be spread. The DC
+is set by the Games Master and is usually between 15
+and 35, depending on the size and nature of the city,
+the attitude the people may already have, any especial
+susceptibility or resistance they may have to sorcerous
+communications and any other factor determined to be
+relevant by the Games Master.
+Material Component: Assorted incenses and powders worth
+50 silver pieces.
+Visions
+Power Point Cost: 2/minute
+Components: S, M or F
+Casting Time: One full round
+Range: 1,000 miles plus 100 miles/level
+Effect: Magical sensor (see below)
+Duration: Power Points
+Saving Throw: None
+Prerequisites: Knowledge (arcana) 8 ranks, astrological
+prediction.
+Skill Check: Knowledge (arcana), DC 10 + 1 per 100
+miles distant the target is beyond the first 100 miles
+You can see and hear events at any distance. This spell
+produces an invisible magical ‘sensor’ that sends a moving
+image back to your focus or material component, providing
+you with a view of the site or person upon which you wish
+to spy. This view can be very close up, as though through
+a human eye, or very far away and high up so as to see
+the whole of a battlefield or other wide scene, as though
+through a hawk’s eye.
+If desired, you may instantaneously move your magical
+sensor to any other point within range, up to once per
+minute.
+Focus/Material Component: This spell requires a focus or
+alternatively a material component. One or the other will
+do; if you have a focus available, you have no need for a
+material component.
+The focus can take the form of a crystal ball or asilvery
+mirror (see page 274).
+The material component can be either a handful of
+special herbs thrown onto an ordinary fire to produce
+green smoke in which the visions can be seen or a dose or
+two of a suitably hallucinogenic drug such as black lotus
+wine (see page 275). In either case, the cost is around
+100 silver pieces.
+Visions of Torment
+and Enlightenment
+Power Point Cost: 4 for the first minute, then 1/minute
+thereafter
+Components: V, S, M
+Casting Time: One full round
+Range: Touch or Evil Eye
+Target: One sentient creature (Int 3+)
+Duration: Power Points, up to a maximum of one minute
+per level
+Saving Throw: See below
+Prerequisites: Knowledge (arcana) 12 ranks, magic attack
+bonus +5, astrological prediction, visions, entrance.
+Magic Attack Roll: Sets DC for the target’s saving throw
+This spell enables the sorcerer to force a number of bizarre
+visions upon an unsuspecting victim, propelling him
+through past lives and ancestral memory in a wild mental
+voyage of self-discovery. This can be a highly disturbing
+experience and is often used in an attempt to either
+break prisoners or test potential recruits for sorcerous
+societies. Those who are overwhelmed by the spell are
+permanently impaired by what they have learned, while
+those who can steel themselves to learn something
+from their tormented visions may achieve some
+form of enlightenment.
+The target is highly disoriented for the
+duration of the spell, with a penalty of –4
+to all attack rolls, skill checks and Defence. At
+the end of the spell, he attempts a Will saving
+throw. If he fails, he suffers Wisdom damage
+depending on how long his visions lasted:
+Duration of Spell
+(Minutes)
+Wisdom
+Damage
+1–6 1d4
+7–11 1d6
+12–15 1d8
+16–18 1d10
+19 2d6
+20 2d8
+250
+Sorcery
+If he succeeds and the spell lasted at least 10 minutes, he
+instead gains a permanent +1 bonus to Wisdom.
+No character can be affected by Wisdom gains or losses
+from this spell more than once, though he will still be
+affected by the penalties to attack rolls and the like if he is
+targeted a second time.
+Material Component: A dose of a suitable hallucinogenic
+drug such as lotus juice (see page 275), costing around 100
+silver pieces. This must somehow be administered to the
+target before the spell can be cast.
+Hypnotism
+Hypnotism is extremely useful both as a direct means of
+attack and for far more subtle purposes. Though it may
+not be so quick as a hurled globe of demon-fire, it can
+still provide fairly rapid effects that are significantly more
+versatile than mere flaming destruction.
+Hypnotism is not inherently sorcerous. Much hypnotism
+is simply mesmerism, an ability to take advantage of
+another’s superstitious fears and unconscious willingness
+to be dominated. This type of hypnotism requires no
+expenditure of Power Points but simply takes time. It is
+for this reason that some scholars regard hypnotism as
+beneath themselves, considering it to be no true sorcery.
+However, many of the more advanced hypnotic spells do
+require sorcery, such as when it comes to forcing a victim
+to do one’s bidding, or affecting him at distances where
+mere mesmerism would be quite unfeasible.
+Entrance
+(Basic Hypnotism)
+Power Point Cost: None
+Components: S, M or F
+Casting Time: One full round
+Range: Evil Eye
+Target: One creature
+Duration: Concentration
+Saving Throw: Will negates
+Magic Attack Roll: Sets DC for the target’s saving
+throw
+When you cast this spell, the
+target creature must make
+a Will saving throw or be
+unable to take any actions
+for as long as you
+concentrate.
+If the creature is attacked or sustains damage while
+entranced, it may attempt a saving throw again to throw
+off the effects of the spell. This second saving throw gets a
+bonus equal to the amount of damage inflicted.
+This spell can only affect a creature that has six or fewer
+hit dice.
+It is possible to boost the power of this spell by preparation.
+For each full round in which you do nothing but stare at the
+target creature before attempting to entrance it (whether or
+not you have eye-to-eye contact over that time) you can
+affect a creature of +2 HD and you gain a circumstance
+bonus of +1 on your magic attack roll.
+Note that an entranced creature is not stunned, so attackers
+gain no special advantage against it.
+Material Component or Focus: A shining object, such as a
+small mirror, suspended from a cord
+Terrible Fascination
+(Defensive Blast)
+Power Point Cost: All remaining points
+Components: V
+Casting Time: Immediate
+Range: Personal
+Area: 10 foot radius around the sorcerer
+Duration: 1d4 rounds
+Saving Throw: Will negates
+Magic Attack Roll: Sets DC for the victims’ saving throw
+When this spell is cast, all creatures within 10 feet of the
+sorcerer must make a Will saving throw or be entranced
+as if by the entrance spell. The entrancement lasts for 1D4
+rounds and cannot be maintained longer than this, although
+the sorcerer may use the entrance spell on one of his victims
+while he is under the effect of terrible fascination.
+Dance of the Cobras
+Power Point Cost: 5
+Components: S, M, F
+Casting Time: One full round
+Range: Evil Eye
+Target: One humanoid creature
+Duration: Concentration
+Saving Throw: See below
+Prerequisites: Perform (any musical instrument) 8 ranks,
+Ritual Sacrifice, must be a worshipper of Hanuman,
+entrance, telekinesis.
+251
+Sorcery
+Magic Attack Roll: Sets DC for the target’s saving throws
+or Perform checks
+The dance of the cobras is an extensive and elaborate but
+powerful ritual sacrifice that revolves around four preprepared,
+hypnotised snakes.
+Four jars containing the snakes are smashed about the
+target. In effect, the snakes are inside the target’s fivefoot
+square, though at the very corners of it. For the first
+1d6 rounds, the target must make a Reflex saving throw
+each round or be bitten by one of the snakes, suffering
+the usual damage and poison effects for such a bite (see
+page 375). If he chooses to spend the whole of each round
+just dodging snakes (similar to a Total Defence action in
+combat) he gains a +4 circumstance bonus to his Reflex
+saving throws. Note that the snakes do not make normal
+attack rolls against the target; they are, after all, hypnotised
+and even at this stage there is a strange, rhythmic quality
+to their rapid, darting movements. However, if the target
+attempts to leave the square, all four snakes immediately
+make attacks as normal. They are assumed to have attacks
+readied for just such an eventuality.
+After the initial 1d6 rounds, the spell creates
+unearthly music sacred to the god Hanuman
+and the hypnotised snakes begin to dance. The target may
+either continue to make Reflex saving throws to avoid
+them, with a +2 synergy bonus if he has at least five ranks
+of Perform (dance) or he may instead simply make Perform
+(dance) checks at the same DC.
+If the victim dies from being bitten by the snakes, whether
+from direct damage or from poison, the sorcerer who cast
+the spell gains a number of benefits as follows:
+* Power points as though the target had been slain by
+the sorcerer. One Power Point is gained for every
+three of the target’s hit points, or one Power Point for
+every two of the target’s hit points if the target was
+a human female.
+* +2 morale bonus to all attack rolls and magic attack
+rolls for the next 24 hours.
+If the victim somehow escapes or is rescued, the sorcerer
+instead suffers a –1 morale penalty to Defence and all
+saving throws for the next day.
+Material Component: Four jade jars, worth at least 100
+silver pieces each. With the snakes inside (see below), these
+must be balanced among the rafters of the room in which
+the spell is to be used or, if the sorcerer has greater telekinesis
+available, concealed somewhere in the room or about the
+person of the sorcerer.
+Focus: Four cobras, of at least Small size. These must
+somehow be placed in jars before the spell is cast.
+Domination
+Power Point Cost: 2
+Components: V, S
+Casting Time: One standard action
+Range: Evil Eye
+Target: One humanoid who is already
+affected by your entrance spell
+Duration: Concentration
+Saving Throw: See below
+Prerequisites: Magic attack bonus +3,
+entrance.
+Magic Attack Roll: Sets DC for the target’s
+saving throw
+The sorcerer can control the actions
+of any humanoid that he has
+already entranced (see opposite).
+The sorcerer and his target must
+share a common language
+252
+Sorcery
+so the sorcerer can give instructions. Casting this spell ends
+the effects of the entrance spell, as domination immediately
+supersedes said spell. The target does not gain a saving
+throw to resist the domination except as follows:
+This spell can only affect a creature with 8 or fewer Hit Dice.
+Targets resist this control if forced to take actions against
+their nature. In this case they receive a Will saving throw
+with a bonus of +1 to +2, depending on the type of action
+required. Obviously self-destructive orders would be worth
+a +2 bonus.
+Among other uses of this spell, the sorcerer can cause the
+target to fall asleep, as well as remove short-term memories
+from the target (such as the memory of having seen the
+sorcerer in the first place).
+Once control is established, the range at which it can
+be exercised is unlimited but new orders can only be
+granted if the sorcerer is within shouting distance of
+the target (60 feet).
+Dread Serpent
+Power Point Cost: 3
+Components: V, S, (F)
+Casting Time: One standard action
+Range: Evil Eye
+Target: One humanoid; usually one who is already affected
+by your entrance spell (but see below)
+Duration: One round
+Saving Throw: Will negates
+Prerequisites: Magic attack bonus +4, entrance.
+Magic Attack Roll: Sets DC for the target’s saving throw
+This spell creates an illusionary snake or similarly dread,
+poisonous creature from another object. The illusion affects
+only the target, with any other observers seeing clearly that
+the object remains as it really is. Dread serpent can be used
+in one of two modes:
+* Turn part of the target’s clothing into a serpent.
+In this case, you must entrance the target before
+the spell is cast. Casting this spell ends the effects
+of the entrance spell, as dread serpent
+immediately supersedes said spell; this
+means that if the dread serpent
+fails, the target is no longer
+entranced either.
+* Turn your own sorcerer’s staff into a serpent, which
+you hurl at the target’s feet. In this case the target must
+be within 20 feet of you, though you need not make
+an attack roll against him. The main advantage of this
+mode of the spell is that you need not have entranced
+the target before casting it.
+The target receives a Will saving throw. If he fails, he
+perceives the serpent biting him and dies at once. If he
+makes his saving throw, he perceives himself slaying the
+serpent and the object reverts to its original state. In
+either case, making the saving throw (and, in the target’s
+perception, fighting the snake) takes one round, during
+which time the target may not take any other actions and
+is at –2 to Defence due to distraction.
+Focus: For the second mode of operation, this spell requires
+you to be carrying a staff worth at least 50 silver pieces,
+though it can functionally be quite mundane. It could be
+simply an ornate or decorated quarterstaff, or some kind of
+magical staff if you are willing to fling said staff at the feet
+of an enemy.
+Hypnotic Suggestion
+Power Point Cost: 1
+Components: V, S
+Casting Time: One standard action
+Range: Evil Eye
+Target: One living creature
+Duration: 10 minutes plus one minute/level, or until
+completed
+Saving Throw: Will negates
+Prerequisites: Magic attack bonus +2, entrance.
+Magic Attack Roll: Sets DC for the target’s saving throws
+The character influences the actions of the enchanted
+creature by suggesting a course of activity, limited to a
+sentence or two. The suggestion must be worded in such
+a manner as to make the activity sound reasonable to the
+person. In effect, it can remove the influence of either the
+person’s conscious will or his unconscious desires so that he
+will perform the suggested course of action that reason or
+instinct might otherwise have prevented.
+This spell can only affect a creature that has 12 or fewer
+Hit Dice.
+The suggested course of activity continues for the entire
+duration of the spell. If the suggested activity can be
+completed in a shorter time, the spell ends when the
+subject finishes what he was asked to do. The character can
+instead specify conditions that will trigger a special activity
+253
+Sorcery
+during the duration of the spell. For example, the character
+might suggest that a noble knight give his warhorse to the
+first beggar he meets. If the condition is not met before the
+spell expires, the activity is not performed.
+A very reasonable suggestion causes the saving throw to be
+made with a penalty (such as –1, –2 or such like) at the
+discretion of the Games Master.
+Alternatively, the caster can suggest an illusion to the
+victim. This illusion cannot be damaging (dread serpent is
+required for that) but he could convince the victim that a
+blank scroll is actually a royal warrant or that the caster is
+actually dressed in rich robes, not rags. If the caster chooses
+to create an illusion, the victim’s will is not affected, just
+his senses. An unreasonable illusion (say, that a horde of
+barbarians has just charged into the inn) will be dismissed
+instantly as false by the victim – the spell is capable
+of only subtle illusions.
+Mass Hypnotic
+Suggestion
+Power Point Cost: 8
+Components: V, S
+Casting Time: One standard action
+Range: Medium (100 ft. + 10 ft./level)
+Area: All creatures in a radius of 30 ft. + 5 ft. per level
+Duration: 10 minutes plus one minute/level, or until
+completed
+Saving Throw: Will negates
+Prerequisites: Magic attack bonus +5, entrance, hypnotic
+suggestion.
+Magic Attack Roll: Sets DC for the target’s saving throws
+As with hypnotic suggestion, except that the spell affects
+all creatures of 8 Hit Dice or below who can hear the
+sorcerer’s voice.
+Furthermore, the sorcerer is able to magically project
+his voice as though it were emanating from any point in
+the spell’s range. Any creature within the area is affected,
+unless they are deaf or have stopped their ears in advance.
+Stopping their ears ahead of time allows opponents to avoid
+having to make saving throws against sound-based spells.
+Stopping one’s ears is a full-round action and requires wax
+or other soundproof material to stuff into the ears.
+Ranged Hypnotism
+Power Point Cost: +4 points
+Components: As per original spell, plus M
+Casting Time: As per original spell,
+plus one full round
+Range: Long (400 ft. + 40 ft. per level) or Magical Link
+Target: As per original spell
+Duration: As per original spell
+Saving Throw: As per original spell
+Prerequisites: Magic attack bonus +5, entrance, hypnotic
+suggestion.
+Magic Attack Roll: As per original spell
+A hypnotist of sufficient power can expend a vast amount of
+energy to hypnotise someone at a distance. The victim must
+either be within line of sight, or connected to the sorcerer via
+a magical link (see page 237). Any of the standard hypnotism
+spells can be made ranged with this spell.
+The components are as for the original spell, except as
+follows:
+Material Component: In addition to any material
+components required by the original spell, ranged
+hypnotism requires various herbal powders to a total cost
+of 100 silver pieces.
+Savage Beast
+Power Point Cost: 4
+Components: V, S
+Casting Time: One standard action
+Range: Evil Eye
+Target: One living creature, plus see below
+Duration: One round/level, plus see below
+Saving Throw: Will negates
+Prerequisites: Magic attack bonus +3, entrance, hypnotic
+suggestion.
+Magic Attack Roll: Sets DC for the target’s saving
+throws
+This spell turns an ordinary animal into a
+ravening and berserk monster, very difficult to
+kill and very dangerous to fight. The creature
+resembles a rabid animal when affected by
+the spell. This spell can only affect a creature
+that has 16 or fewer Hit Dice.
+The target is affected as though it was in a
+state of fighting-madness, as if it had the
+Fighting-Madness feat (see page 126).
+The target also gains the benefits of
+the Diehard feat.
+The sorcerer can specify an enemy
+or group of enemies within the
+target’s line of sight. The creature
+will move as rapidly as
+254
+Sorcery
+possible towards them and attack them ferociously. If no
+enemy or enemies are specified, it will simply attack the
+closest living creature to it.
+In addition, the target’s bite attack, if any, has the side effect
+of ‘transmitting’ the spell to any creature damaged by the
+bite. This acts in every way as though the creature damaged
+had the spell cast on it by the same sorcerer that cast it on
+the original target, though this creature is not affected until
+2d10 rounds after being bitten.
+Nature Magic
+Nature magic affects or summons plants and animals.
+It is commonly found among witches, wise women and
+shamans, since it is relatively simple to learn and highly
+effective in the wilderness or rural environments favoured
+by such scholars.
+Summon Beast
+(Basic Nature Magic)
+Power Point Cost: 1+
+Components: V, S, F, XP
+Casting Time: One standard action
+Range: One mile/level
+Target: One animal that can be found in the local
+environment
+Duration: One minute/level, plus see below
+Saving Throw: Will partial (see below)
+Prerequisite: Knowledge (nature) 4 ranks.
+Magic Attack Roll: Sets DC for the target’s saving throw
+This spell summons a creature of the animal subtype, up to
+Medium-size, to serve the sorcerer. The Power Point cost
+is one for an animal of Small size or smaller and two for a
+Medium-size animal.
+The sorcerer may specify the animal he wishes to summon.
+If that animal is not found within one mile, he may specify
+an alternate animal but this will take another action and
+require a different focus (see below). He may keep
+specifying alternate animals until he finds one that
+is within a mile. The Power Point cost is always
+paid for the animal that is actually summoned,
+regardless of whether that animal is the
+sorcerer’s first choice.
+The animal will serve the
+sorcerer without question,
+including by attacking his enemies. However, summoned
+creatures may become uncontrolled if they sustain damage.
+At the end of any round during which a summoned
+creature is dealt damage, it must make a Will saving throw
+(DC = 10 + damage sustained that round). Failure indicates
+that the creature’s pain overcomes its desire to serve the
+sorcerer and it flees from the damage-dealing source
+as rapidly as possible.
+For some reason, any animal summoned by a Pictish
+sorcerer has a pale, almost ghostly appearance. This has no
+particular game effect but simply appears to be a peculiarity
+of the Pictish style of sorcery.
+Focus: A small image or carving of the animal to be
+summoned. This can be re-used on a later occasion.
+Experience Point cost: 25 XP (50 XP for a Medium-size
+creature).
+Greater Summon Beast
+Power Point Cost: 4+
+Components: V, S, F, XP
+Casting Time: One standard action
+Range: One mile/level
+Target: One animal that can be found in the local
+environment
+Duration: One minute/level, plus see below
+Saving Throw: Will partial
+Prerequisites: Knowledge (nature) 5 ranks, summon beast.
+Magic Attack Roll: Sets DC for the target’s saving throw
+As for summon beast, except that an animal of up to Huge
+size can be summoned. The Power Point cost is four points
+for a Large creature, or eight points for a Huge creature.
+Experience point cost: 100 XP (200 XP for a Huge
+creature)
+Animal Intercessor
+(Defensive Blast)
+Power Point Cost: All remaining points
+Components: V
+Casting Time: Immediate
+Range: One mile/level
+Target: One animal that can be found in the local
+environment
+Duration: One round
+Saving Throw: None
+255
+Sorcery
+This spell summons an animal from nearby, which arrives
+instantly to defend the caster from an attacker. The animal
+immediately makes a Reflex save against the attacker’s
+Attack Roll. If the saving throw is successful, the animal
+places itself between the blow and the sorcerer and takes
+the damage instead. Regardless of whether or not the
+animal is struck, it makes one charge attack against the
+attacker before leaving.
+If the caster expends fewer than four Power Points, he
+summons a Medium creature. If the caster expends between
+four and eight Power Points, he summons a Large creature.
+If the caster expends more than eight Power Points, he
+summons a Huge creature. The animal will make one
+attack on the caster’s foe, then leave unless it is attacked
+again. The animal comes thundering out of the jungle
+or swooping out of the sky to protect the sorcerer for an
+instant; then it leaves.
+If the animal is large enough to carry or be ridden by the
+sorcerer, he may make a Reflex save (DC 15) to mount the
+animal as it leaves.
+Animal Ally
+Power Point Cost: 6
+Components: V, S, M, XP
+Casting Time: One day
+Range: One mile/level
+Target: One animal that can be found in the local
+environment
+Duration: Instantaneous
+Saving Throw: Will negates
+Prerequisites: Knowledge (nature) 6 ranks, summon beast.
+Magic Attack Roll: Sets DC for the target’s saving throw
+The sorcerer gains an animal ally selected from the following
+list: badger, camel, dog, war dog, eagle, hawk, horse (any),
+owl, scorpion, snake (any of Medium size or smaller) or
+wolf. This animal is a loyal companion that accompanies
+the sorcerer on his adventures as appropriate for its kind.
+A 1st level caster’s ally is completely typical for its kind
+except as noted below. As a scholar advances in level, the
+animal’s power increases as shown on the table.
+If this spell is cast while the sorcerer already has an animal
+ally acquired by use of animal ally, the previous ally, if still
+alive, is released from service.
+A sorcerer of 6th level or higher may select from alternative
+lists of animals (see below). Should he select an
+animal ally from one of these alternative lists,
+the creature gains abilities as if the character’s level were
+lower than it actually is. Subtract the value indicated in the
+appropriate list from the character’s level and compare the
+result with the level entry on the table to determine the
+animal ally’s powers. If this adjustment would reduce the
+scholar’s effective level to zero or lower, he cannot have that
+animal as an ally.
+An animal ally is different from a normal animal of its
+kind in many ways. The ally is treated as a magical beast,
+not an animal, though it retains an animal’s HD, base
+attack bonus, saving throws, Skill Points and feats. It is
+superior to a normal animal of its kind and has special
+powers, as described below:
+Animal Ally Basics: Use the base statistics for a creature of
+the ally’s kind but make the following changes:
+Class Level: The character’s level.
+Bonus HD: Extra eight-sided (d8) Hit Dice, each of which
+gains a Constitution modifier as normal. Remember
+that extra Hit Dice improve the animal ally’s base attack,
+dodge and saving throw bonuses. An animal ally has good
+Fortitude, Will and Reflex saving throws; treat it as a
+character whose level equals the animal’s HD. It gains +1
+base attack bonus per Hit Die and +1 base dodge bonus for
+every two Hit Dice. An animal ally gains additional Skill
+Points and feats for bonus HD as normal for advancing a
+monster’s Hit Dice.
+Natural DR Adj.: The number noted here is an
+improvement to the animal ally’s existing natural damage
+reduction.
+Str/Dex Adj.: Add this value to the animal ally’s Strength
+and Dexterity scores.
+Bonus Tricks: The value given in this column is the
+total number of ‘bonus’ tricks that the animal knows in
+addition to any that the sorcerer might choose to teach
+it (see page 104). These bonus tricks do not
+require any training time or Handle Animal
+checks and they do not count against the
+normal number of tricks known by the
+animal. The sorcerer selects these bonus
+tricks; once selected, they cannot be changed.
+Link: A sorcerer can handle his animal ally
+as a free action or push it as a move action,
+even if he does not have any ranks in the
+Handle Animal skill. The sorcerer gains
+a +4 circumstance bonus on all Ride and
+Handle Animal checks made regarding
+an animal ally.
+256
+Sorcery
+Evasion: If an animal ally is subjected to an attack that
+normally allows a Reflex saving throw for half damage, it
+takes no damage if it makes a successful saving throw.
+Devotion: An animal ally gains a +4 morale bonus on Will
+saving throws against hypnotism spells and effects.
+Multiattack: An animal ally gains Multiattack as a bonus
+feat if it has three or more natural attacks and does not
+already have that feat. If it does not have the requisite three
+or more natural attacks, the animal ally instead gains a
+second attack with its primary natural weapon, albeit at
+a –5 penalty.
+Improved Evasion: When subjected to an attack that
+normally allows a Reflex saving throw for half damage, an
+animal ally takes no damage if it makes a successful saving
+throw and only half damage if the saving throw fails.
+Alternative Animal Allies: A scholar of
+sufficiently high level can select his animal ally
+from one of the following lists, applying the
+indicated adjustment to his level (in
+parentheses) for purposes of
+determining the ally’s
+characteristics and
+special abilities.
+6th Level or Higher
+(Level –3)
+Aurochs
+Ape
+Boar
+Panther
+Monitor Lizard
+Snake, Large Viper
+12th Level or Higher
+(Level –9)
+Ghost Snake
+Lesser Son of Set
+9th Level or Higher
+(Level –6)
+Bear
+Lion
+Rhinoceros
+Sabre-Tooth
+Snake, Huge Viper
+15th Level or Higher
+(Level –12)
+Elephant
+Animal Allies
+Sorcerer
+Level
+Bonus
+HD
+Natural
+DR Adj.
+Str/Dex
+Adj.
+Bonus
+Tricks
+Special
+3rd–5th +2 +1 +1 1 Link
+6th–8th +4 +2 +2 2 Evasion
+9th–11th +6 +3 +3 3 Devotion
+12th–14th +8 +4 +4 4 Multiattack
+15th–17th +10 +5 +5 5
+18th–20th +12 +6 +6 6 Improved
+Evasion
+257
+Sorcery
+Material Component: A small image or carving of the
+animal to be allied with, plus 100 silver pieces worth of
+incense and herbs.
+Experience Point cost: 150 XP
+Children of the Night
+Power Point Cost: 1/raven
+Components: V, S, F
+Casting Time: One full round
+Range: One mile/level
+Target: One creature whose name or description is known
+to you, or to whom you have a magical link
+Duration: One hour/level
+Saving Throw: None
+Prerequisites: Knowledge (nature) 8 ranks, summon beast.
+Children of the night is designed as a tracking spell. It
+conjures up a semi-corporeal, supernatural raven to hover
+directly above the target’s location, loudly squawking and
+drawing attention to him.
+If the target is more than a mile away from the sorcerer,
+further raven-things appear and hover in the air directly
+between the sorcerer and the first raven at intervals of one
+mile. Each raven beyond the first costs an additional Power
+Point but appears automatically without the sorcerer
+needing to recast the spell or take any other action. The
+sorcerer can end the spell at any time rather than spend the
+extra Power Point needed to produce another raven.
+The ravens always hover some 500 feet up, so as to be
+highly visible to the sorcerer but difficult to shoot down
+with ranged weapons; assume range increments for all
+weapons are halved when shooting directly upwards. The
+ravens have a Dodge Defence of 14 and have one hit point
+each but any raven that is slain is immediately replaced,
+at a cost of one Power Point as usual. It is possible for a
+target to end this spell by shooting down ravens but only
+by causing the sorcerer to run out of Power Points or by
+shooting down so many ravens that he chooses to end the
+spell anyway.
+The target must be known to the sorcerer either by name
+or description, so there is some way for the magic of the
+spell to find him. Alternatively, a magical link to the target
+(see page 237) will do just as well.
+Focus: A small image or carving of a raven. This can be reused
+on a later occasion.
+Sorcerous Garden
+Power Point Cost: 2
+Components: V, S, M
+Casting Time: One action
+Range: See below
+Area: See below
+Duration: Instantaneous
+Saving Throw: None
+Prerequisites: Craft (herbalism) 12 ranks, Knowledge
+(nature) 10 ranks, summon beast.
+This spell enables the sorcerer to cultivate magical
+plant creatures or to grow a number of more ordinary
+plants rapidly. It has different effects depending on the
+version chosen.
+Overgrowth: This effect causes normal vegetation (grasses,
+briars, bushes, creepers, thistles, trees, vines) within long
+range (400 feet + 40 feet per level) to become thick and
+overgrown. The plants entwine to form a thicket or jungle
+that creatures must hack or force a way through. Speed
+drops to 5 feet, or 10 feet for Large or larger creatures.
+The area must have brush and trees in it for this spell
+to take effect.
+You may designate places within the area that are not
+affected.
+Enrichment: This effect targets plants within a range of
+one-half mile, raising their potential productivity over
+the course of the next year to one-third above normal.
+Magical Plant: This effect allows you to grow one
+or more plant creatures from seed or seedlings to
+full adult size rapidly. You can cause them to grow
+to a total size of up to one Hit Die per caster level.
+For example, a 15th level scholar could grow
+a single 15 HD yothga, or fifteen 1 HD
+black lotus blossoms. Each plant grows at
+a speed of one HD per round. Thus, in the
+above example the yothga would take fifteen
+rounds to reach its full 15 HD size but the
+black lotus blossoms would all grow to full
+one HD size within one round.
+Material Component: Various special
+fertilisers and plant foods costing at least
+40 silver pieces.
+258
+Sorcery
+Spirit of the Land
+Power Point Cost: 4
+Components: V, S
+Casting Time: 10 minutes
+Range: 10 miles/level
+Duration: 10 minutes/level
+Prerequisites: Knowledge (nature) 5 ranks, summon beast.
+By means of this spell, the caster projects his mind into
+the land around him. If in a forest, he becomes the trees
+and the small animals and the vermin. If in a desert, he
+becomes the sandstorm and the circling vultures. The
+caster can perceive what animals are within the area of
+effect; he can also dimly sense the presence of men but
+cannot see who they are or learn much more than their
+race and rough numbers. The caster also becomes aware of
+large-scale events, changes or unusual things like a forest
+fire, a raging battle or the location of a large structure like
+a castle in the depths of the forest.
+While this spell is in effect the sorcerer’s body is comatose
+and helpless as his mind wanders the land all around. He is
+aware of its location and if it suffers harm, but no more. He
+may return his mind to his body as an immediate action
+at any time.
+Command Weather
+Power Point Cost: 8
+Components: V, S
+Casting Time: 10 minutes
+Range: 10 miles/level
+Duration: 1d4 hours
+Prerequisites: Knowledge (nature) 10 ranks, spirit of the
+land.
+This spell allows the caster to control the weather in the
+surrounding area. He can summon up snowstorms or
+howling winds, quell the raging seas or pour so much rain
+into a river that it bursts its banks and floods a town.
+The caster cannot call up any weather that is outside the
+possible range for a region in the current season; for
+example, he cannot create a snowstorm in the desert
+or at the height of summer.
+Necromancy
+The scholar who learns necromancy achieves limited
+mastery over the very mysteries of life and death.
+This is especially popular for those who wish to slay
+their enemies outright, rather than merely harming or
+inconveniencing them.
+Raise Corpse
+(Basic Necromancy)
+Power Point Cost: 1/corpse
+Components: V, S
+Casting Time: One standard action
+Range: Close (25 ft. + 5 ft. per two levels)
+Target: Up to one corpse/level
+Duration: Concentration + 1d6 rounds
+Saving Throw: See below
+Prerequisite: Magic attack bonus +2.
+This spell turns the bodies of dead creatures into undead
+zombies that follow the sorcerer’s spoken commands. The
+zombies can follow the sorcerer, remain in an area and
+attack any creature (or just a specific type of creature) that
+enters the place or perform simple actions according to
+the sorcerer’s commands. The zombies remain animated
+until they are destroyed. A destroyed zombie may
+not be animated again.
+The zombies the sorcerer creates remain under his control
+for the duration of the spell. At the expiry of the spell, they
+become simple corpses once more, falling in lifeless heaps
+wherever they stand.
+A zombie can be created only from the mostly intact corpse
+of a humanoid or animal and its statistics depend more
+upon the corpse it was created from than any abilities it
+had in life. See page 387 for details on the risen dead.
+Afari shuddered visibly.
+‘How can a common man lie to that black devil? His
+eyes are like coals of red fire that look into depths
+unnameable. I have seen him make corpses rise and walk,
+and skulls champ and grind their naked jaws.’
+– The Snout in the Dark
+259
+Sorcery
+Chill of the Grave
+(Defensive Blast)
+Power Point Cost: All remaining points
+Components: V
+Casting Time: Immediate
+Range: Personal
+Area: 10 foot radius around the sorcerer
+Duration: Instantaneous
+Saving Throw: Fortitude half
+Magic Attack Roll: Sets DC for the victims’ saving throw
+All those within 10 feet of the sorcerer take 1d6 cold
+damage for every Power Point expended in the casting of
+this spell. A successful Fortitude save (DC = the result of
+the sorcerer’s magic attack roll) means the victim takes half
+damage. The sorcerer himself is immune to the defensive
+blast, as are zombies and other undead creatures.
+The Dead Speak
+Power Point Cost: 1/corpse
+Components: V, S
+Casting Time: One standard action
+Range: Touch
+Target: One corpse
+Duration: Concentration + 1d6 rounds
+Saving Throw: See below
+Prerequisites: Scholar level 4, raise corpse.
+The necromancer forces a semblance of life back into a
+corpse or at least a head. The animated horror can speak
+and think and see as it did in life, assuming it still has
+the necessary body parts to do so (a severed head can still
+speak if it has a tongue and jaw and see if it has eyes). The
+spark of life lasts only a few moments but this may be long
+enough to interrogate a fallen guard or mock a defeated foe
+one last time.
+Agonising Doom
+Power Point Cost: 4/target
+Components: V, S
+Casting Time: One full round
+Range: Close (25 ft. + 5 ft. per two levels)
+Target: One or more creatures, up to a maximum of one
+creature/two levels
+Duration: 1d6 rounds
+Saving Throw: Fort negates and see below
+Prerequisites: Magic attack bonus +6, raise corpse,
+death touch.
+Magic Attack Roll: Sets DC for the targets’ saving
+throws
+Black tendrils of power shoot out from the sorcerer’s
+hands, slaying his enemies agonisingly and rapidly. This
+spell only affects creatures with fewer than 8 HD.
+The targets must all make Fortitude saving throws,
+with success completely negating the effects of the
+spell. A character who fails his saving throw begins to
+lose 4d6 hit points per round. Furthermore, he
+is in such extreme pain that he must make a
+Will saving throw on any round in which
+he wishes to act. Success means he may take
+either a move action or a standard action but
+not both; failure means he may not do anything
+that round other than lie prone in agony.
+Black Plague
+Power Point Cost: 20
+Components: V, S, M
+Casting Time: One day
+Range: One mile per level
+Area: One mile radius per level,
+or 10 foot radius per level; see
+below
+260
+Sorcery
+Duration: One week/level
+Saving Throw: Fortitude negates
+Prerequisites: Magic attack bonus +7, raise corpse.
+This is a dreadful spell capable of driving hundreds or
+even thousands of victims to horrible, tormented deaths.
+It creates a great wind propelling a foul, stinking miasma
+which can strike down all within its path. The effects of
+this spell closely resemble a disease, though in fact sorcery
+is responsible for the victims’ demise.
+The black plague has two different forms: one is designed
+to strike terror into a population, the other is designed to
+wipe out the sorcerer’s enemies wholesale.
+In either case, once the plague strikes, it is rapid and lethal
+from its onset to the victims’ death a few minutes later.
+A Fortitude saving throw (DC 17) must be made. Failure
+causes the targets 1d4 Constitution damage and turns their
+bodies purple. After 3d6 minutes they take another 1d4
+Con damage and their bodies turn black. From that point
+onwards, they are dealt a further 1d4 Con damage per
+minute until they are dead.
+The first form of black plague affects a random scattering of
+individual humans throughout the area of its effect (which
+is one mile radius per level) at a rate of one per the sorcerer’s
+level per day. The sorcerer may not specify which individuals
+are affected in this way. This form of black plague tends
+to significantly demoralise the population through which
+it is sweeping, for they can see no comprehensible reason
+for its spread. This is likely to have a number of effects
+at the Games Master’s discretion, including disruption to
+the area’s economy, widespread looting or other lawlessness
+and an unwillingness among the population to become
+involved with other issues (such as fighting a war) until the
+problem of the plague is resolved.
+A further side-effect of this form is that it gives the sorcerer
+a +4 bonus on any Bluff, Diplomacy or Intimidate checks
+he makes to deliver news by the greater sorcerous news
+spell (see page 248), so long as he can plausibly tie
+in the effects of the plague with the message he is
+attempting to communicate. This will usually
+be most effective if he is able to present the
+plague as a divine punishment or
+warning of some kind.
+The devastation that this
+form of black plague
+inflicts on the
+community is
+further heightened by the scorching, blasting effects of
+the wind that drives the disease-ridden miasma. This
+wind blasts corn in the fields and fruit in the trees alike,
+withering plants and slaying animals. The precise effects
+of this on crop plants are up to the Games Master but if
+nothing else all creatures of the animal subtype within the
+area of effect must make Fortitude saving throws just as
+the small number of humans did, or die themselves. In
+the often shaky economies of many Hyborian nations,
+such loss of food crops and animals can weaken or
+destroy entire communities even more effectively than the
+direct effects of the plague.
+The second form of the spell is much more extreme in its
+devastation of humans but affects only a small area and
+has no effect on animals or plants. All humans within the
+specified area (a 10 foot radius per level of the sorcerer) must
+make Fortitude saving throws (DC 17) or die as above. A
+successful saving throw protects them for a week, but if
+they re-enter the area after that they must save again.
+Furthermore, with this version of the spell, the sorcerer
+may concentrate to move the area of effect at a speed of
+up to four miles per hour. This requires almost all the
+sorcerer’s attention, as is usual for a concentration type
+effect; also, Concentration checks may need to be made
+if he is attacked or otherwise distracted while moving the
+area of effect.
+Note that the plague is not actually contagious in either
+version.
+The plague will last for the entire duration of the spell.
+The only way for the sorcerer or anyone else to end it
+prematurely is by somehow taking control of the weather
+in the area and sweeping away the miasma with a great
+storm. Unlike with true diseases, conventional physicians
+using the Heal skill cannot alleviate the plague, though
+certain spells and magical objects may be useful for this.
+Material Component: Essences collected from certain tombs
+in Stygia, to a value of 1,500 silver pieces.
+Greater Black Plague
+Power Point Cost: 15
+Components: V, S, M
+Casting Time: One hour
+Range: Magical Link
+Target: Up to one creature per three levels
+Duration: Instantaneous
+Saving Throw: Fortitude negates
+261
+Sorcery
+Prerequisites: Magic attack bonus +8, black plague, raise
+corpse.
+Magic Attack Roll: Sets DC for the targets’ saving throws
+This enhancement to black plague allows the sorcerer
+to target specific individuals, making it an ideal tool for
+magical assassination. It can only be cast while a standard
+black plague cast by the sorcerer is already in operation
+and can only affect targets within that spell’s area of effect.
+Those targets must immediately make Fortitude saving
+throws as usual for black plague, except that the DC is set
+by the sorcerer’s magic attack roll. These saving throws
+are in addition to any saving throws the victims may have
+already had to make for the black plague spell.
+Death Touch
+Power Point Cost: 2/touch
+Components: V, S
+Casting Time: One standard action
+Range: Touch
+Target: One or more creatures touched, up to a maximum
+of one creature/level
+Duration: One round/level
+Saving Throw: Fortitude partial
+Prerequisites: Magic attack bonus +5, raise corpse.
+Magic Attack Roll: Sets DC for the targets’ saving throws
+Any creature touched by a sorcerer’s unarmed touch attack
+while death touch is active die instantly. A target is
+entitled to attempt a Fortitude saving throw to
+resist the effect. If successful, he is instead stunned for one
+round. A stunned character may not act, nor may he use
+Dodge Defence or Parry Defence. Attackers get a +2 bonus
+on attack rolls against a stunned opponent.
+Each sorcerer or sect has its own variant of this spell,
+differing only in the details. For example, the version used
+by the Priests of Set causes the sorcerer’s hand to turn
+completely black and is known as the Black Hand of Set.
+Anyone slain with it has a black handprint burned on to his
+body with a cold, deathly fire. By contrast, Khitan sorcerers
+(who often wield a Staff of Death to deliver their death
+touches) turn the whole of an enemy corpse completely
+black when using this spell. The Games Master and players
+are encouraged to devise their own ‘signature’ effects when
+casting death touch.
+Draw Forth the Heart
+Power Point Cost: 7
+Components: S
+Casting Time: One standard action
+Range: Evil Eye
+Target: One creature
+Duration: Instantaneous
+Saving Throw: Fortitude partial
+Prerequisites: Ritual Sacrifice, Opportunistic Sacrifice,
+Tormented Sacrifice, magic attack bonus +7, raise corpse,
+death touch, agonising doom, conjuring, telekinesis.
+Magic Attack Roll: Sets DC for the target’s saving
+throw
+This powerful spell can both dispose of an enemy and
+allow the sorcerer to recoup some or all of the Power
+Points used to cast it, with perhaps a few more besides
+if the victim was sufficiently tough.
+If the target fails his saving throw, he dies, his
+heart pulled out of his body and into your
+hands by a magical force. The process is so
+painful to him that although he dies within
+moments, you immediately gain Power Points
+as though you had sacrificed him with the
+Tormented Sacrifice feat after torturing him
+for fifteen minutes.
+A target who makes his saving throw
+suffers an effect similar to a mild heart
+attack and is dealt 4d6 damage.
+He may only perform either a
+move action or standard action on
+his next turn.
+262
+Sorcery
+Oriental Magic
+Oriental magic is most commonly found in Khitai,
+Vendhya and the Himelias, though oriental sorcerers do
+travel the world like all their kind.
+Generally, the Games Master should not overly restrict
+characters from non-oriental cultures from selecting
+Oriental Magic as a sorcery style, though in most cases
+they will need to learn it from another adept or demon or
+be a member of one of the oriental religions such as Asura,
+rather than research it independently. A character who does
+research it independently will likely need to travel to Khitai
+or similarly far afield to do so.
+Calm of the Adept
+(Basic Oriental Magic)
+Power Point Cost: 2
+Components: V, S
+Casting Time: Three hours
+Range: Personal
+Target: Self
+Duration: 24 hours
+Prerequisite: Wis 13.
+By spending much of each morning in meditation, you are
+able to significantly enhance your mind, body and spirit
+for the remainder of the day. You gain a +2 enhancement
+bonus to Dexterity, Wisdom and Charisma for the duration
+of the spell. Furthermore, you gain a +2 bonus on any Will
+saves made to resist spells of the Hypnotism school or
+similar mesmeric effects.
+Vanish (Defensive Blast)
+Power Point Cost: All remaining points
+Components: V
+Casting Time: Immediate
+Range: Personal
+Target: Self
+Duration: One round
+Saving Throw: None
+Roll 1d6 for every Power Point expended when
+this spell is cast. If the total is greater
+than the damage inflicted by the
+attack which provoked the
+defensive blast, the sorcerer
+takes no damage. Instead,
+the sorcerer vanishes
+from the
+scene, leaving only his outer robes behind, which crumple
+to a heap where he was standing. The sorcerer reappears in
+a place chosen by the Games Master – normally a nearby
+sanctum, temple or garden or other tranquil, safe place.
+The sorcerer has no control over where he reappears.
+Darting Serpent
+Power Point Cost: 2+
+Components: V, S
+Casting Time: One standard action
+Range: Personal
+Target: Self
+Duration: One round/level
+Prerequisites: Scholar level 3, calm of the adept.
+For every two Power Points expended, you gain a +2 bonus
+to your Dexterity and an additional +1 enhancement bonus
+to all Initiative checks. You may expend up to two Power
+Points per level. If you use this spell during combat, your
+initiative score is adjusted by +1 per two Power Points you
+expended from the next round onwards. When the spell
+expires your initiative returns to its previous score.
+Willow Dance
+Power Point Cost: 2+
+Components: S
+Casting Time: One standard action
+Range: Personal
+Target: Self
+Duration: One round/level
+Prerequisites: Scholar level 3, calm of the adept.
+For every two Power Points expended, you may increase
+your base movement by five feet and gain a +2 bonus to
+Balance and Jump checks. You may expend up to two
+Power Point per level.
+Shape-Shifter
+Power Point Cost: 10
+Components: V, S, M
+Casting Time: One full round
+Range: Personal
+Target: Self
+Duration: 10 minutes/level
+Prerequisites: Scholar level 12, calm of the adept.
+This spell enables you to assume the form of any single
+non-unique animal (any creature of the animal type) from
+Fine to Colossal size. The assumed form cannot have more
+than twice your scholar level in Hit Dice (to
+a maximum of 40 HD).
+263
+Sorcery
+Your creature type and subtype (if any) change to match
+the new form. You gain the Strength, Dexterity and
+Constitution scores of the new form but retain your own
+Intelligence, Wisdom and Charisma scores. You gain all
+the non-supernatural abilities (both attacks and qualities)
+of the assumed form but lose your own ability to cast spells.
+The new form does not disorient you. Parts of your body
+or pieces of equipment that are separated from you do not
+revert to their original forms.
+While you are in your new form, you can heal up to one
+hit point of damage per scholar level by spending one
+minute resting.
+You can become just about anything you are familiar with.
+You can change form a number of times equal to your
+scholar level during the spell’s duration, with each change
+of form being a full-round action.
+If slain, you revert to your original form, though you
+remain dead.
+Material Component: Assorted gems worth at least 500
+silver pieces.
+Warrior Trance
+Power Point Cost: 6
+Components: V, S
+Casting Time: One standard action
+Range: Personal
+Target: Self
+Duration: One round/level
+Prerequisites: Scholar level 3, calm of the adept.
+Warrior trance gives one of the sorcerer’s natural
+weapons a +2 enhancement bonus to attack
+and damage rolls and gives the caster a +2 dodge bonus
+to Dodge Defence. The spell can affect a slam attack, fist,
+bite or other natural weapon. This spell does not change an
+unarmed strike’s damage from nonlethal damage to normal
+damage. The dodge bonus and enhancement bonus are
+increased to +3 if the sorcerer is 6th level or higher and by
+another +1 each three levels thereafter.
+Yimsha’s Carpet
+Power Point Cost: 20
+Components: V, S, M
+Casting Time: One full round
+Range: Personal
+Area: Up to one foot radius per level
+Duration: One minute/level (D)
+Saving Throw: Fortitude partial
+Prerequisites: Scholar level 14, calm of the adept, summon
+elemental.
+Magic Attack Roll: Sets DC for the victims’ saving
+throws
+Yimsha’s carpet is a supernatural cloud of gold-veined
+crimson that can transport, conceal and protect its
+occupants. It may also be used as an offensive weapon
+against the sorcerer’s enemies. Powered by elemental
+energies, it extends outwards from the sorcerer like a vast
+crimson aura.
+The cloud has four effects: concealment, protection,
+transport and stunning.
+Concealment – the cloud grants concealment (see page
+197). The sorcerer who created the cloud can see
+through this concealment normally but any other
+occupants of the cloud cannot. If there are more than
+five feet of cloud between two occupants, the
+concealment is total.
+Protection – solid objects such as weapons
+have difficulty penetrating the cloud from
+without, giving the occupants an effective
+damage reduction of 4 against any attack that
+originates outside the cloud. This stacks with
+other forms of damage reduction normally.
+Attacks may be made out of or within the
+cloud without hindrance.
+Transport – by concentrating, the
+sorcerer who cast the spell can
+make Yimsha’s carpet fly with
+perfect manoeuvrability at the
+stately speed of 20 feet per
+The scimitar-like beak was slashing for the Devi’s soft
+neck, but Conan was quicker--a short run, a tigerish
+leap, the savage thrust of a dripping knife, and the
+vulture voiced a horribly human cry, pitched sideways
+and went tumbling down the cliffs to the rocks and
+river a thousand feet below. As it dropped, its black
+wings thrashing the air, it took on the semblance, not
+of a bird, but of a black-robed human body that fell,
+arms in wide black sleeves thrown abroad.
+– The People of the Black Circle
+264
+Sorcery
+round. The sorcerer is automatically carried by the carpet,
+and he may bring along any number of passengers that
+fit entirely within its boundaries. If the sorcerer ceases
+concentrating the cloud continues to hover in place and
+support passengers, but moves no further.
+Stunning – living things that enter the cloud must make a
+Fortitude saving throw or be dealt 1d6 nonlethal damage
+per two levels of the casting sorcerer and be stunned for
+1d6 rounds. A stunned character may not act and cannot
+use Dodge Defence or Parry Defence; attackers get a
++2 bonus on attack rolls against a stunned opponent. A
+success on the saving throw halves the damage and means
+the creature is only dazed, not stunned. A character may
+only be affected once by each casting of Yimsha’s carpet.
+The sorcerer who created the cloud may freely chose which
+creatures within the area of effect are friends and which are
+foes. Friends are protected, concealed and transported by
+the cloud and are immune to its stunning and damaging
+effects. Foes gain the effects of protection from outside
+attacks and benefit from concealment while within the
+cloud, but are not transported by it and must content with
+its stunning and damaging effects.
+The sorcerer can ‘switch on’ and ‘switch off ’ the cloud as a
+free action up to once per round during its duration. While
+switched off the cloud has no effects at all but any rounds it
+is switched off still count towards the duration.
+Material Component: Gold dust and herbal smoke-powders
+to a total value of 850 silver pieces.
+Prestidigitation
+Prestidigitation is often one of the first sorcerous paths a
+scholar learns, since it allows the production of more or less
+immediate magical effects with which to impress or terrify
+ordinary folk.
+Conjuring (Basic
+Prestidigitation)
+Power Point Cost: 1
+Components: S
+Casting Time: One standard action
+Range: Close (25 ft. + 5 ft. per
+two levels)
+Effect: See below
+Duration: Concentration
+Saving Throw: None
+Prerequisite: Sleight of Hand 4 ranks.
+This spell allows the sorcerer to do minor acts of
+prestidigitation or illusion at a cost of one Power Point for
+each effect. Examples include suspending objects in midair
+or causing his eyes to glow red. The following effects are
+all possible uses of this sorcery style:
+* Telekinetically move a small, unattended object
+(weighing up to five pounds), so long as it remains
+within the spell’s range. The object can be moved at up
+to 20 feet per round.
+* Place a small object (weighing up to 10 pounds)
+from your hands into midair and have it remain there
+suspended, so long as you remain within the spell’s
+range. Note that in this case you cannot move the
+object. If you deliberately end the spell, you may spend
+one round concentrating on lowering the object gently
+to the ground. If your concentration is broken, the
+object simply falls to the ground with a crash.
+* Telekinetically guide a cloud of smoke or gas up
+to 5 feet by 5 feet by 5 feet in size. This could
+include a venomous gas cloud or similar herbal or
+alchemical product. The smoke can be moved at up to
+10 feet per round.
+* Control a normal shadow up to 5 feet by 5 feet in
+size as though it were a puppet, potentially altering
+its shape and size as well as causing it to perform
+certain actions.
+* Alter your appearance in one minor way. This is not
+sufficient to provide an effective disguise but if desired
+you could use it to gain a +4 circumstance bonus to
+Intimidate checks. Examples include growing horns,
+causing your eyes to appear reptilian and similar
+effects. This cannot grant you any bonuses to combat
+– horns or claws, for example, do not allow you to
+make any special attacks.
+Conan spat savagely at the word, and Xaltotun, ignoring
+his fury, took a crystal globe from a near-by table and
+placed it before him. He did not support it in any way,
+nor place it on anything, but it hung motionless in midair,
+as solidly as if it rested on an iron pedestal.
+– The Hour of the Dragon
+265
+Sorcery
+* Open or close a container or door at a distance. The
+object to be opened or closed must not be locked,
+barred, jammed or any larger or heavier than a standard,
+human-built door or chest.
+* Colour, clean or soil objects (but not creatures) in a
+one-foot cube each round. For example, the sorcerer
+could turn a rose from white to red, or make a little
+whirlwind to sweep dust under a rug.
+* Chill, warm or fl avour one pound of nonliving material.
+This could be used to make a cheap meal more palatable
+or chill an expensive wine before serving.
+Blast Wave
+(Defensive Blast)
+Power Point Cost: All remaining points
+Components: V
+Casting Time: Immediate
+Range: Personal
+Area: A 10 foot radius around the sorcerer
+Duration: Instantaneous
+Saving Throw: Reflex half
+Magic Attack Roll: Sets DC of the victims’ saving throws
+When this spell is cast, all characters within 10 feet of
+the caster are struck by an invisible wave of force. The
+characters are hurled back 1d6 feet for every Power Point
+expended when the spell is cast and take normal falling
+damage (1d6 point of damage per 10 feet fallen). This
+damage is doubled if the victims hit a wall or other barrier.
+Victims are hurled straight back away from the caster. A
+successful Reflex save (DC equals the caster’s magic attack
+roll) means that the victims are only thrown half as far.
+Burst Barrier
+Power Point Cost: 2
+Components: S
+Casting Time: One standard action
+Range: Close (25 ft. + 5 ft. per two levels)
+Target: One door, portcullis, wall, chest or other barrier
+Duration: Instantaneous
+Saving Throw: None
+Prerequisites: Scholar level 3, conjuring.
+The sorcerer creates a surge of magical force, as though a
+giant had shoulder-charged some barrier or other object
+that for some reason merits the sorcerer’s displeasure. He
+makes a Strength check as though the object had been
+hit by a Huge creature (+8 size bonus to Strength
+checks) with a Strength equal to the sorcerer’s
+level × 5.
+Note that unlike a more physical attempt to break or burst
+an object, the magical force created by this spell is entirely
+silent. As a useful side effect, the spell also silences any
+noises that would usually caused by its action. Even if the
+door falls to the ground, completely torn asunder from its
+hinges, no noise will be created.
+Conjure Item
+Power Point Cost: 1+
+Components: S
+Casting Time: One standard action
+Range: Touch
+Effect: See below
+Duration: 1d6 hours
+Saving Throw: None
+Magic Attack Roll: Sets Appraise DC
+Prerequisite: Conjuring.
+By means of this spell, the sorcerer can conjure up any
+simple, common item that he could fit in his pocket or
+bag, up to a maximum size of a one-handed weapon. The
+spell costs one Power Point for tiny items like daggers or
+keys; larger items like swords or helmets cost more points.
+He cannot create true gold or other precious metals or
+gemstones with the spell but he can make false valuables.
+An Appraise roll against a DC equal to the sorcerer’s magic
+attack roll can be made to identify such conjured items.
+The sorcerer must be able to precisely visualise the item
+he desires. When the spell expires, the item is revealed to
+be what it truly is – twigs, folded paper, rusted scraps of
+metal or a handful of dust given shape by sorcery.
+Telekinesis
+Power Point Cost: 1
+Components: S
+Casting Time: One standard action
+Range: 120 ft
+Effect: One object touched
+Duration: Instantaneous
+Saving Throw: Special (see below)
+Prerequisites: Scholar level 3, Sleight of Hand
+5 ranks, conjuring.
+The sorcerer can hurl an object from his
+hand at an opponent, expending personal
+sorcerous power to do so. Objects which
+can be thrown in this manner include
+all the herbal and alchemical items
+marked by an asterisk (*) later in
+this chapter, as well as such items
+as rocks, weapons and so on.
+266
+Sorcery
+The sorcerer must make a ranged attack roll as normal
+to hit his target. The main advantage of telekinesis over
+simply throwing the object by hand is its increased
+accuracy, particularly at range. An object can be hurled up
+to 120 feet and is never affected by range penalties. Most
+objects will deal either their standard weapon damage or
+improvised weapon damage appropriate to their size and
+composition. Herbal or alchemical items will have their
+standard effects and may or may not require saving throws
+depending on the item.
+Greater Telekinesis
+Power Point Cost: 1/object
+Components: S
+Casting Time: One standard action
+Range: 120 ft
+Effect: Up to one object/level within Close range (25 ft. +
+5 ft. per two levels)
+Duration: Instantaneous
+Saving Throw: Special
+Prerequisites: Scholar level 3, Bluff 6 ranks, Sleight of
+Hand 6 ranks, prestidigitation, telekinesis.
+This works like telekinesis, except as indicated above. Most
+notably the sorcerer may throw more than one object and
+he need not be touching the objects he hurls. Each object
+may have a separate target if the sorcerer so wishes. The
+sorcerer may also use greater telekinesis in a manner known
+as ‘hidden death’.
+When using hidden death, the sorcerer can affect a
+maximum of two objects which must both be on the
+sorcerer’s person. He may draw and throw them both as
+part of the standard action taken to cast the spell, hurling
+one from each hand (and at separate targets if he wishes).
+If he succeeds in a Bluff check opposed by his target’s Sense
+Motive check, the target loses any dodge or Dexterity
+bonuses to his Dodge Defence. Otherwise, hidden death
+follows all the normal rules for telekinesis attacks.
+Deflection
+Power Point Cost: 2
+Components: V, S
+Casting Time: Immediate or one
+standard action
+Range: Close (25 ft. + 5 ft.
+per two levels)
+Target: One attack
+Duration: Instantaneous
+Prerequisites: Scholar level 3, prestidigitation.
+Magic Attack Roll: Becomes Parry Defence
+By means of this spell, the sorcerer can deflect incoming
+blows. The spell can be cast in two ways: as an immediate
+action to deflect a blow aimed at the sorcerer; or as a
+standard action (normally a readied action), in which case
+it can be used against any blow that falls within range
+regardless of target.
+In either form the spell is cast after the attack roll is
+compared to the target’s chosen Defence. The sorcerer’s
+magic attack roll for this spell effectively functions as an
+extra Parry, deflecting the blow if the magic attack roll is
+higher than the attack roll.
+This spell can be used to parry ranged attacks.
+Summoning
+Perhaps the gateway to the greatest magical power is
+through summoning otherworldly entities to do one’s
+bidding. Demonic pacts in particular can offer the sorcerer
+almost unlimited power but only at the most dreadful
+price: the corruption of his very soul.
+The Summoning sorcery style is unusual in that it offers
+a choice of two basic spells: master-words and signs and
+demonic pact. Put simply, the essential difference between
+these two spells is that master-words and signs compels a
+demon to work for you and demonic pact involves making
+a deal with a demon whereby you will work for it in return
+for certain assistance.
+Master-Words and Signs
+(Basic Summoning)
+Power Point Cost: 12
+Components: V, S, M
+Casting Time: One week
+Range: See below
+Target: One demon lord
+Duration: Instantaneous
+Saving Throw: Will negates
+Prerequisites: Knowledge (arcana) 15 ranks, magic attack
+bonus +6, must know at least four sorcery styles, must
+never have cast the demonic pact spell.
+Magic Attack Roll: Sets DC of the target’s saving throw
+Master-words and signs summons up a demon lord and
+forces it to instruct the sorcerer in the master-words and
+signs by which almost any entity ranked
+267
+Sorcery
+below it can be compelled. The sorcerer is able to compel
+the demon lord by demonstrating his superior magical
+prowess over it.
+Only fairly high-powered sorcerers can learn this spell
+and so most prefer the quick and easy path of a demonic
+pact. Though the demon lord will not serve the sorcerer
+directly, the knowledge of the master-words and signs can
+be used to force other demons and similar entities to work
+for the sorcerer, which is often more useful in any case.
+The sorcerer gains a permanent +2 circumstance bonus to
+any magic attack rolls made in connection with summon
+demon, summon elemental or any other Summoning spells
+or when targeting summoned creatures with other spells.
+Furthermore, he may, up to once per round, use his
+knowledge of master-words and signs to formulate a simple
+spell based on either a single Verbal or a single Somatic
+component (his choice). This is cast as a free action, costs
+two Power Points and affects a single
+summoned creature within Evil Eye
+range. The summoned creature must
+immediately make a Will saving throw
+(DC set by the sorcerer’s magic attack
+roll) or be instantly dismissed back to its
+home.
+Essentially, this spell opens the door
+to (and enhances) other
+summoning spells and
+assists with dismissing
+creatures summoned by
+other scholars; it
+has no special
+effects other
+than that.
+The demon lord gains a Will saving throw to resist the
+sorcerer’s summoning and remain in its hellish home. For
+this purpose, its total Will saving throw bonus is assumed
+to be +12. If it succeeds, the sorcerer may not cast the spell
+again until his magic attack bonus has increased, which
+may be by a simple level increase or some other means such
+as a Charisma bonus increase.
+Once you have successfully cast this spell once, you no
+longer have any particular need to cast it again.
+Material Component: Powders, potions, incenses and other
+trappings to a total cost of 2,000 silver pieces.
+Demonic Pact
+(Basic Summoning)
+Power Point Cost: 2
+Components: V, S, M
+Casting Time: One hour
+Range: Effectively unlimited
+Target: One demon
+Duration: One hour/level or until task is fulfilled, but see
+below
+Saving Throw: None
+Prerequisite: Knowledge (arcana) 4 ranks.
+The first time a sorcerer casts this spell, he voluntarily
+enters into a long-term pact with a demonic entity of
+medium power. The Games Master determines the precise
+nature of the demon, possibly in consultation with the
+player of the sorcerer character. The demon is usually
+chosen from among the types listed in Chapter 13:
+A Hyborian Bestiary.
+Usually the demon will know all the spells from 1d4+1
+sorcery styles (not including Summoning) in
+addition to greater demonic pact, summon
+elemental and summon demon from the
+Summoning style, though the precise
+number of styles known will be dependent
+on the type of demon with whom the pact
+is made. The demon will teach the sorcerer
+one of these spells or styles (of the sorcerer’s
+choice) whenever he would normally be
+eligible to learn a new spell or sorcery style;
+however, the sorcerer will need to summon
+the demon by casting this spell once
+more. If the sorcerer waits until he
+is eligible for a new spell before
+casting demonic pact for the first
+time, he can learn the new spell
+when he summons the
+268
+Sorcery
+demon; he does not have to re-cast demonic pact. The
+duration of demonic pact will always be sufficient for the
+sorcerer to learn a new spell from the demon.
+Instead of learning a new spell, the sorcerer can call up
+the demon by casting demonic pact and make a deal that
+involves the demon performing a specific task for the
+sorcerer, such as attacking an enemy or scaring a rival.
+Such a task is always at the demon’s discretion; it will
+not necessarily agree to the task sorcerer’s asks for, or it
+may suggest an alternate task. Furthermore it will always
+demand a price of some kind, usually a human sacrifice,
+for performing the task. Finally, because it is a demon, it
+may well attempt to twist the sorcerer’s words so that it
+performs the letter but not the spirit of the task.
+The demon will also help the sorcerer in a more
+direct manner, by granting him a small
+talisman, tattoo or brand which
+he can touch as a free action
+up to once per week in order to gain a +4 luck bonus on
+any skill check, ability check, attack roll or magic attack roll
+or to gain a +4 insight bonus to his Defence for one round.
+This talisman, tattoo or brand retains its power even when
+the demon is not present but it only works for the sorcerer
+himself. If ever a month goes by when the sorcerer does
+not either call up the demon or sacrifice a creature to it, the
+power of the talisman, tattoo or brand is lost until the next
+time he performs one of those actions. Worse, the demon
+will consider this a breach of contract; sooner or later, he
+will come for the sorcerer, to carry him off to hell…
+Each time a sorcerer casts this spell, he must make a
+Corruption saving throw (see page 82) or gain one
+point of Corruption. The first time he casts the spell, he
+automatically fails this saving throw.
+A character who has already cast this spell on his own behalf
+can also cast it for the benefit of another willing character.
+In that case the other character gains all the benefits and
+drawbacks of the spell, including the Corruption, although
+the casting sorcerer also has to make a Corruption save for
+casting the spell as usual.
+As well as the usual effects of Corruption, the sorcerer
+applies his Corruption as a circumstance penalty to
+any Will saving throws he makes against the sorcery or
+supernatural abilities of the demonic entity with whom
+he has the pact. In addition, he applies his Corruption as
+a circumstance penalty to all magic attack rolls he makes
+against the demon with whom he has the pact.
+Furthermore, if a sorcerer ever casts this spell for the
+benefit of another willing character the demon may use
+either character’s Corruption against them in this way.
+Thus many sorcerers are reluctant to cast this spell on
+another’s behalf, since the more people a sorcerer assists to
+make their own demonic pacts, the more demons there will
+be against whom his powers are weak.
+No character can have a pact with more than one demon at
+any one time. If ever a sorcerer with a demonic pact should
+cast a greater demonic pact spell, the more powerful spell
+replaces the effects of the other.
+Material Component: Powders, potions, incenses and other
+trappings to a total cost of 50 silver pieces.
+269
+Sorcery
+Master, Aid Me!
+(Defensive Blast)
+Power Point Cost: All remaining points
+Components: V
+Casting Time: Immediate
+Range: 10 feet
+Target: One or more demons (see below)
+Duration: One round per Power Point expended
+Saving Throw: None
+This spell can only be cast if the sorcerer has already
+entered into a demonic pact. When this spell is cast, the
+sorcerer’s demonic master appears instantly to defend its
+pawn. The demon appears anywhere within 10 feet of the
+sorcerer and acts immediately. The demon may choose to
+block the attack that provoked the casting of this defensive
+blast – if the demon chooses this option, it must make a
+Reflex saving throw against a DC equal to the attacker’s
+attack roll. If the Reflex save is successful, the demon takes
+the damage from the attack instead of the sorcerer.
+The demon remains for one round per Power Point
+expended or until it is slain or banished, using its powers
+as it sees fit.
+The sorcerer automatically gains one Corruption Point
+when this spell is cast.
+If the sorcerer is subject to a greater demonic pact when
+this spell is cast, he may use it to summon more than one
+demonic minion to his side. Each Power Point that powers
+the spell summons a single demon for a single round.
+Greater Demonic Pact
+Power Point Cost: 8
+Components: V, S, M
+Casting Time: Three hours
+Range: Effectively unlimited
+Target: One demon lord
+Duration: One hour/level, or until task is fulfilled but see
+below
+Saving Throw: None
+Prerequisites: Knowledge (arcana) 15 ranks, Ritual
+Sacrifice, Tortured Sacrifice, magic attack bonus +6,
+demonic pact, must know at least four sorcery styles, must
+be subject to a demonic pact.
+This spell works as for demonic pact, except as noted above
+and below.
+The demon summoned is a demon lord, rather than a
+demon of medium power as for demonic pact. No game
+statistics are provided for demon lords in Chapter 12: A
+Hyborian Bestiary; in effect, they are more like minor
+demonic gods than mere monsters.
+A demon lord knows all spells and all sorcery styles.
+Rather than intervening personally on behalf of the sorcerer
+the demon lord summoned with greater demonic pact will
+send one or more minions, which can be any of the entities
+that could normally be summoned with the summon
+demon spell, up to a total maximum HD equal to twice the
+sorcerer’s level. It is these minions that will respond to any
+casting of the spell master, aid me! as well.
+The insight or luck bonus granted by its brand, tattoo or
+talisman is doubled to +8.
+Each time a sorcerer casts this spell, he must make
+a Corruption saving throw or gain one point of
+Corruption, as for demonic pact. However, he does not he
+automatically fail this saving throw the first time he casts
+greater demonic pact.
+It is impossible for one sorcerer to have a pact with
+more than one demon or demon lord at a time. The
+greater demonic pact replaces the demonic pact that is the
+prerequisite for the spell.
+Material Component: Powders, potions, incenses and
+other trappings to a total cost of 500 silver pieces plus
+a virgin human female who is sacrificed to the demon
+lord during the casting of the spell.
+Summon Demon
+Power Point Cost: 1 per HD of demon
+Components: V, S, M, XP
+Casting Time: One full round
+Range: Close (25 ft. + 5 ft. per two levels)
+Effect: One demon, of maximum HD equal to
+the caster’s level
+Duration: One task, lasting up to one hour/
+level
+Saving Throw: See below
+Prerequisites: Magic attack bonus +4,
+master-words and signs or demonic
+pact.
+Magic Attack Roll: Sets DC for
+the demon’s saving throw
+270
+Sorcery
+This spell calls up a single demon to perform a specific task
+for the sorcerer. This could be as simple as ‘defend me for
+the duration of the spell’ or a good deal more complex.
+However, if the wording of the sorcerer’s instructions
+allows for misunderstanding or wilful misinterpretation,
+it is likely that the demon will follow the letter of the
+agreement rather than the spirit.
+As the sorcerer who casts this spell is instructing and
+ordering the demon in question, he need not make a
+Corruption saving throw. In effect, this does not count
+as ‘making peaceful contact’ with the demon – the
+sorcerer is using his own authority or that of the demon
+with whom he has a pact to force the summoned demon
+to co-operate, which is hardly either peaceful or in the
+demon’s best interests.
+The demon you are attempting to summon gains a Will
+saving throw (with a DC set by the magic attack roll) to
+resist the spell and remain in its own hell, or in the Outer
+Dark or wherever it abides.
+Material Component: A pinch of powdered sulphur, cast
+into the air or onto the floor. The demon arises from
+the sulphur.
+Experience Point Cost: 50 XP/HD of demon.
+Summon Elemental
+Power Point Cost: 2 per HD of elemental
+Components: F or V, M, XP
+Casting Time: One full round
+Range: Close (25 ft. + 5 ft. per two levels)
+Effect: One elemental, of maximum HD equal to twice
+the caster’s level
+Duration: One task, lasting up to one hour/level
+Saving Throw: See below
+Prerequisites: Perform (song or an appropriate musical
+instrument) 10 ranks, magic attack bonus +7, masterwords
+and signs or greater demonic pact.
+Magic Attack Roll: Sets DC for the elemental’s saving
+throw
+This spell calls up a single elemental to perform
+a specific task for the sorcerer. This
+could be as simple as ‘defend
+me for the duration of the
+spell’ or a good deal more
+complex. In most cases,
+though, the elemental will perform the task to the best
+of its ability and understanding, rather than deliberately
+misunderstanding as a summoned demon usually would.
+The elemental is summoned up anywhere within line of
+sight of the sorcerer.
+The task must never be more than one single mission. For
+example, an air elemental could carry the sorcerer’s servant
+from Vendhya to Zembabwe but not wait around till he
+finishes his business there and bring him back. A water
+elemental could be summoned up to cause a river to flood,
+to destroy a specific ship (or even a whole fleet of ships)
+or to guard a port town and attack any black-sailed ships
+that come near it for the duration of the spell. However, it
+could not destroy a ship in the Western Ocean, rush over
+to the Baracha Isles to destroy another ship in the harbour
+at Tortage and then head to Argos to cause a storm. The
+elemental, as played by the Games Master, will never
+agree to any task that sounds like it is really two missions
+disguised as one. An elemental will regard any single use of
+one of its special attacks as a task in and of itself.
+One option that always exists with elementals is to call
+them up on a contingency basis. In this case, the sorcerer
+casts the spell in advance, explains the task the elemental
+is to be called up for and the event that will trigger it,
+then dismisses the elemental again. If the triggering event
+occurs within the duration of the spell, the elemental will
+manifest automatically, perform the task and then leave. If
+the triggering event does not occur within the duration of
+the spell, the spell will be wasted and nothing will happen.
+When summoned up on a contingency basis in this way,
+the elemental will be unable to manifest unless the material
+component is present. The focus or verbal component,
+however, is only necessary when initially casting the spell.
+The elemental you are attempting to summon gains a
+Will saving throw (with a DC set by the magic attack roll)
+to resist the spell and remain in its own strange home. If
+summoned up on a contingency basis, it may only make
+one Will saving throw when you call it up to begin the
+initial negotiations – if the contingency later occurs, it
+manifests without getting a saving throw to stay home.
+Focus: A musical instrument, played by the sorcerer during
+the spell’s casting time. This must be appropriate to the
+elemental called: a drum for water elementals, song or pipes
+for air elementals, stringed instrument for fire elementals
+or horn for earth elementals. A sorcerer with 10 ranks of
+Perform (song) does not need to use a separate instrument
+when calling up an air elemental (only), as his voice acts as
+a verbal component to replace the focus.
+271
+Sorcery
+Material Component: A small quantity of the element to
+be summoned up. This need only be a token amount: a
+breath of air for an air elemental (which is usually provided
+by the air that forms the sound of the song or pipe music),
+a cupful of water for a water elemental, a small fire (such as
+is caused by a handful of flame-powder) for a fire elemental
+and at least four cubic inches of bare earth for an earth
+elemental.
+Experience Point Cost: 50 XP/HD of elemental.
+Channel Demon
+Power Point Cost: 2
+Components: V, S
+Casting Time: One standard action
+Range: Personal
+Duration: One round per caster level
+Prerequisites: Demonic pact.
+When this spell is cast, the sorcerer’s face contorts as his body
+is temporarily infused with demonic energies! He gains a
++4 enhancement bonus to Strength and Constitution and
+his damage reduction increases by +2. Furthermore, he can
+use his hands as claws that deal 1d6 damage on a successful
+hit; these count as weapons for the purposes of attacks. The
+sorcerer automatically gains one Corruption point when
+he casts this spell.

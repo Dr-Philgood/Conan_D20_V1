@@ -1,0 +1,165 @@
+{{!-- Weapon item sheet. Stores weapon stats used by actor attack and damage rolls. --}}
+<form class="conan-item-sheet" autocomplete="off">
+  {{!-- Header: item image and editable item name. --}}
+  <header class="sheet-header">
+    <img class="profile-img" src="{{item.img}}" data-edit="img" title="{{item.name}}">
+    <div class="header-fields">
+      <h1>
+        <input name="name" type="text" value="{{item.name}}" placeholder="Weapon Name">
+      </h1>
+    </div>
+  </header>
+
+  {{!-- Main weapon fields: attack type, damage, traits, equipment state, and economy data. --}}
+  <section class="panel">
+    <div class="grid two">
+      <label>
+        Category
+        <input type="text" name="system.category" value="{{system.category}}">
+      </label>
+
+      <label>
+        Attack Type
+        <select name="system.attackType">
+          {{#each config.attackTypes}}
+            <option value="{{@key}}" {{#if (eq @key ../system.attackType)}}selected{{/if}}>
+              {{this}}
+            </option>
+          {{/each}}
+        </select>
+      </label>
+
+      <label>
+        Damage
+        <input type="text" name="system.damage" value="{{system.damage}}" placeholder="e.g. 1d10">
+      </label>
+
+      <label>
+        Critical
+        <input type="text" name="system.critical" value="{{system.critical}}" placeholder="e.g. 19-20/x2">
+      </label>
+
+      <label>
+        Damage Type
+        <input type="text" name="system.damageType" value="{{system.damageType}}" placeholder="e.g. slashing">
+      </label>
+
+      <label>
+        Qualities
+        <input type="text" name="system.qualities" value="{{system.qualities}}" placeholder="e.g. reach, trip, armor-piercing">
+      </label>
+
+      <label>
+        Quality
+        <select name="system.quality">
+          {{#each config.weaponQuality}}
+            <option value="{{@key}}" {{#if (eq @key ../system.quality)}}selected{{/if}}>
+              {{this}}
+            </option>
+          {{/each}}
+        </select>
+      </label>
+
+      <label>
+        Material
+        <select name="system.material">
+          {{#each config.weaponMaterials}}
+            <option value="{{@key}}" {{#if (eq @key ../system.material)}}selected{{/if}}>
+              {{this}}
+            </option>
+          {{/each}}
+        </select>
+      </label>
+
+      <label>
+        Hit Points
+        <input type="number" name="system.hitpoints" value="{{system.hitpoints}}" min="0">
+      </label>
+
+      <label>
+        Hardness
+        <input type="number" name="system.hardness" value="{{system.hardness}}" min="0">
+      </label>
+
+      <label>
+        Handedness
+        <select name="system.handedness">
+          {{#each config.handedness}}
+            <option value="{{@key}}" {{#if (eq @key ../system.handedness)}}selected{{/if}}>
+              {{this}}
+            </option>
+          {{/each}}
+        </select>
+      </label>
+
+      <label>
+        Range Increment
+        <input type="number" name="system.rangeIncrement" value="{{system.rangeIncrement}}">
+      </label>
+
+      <label>
+        Armor Piercing
+        <input type="number" name="system.armorPiercing" value="{{system.armorPiercing}}" min="0">
+      </label>
+
+      <label>
+        Attack Bonus
+        <input type="number" name="system.attackBonus" value="{{system.attackBonus}}">
+      </label>
+
+      <label>
+        Finesse Weapon
+        <input type="checkbox" name="system.finesse" {{#if system.finesse}}checked{{/if}}>
+      </label>
+
+      <label>
+        Equipped
+        <input type="checkbox" name="system.equipped" {{#if system.equipped}}checked{{/if}}>
+      </label>
+
+      <label>
+        Pin to Overview
+        <input type="checkbox" name="system.pinned" {{#if system.pinned}}checked{{/if}}>
+      </label>
+
+      <label>
+        Weight
+        <input type="number" step="0.1" name="system.weight" value="{{system.weight}}">
+      </label>
+
+      <label>
+        Cost
+        <input type="text" name="system.cost" value="{{system.cost}}">
+      </label>
+    </div>
+  </section>
+
+  {{!-- Rules reminder for how this system interprets weapon settings. --}}
+  <section class="panel">
+    <p>
+      Melee attacks use Strength unless marked as Finesse. Ranged and thrown attacks use Dexterity to hit.
+      Thrown weapon damage still adds Strength.
+    </p>
+  </section>
+
+  <section class="panel">
+    <h2>Quality & Material Effects</h2>
+    <div class="grid two">
+      <div>Effective Attack Bonus: <strong>{{effects.attackBonus}}</strong></div>
+      <div>Effective Armour Piercing: <strong>{{effects.armorPiercing}}</strong></div>
+      <div>Effective Hardness: <strong>{{effects.hardness}}</strong></div>
+      <div>Effective Hit Points: <strong>{{effects.hitpoints}}</strong></div>
+      <div>Cost Multiplier: <strong>x{{effects.costMultiplier}}</strong></div>
+      <div>Adjusted Cost: <strong>{{#if effects.adjustedCost}}{{effects.adjustedCost}}{{else}}Manual{{/if}}</strong></div>
+    </div>
+    {{#if effects.notes.length}}
+      <p>{{#each effects.notes}}{{this}}{{#unless @last}} {{/unless}}{{/each}}</p>
+    {{/if}}
+  </section>
+
+  {{!-- Rich-text description stored on the item. --}}
+  <section class="panel">
+    <h2>Description</h2>
+    {{editor system.description target="system.description" button=true owner=owner editable=editable}}
+  </section>
+</form>

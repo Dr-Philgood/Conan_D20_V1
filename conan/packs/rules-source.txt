@@ -1,0 +1,4102 @@
+Combat Modifiers
+Basic combat is covered by the rules above but there are
+numerous instances and conditions that can complicate
+a battle. Tactically minded players can use these to their
+advantage, while those with the skills or abilities to do
+so may impose them against their foes. In any case,
+these factors can combine to make nearly impossible
+battles merely difficult and to make invulnerable enemies
+vulnerable to a strategically planned assault. The true art
+of combat exists in understanding and taking advantage of
+these modifiers.
+Cover
+Cover makes a target harder to hit by introducing an
+obstacle between an attack and its destination.
+Cover Against
+Ranged Attacks
+To determine whether a target has cover from a ranged
+attack, choose a corner of the attacker’s square. If any line
+from this corner to any corner of the target’s square passes
+through a square or border that blocks the line or provides
+cover, or passes through a square occupied by a creature,
+the target has cover and gains a +4 cover bonus to his
+Defence against the attack.
+Cover Against
+Melee Attacks
+When making a melee attack against an adjacent target,
+the target has cover if any line from the attacker’s square
+to the target’s square goes through a wall, including a low
+wall. When making a melee attack against a target that is
+not adjacent to the attacker, such as with a reach weapon,
+use the rules for determining cover from ranged attacks.
+Again, cover grants a +4 cover bonus to Defence.
+Low Obstacles and Cover
+A low obstacle, such as a wall no higher than half the
+attacker’s height, provides cover but only to creatures
+within 30 feet (six squares) of it. The attacker can ignore
+the cover if he is closer to the obstacle than his target is.
+Cover and Attacks
+of Opportunity
+A character cannot execute an attack of opportunity against
+an opponent that has cover.
+Cover and Reflex
+Saving Throws
+Cover grants a +2 cover bonus on Reflex saving throws
+against attacks that originate or burst out from a point on
+the other side of the cover. Note that a spread effect can
+extend around corners and thus negate this cover bonus.
+Cover from
+ranged attacks
+cover in
+melee
+This pict has cover from
+the wall (+4 Defence).
+This pict has cover from Conan (+4
+Defence) and Valeria is shooting
+into melee (–4 on her attack roll).
+This pict has cover
+from Valeria’s attacks
+(and vice versa).
+This pict, however, does not
+interfere with attacks between
+Conan and his compatriot.
+197
+Combat
+Cover and Hide Checks
+A character can use cover to make a Hide check. Without
+cover, he usually needs concealment (see below) to make a
+Hide check.
+Soft Cover
+Creatures, even one’s enemies, can provide one with cover
+against ranged attacks, granting a +4 bonus to Defence.
+However, such soft cover provides no bonus on Reflex
+saving throws, nor does soft cover allow one to make a
+Hide check.
+Big Creatures and Cover
+Any creature that takes up a space larger than five feet
+(one square) determines cover against melee attacks
+slightly differently than smaller creatures. Such a creature
+can choose any square that it occupies to determine if an
+opponent has cover against its melee attacks. Similarly,
+when making a melee attack against such a creature, the
+attacker can pick any of the squares it occupies to determine
+whether it has cover.
+Total Cover
+If a player cannot draw a straight line between his square
+and any part of his target, the target is considered to have
+total cover. Attacks cannot be made against a target that
+has total cover.
+Varying Degrees of Cover
+In some cases, cover may provide a greater bonus to
+Defence and Reflex saving throws. In such situations
+the normal cover bonuses to Defence and Reflex saving
+throws are doubled, to +8 and +4, respectively. A creature
+with this improved cover takes no damage at all if he
+successfully saves against any attack to which the Reflex
+saving throw bonus applies. Even if he fails, he takes only
+half damage. Furthermore, improved cover provides a +10
+bonus on Hide checks.
+Concealment
+To determine whether a target has concealment from a
+ranged attack, choose a corner of the attacker’s square.
+If the line from this corner to any corner of the target’s
+square passes through a square or border that provides
+concealment, the target has concealment.
+When making a melee attack against an adjacent
+target, the target has concealment if his space
+is entirely within an effect that grants
+concealment. When a character makes a melee attack
+against a target that is not adjacent to him, use the rules for
+determining concealment from ranged attacks. In addition,
+some magical effects provide concealment against all attacks,
+regardless of whether any intervening concealment exists.
+Concealment Miss Chance
+Concealment gives the object of a successful attack a 20%
+chance that the attacker missed because of the concealment.
+If the attack hits, the defender must make a miss chance
+percentile roll to avoid being struck. Multiple concealment
+conditions do not stack.
+Concealment and Hiding
+In the absence of cover a character can use concealment to
+make a Hide check.
+Total Concealment
+If a character does not have line of sight to a target that he
+could otherwise attack, the target is considered to have total
+concealment. A character cannot attack an opponent that has
+total concealment, though he can attack into a specific square
+if his adversary is suspected to be there. A successful attack into
+a square occupied by an enemy with total concealment has a
+50% miss chance instead of the normal 20% miss chance for
+an opponent with concealment. A character cannot execute
+an attack of opportunity against an opponent who has total
+concealment, even if the attacker knows what square or
+squares the opponent occupies.
+Ignoring Concealment
+Concealment is not always effective. Although
+invisibility provides total concealment, sighted
+opponents may still make Spot checks to notice
+the location of an invisible character. An
+invisible character who is moving gains a +20
+bonus on Hide checks; he gains a +40 bonus on
+Hide checks when he is stationary. Even though
+opponents cannot see a character, they might
+be able to figure out where he is from other
+visual clues.
+Varying Degrees of
+Concealment
+Certain situations may provide
+more or less than the typical level
+of concealment and modify the
+miss chance accordingly.
+198
+Combat
+Flanking
+When making a melee attack, a character gets a +2 flanking
+bonus to the attack roll if his opponent is threatened by
+a character or creature friendly to the attacker on the
+opponent’s opposite border or opposite corner. When
+in doubt about whether two friendly characters flank an
+opponent, trace an imaginary line between the two friendly
+characters’ centres. If the line passes through opposite
+borders of the opponent’s space, including corners of those
+borders, then the opponent is flanked. Being flanked does
+not render a character unable to dodge or parry, but it does
+render the victim susceptible to sneak attacks.
+* Exception: If a flanker takes up more than one square,
+it gets the flanking bonus if any square it occupies
+counts for flanking. Only a creature or character that
+threatens the defender can help an attacker get a flanking
+bonus. Creatures with a reach of zero feet cannot
+flank an opponent.
+Helpless Defenders
+A helpless opponent is someone who is bound, sleeping,
+paralysed, unconscious, or otherwise at your mercy.
+Regular Attack
+A helpless character can neither dodge
+nor parry. A thief or pirate can
+therefore sneak attack him.
+He has an effective Dexterity
+of zero, for a –5 penalty to
+Defence. He suffers
+an additional –4 penalty to his Defence against melee
+attacks but no additional penalty against ranged attacks.
+Coup de Grace
+As a full-round action, a character can use a melee weapon
+to deliver a coup de grace to a helpless opponent. He can
+also use a bow or crossbow, provided he is adjacent to the
+target. He automatically hits and scores a critical hit. If the
+defender survives the damage, he must make a Fortitude
+saving throw (DC 10 + damage dealt) or die. Thieves and
+pirates also get their extra sneak attack damage against a
+helpless opponent when delivering a coup de grace.
+Delivering a coup de grace provokes attacks of opportunity
+from threatening opponents. One cannot deliver a coup
+de grace against a creature that is immune to critical hits.
+One can deliver a coup de grace against a creature with
+total concealment but doing this requires two consecutive
+full-round actions: one to ‘find’ the creature once the
+attacker has determined what square it is in and one to
+deliver the coup de grace.
+Flanking illustrated
+Here, picts A and E
+give each other flflanking
+bonuses. Pict D gets no
+bonus because he has no
+ally on the opposite side
+of Conan. Pict B also
+gets no bonus because
+pict C is stunned and
+so does not threaten
+Conan’s space.
+Sneak Attack
+Only characters with levels in certain classes,
+such as temptress, thief or pirate, or from
+certain races, such as Zingaran, can make
+sneak attacks. A sneak attack can only be made
+against a character who is unable to use Dodge
+Defence or Parry Defence to defend himself,
+or who is being flanked. A character who is
+blinded, flat-footed, stunned, helpless, the
+victim of a successful feint or pinned can thus
+be sneak attacked. A sneak attack only deals its
+extra damage if the attack either bypasses the
+target’s armour or pierces the armour without
+adding extra damage.
+If a character is able to defend himself with
+either Dodge Defence or Parry Defence (such as
+a character with the Reflexive Parry feat who is
+attacked when flat-footed), he is not susceptible
+to a sneak attack unless the sneak attack is of
+a kind that the chosen defence cannot help
+against. For example, a flat-footed character
+with Reflexive Parry could still be sneak attacked
+by a character using a ranged weapon, because
+ranged attacks cannot be parried.
+199
+Combat
+Special Combat
+Situations
+Grapple
+All forms of offensive holding, including the ancient art of
+wrestling, are considered actions of the grapple type. These
+actions can bind up a dangerous opponent or subdue
+someone when normal combat methods are ineffective.
+Grapple Checks
+One needs to make grapple checks repeatedly during a
+grapple. These are like melee attack rolls and are made
+against an opponent’s Grapple Defence.
+A character’s Grapple Attack Bonus when making a grapple
+check is:
+BASE ATTACK BONUS +
+STRENGTH MODIFIER +
+SPECIAL SIZE MODIFIER +
+OTHER MODIFIERS
+A character’s Grapple Defence is calculated as follows:
+10 + BASE ATTACK BONUS +
+STRENGTH MODIFIER +
+SPECIAL SIZE MODIFIER +
+OTHER MODIFIERS
+Special Size Modifier: The special size modifier for a
+grapple check is as follows: Colossal +16, Gargantuan
++12, Huge +8, Large +4, Medium +0, Small –4, Tiny –8,
+Diminutive –12, Fine –16. Use these numbers in place of
+a character’s normal size modifier when making an attack
+roll or calculating Defence.
+Grapple checks may be turned into opposed grapple rolls
+simply by basing Grapple Defence on a roll of 1d20 rather
+than a flat value of 10.
+Starting a Grapple
+To start a grapple, a character must grab and hold his target.
+Starting a grapple requires a successful melee touch attack
+roll. If a character has multiple attacks, he can attempt to
+start a grapple multiple times at successively lower base
+attack bonuses.
+* Step 1: Attack of Opportunity. A character provokes
+an attack of opportunity from the target he is trying
+to grapple. If the attack of opportunity deals damage,
+the grapple attempt fails. (Certain monsters, such as
+the sons of Set, do not provoke attacks of opportunity
+when they attempt to grapple, nor do characters with
+the Improved Grapple feat.) If the attack of opportunity
+misses or fails to deal damage, proceed to Step 2.
+* Step 2: Grapple. The character makes a grapple check
+against his opponent’s Grapple Defence or Dodge
+Defence (opponent’s choice). If the grapple check
+succeeds, the character and his target are now grappling.
+If it fails, the attacker fails to start the grapple. He
+automatically loses this contest if the target is two or
+more size categories larger than he is.
+* Step 3: Maintain Grapple. To maintain the grapple
+for later rounds, the attacker must move into the
+target’s space. This movement is free and does not
+count as part of the character’s movement in the
+round. Moving, as normal, provokes attacks of
+opportunity from threatening opponents but not
+from the target. If the attacker cannot move into his
+target’s space, he cannot maintain the grapple and must
+immediately let go of the target. To grapple again, he
+must begin at Step 1.
+Grappling Consequences
+While a character is grappling, his ability to attack
+others and defend himself is limited. He is using most
+of his concentration and every available limb to try
+and impede his opponent’s movements, making it
+very difficult to spare any attention or effort against
+any other foe. A grappling character can only defend
+himself against melee or ranged attacks with
+Dodge Defence. It is impossible to use Parry
+Defence while grappling.
+No Threatened Squares: A character does
+not threaten any squares while grappling.
+No Dodge: A character is unable to dodge
+opponents that he is not grappling. He can
+still dodge opponents that he is grappling.
+No Parry: A character cannot parry
+attacks while grappling, unless
+he performs the Human Shield
+combat move (see page 208).
+200
+Combat
+No Movement: A character cannot move normally while
+grappling. He may, however, make a grapple check against
+his opponent’s Grapple Defence (see the rules for doing so
+below) to move while grappling.
+If a Character is Grappling
+When a character is grappling, regardless of who started the
+grapple, he can perform any of the actions listed below.
+* Attack an Opponent: A character can make an attack
+with an unarmed strike, natural weapon or light
+weapon against another character that he is grappling.
+He takes a –4 penalty on such attacks. (This type of
+attack is made with a normal melee attack roll, not a
+grapple check.) He cannot attack with two weapons
+while grappling, even if both are light weapons.
+This is a standard action.
+* Cast a Spell: A character can attempt to cast a spell while
+grappling or even while pinned (see below), provided
+the spell’s casting time is no more than one standard
+action, it has no somatic component and the caster
+has in hand any material components or foci he might
+need. No spell that requires precise and careful action
+may be cast by a character who is grappling or being
+pinned. If the spell is one that a character can cast while
+grappling, he must make a Concentration check (DC
+20 + PP cost) or fail to cast the spell and lose the PP
+spent. He does not have to make a successful grapple
+check to cast the spell.
+* Damage an Opponent: While grappling, a character
+can deal damage to his opponent equivalent to an
+unarmed strike. The character should make a grapple
+check against his opponent’s Grapple Defence in place
+of an attack. If the attacker wins, he deals nonlethal
+damage as normal for his unarmed strike: 1d3 points
+for Medium-size attackers, plus Strength modifiers.
+This damage ignores any DR from armour but takes
+account of DR derived from other sources, such as the
+class features of a barbarian. If the attacker wants to
+deal lethal damage, he takes a –4 penalty on his grapple
+check. This is a full-round action, and characters
+with suitably high base attack bonuses may make
+multiple grapple attacks in this manner.
+* Draw a Light Weapon: A grappling character can draw a
+light weapon as a move action with a successful grapple
+check against his opponent’s Grapple Defence.
+* Escape from Grapple: A grappling character can escape
+a grapple by making a successful grapple check against
+his opponent’s Grapple Defence in place of making an
+attack. He can choose to make an Escape Artist check
+in place of his grapple check but this requires a standard
+action. If more than one opponent is grappling a
+character, his grapple check result has to beat all their
+individual Grapple Defence values for him to escape.
+(Opponents do not have to try to hold the character
+if they do not want to.) If the character escapes, he
+finishes the action by moving into any space adjacent
+to his opponent(s). This is a full-round action.
+* Move: A grappling character can move half his speed
+(bringing all others engaged in the grapple with
+him) by making a successful grapple check against
+his opponent’s Grapple Defence. This requires a
+standard action and the character must beat all the
+other individual Grapple Defence values to move the
+grapple. Note: The character gets a +4 bonus on his
+grapple check to move a pinned opponent but only if
+no one else is involved in the grapple.
+* Retrieve a Spell Component: A grappling character can
+produce a spell component from his pouch by using
+a full-round action. Doing so does not require a
+successful grapple check.
+* Pin an Opponent: A grappling character can hold
+his opponent immobile for one round by making a
+successful grapple check against his Grapple Defence
+in place of an attack. Once his opponent is pinned, the
+character has a few additional options available to him;
+see below. This is a full-round action, and characters
+with suitably high base attack bonuses may make
+multiple grapple attacks in this manner.
+* Break Another’s Pin: If a character is grappling an
+opponent who has another character pinned, he can
+make a grapple check against that opponent’s Grapple
+Defence in place of an attack. If the character who
+makes the grapple check wins, he breaks the hold the
+opponent has over the other character. The character
+is still grappling, but is no longer pinned. This is a
+full-round action, and characters with suitably high
+base attack bonuses may make multiple grapple
+checks in this manner.
+201
+Combat
+* Use Opponent’s Weapon: A character can use his
+opponent’s light weapon to attack him. The character
+makes a grapple check against his opponent’s Grapple
+Defence in place of an attack. If he wins, he makes an
+attack roll with the weapon with a –4 penalty. This is a
+standard action. The character does not gain possession
+of the weapon by performing this action.
+If you are Pinning
+your Opponent
+A character who is pinning an opponent can attempt can
+attempt any of the actions described above. The character
+may also prevent a pinned opponent from speaking if they
+wish. This is not an action.
+A character can use a disarm action to try to remove or
+grab a well-secured object from a pinned opponent but the
+opponent gets a +4 bonus on his roll to resist the character’s
+attempt; see Disarm on page 206.
+A character may voluntarily release a pinned character as a
+free action. If this occurs, the two are no longer considered
+to be grappling and one character – the releasing character’s
+choice – must be moved to an adjacent 5 foot square.
+A character cannot draw or use a weapon (against the
+pinned character or any other character), escape another’s
+grapple, retrieve a spell component, pin another character
+or break another’s pin while pinning an opponent.
+If you are Pinned
+by an Opponent
+A character is pinned is held immobile (but not helpless)
+for one round. While he is pinned, he cannot dodge or
+parry. His effective Dexterity is zero, which gives him a
+–5 penalty to Defence. He also takes a –4 penalty to his
+Defence against opponents other than the one pinning
+him. (Effectively, if the character is a normal human, his
+Defence in such a situation is 5 against the person grappling
+him and 1 against other opponents.) At his opponent’s
+option, the character may also be unable to speak. He
+can try to escape the pin on his turn by making a grapple
+check against his opponent’s Grapple Defence in place of
+an attack. He can also make an Escape Artist check against
+his Grapple Defence (in place of his grapple check) but this
+requires a standard action. If the character wins, he escapes
+the pin but is still grappling.
+Joining a Grapple
+If a character’s target is already grappling someone else,
+the character can use an attack to start a grapple, as above,
+except that the target does not get an attack of opportunity
+against him and his grab automatically succeeds. He still has
+to make a successful grapple check against his opponent’s
+Grapple Defence to become part of the grapple.
+If there are multiple opponents involved in the grapple,
+pick one to make the grapple check against.
+Multiple Grapplers
+Several combatants can be involved in a single grapple.
+Up to four combatants can grapple a single opponent in a
+given round. Creatures that are one or more size categories
+smaller than you count for half, creatures that are one size
+category larger than you count double and creatures two
+or more size categories larger count quadruple. When a
+character is grappling with multiple opponents, he should
+choose one opponent to make a grapple check against. If
+he wishes instead to escape the grapple, his grapple check
+must beat the Grapple Defence of each of his opponents.
+Mounted Combat
+Horses in Combat
+Warhorses can readily serve as combat steeds. Light horses
+and workhorses, however, are frightened by combat.
+Unless he dismounts, a character must make a DC 20
+Ride check each round as a move action to control
+such a horse. If he succeeds, he can perform a standard
+action after the move action. If he fails, the move action
+becomes a full round action and he cannot do anything
+else until his next turn.
+A character’s mount acts on his initiative count
+as he directs it. The character moves at the
+mount’s speed but the mount uses its action
+to move. A horse is a Large creature and
+thus takes up a 10 foot by 10 foot space. For
+simplicity, assume that a character shares his
+mount’s space during combat.
+Combat
+While Mounted
+With a DC 5 Ride check, a character
+can guide his mount with his
+knees so as to use both hands to
+attack or defend himself. This
+is a free action. When attacking
+from a mounted position
+202
+Combat
+you will usually gain the +1 bonus on melee attacks for
+being on higher ground when attacking foot soldiers.
+This bonus does not apply if your target is as large as
+your mount or larger. If a character’s mount moves more
+than five feet, he can only make a single melee attack.
+Essentially, the character has to wait until the mount gets
+to his enemy before he can attack. Even at his mount’s full
+speed, a character does not take any penalty on melee
+attacks while mounted.
+If a character’s mount charges, he
+must also take the
+penalty to Defence
+associated with a
+charge. If he makes
+an attack at the end of
+the charge, he receives the
+bonus gained from the charge.
+A character who charges on
+horseback deals double
+damage with a lance; see
+Charge on page 204.
+A character can use
+ranged weapons while
+his mount is taking a
+double move but takes a
+–4 penalty on the attack
+roll if he does so. He can
+use ranged weapons at a –
+8 penalty while his mount
+is running (quadruple
+speed). In either case, the
+character makes the attack
+roll when his mount has
+completed half its movement. He can
+make a full attack with a ranged weapon
+while his mount is moving. Likewise, he
+can take move actions normally.
+Casting Spells
+While Mounted
+A character can cast a spell normally if his mount
+moves up to a normal move (its speed) either
+before or after the spell is cast. If a
+character has his mount move
+both before and after he casts
+a spell, then the spell is cast
+while the mount is moving
+and the character
+has to make
+a Concentration check due to the vigorous motion (DC
+10 + PP cost) or lose the spell. If the mount is running
+(quadruple speed), the Concentration check is more
+difficult due to the violent motion (DC 15 + PP cost).
+If a Mount
+Falls in Battle
+If a character’s
+mount falls,
+the character has
+to succeed on a
+DC 15 Ride check to
+make a soft fall and take no
+damage. If the check fails, he
+takes 1d6 points of damage.
+If a Character
+is wounded
+If a character is knocked unconscious,
+he has a 50% chance of staying in the
+saddle. Otherwise, he falls and takes
+1d6 points of damage. Without a
+rider to guide it, the character’s mount
+avoids combat unless it is of greater
+than animal intelligence. In that case,
+the mount acts like a creature of its
+abilities and intellect and is generally
+controlled by the Games Master.
+Multiple Opponents
+Even Conan fears being attacked by multiple foes,
+especially if they are at all well-trained. As well as the
+potential reduction in Dodge Defence for a character who
+is crowded in on all sides (see the Parry and Dodge sections,
+page 173), there is always a danger that halfway competent
+foes will attack in concert, making it hard to defend against
+them all at once.
+During each round of combat, if several characters use
+melee weapons to attack one enemy in the same round, each
+of the attackers after the first to attack gains a cumulative
++1 circumstance bonus on attack rolls. These bonuses only
+ever apply to melee attacks.
+Note that these bonuses are in addition to flanking bonuses
+if applicable. Class features or feats that make characters
+immune to being flanked do not affect the cumulative +1
+circumstance bonus for multiple opponents.
+203
+Combat
+For example: Llyr is a high-level pirate with a Dodge Defence
+of 24. He is attacked by 10 low-level thugs armed with
+scimitars. In the first round, due to a wall in their path, only
+five can reach him to attack – if they survive that long. They
+each have a +2 base attack bonus and attack once per round.
+In the first round, the first attacker rolls d20+2 for his attack,
+the second d20+3, the third d20+4, the fourth d20+5 and the
+fifth d20+6. Llyr readies his war sword, having slain one of
+his enemies and dispatching another two of his foes on his own
+action, before sidestepping to get his back to the wall.
+On the second round, though all his enemies are now close by,
+only five of them will be able to attack Llyr again, since the
+wall prevents any more than that from hitting him. This time,
+however, Llyr’s Dodge Defence has a –2 circumstance penalty,
+as he does not have room to manoeuvre properly. Despite being
+of far higher level than his opponents, he is hit three times
+but manages to slay another two enemies. Round three begins
+under the same circumstances, since the remaining two foes
+close up the gaps but at least this time Llyr knows that if he can
+kill one of them he will be able to move away once more and
+avoid the penalty to Dodge Defence once he does.
+Two-Weapon Fighting
+If a combatant wields a second weapon in his off hand, that
+combatant can get one extra attack per round with that
+weapon when he takes a full attack action.
+Fighting in this way is very hard, however and a combatant
+suffers a –6 penalty to both his main weapon and his offhand
+weapon attack rolls.
+A combatant can reduce these stiff penalties in two ways:
+* If at least one of a combatant’s weapons is light, the
+penalty is reduced to –2. An unarmed strike is always
+considered light.
+* The Two-Weapon Combat Proficiency feat reduces the
+penalties associated with two-weapon fighting by two.
+Thus a character with this feat has only a –4 penalty to
+both attacks if using two one-handed weapons or no
+penalty at all if at least one of his weapons is light.
+For example, a 7th level soldier with a base attack bonus of
++7/+2 could make two attacks with his primary weapon at +7
+and +2 respectively. Alternatively, he could make two attacks
+with his primary weapon at +3 and at –2 and one attack
+with a one-handed secondary weapon at +3 (all soldiers are
+proficient with two-weapon combat). If he wished to use a
+light weapon in his off hand, he could make two attacks with
+his primary weapon at +7/+2 and one attack with the light
+secondary weapon at +7.
+Double Thrown Weapons
+The same rules apply when a weapon is
+thrown from each hand.
+204
+Combat
+Special Attacks
+and Manoeuvres
+Aid Another
+You help a friend attack or defend by distracting or
+interfering with their opponent.
+Action: Standard
+Circumstance: A character is in position to make a
+melee attack on an opponent that is engaging a friend in
+melee combat.
+Effect: The character can attempt to aid his friend as a
+standard action by making an attack roll against a Defence
+of 10. If he succeeds, his friend gains either a +2 bonus on
+his next attack roll against that opponent, or a +2 bonus
+to Defence against that opponent’s next attack (character’s
+choice), as long as that attack comes before the beginning
+of the character’s next turn. Multiple characters can aid the
+same friend and similar bonuses stack.
+A character can also use this manoeuvre to help a friend in
+other ways, such as when he is affected by a spell or to assist
+another character’s skill check.
+Aim
+You prepare to loose an especially accurate arrow.
+Action: Full-round
+Prerequisite: Base attack bonus +1.
+Circumstance: The character uses a bow or crossbow.
+Effect: The character gains a +2 circumstance bonus to his
+next ranged attack. This ranged attack must be taken as
+his first action in the round following the one in which he
+takes the Aim action.
+Bull Rush
+You charge into a foe, knocking him back.
+Action: Standard
+Effect: A character can make a bull rush as a standard
+action (an attack) or as part of a charge (see Charge,
+below). When he makes a bull rush, he attempts to
+push an opponent straight back instead of damaging
+him. A character can only bull rush an opponent
+who is one size category larger than
+himself, the same size or smaller.
+First, move into the
+defender’s space. Doing
+this provokes an
+attack of
+opportunity from each opponent that threatens the
+rushing character, including the defender. If he has the
+Improved Bull Rush feat, he does not provoke an attack of
+opportunity from the defender.
+Next, the rusher and the defender make opposed Strength
+checks. Each adds a +4 bonus for each size category he is
+larger than Medium or a –4 penalty for each size category
+he is smaller than Medium. The rusher get a +2 bonus if
+he is charging. The defender gets a +4 bonus if he has more
+than two legs or is otherwise exceptionally stable.
+If the rusher beats the defender’s Strength check result, the
+defender is pushed him back five feet. If the rusher wishes
+to move with the defender, he can push the defender back
+an additional five feet for each five points by which his
+check result is greater than the defender’s check result. He
+cannot, however, exceed his normal movement limit. The
+defender provokes attacks of opportunity if he is moved.
+So does the attacker, if he moves with him. The two of you
+do not provoke attacks of opportunity from each other,
+however. Any attack of opportunity made by anyone other
+than the defender during this stage of a bull rush has a
+25% chance of accidentally targeting the defender instead.
+Similarly, any attack of opportunity by anyone other
+than the rusher against the defender has a 25% chance of
+accidentally targeting the rusher. When someone makes an
+attack of opportunity, make the attack roll and then roll
+to see whether the attack goes astray. If you fail to beat the
+defender’s Strength check result, you move 5 feet straight
+back to where you were before you moved into his space. If
+that space is occupied, you fall prone in that space.
+Cat’s Parry
+You parry your opponent’s wrist rather than his blade.
+Action: Immediate
+Prerequisite: Base parry bonus +3.
+Circumstance: Must be parrying.
+Effect: The attacker gains a +4 circumstance bonus to his
+attack roll but if he misses the defender may immediately
+make an attack of opportunity against him.
+Charge
+You hurl yourself into the fray!
+Action: Full-round
+Circumstance: The character has line of sight to a foe and
+moves at least 10 feet towards him as part of the charge.
+Effect: Charging is a special full-round action that allows a
+character to move up to twice his speed and attack during
+the action. However, it carries tight restrictions on how
+you can move.
+205
+Combat
+The character must move before his attack, not after. He
+must move at least 10 feet (two squares) and may move
+up to double his speed directly toward his designated
+opponent. He must have a clear path toward the opponent
+and nothing can hinder the charging character’s movement,
+such as difficult terrain or obstacles. A clear path is defined
+as follows. First, the character must move to the closest
+space from which he can attack his opponent. If this
+space is occupied or otherwise blocked, the character
+cannot charge. Second, if any line from his starting space
+to the ending space passes through a square that blocks
+movement, slows movement or contains a creature (even
+an ally), the character cannot charge. Helpless creatures do
+not stop a charge.
+If a player does not have line of sight to the opponent at
+the start of his turn, he cannot charge that opponent. He
+cannot take a five-foot step in the same round as a charge.
+If he is able to take only a standard action or a move action
+on his turn, he can still charge but is only allowed to move
+up to his speed instead of up to double speed. A player
+cannot use this option unless he is restricted to taking only
+a standard action or move action on his turn.
+After moving, a player may make a single melee attack. He
+gets a +2 bonus on the attack roll and takes a –2 penalty to
+Defence until the start of his next turn. Even if he has extra
+attacks, such as from having a high enough base attack
+bonus or from using multiple weapons, he only gets to
+make one attack during a charge.
+A charging character gets a +2 bonus on the Strength check
+made to bull rush or overrun an opponent. See Bull Rush,
+left and Overrun, page 209.
+Bull’s Charge
+A low charge can allow a character to get under his enemy’s
+guard to stab deep into his belly. However, doing so renders
+the charging character very vulnerable to a counterattack.
+Action: Full-round
+Prerequisite: Str 13, Power Attack.
+Circumstance: A character must be wielding a slashing or
+piercing weapon and charging.
+Effect: The character gains a +2 bonus on his damage roll
+when charging but provokes an attack of opportunity from
+his target before he can make his attack roll.
+Leaping Charge
+Action: Charge
+Prerequisites: Base attack bonus +6, Jump 1 rank.
+Effect: When a character makes a charge attack, he may
+make a second attack at his highest base attack bonus,
+though both attacks are at a –2 circumstance penalty. The
+circumstance penalty to Defence for charging is increased
+from the usual –2 to –4.
+Dance Aside
+You move while dodging.
+Action: Immediate
+Prerequisite: Dex 13.
+Circumstance: An opponent’s attack roll is less than half
+the dodging character’s Dodge Defence.
+Effect: The dodging character may immediately take a
+five-foot step, as he nimbly dances out of the way of an
+opponent’s attack.
+Decapitating Slash
+You take advantage of an opponent’s dropped defences
+to slice his head clean off. This leaves you open to
+counterattack and so is usually only done if you are fighting
+only one opponent.
+Action: Immediate
+Prerequisite: Base attack bonus +10.
+Circumstance: The character’s opponent provokes an
+attack of opportunity.
+Effect: The character attempts a particularly devastating
+attack of opportunity. If he scores a critical hit against
+his opponent, the opponent must make a Fortitude
+saving throw (DC = 5 + total damage dealt, after taking
+into account damage reduction) or be instantly killed,
+his head severed. The attacking character suffers a –4
+circumstance penalty to Defence for the one round
+immediately following his attack of opportunity.
+Delay
+You wait for the right time to act.
+Action: Special
+Effect: The character takes no action and
+then acts normally when he decides to act.
+When a character delays, he voluntarily
+reduces his own initiative result for the rest of
+the combat. When his new, lower initiative
+count comes up later in the same round, he
+can act normally. The player can specify
+this new initiative result or wait until
+some time later in the round to act,
+thus fixing his new initiative count
+at that point. He does not get back
+206
+Combat
+the time spent waiting, nor can he interrupt anyone else’s
+action. If he wants to interrupt or pre-empt an action, see
+Ready on page 210.
+If a player comes to his next action and has not yet
+performed an action, he does not get to take a delayed
+action, though he can delay again. If he takes a delayed
+action in the next round, before his regular turn comes up,
+his initiative count rises to that new point in the order of
+battle and he does not get his regular action that round.
+Desperate Stab
+You make a stab for your opponent’s heart or throat
+before combat has otherwise begun, relying on quickness
+but desperately gambling that the attack will be
+sufficient to slay them instantly, since it leaves you wide
+open to a counterattack.
+Action: Standard
+Prerequisite: Improved Initiative, base attack bonus +15.
+Circumstance: It must be the first round of combat, the
+character’s opponent must be unable to use Dodge Defence
+or Parry Defence through being flat-footed and the attack
+must be made with finesse.
+Effect: As the first attack of the combat, a character may
+attempt to slay his enemy outright. The attack is made as
+normal. If it hits, the opponent must make a Fortitude
+saving throw (DC = damage dealt by the attack) or die
+instantly. If the opponent is still alive, he gains a +2
+circumstance bonus to his attack rolls and damage against
+the attacker for the remainder of the round.
+Devastating Sweep
+A character can swing his weapon around, forcing his foes
+back to clear sufficient space for him to flee.
+Action: Standard
+Prerequisite: Whirlwind Attack.
+Circumstance: The attacker must be wielding a slashing
+weapon, either one-handed or two-handed. At least five
+adjacent squares must be occupied. He must not attack
+with finesse.
+Effect: As a standard action, a character may swing his
+weapon in a sweeping motion. Any characters within
+five feet have the option of immediately taking a
+five-foot step away as a free action, so as
+to be out of range. The attacking
+character gains an attack at
+his highest base attack bonus
+against any characters who
+do not choose to move
+away.
+Disarm
+You knock a weapon out of your foe’s hand!
+Action: Standard
+Circumstance: The character is in melee combat with a
+foe.
+Effect: As a melee attack, a character may attempt to disarm
+his opponent. If he uses a weapon to do so, he knocks the
+opponent’s weapon out of his hands and to the ground. If
+the attacking character attempts to disarm an opponent
+while unarmed, he ends up with the weapon in his hand.
+In attempting to disarm a melee weapon, follow the steps
+outlined here. If the item a character is attempting to
+disarm is something other than a melee weapon, such as
+an artefact that a sorcerer is shaking angrily, the defender
+may still oppose the attempt with an attack roll but takes
+a –4 penalty and cannot attempt to disarm the attacker in
+return if the disarm attempt fails.
+* Step 1: Attack of Opportunity: The character provokes
+an attack of opportunity from the target he is trying to
+disarm. If the attacker has the Improved Disarm feat,
+he does not incur an attack of opportunity for making a
+disarm attempt. If the defender’s attack of opportunity
+deals any damage, the disarm attempt fails.
+* Step 2: Opposed Rolls: The attacker and the defender
+make opposed attack rolls with their respective weapons.
+The wielder of a two-handed weapon on a disarm
+attempt gets a +4 bonus on this roll and the wielder of
+a light weapon takes a –4 penalty. An unarmed strike
+is considered a light weapon so the attacker always take
+a penalty when trying to disarm an opponent using
+an unarmed strike. If the combatants are of different
+sizes, the larger combatant gets a bonus on the attack
+roll of +4 per difference in size category. If the targeted
+item is not a melee weapon, the defender takes a –4
+penalty on the roll.
+* Step Three: Consequences: If the attacker beats the
+defender, the defender is disarmed. If the disarm
+action was attempted unarmed, the attacker gains
+the weapon. If the attacker was armed, the defender’s
+weapon is on the ground in the defender’s square. If the
+disarm attempt failed, the defender may immediately
+react and attempt to disarm the attacker with the same
+sort of opposed melee attack roll. His attempt does not
+provoke an attack of opportunity. If the defender fails
+his disarm attempt, he does not subsequently get a free
+disarm attempt against him.
+Note: Gauntlets cannot be removed with a disarm
+attempt.
+207
+Combat
+Disarm and
+Grabbing Weapons
+A character can use a disarm action to snatch an item his
+target is wearing. The disarm must be made as an unarmed
+attack to take the item in hand. If the item is poorly secured
+or otherwise easy to snatch or cut away, the attacker gets a
++4 bonus. Unlike on a normal disarm attempt, the defender
+may not attempt to disarm the attacker on a failed attempt.
+This otherwise functions identically to a disarm attempt,
+as noted above.
+A character cannot snatch an item that is well secured
+unless he has pinned the wearer; see Grapple on page 199.
+Even then, the defender gains a +4 bonus on his roll to
+resist the attempt.
+Masterful Disarm
+You knock your opponent’s weapon from his grasp with
+one hand and catch it with the other.
+Action: Standard
+Prerequisite: Dex 13.
+Circumstance: The attacker must be using a one-handed
+weapon and have his other hand free.
+Effect: If the attacker beats his opponent in the opposed
+disarm roll by five or more, the attacker may immediately
+make a Dexterity check (DC 15). If he succeeds, he catches
+whatever object he just knocked out of his opponent’s grasp
+in his other hand.
+Ranged Disarm
+Action: Standard
+Prerequisite: Precise Shot, Improved Disarm.
+Effect: You may make disarm attempts with a ranged weapon.
+Distracting Arrow
+Your shot draws your foe’s attention, putting him off his guard.
+Action: Standard
+Prerequisite: Precise Shot.
+Circumstance: Firing at a foe.
+Effect: The character must take a –4 penalty to his attack
+roll. If he still hits, his target suffers a –2 penalty to his
+Defence for the rest of the round.
+Feint
+You fool your opponent by feinting one way, then
+attacking.
+Action: Standard (or Move, with the Improved Feint feat)
+Circumstance: A character is in combat with a foe.
+Effect: To feint, make a Bluff check opposed by the target’s
+Sense Motive check. The target may add his base attack
+bonus to this Sense Motive check. If the character’s Bluff
+check result exceeds his target’s Sense Motive check result,
+the target may not dodge or parry the next melee attack
+the character makes against him. This attack must be made
+on or before the attacker’s next turn. Feinting is a favourite
+tactic of many finesse fighters.
+When feinting in this way against a non-humanoid, the
+attacker takes a –4 penalty. Against a creature of animal
+Intelligence (1 or 2), he takes a –8 penalty. Feinting is
+impossible against a non-intelligent creature. Feinting in
+combat does not provoke attacks of opportunity.
+With the Improved Feint feat, a character can attempt a
+feint as a move action instead of as a standard action.
+Force Back
+You drive your foe back with the ferocity of your attack.
+Action: Standard
+Prerequisite: Power Attack.
+Circumstance: The character is in melee
+combat with a foe.
+Effect: The attacker takes a –4 penalty to his
+attack roll. If he hits, his opponent may move
+back one five-foot square. If the opponent
+does not move, he takes an extra 4 points of
+damage (8 damage if using a two-handed
+weapon or a one-handed weapon with two
+hands). If the opponent does move, the
+attacker may follow up for free without
+drawing attacks of opportunity.
+The opponent, on the other hand,
+does draw attacks of opportunity
+if he retreats.
+208
+Combat
+Fling Aside
+If you are sufficiently strong, you can simply pick up his
+enemy one-handed and hurl him aside.
+Action: Standard
+Prerequisite: Str 15, Improved Grapple, Improved Trip.
+Circumstance: The attacker must have one hand free.
+Effect: A character makes a melee touch attack to grab
+an opponent, then makes a grapple check against the
+opponent’s Grapple Defence, just as though starting a
+grapple. If the grapple check succeeds, the attacker throws
+his opponent to the ground in any square adjacent to the
+attacker. The attacker is not grappling his opponent but
+the impact with the ground deals damage to him as though
+he had been hit with an unarmed strike and he is knocked
+prone. This is not a trip, and so does not entitle the attacker
+to a free attack from his Improved Trip feat.
+Hooking Parry
+You swing your axe (or similar martial weapon) around the
+shaft of your enemy’s weapon, holding it out of line so it
+cannot be used.
+Action: Immediate
+Prerequisite: Dexterity 13, base parry bonus +1.
+Circumstance: The character has just used an axe,
+battleaxe, bill, bardiche or polearm to parry an enemy’s
+reach weapon.
+Effect: So long as one does not use the parrying weapon
+for any other purpose (including making further attacks
+or parries) his opponent may not use his reach weapon
+for any purpose either. As a standard action the opponent
+may make an attack roll with his weapon opposed to the
+character’s Parry Defence with his weapon. If the opponent
+is successful with this opposed attack roll, or if the character
+moves out of range of his reach weapon, he may wield his
+weapon normally again.
+Human Shield
+You swing your distracted enemy around in an attempt to
+parry another enemy’s attack with his body.
+Action: Immediate
+Prerequisite: Strength 13, Improved Grapple.
+Circumstance: Earlier in the round the character
+has dealt damage to his opponent while
+grappling him and is now being attacked
+by another opponent while still
+grappling the first.
+Effect: If the character
+succeeds in a grapple
+check, he may use
+his grappled
+opponent to parry with, just as though he were a shield.
+This is an exception to the normal rule that one may not
+parry while in a grapple. The Parry Bonus the character
+gains from this action is equal to his Strength bonus –1,
+to a minimum of +0 and a maximum of +2 – the grappled
+opponent is large and is somewhat awkward to move about
+even when using both hands. If the character successfully
+parries the second opponent’s attack, normal damage from
+that attack is dealt to the opponent he is grappling.
+Improvised Attack
+You grab an object and use it as an improvised weapon as
+part of an attack.
+Action: Free
+Prerequisite: Str 13, Dex 13.
+Circumstance: A character is making a melee attack on a
+foe and there is another enemy within reach. The character
+must have one hand free.
+Effect: By taking a –2 circumstance penalty on his first
+attack roll against a target, the character may immediately
+make an extra attack at his highest base attack bonus on
+a second foe within reach. This second attack must use
+an improvised weapon. A character can only make one
+Improvised Attack per round and must use a different
+improvised weapon or select a different target each time.
+Kip Up
+You flip back up to your feet from a prone position.
+Action: Immediate
+Prerequisite: Jump 5 ranks or Tumble 5 ranks, Mobility.
+Circumstance: The character has just been knocked
+prone.
+Effect: The character may immediately make a Jump or
+Tumble check (DC 20) as a reaction to having been knocked
+over. If successful, he immediately regains his footing. He
+still draws attacks of opportunity when standing up.
+Leave Them for Dead
+You ignore your lesser foes, trusting to your blade to sort
+them out!
+Action: Free
+Prerequisite: Cleave.
+Circumstance: The character has just struck a foe but not
+downed him.
+Effect: The opponent immediately gets an attack of
+opportunity with a +4 bonus to his attack roll. The attacker
+may then make a Cleave attack on another opponent as
+if he had downed the first opponent. You may use this
+technique in conjunction with Great Cleave, but can only
+attack each opponent within reach once.
+209
+Combat
+Lock Weapons
+You and your foe lock your blades together and struggle
+for supremacy.
+Action: Immediate
+Circumstance: A character’s attack roll is exactly equal
+to his opponent’s Parry Defence or his Parry Defence is
+exactly equal to his opponent’s attack roll.
+Effect: The two combatants’ weapons are locked together.
+Both characters make opposed grapple checks – the winner
+may choose to knock the loser back five feet. If the winner’s
+score is 10 or more points higher than the loser’s, the loser
+is also knocked prone in his new square.
+Overrun
+You run past – or over – a foe.
+Action: Standard
+Effect: The character can attempt an overrun as a
+standard action during his move or as part of a charge. In
+general, he cannot take a standard action during a move;
+overrun is an exception. With an overrun, the character
+attempts to plough past or over his opponent (and move
+through his square) as he moves. A character can only
+overrun an opponent who is one size category larger,
+the same size or smaller than himself. Only one overrun
+attempt can be made per round. Follow these steps to
+make an overrun attempt:
+* Step 1: Attack of Opportunity: Since the attacker begins the
+overrun by moving into the defender’s space, the attacker
+provokes an attack of opportunity from the defender.
+* Step 2: Opponent Avoids? The defender may simply
+avoid the attacker. If he does so, he does not suffer any
+ill effect. If the attacker attempts the overrun as part of
+a charge, he may keep moving. (A character can always
+move through a square occupied by someone who lets
+him by.) In either case, the overrun attempt does not
+count against the attacker’s actions this round, except
+for any movement required to enter the opponent’s
+square. If the opponent does not avoid the attacker,
+move to Step 3.
+* Step 3: Opponent Blocks? If the opponent blocks the
+attacker, the attacker makes a Strength check opposed
+by the defender’s Dexterity or Strength check (defender
+chooses). A combatant gets a +4 bonus on the check
+for every size category he is larger than Medium or a
+–4 penalty for every size category he is smaller than
+Medium. The attacker gains a +2 bonus on his Strength
+check if he makes the overrun as part of a charge.
+The defender gets a +4 bonus on his check
+if he has more than two legs or is otherwise
+more stable than a normal humanoid. If the attacker
+wins, the defender is knocked prone. If he loses, the
+defender may immediately react and make a Strength
+check opposed by the attacker’s Dexterity or Strength
+check (attacker chooses), including the size modifiers
+noted above but no other modifiers, to try to knock the
+attacker prone.
+* Step 4: Consequences: If the attacker succeeds in
+knocking his opponent prone, he can continue his
+movement as normal. If he fails and is knocked prone
+in turn, he must move five feet back the way he came
+and fall prone, ending his movement there. If he fails
+but is not knocked prone, he must move five feet back
+the way he came, ending his movement there. If that
+square is occupied, he falls prone in that square.
+Improved Overrun
+If a character has the Improved Overrun feat, his target
+may not choose to avoid him.
+Mounted Overrun (Trample)
+If a character attempts an overrun while mounted, his
+mount makes the Strength check to determine the success
+or failure of the overrun attack and applies its size modifier
+in place of the character’s. If the character has the Trample
+feat and attempts an overrun while mounted, the target
+may not choose to avoid him. If the attacker knocks his
+opponent prone with the overrun, the attacker’s mount
+may make one hoof attack against the opponent.
+Pantherish Twist
+When two attackers attempt to flank you, you may
+twist away at the last moment, forcing them to
+attack one another.
+Action: Immediate
+Prerequisite: Improved uncanny dodge.
+Circumstance: The defending character must
+be dodging.
+Effect: If two opponents move into positions
+which would usually allow them to flank an
+opponent, the opponent who has improved
+uncanny dodge can choose to force both of
+them to make opposed Dexterity checks
+with him. If one or both of the
+attackers lose the opposed Dexterity
+check, he or they must attack
+the other enemy instead of their
+intended opponent. However, if
+one or both of them win
+210
+Combat
+the opposed Dexterity check, there is a +2 circumstance
+bonus on his or their attack and damage rolls against the
+opponent. These effects only ever apply to the first attack
+each opponent makes.
+Ready
+You prepare a specifi c move to be unleashed when a certain
+trigger or event occurs.
+Action: Special
+Effect: The ready action lets a character prepare to take
+an action later, after his turn is over but before his next
+one has begun. Readying is a standard action. It does not
+provoke an attack of opportunity, though the action that is
+readied might do so.
+Readying an Action
+A character can ready a standard action, a move action or a
+free action. To do so, he must specify the action he will take
+and the conditions under which he will take it. Then, any
+time before his next action, he may take the readied action
+in response to that condition. The readied action occurs
+just before the action that triggers it. If the triggered action
+is part of another character’s activities, the readied action
+interrupts the other character. Assuming he is still capable
+of doing so, the interrupted character continues his actions
+once the readied action has been completed. The initiative
+result of the character who readied the action changes as
+noted below. For the rest of the encounter, his initiative
+result is the count on which he took the readied action and
+he acts immediately ahead of the character whose action
+triggered the readied action.
+A character can take a five-foot step as part of his readied
+action but only if he does not otherwise move any distance
+during the round.
+Initiative Consequences
+of Readying
+A character’s initiative result becomes the count on
+which he takes the readied action. If he comes to his
+next action and has not yet performed his readied
+action, he does not get to take the readied action,
+though he can ready the same action
+again. If he takes his readied
+action in the next round,
+before his regular turn, his
+initiative count rises to that new point in the order of battle
+and he does not get his regular action that round.
+Distracting Sorcerers
+A character can ready an attack against a sorcerer with the
+trigger ‘if he starts casting a spell.’ If he is hit the sorcerer
+may lose the spell he was trying to cast, as determined by
+his Concentration check result.
+Readying a Weapon
+against a Charge
+A character can ready certain piercing weapons by setting
+them to receive charges. A readied weapon of this type deals
+double damage if a character scores a hit with it against a
+charging opponent.
+Riposte
+You parry with such skill that you open up your opponent’s
+defences.
+Action: Immediate
+Prerequisite: Base parry bonus +4.
+Circumstance: The opponent’s attack is less than half of
+your total Parry Defence.
+Effect: The character may immediately take an attack of
+opportunity against his foe.
+Roll
+You throw yourself to one side.
+Action: Immediate
+Circumstance: A character is prone and being attacked in
+melee.
+Effect: A character makes a Tumble check against a DC
+equal to his foe’s attack roll. If successful, he does not suffer
+the normal –4 penalty to Defence for being prone.
+Shield Slam
+A character blocks so forcefully that he knocks his
+opponent’s blade far to one side, opening him up for a
+devastating counter-attack.
+Action: Immediate
+Prerequisite: Base parry bonus +2.
+Circumstance: The character must be parrying with a
+shield.
+Effect: When a character parries an opponent’s attack,
+the defending character may make an opposed Strength
+check against his foe. If he loses, his opponent immediately
+damages the defender’s shield as if he had succeeded in a
+211
+Combat
+sunder attempt (see below). If he succeeds, his opponent
+suffers a –2 circumstance penalty to his Parry Defence
+until his next action.
+Sunder
+With a mighty blow, you smash your foe’s weapon to pieces!
+Action: Standard
+Circumstance: The character must be in melee combat
+with a foe who is using a weapon or shield.
+Effect: The character can use a melee attack with a slashing
+or bludgeoning weapon to strike a weapon or shield that
+his opponent is holding. Follow the steps outlined here
+to attempt to sunder a weapon or shield. Attacking held
+objects other than weapons or shields is covered below.
+* Step 1: Attack of Opportunity: The character provokes
+an attack of opportunity from the target whose weapon
+or shield he is trying to sunder. If the attacker has the
+Improved Sunder feat, he does not incur an attack of
+opportunity for making the attempt.
+* Step 2: Opposed Rolls: The attacker and the defender
+make opposed attack rolls with their respective
+weapons. The wielder of a two-handed weapon on a
+sunder attempt gets a +4 bonus on this roll and the
+wielder of a light weapon takes a –4 penalty. If the
+combatants are of different sizes, the larger combatant
+gets a bonus of +4 per difference in size category
+on the attack roll.
+* Step 3: Consequences: If the attacker beats the defender,
+the attacker rolls damage and deal it to the weapon
+or shield. See the Weapons, Primitive Weapons,
+Akbitanan Weapons and Shields tables in the
+Equipment chapter to determine how much damage
+must be dealt to destroy the weapon or shield. If
+the attacker fails the sunder attempt, he does not
+deal any damage. Note: A character may not use
+Armour Piercing when attacking an object, nor can
+he bypass its hardness with finesse. See Breaking
+Objects, page 217.
+Sundering a Carried
+or Worn Object
+A character does not use an opposed attack roll to damage
+a carried or worn object. Instead, he makes an attack roll
+against the object’s Dodge Defence. A carried or worn
+object’s Dodge Defence is equal to 10 + its size modifier +
+the Dexterity modifier of the carrying or wearing character.
+Attacking a carried or worn object provokes
+an attack of opportunity, just as attacking a
+held object does. To attempt to snatch away an item
+worn by a defender rather than damage it, see Disarm
+on page 206. A character cannot sunder armour worn
+by another character.
+Sundering Parry
+Rather than simply setting aside an opponent’s weapon,
+you attempt to hack it through with your own.
+Action: Immediate
+Prerequisite: Improved Sunder, base parry bonus +1.
+Circumstance: The character must be parrying.
+Effect: The defender takes a –2 circumstance penalty to
+his Parry Defence. However, if he succeeds in parrying
+his enemy’s weapon, he may immediately make a sunder
+attempt as a free action that does not provoke an attack of
+opportunity. All the usual modifiers apply (including the
++4 bonus for the Improved Sunder feat) and the defender
+suffers an additional –2 circumstance penalty to the
+sundering attack roll.
+Throw Splash Weapon
+You hurl a vial or grenade or other splash weapon at an
+enemy.
+Action: Standard
+Effect: A splash weapon is a ranged weapon that breaks on
+impact, splashing or scattering its contents over its target
+and nearby creatures or objects. To attack with a splash
+weapon, make a ranged touch attack against the target.
+Thrown weapons require no weapon proficiency, so do
+not take the –4 non-proficiency penalty. A hit deals
+direct hit damage to the target and splash damage to all
+creatures within five feet of the target.
+A character can target a specific grid intersection
+instead of a specific object. Treat this as
+a ranged attack against a Defence of 5.
+However, if a grid intersection is targeted,
+creatures in all adjacent squares are dealt
+the splash damage and the direct hit damage
+is not dealt to any creature. A player cannot
+target a grid intersection occupied by a
+Large or larger creature; in this case, he is
+aiming at the creature.
+If you miss the target, whether aiming at a
+creature or a grid intersection, roll 1d8.
+This determines the misdirection
+of the throw, with 1 being straight
+back at you and 2 through 8
+counting clockwise around the
+grid intersection or target
+212
+Combat
+creature. Then, count a number of squares in the indicated
+direction equal to the range increment of the throw.
+After you determine where the weapon landed, it deals
+damage to the square it lands in and all adjacent squares
+as described above.
+To the Hilt
+You take advantage of your enemy’s lack of armour to
+plunge your weapon into his body and leave it buried
+in his flesh.
+Action: Standard
+Prerequisite: Power Attack.
+Circumstance: The character must be attacking with
+a piercing or slashing weapon against an unarmoured
+opponent.
+Effect: The attacker gains a +2 circumstance modifier to
+his damage roll. However, if the damage rolled with the
+weapon (before any modifiers for Strength, sneak attacks
+and bonuses of any kind) is higher than the character’s
+Strength modifier, the weapon sticks into the enemy,
+whether he is living or dead.
+The attacker or another character, including the one with
+the weapon stuck in him if he is still alive, can remove a
+stuck weapon by taking a full-round action and making a
+Strength check (DC 10). Often characters will find it easier
+and quicker to draw or pick up an alternate weapon.
+A character with a weapon stuck in him sustains 1d6 damage
+every time he takes a move, standard or full-round action.
+Trip
+You cunningly trip or otherwise topple a foe.
+Action: Standard
+Circumstance: The character must be in melee combat
+with a foe and using either an unarmed attack or a weapon
+that allows trip attacks.
+Effect: The character can try to trip an opponent as an
+unarmed melee attack. He can only trip an opponent
+who is one size category larger, the same size, or smaller
+than himself.
+Making a
+Trip Attack
+The character makes an
+unarmed melee touch attack
+against a target. This
+provokes an attack of
+o p p o r t u n i t y
+from
+the target as normal for unarmed attacks. If the attacker’s
+attack succeeds, he makes a Strength check opposed by the
+defender’s Dexterity or Strength check (defender’s choice).
+A combatant gets a +4 bonus for every size category he is
+larger than Medium, or a –4 penalty for every size category
+he is smaller than Medium. The defender gets a +4 bonus on
+his check if he has more than two legs or is otherwise more
+stable than a normal humanoid. If the attacker wins, he
+trips the defender. If he loses, the defender may immediately
+react and make a Strength check opposed by the attacker’s
+Dexterity or Strength check (attacker’s choice) to try to trip
+the attacker.
+* Avoiding Attacks of Opportunity: If the attacker has
+the Improved Trip feat or if he is tripping with a
+weapon (see below) he does not provoke an attack of
+opportunity for making a trip attack.
+Being Tripped (Prone)
+A tripped character is prone. Standing up is a move action
+and provokes an attack of opportunity.
+Tripping a
+Mounted Opponent
+A character may make a trip attack against a mounted
+opponent. The defender may make a Ride check in place
+of his Dexterity or Strength check. If the attacker succeeds,
+the rider is pulled from his mount.
+Tripping with a Weapon
+Some weapons can be used to make trip attacks. In this case, a
+character makes a melee touch attack with the weapon instead
+of an unarmed melee touch attack and does not provoke an
+attack of opportunity. If the character fail his trip attempt, he
+can drop the weapon to avoid being tripped in return.
+Use The Battlefield
+A character takes advantage of some quirk of the battlefield.
+Action: Free
+Circumstance: The character is in or is entering melee
+combat with a foe.
+Effect: Describe how a character uses some quirk of the
+battlefield to his advantage, like forcing a foe up to the
+crumbling edge of a precipice or leaping off a statue in a
+temple to attack a high priest. The Games Master may call
+for a skill check, normally a Balance, Jump or Tumble. The
+DC for this check is generally 20. If the character succeeds,
+he gets a +2 circumstance bonus to his attacks against a
+particular foe in the round; if he fails, he draws an Attack
+of Opportunity from that foe.
+213
+Combat
+Adventuring and
+the Wilderness
+Encumbrance
+Encumbrance rules are based largely on a character’s
+Strength score and determine how much his armour and
+equipment slow him down. Encumbrance comes in two
+parts, namely encumbrance by armour and encumbrance
+by total weight. The former is not truly affected by Strength
+as it deals largely with the limits of mobility imposed by
+the armour itself. The latter is entirely based on Strength,
+as the stronger a character is, the greater the load he can
+handle without succumbing to the slowing effects of heavy
+and unwieldy burdens.
+Carrying Capacity
+Strength
+Score Light Load
+Medium
+Load Heavy Load
+1 3 lb. or less 4–6 lb. 7–10 lb.
+2 6 lb. or less 7–13 lb. 14–20 lb.
+3 10 lb. or less 11–20 lb. 21–30 lb.
+4 13 lb. or less 14–26 lb. 27–40 lb.
+5 16 lb. or less 17–33 lb. 34–50 lb.
+6 20 lb. or less 21–40 lb. 41–60 lb.
+7 23 lb. or less 24–46 lb. 47–70 lb.
+8 26 lb. or less 27–53 lb. 54–80 lb.
+9 30 lb. or less 31–60 lb. 61–90 lb.
+10 33 lb. or less 34–66 lb. 67–100 lb.
+11 38 lb. or less 39–76 lb. 77–115 lb.
+12 43 lb. or less 44–86 lb. 87–130 lb.
+13 50 lb. or less 51–100 lb. 101–150 lb.
+14 58 lb. or less 59–116 lb. 117–175 lb.
+15 66 lb. or less 67–133 lb. 134–200 lb.
+16 76 lb. or less 77–153 lb. 154–230 lb.
+17 86 lb. or less 87–173 lb. 174–260 lb.
+18 100 lb. or less 101–200 lb. 201–300 lb.
+19 116 lb. or less 117–233 lb. 234–350 lb.
+20 133 lb. or less 134–266 lb. 267–400 lb.
+21 153 lb. or less 154–306 lb. 307–460 lb.
+22 173 lb. or less 174–346 lb. 347–520 lb.
+23 200 lb. or less 201–400 lb. 401–600 lb.
+24 233 lb. or less 234–466 lb. 467–700 lb.
+25 266 lb. or less 267–533 lb. 534–800 lb.
+26 306 lb. or less 307–613 lb. 614–920 lb.
+27 346 lb. or less 347–693 lb. 694–1,040 lb.
+28 400 lb. or less 401–800 lb. 801–1,200 lb.
+29 466 lb. or less 467–933 lb. 934–1,400 lb.
++10 ×4 ×4 ×4
+Encumbrance by Armour
+A character’s body armour defines his maximum Dexterity
+bonus to his Dodge Defence, armour check penalty, speed
+and running speed. Unless a character is weak or carrying
+a lot of gear, no further information is necessary. The extra
+gear a character carries will not usually slow him down any
+more than the armour already does. If, however, a character
+is weak or carrying a lot of gear, encumbrance is calculated
+by weight. This is most important when a character is
+trying to carry some heavy object.
+Weight
+To determine whether a character’s gear is heavy enough to
+slow him down more than his armour already does, total
+the weight of all the character’s items, including armour,
+weapons and gear. Compare this total to the character’s
+Strength on the Carrying Capacity table. Depending
+on how the weight compares to the character’s carrying
+capacity, he may be carrying a Light, Medium or heavy
+load. Like armour, a character’s load affects his maximum
+Dexterity bonus to Dodge Defence, carries a check penalty
+(which works like an armour check penalty), reduces the
+character’s speed and affects how fast the character can run,
+as shown on the Carrying Loads table. A heavy load counts
+as heavy armour for the purpose of abilities or skills that
+are restricted by armour. Carrying a light load does not
+encumber a character.
+If a character is wearing armour, use the worse figure
+(from armour or from load) for each category. Do not
+stack the penalties, as a character can only suffer from
+one set of encumbrance penalties at a given time.
+Lifting and D ragging
+A character can lift as much as his maximum
+load over his head. A character can lift as
+much as double his maximum load off the
+ground but he can only stagger around
+with it. While overloaded in this way, the
+character can neither dodge nor parry and can
+move only five feet per round as a full-round
+action. A character can generally push or
+drag a load along the ground as much as
+five times his maximum load. Favourable
+conditions can double these numbers,
+while bad circumstances can reduce
+them to one-half or lower.
+214
+Combat
+Carrying Loads
+–—— Speed —–—
+Load
+Max
+Dex
+Check
+Penalty (30 ft.) (20 ft.) Run
+Medium +3 –3 20 ft. 15 ft. ×4
+Heavy +1 –6 20 ft. 15 ft. ×3
+Bigger and
+Smaller Creatures
+The figures on the Carrying Capacity table are for
+Medium-size bipedal creatures. A larger bipedal creature
+can carry more weight depending on its size category, as
+follows: Large ×2, Huge ×4, Gargantuan x8, Colossal ×16.
+A smaller creature can carry less weight depending on its
+size category, as follows: Small ×3/4, Tiny ×1/2, Diminutive
+×1/4, Fine ×1/8.
+Quadrupeds can carry heavier loads than characters can.
+Instead of the multipliers given above, multiply the value
+corresponding to the creature’s Strength score on the
+Carrying Capacity table by the appropriate modifier, as
+follows: Fine ×1/4, Diminutive ×1/2, Tiny ×3/4, Small
+×1, Medium ×1.5, Large ×3, Huge x6, Gargantuan ×12,
+Colossal ×24.
+Tremendous Strength
+For Strength scores not shown on the Carrying Capacity
+table, find the Strength score between 20 and 29 that
+has the same number in the ‘ones’ digit as the creature’s
+Strength score does. Next, multiply these numbers by four
+for every 10 points by which the creature’s Strength is
+above the score for that row.
+Armour and Encumbrance
+for Other Base Speeds
+The table below provides reduced speed figures for all base
+speeds from 20 feet to 100 feet, in 10-foot increments.
+Base
+Speed
+Reduced
+Speed
+20 ft. 15 ft.
+30 ft. 20 ft.
+40 ft. 30 ft.
+50 ft. 35 ft.
+60 ft. 40 ft.
+70 ft. 50 ft.
+80 ft. 55 ft.
+90 ft. 60 ft.
+100 ft. 70 ft.
+Movement
+There are three movement scales, as follows:
+* Tactical, for combat; measured in feet (or squares) per
+round
+* Local, for exploring an area; measured in feet per
+minute
+* Overland, for travelling from place to place; measured
+in miles per hour or miles per day
+Modes of Movement: While moving at the different
+movement scales, creatures generally walk, hustle or run.
+Each type of movement affects the character’s speed and the
+types of action that can be performed at the same time.
+Movement And Distance
+———–—— Speed —–————
+15 feet 20 feet 30 feet 40 feet
+One Round
+(Tactical)*
+Walk 15 ft. 20 ft. 30 ft. 40 ft.
+Hustle 30 ft. 40 ft. 60 ft. 80 ft.
+Run (×3) 45 ft. 60 ft. 90 ft. 120 ft.
+Run (×4) 60 ft. 80 ft. 120 ft. 160 ft.
+One Minute
+(Local)
+Walk 150 ft. 200 ft. 300 ft. 400 ft.
+Hustle 300 ft. 400 ft. 600 ft. 800 ft.
+Run (×3) 450 ft. 600 ft. 900 ft. 1,200 ft.
+Run (×4) 600 ft. 800 ft. 1,200 ft. 1,600 ft.
+One Hour
+(Overland)
+Walk 1.5 miles 2 miles 3 miles 4 miles
+Hustle 3 miles 4 miles 6 miles 8 miles
+Run — — — —
+One Day
+(Overland)
+Walk 12 miles 16 miles 24 miles 32 miles
+Hustle — — — —
+Run — — — —
+* Tactical movement is often measured in squares on
+the battle grid (one square = five feet) rather than feet.
+Walk: A walk represents unhurried but purposeful movement
+at about three miles per hour for an unencumbered person.
+Hustle: A hustle is a jog at about six miles per hour for an
+unencumbered human. A character that moves his speed
+twice in a single round, or moves that speed in the same
+round he performs a standard action or another move
+action is hustling when he moves.
+215
+Combat
+Run (×3): Moving at three times speed is a running
+pace for a character in heavy armour. It represents
+about nine miles per hour for a human in full plate or
+heavy combat armour.
+Run (×4): Moving at four times speed is a running pace for
+a character in light or no armour. It represents about 12
+miles per hour for an unencumbered human, or eight miles
+per hour for a human in chainmail or similar armour.
+Tactical Movement
+Use tactical movement for combat. Characters generally
+do not walk during combat. Instead, they hustle or run.
+A character who moves his speed and takes some action
+is hustling for about half the round and doing something
+else for the other half.
+Hampered Movement: Difficult terrain, obstacles or
+poor visibility can hamper movement. When movement
+is hampered, each square a character moves into usually
+counts as two squares, effectively reducing the distance
+the character can cover in a move. If more than one
+condition applies, multiply together all additional costs
+that apply. This is a specific exception to the normal
+rule for doubling.
+In some situations, a character’s movement may be so
+hampered that he does not have sufficient speed to move
+even five feet or one square on the tactical map. In such
+a case, he may use a full-round action to move five feet
+(one square) in any direction, even diagonally. Although
+this looks like a five-foot step, it is not and thus provokes
+attacks of opportunity normally. A character cannot take
+advantage of this rule to move through impassable terrain
+or to move when all movement is prohibited to him.
+A character cannot run or charge through any square that
+would hamper his movement.
+Hampered Movement
+Condition Additional Movement Cost
+Difficult terrain ×2
+Obstacle* ×2
+Poor visibility ×2
+Impassable —
+* May require a skill check
+Local Movement
+Characters exploring an area use local movement,
+measured in feet per minute.
+Walk: A character can walk without a problem on the local
+scale.
+Hustle: A character can hustle without a problem on the
+local scale. See Overland Movement, below, for movement
+measured in miles per hour.
+Run: A character with a Constitution score of nine or
+higher can run for a minute without a problem. Generally,
+a character can run for a minute or two before having to
+rest for a minute.
+Overland Movement
+Characters who are covering long distances cross-country
+use overland movement. Overland movement is measured
+in miles per hour or miles per day. A day represents
+eight hours of actual travel time. For rowed watercraft, a
+day represents 10 hours of rowing. For a sailing ship, it
+represents 24 hours of sailing.
+Walk
+A character can walk eight hours in a day of travel without
+a problem. Walking for longer than that can wear him out;
+see Forced March below.
+Hustle
+A character can hustle for one hour without a problem.
+Hustling for a second hour in between sleep cycles deals
+one point of nonlethal damage. Each additional hour
+deals twice the damage taken during the previous hour
+of hustling. A character who takes any nonlethal damage
+from hustling becomes fatigued.
+A fatigued character cannot run or charge and takes a
+penalty of –2 to Strength and Dexterity. Eliminating
+the nonlethal damage also eliminates the fatigue.
+Run
+A character cannot run for an extended period
+of time. Attempting to run and rest in cycles,
+which is the preferred method for long distance
+overland travel when time is not an important
+factor, effectively works out to a hustle.
+Terrain
+The terrain through which a
+character travels affects how much
+distance he can cover in an hour
+or a day; see Terrain and Overland
+Movement. A highway is
+216
+Combat
+a straight, major, paved road. A road is typically a dirt or
+gravel track. A trail is like a road, except that it allows only
+single-file travel and does not benefit a party travelling with
+vehicles. Trackless terrain is a wild area with no paths.
+Terrain And
+Overland Movement
+Terrain Highway Road or Trail Trackless
+Desert, sandy ×1 ×1/2 ×1/2
+Forest ×1 ×1 ×1/2
+Hills ×1 ×3/4 ×1/2
+Jungle ×1 ×3/4 ×1/4
+Moor ×1 ×1 ×3/4
+Mountains ×3/4 ×3/4 ×1/2
+Plains ×1 ×1 ×3/4
+Swamp ×1 ×3/4 ×1/2
+Tundra, frozen ×1 ×3/4 ×3/4
+Forced March
+A character walks for eight hours in a single day of normal
+walking. The rest of the daylight time is spent making and
+breaking camp, resting and eating. A character can walk
+for more than eight hours in a day by making a forced
+march. For each hour of marching beyond eight hours, a
+Constitution check (DC 10, +2 per extra hour) is required.
+If the check fails, the character takes 1d6 points of nonlethal
+damage. A character who takes any nonlethal damage
+from a forced march becomes fatigued. Eliminating the
+nonlethal damage also eliminates the fatigue. It is quite
+possible for a character to march into unconsciousness by
+pushing himself too hard on a forced march.
+Mounted Movement
+A mount bearing a rider can move at a hustle. The damage
+it takes when doing so, however, is lethal damage. The
+creature can also be ridden in a forced march but its
+Constitution checks automatically fail. In addition to
+this, the damage it takes is lethal damage. Mounts also
+become fatigued when they take any damage from
+hustling or forced marches.
+The Rules of
+Exploration
+Vision and
+Lighting Conditions
+Several creatures have darkvision and can see in the dark.
+Characters without this quality need light to see by. See the
+table below for the area a light source illuminates and how
+long it lasts. In an area of bright light, all characters can
+see clearly. A creature cannot hide in an area of bright light
+unless it is invisible or has cover.
+In an area of shadowy illumination, a character can
+see dimly. Creatures within this area have concealment
+relative to that character. A creature in an area of shadowy
+illumination can make a Hide check to conceal itself. In
+areas of total darkness, creatures without darkvision are
+effectively blinded. In addition to the obvious effects,
+a blinded creature has a 50% miss chance in combat
+since all opponents have total concealment, can neither
+dodge nor parry, takes a –2 penalty to Defence, moves at
+half speed and takes a –4 penalty on Search checks and
+many skill checks.
+Creatures with low-light vision, such as the Wazuli
+and other characters with the Eyes of the Cat feat, can
+effectively double the given area of bright light and shadowy
+illumination when they use this equipment to light their
+way. For example, a Wazuli using a torch can see clearly out
+to a range of 40 feet and can see shadowy shapes out to 80
+feet away. A normal man standing next to him can only see
+clearly out to 20 feet and cannot see at all beyond 40 feet.
+217
+Combat
+Light Sources
+And Illumination
+Object Bright Shadowy Duration
+Candle n/a1 5 ft. 1 hour
+Torch 20 ft. 40 ft. 1 hr.
+1A candle only provides shadowy illumination.
+Breaking Objects
+When attempting to break an object, a character has
+two choices: smash it with a weapon or break it with
+sheer strength. Objects can also be broken through the
+application of energy other than kinetic but the basic rules
+for doing so are largely unchanged. Exceptions to this
+principle are noted below when appropriate.
+Smashing an Object
+The sunder attack is used for smashing a weapon or shield
+with a slashing or bludgeoning weapon; see the Combat
+chapter. Smashing an object is a lot like sundering a
+weapon or shield, except that the attack roll is made against
+the object’s Base Defence. Generally, an object can only be
+smashed with a bludgeoning or slashing weapon.
+Base Defence For Objects
+Objects are easier to hit than creatures because they
+usually do not move but many are tough enough to
+shrug off some damage from each blow. An object’s Base
+Defence is equal to 10 + its size modifier + its Dexterity
+modifier. An inanimate object has not only a Dexterity
+of zero (–5 penalty to Defence) but an additional –2
+penalty to its Defence. Furthermore, if a character takes
+a full-round action to line up a shot, he gets an automatic
+hit with a melee weapon and a +5 bonus on attack rolls
+with a ranged weapon.
+Size Base Defence Modifier
+Colossal –8
+Gargantuan –4
+Huge –2
+Large –1
+Medium +0
+Small +1
+Tiny +2
+Diminutive +4
+Fine +8
+Hardness
+Each object has hardness—a number that represents how
+well it resists damage. Whenever an object takes damage,
+subtract its hardness from the damage. Only damage in
+excess of its hardness is deducted from the object’s hit
+points.
+Object Hardness
+Hit
+Points
+Break
+DC
+Rope (one inch diameter) 0 2 23
+Simple wooden door 5 10 13
+Small chest 5 1 17
+Good wooden door 5 15 18
+Treasure chest 5 15 23
+Strong wooden door 5 20 23
+Masonry wall (one foot thick) 8 90 35
+Hewn stone (three feet thick) 8 540 50
+Chain 10 5 26
+Manacles 10 10 26
+Masterwork manacles 10 10 28
+Iron door (two inches thick) 10 60 28
+Substance Hardness Hit Points
+Paper or cloth 0 2/inch of thickness
+Rope 0 2/inch of thickness
+Glass 1 1/inch of thickness
+Ice 0 3/inch of thickness
+Leather or hide 2 5/inch of thickness
+Wood 5 10/inch of thickness
+Stone 8 15/inch of thickness
+Iron or steel 10 30/inch of thickness
+Hit Points
+An object’s hit point total depends on what
+it is made of and how big it is. When an
+object’s hit points reach zero, it is ruined.
+Very large objects, such as wagons or chariots,
+may have separate hit point totals for different
+sections or locations.
+Energy Attacks: Acid attacks deal damage to
+most objects just as they do to creatures;
+roll damage and apply it normally after a
+successful hit. Fire attacks deal half
+damage to most objects; divide
+the damage dealt by two before
+applying the hardness.
+218
+Combat
+Ranged Weapon Damage: Objects take half damage from
+ranged weapons unless the weapon is a siege engine or
+something similar. Divide the damage dealt by two before
+applying the object’s hardness.
+Ineffective Weapons: Certain weapons simply cannot
+effectively deal damage to certain other objects.
+Immunities: Objects are immune to nonlethal damage and
+to critical hits.
+Vulnerability to Certain Attacks: Certain attacks are
+especially successful against some objects. In such cases,
+attacks deal double their normal damage and may ignore
+the object’s hardness.
+Damaged Objects: A damaged object remains fully
+functional until the item’s hit points are reduced to zero, at
+which point it is destroyed. Damaged (but not destroyed)
+objects can be repaired with the Craft skill.
+Breaking Items
+When a character tries to break something with sudden
+force rather than by dealing damage, use a Strength check
+(rather than an attack roll and damage roll, as with the
+sunder special attack) to see whether he succeeds. The DC
+depends more on the construction of the item than on the
+material. If an item has lost half or more of its hit points,
+the DC to break it drops by two.
+Larger and smaller creatures get size bonuses and size
+penalties on Strength checks to break open doors as follows:
+Fine –16, Diminutive –12, Tiny –8, Small –4, Large +4,
+Huge +8, Gargantuan +12, Colossal +16.
+Strength Check to: DC
+Break down simple door 13
+Break down good door 18
+Break down strong door 23
+Burst rope bonds 23
+Bend iron bars 24
+Break down barred door 25
+Burst chain bonds 26
+Break down iron door 28
+Cold and Exposure
+Cold and exposure deal nonlethal damage
+to living creatures. This nonlethal
+damage cannot be recovered
+until a character gets out
+of the cold and warms
+up again. Once
+a character
+is rendered unconscious through the accumulation of
+nonlethal damage, the cold and exposure begin to deal
+lethal damage at the same rate.
+An unprotected character in cold weather (below 40° F)
+must make a Fortitude save each hour (DC 15, + 1 per
+previous check) or take 1d6 points of nonlethal damage. A
+character who has the Survival skill may receive a bonus on
+this saving throw and may be able to apply this bonus to
+other characters as well (see the skill Description).
+In conditions of severe cold or exposure (below 0° F), an
+unprotected character must make a Fortitude save once
+every 10 minutes (DC 15, +1 per previous check), taking
+1d6 points of nonlethal damage on each failed save. A
+character who has the Survival skill may receive a bonus
+on this saving throw and may be able to apply this bonus
+to other characters as well (see the skill description).
+Characters wearing winter clothing only need one check
+per hour for cold and exposure damage.
+A character who takes any nonlethal damage from cold
+or exposure is beset by frostbite or hypothermia (treat
+as fatigued). These penalties end when the character
+recovers the nonlethal damage he took from the cold and
+exposure.
+Extreme cold (below –20° F) deals 1d6 points of lethal
+damage per minute (no save). In addition, a character must
+make a Fortitude save (DC 15, +1 per previous check) or
+take 1d4 points of nonlethal damage.
+Out across the white blinding plain the chase led.
+The trampled red field fell out of sight behind
+him, but still Conan kept on with the silent tenacity
+of his race. His mailed feet broke through the frozen
+crust; he sank deep in the drifts and forged through
+them by sheer strength. But the girl danced across
+the snow light as a feather floating across a pool; her
+naked feet barely left their imprint on the hoar-frost
+that overlaid the crust. In spite of the fire in his veins,
+the cold bit through the warrior’s mail and fur-lined
+tunic; but the girl in her gossamer veil ran as lightly
+and as gaily as if she danced through the palm and
+rose gardens of Poitain.
+– The Frost Giant’s Daughter
+219
+Combat
+Darkness
+In the lightless tombs of Stygia or the darkest hours of
+the night, some characters or monsters might be able to
+see, while others might be blinded. For purposes of the
+following points, a blinded creature is one who simply
+cannot see through the surrounding darkness.
+* Creatures blinded by darkness lose the ability to deal
+extra damage due to precision (for example, a ranger’s
+favoured enemy or a sneak attack).
+* Blinded creatures are hampered in their movement and
+must halve their movement.
+* All opponents have total concealment from blinded
+creatures, so a blinded creature has a 50% miss chance
+in combat. A blinded creature must first pinpoint the
+location of an opponent in order to attack the right
+square; if the blinded creature launches an attack
+without pinpointing its foe, it attacks a random
+square within its reach. For ranged attacks or spells
+against a foe whose location is not pinpointed, roll to
+determine which adjacent square the blinded creature
+is facing; its attack is directed at the closest target
+that lies in that direction.
+* A blinded creature cannot Dodge or Parry.
+* If a blinded creature is struck by an unseen foe, the
+blinded character pinpoints the location of the creature
+that struck him (until the unseen creature moves, of
+course). The only exception is if the unseen creature has
+a reach greater than five feet (in which case the blinded
+character knows the location of the unseen opponent
+but has not pinpointed him) or uses a ranged attack
+(in which case, the blinded character knows the general
+direction of the foe but not his location).
+* A creature blinded by darkness can make a Listen
+check as a free action each round in order to locate
+foes (DC equal to opponents’ Move Silently checks). A
+successful check lets a blinded character hear an unseen
+creature ‘over there somewhere.’ It is almost impossible
+to pinpoint the location of an unseen creature. A Listen
+check that beats the DC by 20 reveals the unseen
+creature’s square but the unseen creature still has total
+concealment from the blinded creature.
+* A blinded creature can grope about to find unseen
+creatures. A character can make a touch attack with
+his hands or a weapon into two adjacent squares
+using a standard action. If an unseen target is in the
+designated square, there is a 50% miss chance on the
+touch attack. If successful, the groping character deals
+no damage but pinpoints the unseen creature’s current
+location. (If the unseen creature moves, its location
+is once again unknown.)
+* A creature with the scent ability automatically
+pinpoints unseen creatures within five feet of
+its location.
+* A blinded creature takes a –4 penalty on Search checks
+and most Strength- and Dexterity-based skill checks,
+including any with an armour check penalty. A creature
+blinded by darkness automatically fails any skill check
+relying on vision.
+Falling
+Falling Damage: The basic rule is simple: 1d6 points of
+damage per 10 feet fallen, to a maximum of 20d6.
+If a character deliberately jumps instead of merely
+slipping or falling, the damage is the same but the first
+1d6 is nonlethal damage. A DC 15 Jump check or DC 15
+Tumble check allows the character to avoid any damage
+from the first 10 feet fallen and converts any damage from
+the second 10 feet to nonlethal damage. Thus, a character
+who slips from a ledge 30 feet up takes 3d6 damage. If the
+same character deliberately jumped, he takes 1d6 points of
+nonlethal damage and 2d6 points of lethal damage. If the
+character leaps down with a successful Jump or Tumble
+check, he takes only 1d6 points of nonlethal damage and
+1d6 points of lethal damage from the plunge.
+Falls onto yielding surfaces (soft ground, mud) also convert
+the first 1d6 of damage to nonlethal damage. This reduction
+is cumulative with deliberate jumps and the Jump skill.
+Falling into Water: Falls into water are handled somewhat
+differently. If the water is at least 10 feet deep, the first
+20 feet of falling do no damage. The next 20 feet do
+nonlethal damage (1d3 per 10-foot increment). Beyond
+that, falling damage is lethal damage (1d6 per additional
+10-foot increment).
+Characters who deliberately dive into water take no
+damage on a successful DC 15 Swim check or
+DC 15 Tumble check, so long as the water is
+at least 10 feet deep for every 30 feet fallen.
+However, the DC of the check increases by
+five for every 50 feet of the dive.
+Heat
+In the deserts, there are sun-bleached bones
+that were once adventurers. Heat can be
+more deadly than any desert bandit. Heat
+deals nonlethal damage that cannot be
+recovered until the character cools
+off (reaches shade, survives until
+nightfall, gets doused in water
+and so forth). Once rendered
+220
+Combat
+unconscious through the accumulation of nonlethal
+damage, the character begins to take lethal damage
+at the same rate.
+A character in very hot conditions (above 90° F) must
+make a Fortitude saving throw each hour (DC 15, +1
+for each previous check) or take 1d4 points of nonlethal
+damage. Characters wearing heavy clothing or armour
+of any sort take a –4 penalty on their saves. A character
+with the Survival skill may receive a bonus on this saving
+throw and may be able to apply this bonus to other
+characters as well (see the skill description). Characters
+reduced to unconsciousness begin taking lethal damage
+(1d4 points per hour).
+In severe heat (above 110° F), a character must make a
+Fortitude save once every 10 minutes (DC 15, +1 for each
+previous check) or take 1d4 points of nonlethal damage.
+Characters wearing heavy clothing or armour of any sort
+take a –4 penalty on their saves. A character with the
+Survival skill may receive a bonus on this saving throw and
+may be able to apply this bonus to other characters as well.
+Characters reduced to unconsciousness begin taking lethal
+damage (1d4 points per each 10-minute period).
+A character who takes any nonlethal damage from heat
+exposure now suffers from heatstroke and is fatigued.
+These penalties end when the character recovers the
+nonlethal damage he took from the heat.
+Extreme heat (air temperature over 140° F, fire, boiling
+water, lava) deals lethal damage. Breathing air in these
+temperatures deals 1d6 points of damage per minute (no
+save). In addition, a character must make a Fortitude
+save every five minutes (DC 15, +1 per previous check)
+or take 1d4 points of nonlethal damage. Those wearing
+heavy clothing or any sort of armour take a –4 penalty
+on their saves.
+Boiling water deals 1d6 points of scalding damage unless
+the character is fully immersed, in which case it deals
+10d6 points of damage per round of exposure.
+A burning torch deals 1d6 points of damage if used
+as a weapon.
+Catching Fire
+Characters exposed to burning oil, bonfires or other fires
+might find their clothes, hair or equipment on fire.
+Characters at risk of catching fire are allowed a DC 15
+Reflex save to avoid this fate. If a character’s clothes or hair
+catch fire, he takes 1d8 points of damage immediately.
+In each subsequent round, the burning character must
+make another Reflex saving throw. Failure means he takes
+another 1d8 points of damage that round. Success means
+that the fire has gone out. (That is, once he succeeds on his
+saving throw, he is no longer on fire.)
+A character who is on fire may automatically extinguish the
+flames by jumping into enough water to douse himself. If
+no body of water is at hand, a full-round action rolling on
+the ground or smothering the fire with cloaks or the like
+permits the character another save with a +4 bonus.
+Those unlucky enough to have their clothes or equipment
+catch fire must make DC 15 Reflex saves for each item.
+Flammable items that fail take the same amount of damage
+as the character.
+Smoke
+A character who breathes heavy smoke must make a
+Fortitude save each round (DC 15, +1 per previous check)
+or spend that round choking and coughing. A character
+who chokes for two consecutive rounds takes 1d6 points
+of nonlethal damage. Smoke obscures vision, giving
+concealment (20% miss chance) to characters within it.
+Starvation and Thirst
+Characters might find themselves without food or water
+and with no means to obtain them. In normal climates,
+Medium characters need at least a gallon of fluids and
+about a pound of decent food per day to avoid starvation.
+In very hot climates, characters need two or three times as
+much water to avoid dehydration.
+A character can go without water for one day plus a
+number of hours equal to his Constitution score. After
+this time, the character must make a Constitution check
+each hour (DC 10, +1 for each previous check) or take 1d6
+points of nonlethal damage.
+A character can go without food for three days, in growing
+discomfort. After this time, the character must make a
+Constitution check each day (DC 10, +1 for each previous
+check) or take 1d6 points of nonlethal damage.
+221
+Combat
+Characters who have taken nonlethal damage from lack of
+food or water are fatigued. Nonlethal damage from thirst
+or starvation cannot be recovered until the character gets
+food or water, as needed – not even magic that restores hit
+points heals this damage.
+Suffocation
+A character who has no air to breathe can hold his breath
+for two rounds per point of Constitution. After this period
+of time, the character must make a DC 10 Constitution
+check in order to continue holding his breath. The save
+must be repeated each round, with the DC increasing by
++1 for each previous success.
+When the character fails one of these Constitution
+checks, he begins to suffocate. In the first round, he falls
+unconscious (zero hit points). In the following round,
+he drops to –1 hit points and is dying. In the third
+round, he suffocates.
+Slow Suffocation: A Medium character can breathe easily
+for six hours in a sealed chamber measuring 10 feet on
+a side. After that time, the character takes 1d6 points of
+nonlethal damage every 15 minutes. Each additional
+Medium character or significant fire source (a torch, for
+example) proportionally reduces the time the air will last.
+Water and Drowning
+Any character can wade in relatively calm water that does
+not go over his head with no check. Similarly, swimming
+in calm water only requires skill checks with a DC of
+10. Trained swimmers can just take 10. (Remember,
+however, that armour or heavy gear makes any attempt
+at swimming much more difficult. See the Swim skill
+description on page 116.)
+By contrast, fast-moving water is much more dangerous.
+On a successful DC 15 Swim check or a DC 15 Strength
+check, fast-moving water deals 1d3 points of nonlethal
+damage per round (1d6 points of lethal damage if flowing
+over rocks and cascades). On a failed check, the character
+takes the damage and must make another check that round
+to avoid going under.
+Very deep water is not only generally pitch black, posing
+a navigational hazard but worse, it deals water pressure
+damage of 1d6 points per minute for every 100 feet the
+character is below the surface. A successful Fortitude save
+(DC 15, +1 for each previous check) means the diver takes no
+damage in that minute. Very cold water deals 1d6
+points of nonlethal damage from hypothermia
+per minute of exposure.
+Any character can hold his breath for a number of rounds
+equal to twice his Constitution score. After this period
+of time, the character must make a DC 10 Constitution
+check every round in order to continue holding his
+breath. Each round, the DC increases by one.
+When the character finally fails his Constitution check, he
+begins to drown. In the first round, he falls unconscious
+(zero hit points). In the following round, he
+drops to –1 hit points and is dying. In the third
+round, he drowns.
+It is possible to drown in substances other
+than water, such as sand, quicksand, fine dust
+and mysterious strangling gasses found in
+chasms surrounding sorcerous castles.
+Stealth and Detection Underwater: How
+far one can see underwater depends on the
+water’s clarity. As a guideline, creatures
+can see 4d8×10 feet if the water is
+clear and 1d8×10 feet if it is murky.
+Moving water is always murky,
+unless it is in a particularly large,
+slow-moving river.
+222
+Combat
+Combat Underwater
+Attacks from Land: Characters swimming, floating
+or treading water on the surface, or wading in water at
+least chest deep, have cover (+4 bonus to Defence) from
+opponents on land.
+Attacks Underwater: Characters suffer a –2 penalty to
+attacks and inflict only half damage on a successful attack
+when using slashing or bludgeoning weapons. Piercing
+weapons only suffer a –2 penalty to attacks.
+Thrown weapons are ineffective underwater, even when
+launched from land. Attacks with other ranged weapons
+take a –2 penalty on attack rolls for every five feet of
+water they pass through, in addition to the normal
+penalties for range.
+Weather
+Natural conditions such as storms and snow can affect a
+battle.
+Rain, Snow, Sleet and Hail
+Rain: Rain reduces visibility ranges by half, resulting in
+a –4 penalty on Spot and Search checks. It has the same
+effect on flames, ranged weapon attacks and Listen checks
+as severe wind.
+Snow: Falling snow has the same effects on visibility, ranged
+weapon attacks and skill checks as rain. It costs two squares
+of movement to enter a snow-covered square. A day of
+snowfall leaves 1d6 inches of snow on the ground.
+Heavy Snow: Heavy snow has the same effects as normal
+snowfall but also restricts visibility as fog does (see Fog,
+below). A day of heavy snow leaves 1d4 feet of snow on the
+ground. It costs four squares of movement to enter a square
+covered with heavy snow. Heavy snow accompanied by
+strong or severe winds may result in snowdrifts 1d4×5 feet
+deep, especially in and around an object big enough to
+deflect the wind—a cabin or a large tent, for instance.
+There is a 10% chance that a heavy snowfall will
+be accompanied by lightning (see Thunderstorm,
+below). Snow has the same effect on flames as
+moderate wind.
+Sleet: Essentially frozen rain,
+sleet has the same effect as
+rain while falling (except
+that its chance to
+extinguish protected flames is 75%) and the same effect as
+snow once on the ground.
+Hail: Hail does not reduce visibility but the sound of
+falling hail makes Listen checks more difficult (–4 penalty).
+Sometimes (5% chance) hail can become large enough to
+deal one point of lethal damage (per storm) to anything in
+the open. Once on the ground, hail has the same effect on
+movement as snow.
+Storms
+The raging winds and driving rain of a storm reduce
+visibility ranges by three quarters, imposing a –8 penalty
+on Spot, Search and Listen checks. Storms make ranged
+weapon attacks impossible, except for those that use siege
+weapons, which have a –4 penalty on attack rolls. Storms
+automatically extinguish candles, torches and similar
+unprotected flames. They cause protected flames, such as
+those of lanterns, to dance wildly and have a 50% chance
+of extinguishing these lights. See Table: Wind Effects for
+possible consequences to creatures caught outside without
+shelter during a storm. Storms are categorised according to
+the following three types:
+Dust storm: Howling desert storms hurl sand across the
+sky. This obscures vision, smothers unprotected flames
+and can even choke protected flames (50% chance).
+Most dust storms are accompanied by severe winds and
+leave behind a deposit of 1d6 inches of sand. However,
+there is a 10% chance for a more severe dust storm to be
+accompanied by windstorm-magnitude winds (see Table:
+Wind Effects). These more severe dust storms deal 1d3
+points of nonlethal damage each round to anyone caught
+out in the open without shelter and also pose a choking
+hazard (see Drowning—except that a character with a scarf
+or similar protection across his mouth and nose does not
+begin to choke until after a number of rounds equal to 10
+× her Constitution score). More severe dust storms leave
+2d3–1 feet of fine sand in their wake.
+Snowstorm: In addition to the wind and precipitation
+common to other storms, snowstorms leave 1d6 inches of
+snow on the ground.
+Thunderstorm: In addition to wind and precipitation
+(usually rain but sometimes also hail), thunderstorms
+are accompanied by lightning that can pose a hazard to
+characters who do not have proper shelter.
+Windstorm: When accompanied by little or no precipitation,
+windstorms can cause considerable damage simply through
+the force of their wind.
+223
+Combat
+Blizzard: The combination of high winds, heavy snow
+(typically 1d3 feet) and bitter cold make blizzards deadly
+for all who are unprepared for them.
+Hurricane: In addition to very high winds and heavy rain,
+hurricanes are accompanied by floods. Most adventuring
+activity is impossible under such conditions.
+Tornado: One in 10 thunderstorms is accompanied by a
+tornado.
+Powerful Storms: Very high winds and torrential
+precipitation reduce visibility to zero, making Spot, Search
+and Listen checks and all ranged weapon attacks impossible.
+Unprotected flames are automatically extinguished and
+protected flames have a 75% chance of being doused.
+Creatures caught in area powerful storm must make a DC
+20 Fortitude save or face the effects of the storm based on
+their size (see Table: Wind Effects). Powerful storms are
+divided into the following four types:
+Fog
+Whether in the form of a low-lying cloud or a mist rising
+from the ground, fog obscures all sight beyond five feet.
+Characters have concealment when they are five feet away
+from other creatures (attacks by or against them have a
+20% miss chance).
+Winds
+The wind can create a stinging spray of sand or dust,
+fan a large fire, heel over a small boat and blow
+gases or vapours away. If powerful enough, it
+can even knock characters down (see the Wind Effects
+table), interfere with ranged attacks or impose penalties on
+some skill checks.
+Light Wind: A gentle breeze, having little or no game effect.
+Moderate Wind: A steady wind with a 50% chance of
+extinguishing small, unprotected flames, such as candles.
+Strong Wind: Gusts that automatically extinguish
+unprotected flames (candles, torches and the like).
+Such gusts impose a –2 penalty on ranged attack rolls
+and on Listen checks.
+Severe Wind: In addition to automatically extinguishing
+any unprotected flames, winds of this magnitude cause
+protected flames (such as those of lanterns) to dance
+wildly and have a 50% chance of extinguishing
+these lights. Ranged weapon attacks and
+Listen checks are at a –4 penalty.
+Windstorm: Powerful enough to bring down
+branches if not whole trees, windstorms
+automatically extinguish unprotected flames
+and have a 75% chance of blowing out
+protected flames, such as those of lanterns.
+Ranged weapon attacks are impossible and
+even siege weapons have a –4 penalty on
+attack rolls. Listen checks are at a
+–8 penalty due to the howling
+of the wind.
+Wind Force Wind Speed
+Ranged Attacks
+Normal/Siege Weapons Wind Effect Fort Save DC
+Light 0–10 mph —/— — —
+Moderate 11–20 mph —/— — —
+Strong 21–30 mph –2/— — 10
+Severe 31–50 mph –4/— Checked 15
+Windstorm 51–74 mph Impossible/–4 Knocked down 18
+Hurricane 75–174 mph Impossible/–8 Blown away 20
+Tornado 175–300 mph Impossible/impossible Blown away 30
+Checked: Creatures are unable to move forward against the force of the wind. Flying creatures are
+blown back 1d6×5 feet.
+Knocked Down: Creatures are knocked prone by the force of the wind. Flying creatures are instead
+blown back 1d6×10 feet.
+Blown Away: Creatures on the ground are knocked prone and rolled 1d4×10 feet, taking 1d4
+points of nonlethal damage per 10 feet. Flying creatures are blown back 2d6×10 feet and take
+2d6 points of nonlethal damage due to battering and buffeting.
+224
+Combat
+Hurricane-Force Wind: All flames are extinguished. Ranged
+attacks are impossible (except with siege weapons, which
+have a –8 penalty on attack rolls). Listen checks are
+impossible: All characters can hear is the roaring of the
+wind. Hurricane-force winds often fell trees.
+Tornado: All flames are extinguished. All ranged attacks are
+impossible (even with siege weapons), as are Listen checks.
+Instead of being blown away (see Table: Wind Effects),
+characters in close proximity to a tornado who fail their
+Fortitude saves are sucked toward the tornado. Those who
+come in contact with the actual funnel cloud are picked up
+and whirled around for 1d10 rounds, taking 6d8 points of
+damage per round, before being violently expelled (falling
+damage may apply). While a tornado’s rotational speed can
+be as great as 300 mph, the funnel itself moves forward
+at an average of 30 mph (roughly 250 feet per round). A
+tornado uproots trees, destroys buildings and causes other
+similar forms of major destruction.
+Condition
+Summary
+Blinded: The character cannot see. He takes a -2 penalty
+to Armor Class, loses his Dexterity bonus to AC (if any),
+moves at half speed, and takes a -4 penalty on Search checks
+and on most Strength- and Dexterity-based skill checks.
+All checks and activities that rely on vision (such as reading
+and Spot checks) automatically fail. All opponents are
+considered to have total concealment (50% miss chance)
+to the blinded character. Characters who remain blinded
+for a long time grow accustomed to these drawbacks and
+can overcome some of them.
+Cowering: The character is frozen in fear and can take
+no actions. A cowering character takes a –2 penalty to
+Defence.
+Dazed: The creature is unable to act normally. A dazed
+creature can take no actions but can still Dodge and
+Parry.
+A dazed condition typically lasts one round.
+Dazzled: The creature is unable to see well because of
+over-stimulation of the eyes. A dazzled creature takes a –1
+penalty on attack rolls, Search checks and Spot checks.
+Deafened: A deafened character cannot hear. He takes a
+–4 penalty on initiative checks, automatically fails Listen
+checks and has a 20% chance of spell failure when casting
+spells with verbal components. Characters who remain
+deafened for a long time grow accustomed to these
+drawbacks and can overcome some of them.
+Disabled: A character with zero hit points or one who has
+negative hit points but has become stable and conscious,
+is disabled. A disabled character may take a single move
+action or standard action each round (but not both, nor can
+he take full-round actions). He moves at half speed. Move
+actions do not risk further injury but standard actions (or
+any other action the DM deems strenuous, including some
+free actions such as casting a quickened spell) deals one
+point of damage after the completion of the act. Unless
+the action increases the disabled character’s hit points, he is
+now in negative hit points and dying.
+A disabled character with negative hit points recovers hit
+points naturally if he is being helped. Otherwise, he has
+a 10% chance of recovering hit points naturally (starting
+with that day); otherwise, he loses one hit point per day.
+Once an unaided character starts recovering hit points
+naturally, he is no longer in danger of losing hit points
+(even if his current hit points are negative).
+Dying: A dying character is unconscious and near death.
+He has –1 to –9 current hit points. A dying character
+can take no actions and is unconscious. At the end
+of each round (starting with the round in which the
+character dropped below zero hit points), the character
+rolls d% to see whether he becomes stable. He has a 10%
+chance of becoming stable. If he does not stabilise, he
+loses one hit point. If a dying character reaches –10 hit
+points, he is dead.
+Entangled: The character is ensnared. Being entangled
+impedes movement, but does not entirely prevent it
+unless the bonds are anchored to an immobile object or
+tethered by an opposing force. An entangled creature
+moves at half speed, cannot run or charge and takes a –2
+penalty on all attack rolls and a –4 penalty to Dexterity.
+An entangled character who attempts to cast a spell must
+make a Concentration check (DC 15 + the spell’s level)
+or lose the spell.
+225
+Combat
+Exhausted: An exhausted character moves at half speed
+and takes a –6 penalty to Strength and Dexterity. After
+one hour of complete rest, an exhausted character becomes
+fatigued. A fatigued character becomes exhausted by doing
+something else that would normally cause fatigue.
+Fatigued: A fatigued character can neither run nor charge
+and takes a –2 penalty to Strength and Dexterity. Anything
+that would normally cause fatigue causes the fatigued
+character to become exhausted. After eight hours of
+complete rest, fatigued characters are no longer fatigued.
+Frightened: A frightened creature flees from the source
+of its fear as best it can. If unable to flee, it may fight. A
+frightened creature takes a –2 penalty on all attack rolls,
+saving throws, skill checks and ability checks.
+Frightened is like shaken, except that the creature must flee
+if possible. Panicked is a more extreme state of fear.
+Nauseated: The character experiences stomach distress.
+Nauseated creatures are unable to attack, cast spells,
+concentrate on spells or do anything else that require
+attention. The only action such a character can take is a
+single move action per turn.
+Panicked: A panicked creature must drop anything it
+holds and flee at top speed from the source of its fear, as
+well as any other dangers it encounters, along a random
+path. It can not take any other actions. In addition, the
+creature takes a –2 penalty on all saving throws, skill checks
+and ability checks. If cornered, a panicked creature cowers
+and does not attack, typically using the total defence action
+in combat. A panicked creature can use special abilities,
+including spells, to flee; indeed, the creature must use such
+means if they are the only way to escape.
+Panicked is a more extreme state of fear than shaken or
+frightened.
+Pinned: The character is held immobile (but not helpless)
+in a grapple.
+Prone: The character is on the ground. An attacker who is
+prone has a –4 penalty on melee attack rolls and cannot use
+a ranged weapon (except for a crossbow). A defender who
+is prone gains a +4 bonus to Defence against ranged attacks
+but takes a –4 penalty to Defence against melee attacks.
+Standing up is a move-equivalent action that provokes an
+attack of opportunity.
+Shaken: A shaken character takes a –2 penalty on attack
+rolls, saving throws, skill checks and ability checks.
+Shaken is a less severe state of fear than frightened or
+panicked.
+Sickened: The character takes a –2 penalty on all attack
+rolls, weapon damage rolls, saving throws, skill checks and
+ability checks.
+Stable: A character who was dying but who has stopped
+losing hit points and still has negative hit points is stable.
+The character is no longer dying but he is still unconscious.
+If the character has become stable because of aid from
+another character (such as a Heal check or magical healing),
+he no longer loses hit points. He has a 10% chance each
+hour of becoming conscious and disabled (even though his
+hit points are still negative).
+If the character became stable on his own and has not had
+help, he is still at risk of losing hit points. Each hour, he
+has a 10% chance of becoming conscious and disabled.
+Otherwise he loses one hit point.
+Staggered: A character whose nonlethal damage exactly
+equals his current hit points is staggered. A staggered
+character may take a single move action or standard action
+each round (but not both, nor can he take full-round
+actions).
+A character whose current hit points exceed his
+nonlethal damage is no longer staggered; a character
+whose nonlethal damage exceeds his hit points becomes
+unconscious.
+Stunned: A stunned creature drops everything he is
+holding, cannot take actions and cannot Dodge
+or Parry.
+Unconscious: The character is knocked out
+and helpless. Unconsciousness can result from
+having current hit points between –1 and –9 or
+from nonlethal damage in excess of current
+hit points.
+
+
+Sorcery Knowledge and Power
+‘Because blood aids great sorcery!’ thundered Xaltotun,
+in a voice that made the rocks quiver. A lurid nimbus
+played about his awful head. ‘Because no wizard wastes
+his strength thoughtlessly. Because I would conserve
+my powers for the great days to be, rather than employ
+them in a hill-country brawl. But now, by Set, I shall
+loose them to the uttermost! Watch, dog of Asura,
+false priest of an outworn god, and see a sight that shall
+blast your reason for evermore!’
+– The Hour of the Dragon
+227
+Sorcery
+Power Points
+All creatures have a certain amount of magical power
+flowing through them simply because they are alive.
+Sorcerers, who are usually but not always members of the
+scholar class, have learned to activate this magical power
+both in themselves and by draining the life force from
+others, either through sacrifice or some other means. Those
+who are sufficiently knowledgeable can use this power to
+create a variety of magical effects.
+Gaining and Losing
+Power Points
+When a sorcerer’s Power Points are higher than his base
+Power Points for any reason, they gradually begin to revert
+back to his base Power Points. Each hour that passes will
+cause the sorcerer’s Power Point score to fall by one until it
+reaches his base Power Points again.
+Power points are reduced whenever a sorcerer
+casts a spell, or sometimes if he is the victim of
+certain magical attacks. In addition,
+if the sorcerer is ever reduced below one hit point by
+any means, his Power Points are also immediately
+reduced to zero. He cannot regain Power Points until
+he has been brought back to one hit point or above
+by some means.
+A sorcerer can gain Power Points directly
+from the bodies of other living creatures,
+by sacrificing them or draining the life force
+out of their still-living bodies – see Sacrifices
+and Energy Drains overleaf.
+If the sorcerer rests, he can regain Power
+Points that he has lost for any reason, up to
+his base Power Points as usual. One Power
+Point is regained per full two hours of rest.
+A group of followers can help a
+sorcerer gain Power Points by
+assisting him with a ritual – see
+Power Rituals ooverleaf.
+What is a Sorcerer?
+In game terms, a sorcerer is any character who has learned at least one sorcery style as a class feature of the
+scholar or temptress class or who has gained partial access to at least one sorcery style as a result of taking the
+Dabbler feat. This is the definition used throughout this chapter.
+Note that a scholar who always elects to choose a bonus feat instead of a sorcery style is not regarded as a
+sorcerer, unless of course he selects the Dabbler feat.
+Of course, public perception of who is and is not a sorcerer may be very different. A worthy priest of Ibis
+(scholar class) who has spent years learning the Counterspells sorcery style may technically be a sorcerer
+according to these rules (and a powerful one at that) but the members of his congregation will certainly not
+consider him to be so. Doubtless, after all, he has been granted divine powers to help fight Ibis’s old enemy
+Set. That, of course, is not sorcery – not in the popular perception. On the other hand, a dilettante noble
+who dabbles even slightly in the Summoning sorcery style may find himself hounded out of town for his foul
+magic, though his actual knowledge of sorcery may be far more limited than the priest’s.
+Each scholar starts out with four base Power Points, adjusted up or down by his Wisdom modifier (if any) and
+by any bonuses for class level. (If a sorcerer’s Wisdom modifier increases, such as when he increases his Wisdom
+ability score by advancing in level, his base Power Points also increase.) Other characters who learn a small
+amount of sorcery through whatever means gain a mere 2 + Wisdom modifier Power Points for use.
+These are the standard Power Points a sorcerer has available, assuming there are no special circumstances.
+This number may increase or decrease, usually depending on the magic the sorcerer casts, whether he loses
+or wins magical contests with other sorcerers, whether he ingests certain drugs and whether he sacrifices
+other creatures. The absolute maximum Power Points a character may have is equal to double his base Power
+Points unless otherwise specified.
+228
+Sorcery
+Sacrifices and
+Energy Drains
+If a sorcerer sacrifices a creature by coup de grace, the
+sorcerer may gain power based on the hit points the creature
+had before being dealt damage by the coup de grace.
+Sacrifice Hit Points per Power Point
+Animal 16 HP/1PP
+Sacred Animal 8 HP/1 PP
+Ordinary Person 8 HP/1 PP
+Virgin Sacrifice 4 HP/1 PP
+Ritually Prepared
+Virgin Sacrifice
+3 HP/1 PP
+Perfect Offering 2 HP/1 PP
+Ritual Perfect Offering 1 HP/1 PP
+A sacred animal is one associated with a particular God
+or with the enemies of that god. For example, the bull
+is sacred to Anu, the Shemite sky-god. A sacrificed bull
+would give twice the normal Power Points if sacrificed by a
+priest of Anu or by a sorcerer who is opposed to Anu and
+wishes to mock the god’s power.
+To qualify as a virgin sacrifice, the victim must be not only
+physically be a virgin, but must also be free of Corruption.
+A ritually prepared virgin sacrifice must not only be a
+virgin but must be bathed and anointed and purified and
+must be wholly conscious and aware when the sacrifice
+takes place. A perfect offering is a virgin sacrifice that is,
+for some reason, particularly pleasing to the entities that
+are being propitiated – if a particular demon has a taste
+for blonde, blue-eyed girls from Brythunia, then those
+are perfect offerings to that demon. Targets of the Rule of
+Obsession also count as perfect offerings.
+One can increase this amount by selecting Ritual Sacrifice
+and other feats; see Chapter 6: Tricks of Sword and
+Sorcery. These feats allow the sorcerer to move down
+the table to better rewards. For example, a sorcerer
+would normally get one Power Point per eight hit
+points when sacrificing an ordinary slave. With
+the Ritual Sacrifice feat, though, he may move
+one step down the table to the next row,
+which gives one Power Point
+per four hit points. It is
+always possible to sacrifice
+a creature to a specific entity with which you have some
+kind of pact, in which case it gains the Power Points
+instead of the sorcerer.
+If a sorcerer has a person helpless and under his power, the
+sorcerer may place his hand against his victim’s skin and
+drain 1d4 Power Points from him as a full-round action.
+If the victim is a sorcerer, this is removed from his usual
+Power Points. If he is not a sorcerer, this drain causes him
+2d6 Wisdom damage and he may not be drained again in
+this way until his Wisdom has returned to normal.
+Power Rituals
+A sorcerer may also gain Power Points by being at the
+centre of a large group ritual dedicated to granting him
+magical energy.
+At least 10 celebrants must be involved. Each must
+have at least one rank in any Perform skill. At least
+20% of the celebrants must have one or more ranks in
+Perform (ritual).
+A power ritual takes at least one hour, during which time
+neither the celebrants nor the sorcerer can perform other
+actions, including sorcery. Each of the celebrants makes a
+Perform check, which must be Perform (ritual) for at least
+20% of the celebrants. It is usual for the celebrants to take
+10 on this check. The Games Master cross-references the
+average check result for the celebrants with the number
+of celebrants on the Power Rituals table to determine
+how many Power Points per hour the sorcerer gains
+from the power ritual.
+A power ritual that continues for more than one hour
+allows the sorcerer to gain additional Power Points each
+additional hour.
+If desired, two or more sorcerers can split the Power Points
+gained from a Power Ritual in any manner on which they
+can mutually agree.
+Power Rituals (Power
+Points Gained per Hour)
+Number of
+Celebrants
+Average Check Result
+Less
+than 10 10–14 15–19 20–24 25+
+10–19 0 1 2 3 4
+20–49 0 2 4 6 8
+50–99 0 3 6 9 12
+100+ 0 4 8 12 16
+229
+Sorcery
+Pushing It
+It is possible, though not always advisable, for a sorcerer
+to reduce his Power Points below zero due as a result of an
+especially powerful piece of magic.
+A sorcerer’s Power Points can be reduced to a negative
+number equal to his base Power Points. For example, a
+sorcerer with a base Power Point score of seven could reduce
+his Power Points as low as –7. It is simply not possible to go
+below this number.
+A sorcerer whose Power Points are below zero may regain
+them by rest, but only at the rate of one Power Point per
+full day of rest, until he is back at zero once again at which
+point the usual rapid restoration of Power Points begins.
+He may also regain them more quickly by the usual means
+of sacrifice, use of black lotus and so forth.
+While his Power Points are below zero, the sorcerer may
+not cast any further spells (even if he could theoretically
+reduce his Power Points still further) and is considered
+to be fatigued (cannot run or charge, –2 to Strength and
+Dexterity) until his Power Points are somehow restored to
+zero or above once more.
+The R ules
+of Sorcery
+Though sorcery often seems mysterious to those who do
+not practice it, certain patterns can be gleaned from the
+descriptions given by Conan and his allies.
+The Rule of Success
+As Conan puts it, ‘Sorcery thrives
+on success, not on failure.’
+Whenever a sorcerer is, broadly
+speaking, succeeding at what he
+is doing when in a high-stress
+situation (particularly combat), he
+becomes still more effective at what
+he is doing. At its most powerful,
+this can lead to a dreadful chain
+reaction that can make sorcerers
+almost unstoppable.
+Every round in which a sorcerer
+successfully slays at least one
+opponent, either by sorcerous
+means or by combat, he gains a
+morale bonus to all attack
+rolls and magic attack
+rolls made until the end of the round after the one in
+which he killed his opponent(s). This bonus can be read
+on the table to the bottom-left of this page.
+The bonus is immediately cancelled if the sorcerer loses
+any hit points during the round following the actions that
+gave him the bonus.
+Note that these benefi ts are in addition to any bonus Power
+Points the sorcerer may gain for having sacrificed one or
+more of his kills.
+Furthermore, the rule of success makes it far easier for a
+sorcerer to repeat a successful spell. If he ever casts a spell
+that succeeds in all that it was intended to do, he may cast
+the same spell the following round at half the previous
+Power Point cost (rounded down) for the spell. This even
+affects spells with a casting time of greater than one round,
+so long as the spell is re-cast within one round of the end
+of the previous casting. A further success halves the Power
+Point cost again for the next casting, to a minimum Power
+Point cost of one.
+For example, an awful rite of the were-beast only ever affects
+a single victim. Thus, any time a target fails his saving
+throw, it can be assumed that the spell is successful and
+the next casting expends only four Power Points if cast
+immediately after the first use of the spell.
+The Games Master always has the final say as to whether
+a particular spell succeeds sufficiently well to grant this
+special bonus.
+Both the magic attack bonus and the reduced Power
+Point cost from the Rule of Success can apply
+simultaneously, if applicable.
+The Rule of
+Impermanence
+Almost every spell or magic item is limited in
+duration. If nothing else, all sorcerous creations
+will cease functioning the moment the
+sorcerer who created them is killed, unless
+noted otherwise.
+Any time a sorcerer is reduced below zero
+hit points, he must make a separate
+Will saving throw (DC 25) for
+each of his sorcerous creations. If
+Enemies
+Killed
+Morale
+Bonus
+1 +1
+2–4 +2
+5–9 +3
+10–19 +4
+20–49 +5
+50–99 +6
+100–199 +7
+200–499 +8
+500–999 +9
+1000+ +10
+230
+Sorcery
+this is failed, the creation ceases functioning. Spells simply
+stop working. Magic items crumble into dust or shatter
+into tiny fragments, becoming not only non-magical
+but also non-existent.
+Furthermore, if a sorcerer is killed or left for dead (see
+page 75), all his sorcerous creations immediately cease to
+function, as above, with no chance of being saved.
+The Rule of Defence
+Sorcerers generally have plenty of close-range magic ideal
+for counter-attacks to ensure that any who attempt to kill
+them risk destruction themselves.
+Any character who knows a spell so labelled is able to
+unleash a defensive blast, as follows, as a last-resort counterattack:
+* A defensive blast is an Immediate Action and can be
+taken at any time, as long as the sorcerer is not flatfooted.
+* All the sorcerer’s current Power Points are
+expended.
+* The defensive blast is provoked only
+if the sorcerer is attacked in some
+fashion by a foe.
+* Each Sorcery style has its own form of defensive blast.
+A scholar character gets the defensive blast for his first
+Sorcery style for free; Defensive Blasts for other styles
+that the sorcerer picks up later must be purchased
+separately as Advanced Spells. Temptresses who learn
+sorcery as their secret art do not learn the defensive
+blast for free and must acquire it as an advanced spell.
+The Rule of Obsession
+For most sorcerers, magic is an obsession that drives
+them on, constantly forcing them to seek out new
+sources of knowledge and new forms of power. Diluting
+that obsession by any means, whether by falling in love,
+pursuing a new career or demonstrating overmuch loyalty
+to a cause other than one’s own sorcerous masters, tends to
+weaken a sorcerer’s magic considerably. However, if he can
+somehow draw the source of the distraction into himself
+– for example, by sacrificing his loved one, succeeding at
+a major test in a new profession or rising to the top of a
+non-sorcerous organisation only to entice all its members
+to mass sacrifice – his power is significantly boosted.
+In effect, the rule of obsession is played out somewhat like
+a minor quest or sub-plot alongside the main campaign.
+A sorcerer can always declare himself obsessed with
+something other than sorcery. If he does so, his base Power
+Points are reduced by –1 to –3, depending on the strength
+of the obsession. The sorcerer may only regain these points
+– with interest – by somehow drawing the object of the
+obsession into himself. Until that point, his base Power
+Points will remain penalised, though of course his current
+Power Points can still go up and down as usual. Maximum
+Power Points are calculated from the sorcerer’s new base
+Power Points.
+The Games Master may also rule that a sorcerer is obsessed,
+though he should do so with care. Usually the only two
+possible reasons for doing so are as follows:
+* The sorcerer acquires an Allegiance (see page 81) to
+someone or some group other than his own sorcerous
+master or masters, or some demon or other.
+* The sorcerer acquires more levels of some other class
+than he has levels of scholar.
+On the other hand, it is said that observers can tell when
+someone is obsessed with something and that the obsessed
+usually cannot tell. This being the case, the Games Master
+is certainly permitted to make statements along the lines
+He felt an urge to hasten, not a mere blind panic, but an
+instinct of peril growing behind his back. He said nothing
+to Yasmina, and she seemed content to nestle her dark
+head against his arching breast and find security in the
+clasp of his iron arms. He paused an instant on the brink
+of the chasm, frowning down. The haze which danced in
+the gorge was no longer rose-hued and sparkling. It was
+smoky, dim, ghostly, like the life-tide that flickered
+thinly in a wounded man. The thought came vaguely to
+Conan that the spells of magicians were more closely
+bound to their personal beings than were the actions of
+common men to the actors.
+– The People of the Black Circle
+231
+Sorcery
+of ‘You are clearly obsessed with hunting this particular
+individual down – if this continues, I will certainly rule
+you to be Obsessed.’
+The Games Master is also always at liberty to veto any
+obsession that the player chooses for his character to avoid
+abusive or just plain implausible obsessions.
+A sorcerer with an obsession can regain his lost one
+to three base Power Points and gain a permanent
+increase equal to the same amount he originally lost, by
+somehow incorporating the essence of the obsession
+into himself and his sorcery – a form of symbolic (or in
+some cases literal) cannibalism. The precise nature of this
+incorporation depends on the obsession.
+The key to understanding the Rule of Obsession is that in
+essence the sorcerer is ‘gambling’ between one and three
+permanent base Power Points.
+Generally speaking, a sorcerer should not be permitted
+more than one obsession per year.
+The Rule of Obsession never applies to a sorcerer who
+gets his power from the Dabbler feat. He is unaffected
+by the rule of obsession, as he is by definition not
+obsessed with sorcery but simply toying with its
+dark powers.
+Example: Ankh-af-na-Khonsu is a Stygian sorcerer of
+some considerable repute but has found himself drawn to the
+service of the highly charismatic King of Koth. Ankh-af-na-
+Khonsu is a 12th level scholar with a Wisdom of 14, so his
+base Power Points are nine and his maximum Power
+Points are 27. The sorcerer has an Allegiance (Koth),
+which has developed over the years he has spent living
+in that land and working directly for the King. The
+Games Master decides this to be an obsession worth
+two base Power Points, so Ankh-af-na-Khonsu’s
+base Power Points are reduced to seven and his
+maximum Power Points to 21. The sorcerer
+realises he must somehow draw the obsession
+back into himself and proposes a plan to the
+Games Master. He intends to hypnotise the
+King of Koth on a long-term and complete basis,
+forcing the unfortunate monarch to tear apart
+the kingdom of Koth in a series of futile wars,
+punitive taxes and bizarre laws. Eventually,
+when the kingdom is on the brink of revolt, the
+sorcerer intends to slay and ritually devour the
+king and seize power himself. If he succeeds, he
+will have drawn both king and country into himself
+and he will be in harmony once more. The Games
+Master agrees that if he succeeds, his lost two base
+Power Points will be returned and he will be
+further rewarded with a +2 bonus to his base
+Power Points for the increase in power gained by
+incorporating his obsession into himself, for a total
+of 11 base Power Points and 33 maximum Power
+Points. As it turns out, Ankh takes some years to
+achieve his aim and by the time he does so he
+is 14th level. This would usually give him 10
+base Power Points and 40 maximum Power
+Points but while reduced he is on eight
+base Power Points and 32 maximum
+Power Points. Once he has succeeded
+in his aims, he will be at 12 base
+Power Points and 48 maximum
+Power Points.
+232
+Sorcery
+The Rule of the Master
+Two of the backgrounds for the scholar class involve the
+character being at least partially in thrall to a superior:
+acolyte and pact. Any character with one of these
+backgrounds, or who later joins a sorcerous society or
+learns the demonic pact spell, or who takes on apprentices
+of his own, is subject to the Rule of the Master.
+The Rule of the Master concerns any character who has
+learned sorcery from a more powerful sorcerer or demon,
+who is known as the master. His apprentices, coven novices
+or other students are known as thralls.
+The Rule of the Master has the following effects:
+Manipulation: The master of any coven, sorcerous
+society or even just an apprentice or two always gains a
++2 circumstance bonus to Bluff and Intimidate checks
+targeting any of his thralls and a +1 circumstance bonus to
+magic attack rolls against them.
+Power Transfer: The master may, at any time, attempt to
+remove or grant a number of Power Points to any or all of
+his thralls. This requires either physical touch or that the
+master has on his person some form of magical link to the
+apprentice; see page 237 for full details of magical links.
+Once per round as a free action, the master may take up to
+five Power Points from any one thrall for his own use, or
+grant said thrall up to five Power Points for the thrall’s use.
+If desired, the thrall may attempt to resist this by making
+a Will saving throw with the DC set by the master’s magic
+attack roll. If the master takes or grants more Power Points
+than the apprentice’s Intelligence bonus, the apprentice
+takes one point of temporary Intelligence damage per
+excess point. For example, an apprentice with Intelligence
+14 (a +2 modifier) could only transfer two points per
+round; transferring five points would inflict three points of
+temporary Intelligence damage on the apprentice.
+Note: Most masters will ensure they gain some kind of
+magical link to the thrall before teaching him a single
+spell – perhaps a contract signed in blood or a lock of
+hair.
+Ritual Spell: The master can perform ritual
+spells with his various thralls. Any
+spell he knows can be cast in a
+ritualistic manner.
+The spell’s casting time is
+equal to (one hour
++ 10 minutes
+per participating thrall) or the spell’s usual casting time,
+whichever is greater. Additional incenses, oils, smokepowders
+and other accoutrements must be expended, to a
+cost of 50 silver pieces per participating thrall. The Power
+Point cost of the spell is raised by +2 per participating
+thrall, though this may be provided by power transfer (see
+above) as usual.
+Each thrall who succeeds at a Perform (ritual) check (DC
+= 10 + total Power Point cost of casting the spell, including
+the +2 increase per participating thrall) grants the master a
++1 bonus to the magic attack roll or skill roll he makes as
+part of the spell. For spells with a greater range than touch,
+each +1 bonus granted in this way also increases the range
+of the spell by +10%.
+The Rule of the
+Sorcerer’s Soul
+The very process of becoming a sorcerer wreaks permanent
+changes to the very soul of the arcanist, changes that
+other sorcerers and supernatural entities can detect just by
+looking at him.
+Any sorcerer, magical beast or outsider who can meet the
+eyes of a sorcerer (if one can cast an Evil Eye range spell,
+one can meet the target’s eyes) can immediately sense
+the latter’s sorcerous nature. Furthermore, if he spends a
+standard action examining the sorcerer further, he may
+make a magic attack roll (opposed by the target’s Will
+saving throw) to determine approximately how corrupt and
+powerful the sorcerer is, based on the following scales:
+Corruption Points Description
+0 Uncorrupted
+1–3 Mildly Corrupted
+4–6 Corrupted
+7–9 Totally Corrupted
+10+ Diabolical
+Current Power Points Description
+Less than 1 Drained
+1–4 Very Weak
+5–8 Weak
+9–12 Strong
+13–16 Very Strong
+17+ Master
+A successful magic attack roll made in this manner will
+also reveal the sorcerer’s type and subtype. For example,
+a character with the Spawn of Dagoth
+233
+Sorcery
+Hill feat will be revealed to another sorcerer as an
+outsider (native) if he fails his Will saving throw, while a
+character who has become a vampire will be revealed as
+undead (augmented humanoid).
+Spell Failure
+If a sorcerer ever tries to cast a spell in conditions where the
+characteristics of the spell cannot be made to conform, the
+casting fails and the spell is wasted.
+The Spell’s Result
+Once a sorcerer knows which creatures (or objects or
+areas) are affected and whether those creatures have made
+successful saving throws (if any were allowed), he can apply
+whatever results a spell entails.
+Concentration
+To cast a spell, a sorcerer must concentrate. If something
+interrupts his concentration while he is casting, he must
+make a Concentration check or lose the Power Points
+casting the spell would have cost. Furthermore, if the spell
+is one that could cause Runaway Magic (see below) the
+sorcerer must make a Will saving throw (DC 15), with
+failure resulting in Runaway Magic as described on the
+next page. The more distracting the interruption and the
+higher the Power Point cost of the spell he is trying to cast,
+the higher the Concentration DC is. If the sorcerer fails the
+check, he loses the spell as if he had cast it to no effect.
+Injury: If a sorcerer takes damage while trying to cast a
+spell, he must make a Concentration check (DC 10 +
+points of damage taken + Power Point cost). If he fails the
+check, he loses the Power Points he would have spent to cast
+the spell. The interrupting event strikes during spellcasting
+if it comes between when a spell is started and when it is
+completed. For spells that can be cast in a single action,
+this will only happen if the sorcerer is hit with an attack of
+opportunity provoked by the act of casting the spell or a
+contingent attack such as a readied action.
+If a sorcerer is taking continuous damage, such as from
+fire or a from a spell, half the damage is considered to
+take place while he is casting a spell. The sorcerer must
+make a Concentration check (DC 10 + 1/2 the damage
+that the continuous source last dealt + Power Point cost
+of the spell). If the last damage dealt was the last damage
+that the effect could deal, the damage is over and does
+not distract the sorcerer.
+Repeated damage, such as from being stabbed over and over
+by a savage pirate, does not count as continuous damage.
+Spell: If a sorcerer is affected by a spell while attempting
+to cast a spell of his own, he must make a Concentration
+check or lose the Power Point cost. If the spell that affects
+him deals damage, the DC is 10 + points of damage + the
+Power Point cost of his own spell.
+If the spell interferes with a sorcerer or distracts him in
+some other way, then the DC is the spell’s saving throw
+DC + the Power Point cost of his own spell. For a spell with
+no saving throw, use the DC that the spell’s saving throw
+would have if a saving throw were allowed – usually the
+sorcerer’s magic attack roll.
+Grappling or Pinned: The only spells one can cast while
+grappling or pinned are those without somatic components
+and whose material components (if any) one has in hand.
+Even so, the sorcerer must make a Concentration check
+(DC 20 + Power Point cost of the spell) or lose the Power
+Point cost.
+Vigorous Motion: If a sorcerer is riding on a moving
+mount, taking a bouncy ride in a wagon, on a small boat
+in rough water, below-decks in a storm-tossed ship or
+simply being jostled in a similar fashion, he must make
+a Concentration check (DC 10 + Power Point cost of the
+spell) or lose the Power Point cost.
+Violent Motion: If a sorcerer is on a galloping horse,
+taking a very rough ride in a wagon, on a small boat
+in rapids or in a storm, on deck in a storm-tossed ship
+or being tossed roughly about in a similar fashion, he
+must make a Concentration check (DC 15 + Power
+Point cost of the spell) or lose the Power Point cost.
+Violent Weather: A sorcerer must make a
+Concentration check if he tries to cast a
+spell in violent weather. If he is in a high
+wind with blinding rain or sleet, the DC is
+5 + Power Point cost of the spell. If he is in
+wind-driven hail, dust or debris, the DC is
+10 + Power Point cost of the spell. In either
+case, the sorcerer loses the Power Point cost
+if he fails the Concentration check. If the
+weather is caused by a spell, use the rules in
+the Spell subsection above.
+234
+Sorcery
+Casting Defensively: If a sorcerer wants to cast a spell
+without provoking any attacks of opportunity, he must
+make a Concentration check (DC 15 + Power Point cost
+of the spell) to succeed. He loses the Power Point cost if
+he fails.
+Entangled: If a sorcerer wants to cast a spell while entangled
+in a net or some similar effect, he must make a DC 15
+Concentration check to cast the spell. He loses the Power
+Point cost if he fails.
+Consequences
+of Magic
+Any force as powerful as sorcery can have consequences,
+some of them quite unintended by its practitioners. This
+section covers the two main risks of sorcery: casting a
+series of spells that lead to a magical chain reaction and
+becoming corrupt or going mad through contact with
+demonic entities.
+Mighty Spells
+and Runaway Magic
+Any time a particularly powerful spell is used, there is a
+risk that serious, world-wrenching consequences will
+result. This is particularly the case with the Summoning
+style, which has a real tendency to upset some kind of
+magical balance and set powerful, uncontrollable forces
+into motion.
+All the spells that could potentially cause a runaway magic
+result are marked with an asterisk (*) in the Spells table (see
+page 239). These are known as mighty spells.
+A sorcerer can cast up to one mighty spell per week without
+fear of dangerous consequences. Each time he casts a further
+mighty spell within seven days of the last one, he must
+make a Will saving throw. This Will saving throw starts
+out at DC 10 but the DC rises by +5 for each additional
+mighty spell cast within the last seven days.
+If the Will saving throw is failed, roll 1d20 and
+consult the Runaway Magic table. Add the
+sorcerer’s Corruption score to the roll,
++1 for each point by which the
+Will saving throw was failed.
+Runaway Magic
+Die Roll Result
+1–10 Minor Burnout! The sorcerer’s magical
+energies are drained off to a place or person
+unknown. He loses 1d4 Power Points. If this
+reduces him below zero Power Points, he is
+instead reduced to zero Power Points and dealt
+1d6 damage to Wisdom.
+11–18 Major Burnout! The sorcerer’s magical
+energies are drained off to a place or person
+unknown. He loses 2d6 Power Points. If this
+would reduce him below zero Power Points,
+he is instead reduced to zero Power Points
+and dealt 1d8 damage to Wisdom and 1d8
+damage to Charisma.
+19–24 Minor Sorcerous Implosion! Magical energies
+tear the sorcerer apart. His Power Points are
+reduced to zero and he is dealt 10d6 damage.
+25–28 Major Sorcerous Implosion! Magical energies
+tear the sorcerer apart. His Power Points are
+reduced to zero and he is dealt 15d6 damage.
+29–30 Rock the Universe! The sorcerer is killed
+outright by the forces that he has released.
+An area around him, 1d6 miles in radius, is
+devastated by earthquakes, storms, floods,
+lightning and meteorites, dealing 20d6
+damage to all within the area and reshaping
+the landscape as the very Earth itself is
+rent and pounded.
+31+ Fate Worse Than Death! As for Rock the
+Universe (29–30), plus as follows: A sorcerous
+rift into the Outer Dark is opened and a
+demon from that dread realm pulls the
+sorcerer’s soul through the rift, severing the
+magical silver cord that binds his soul to his
+body. He is eternally damned and his body
+is either a lifeless husk or (at the Games
+Master’s discretion) inhabited by a minion
+of the demon.
+Corruption and Insanity
+For the amoral sorcerer who has some insight into just
+how powerful and dangerous the forces aligned against
+humanity are, there is a stark choice between simply giving
+in to those forces and giving in to despair or madness at
+the recognition that those forces will someday win. Almost
+every high-level sorcerer is likely to be either corrupt or
+mad, at least to some degree.
+235
+Sorcery
+Insanity only may only affect sorcerers who already have at
+least one point of Corruption. Those who have managed
+to avoid being corrupted do not yet have the evil insights
+that can lead them to insanity if they later reject attempts
+to further corrupt them.
+Each time an already corrupt sorcerer successfully saves
+against Corruption, he must make a second Corruption
+saving throw at the same DC as the first. Failure causes
+him to become shaken (–2 penalty on attack rolls, saving
+throws, skill checks and ability checks) for 1d6 rounds
+and gain a permanent, minor insanity as determined
+from the list below (or from elsewhere if desired) by the
+player and the Games Master,.
+A sorcerer who already has a minor insanity and fails a
+second insanity saving throw becomes shaken once more,
+this time for 3d6 rounds. He also gains a permanent major
+insanity, as determined by the player and the Games Master
+from the list below.
+It is always possible to opt to fail the save against Corruption
+if one would prefer to become corrupted rather than mad.
+Minor Insanities
+Delusion: This is any belief that is not true, for example
+that the resurrected giant-kings of Old Stygia are plotting
+to overthrow the kingdom of Ophir, or that the Baracha
+pirates are a bunch of lovable rogues rather than blackhearted
+murderers. The delusion could be a mild form of
+paranoia, or simply a complete misunderstanding of one
+minor aspect of the way the world works.
+Phobia: Choose one suitable phobia, such as snakes, apes,
+insects, spiders or plant creatures. Whenever the character
+is in the presence of a creature that could trigger the phobia,
+he must make a Will saving throw (DC 20) or be panicked
+(–2 penalty on attack rolls, saving throws, skill checks and
+ability checks, must flee the cause of the panic) until he can
+no longer see it.
+Sleeplessness: The character lies awake for several hours
+every night, unable to sleep or find rest. He must make a
+Fortitude saving throw (DC 15) every morning or wake up
+fatigued (–2 to Strength and Dexterity, cannot run).
+Major Insanities
+Paranoia: This is similar to delusions but far more severe.
+The sorcerer believes in a number of highly personalised
+delusions, all of them relating to persecution and treachery.
+Voices: The character constantly hears voices, often
+insistently demanding that he perform particular
+actions. Any time he is in a stressful situation (at
+the Games Master’s discretion) he must make a Will saving
+throw (DC 20) or be controlled by the Games Master for
+1D6 rounds, as he does the bidding of the voices.
+Hallucinations: The character sees objects that are not there
+and sees objects that are there as distorted. He suffers a
+constant penalty of –2 to Spot and Search checks and to all
+attack rolls, whether melee or ranged.
+Recovering from Insanity
+A character who does not practice any sorcery or have
+contact with Corrupting influences for three months may
+make a Will saving throw (DC 15 for minor insanity, DC
+20 for major insanity) at the end of that time to completely
+recover from his insanity. A sorcerer may only recover from
+one insanity per three month hiatus.
+Spells and
+Spellcasting
+Sorcerers in Hyboria are limited by their strength of
+will and command of magic. In Conan the Roleplaying
+Game, this translates into their Power Points. Most spells
+have several prerequisites, in much the same way that
+feats do – a sorcerer must meet the prerequisites before
+learning the spell.
+Many spells require either a magic attack roll or a skill
+check as part of the casting process. This is detailed as
+part of the entry for each spell.
+Spell Descriptions
+The description of each spell is presented in a standard
+format. Each category of information is explained and
+defined below.
+Name
+The first line of every spell description
+gives the name by which the spell is generally
+known.
+Power Point Cost
+As described above, each spell in Conan
+the Roleplaying Game has a Power
+Point cost that must be paid by the
+sorcerer who wishes to cast it.
+236
+Sorcery
+Components
+A spell’s components are what one must do or possess
+to cast the spell. The Components entry in a spell
+description includes abbreviations that list the spell’s
+components. Specifics for material, focus and Experience
+Point components are given at the end of the descriptive
+text. Usually done need not worry about components
+but when one cannot use a component for some reason
+or when a material or focus component is expensive, the
+components become important.
+Verbal (V): A verbal component is a spoken incantation.
+To provide a verbal component, the sorcerer must be
+able to speak in a strong voice. A gag or some other
+obstruction to speaking spoils the incantation and thus
+the spell. A spellcaster who has been deafened has a 20%
+chance of spoiling any spell with a verbal component that
+he tries to cast.
+Somatic (S): A somatic component is a measured and
+precise movement of the hand. A sorcerer must have a
+hand free to provide a somatic component.
+Material (M): A material component is one or more
+physical substances or objects that are annihilated by the
+spell energies in the casting process. Unless a cost is given for
+a material component, the cost is negligible. Do not bother
+to keep track of material components with negligible cost.
+These components may be assumed to be in the sorcerer’s
+spell component pouch (if he has it).
+Focus (F): A focus component is a prop of some sort.
+Unlike a material component, a focus is not consumed
+when the spell is cast and can be reused. As with material
+components, the cost for a focus is negligible unless a price
+is given. Assume that focus components of negligible cost
+are in the sorcerer’s spell component pouch.
+XP Cost (XP): Some powerful spells entail an Experience
+Point cost to the caster. No spell can restore the Experience
+Points lost in this manner. A sorcerer cannot spend so
+many Experience Points that he loses a level, so he
+cannot cast the spell unless he has enough Experience
+Points to spare. However, he may, on gaining enough
+Experience Points to attain a new level, use those
+Experience Points for casting a spell
+rather than keeping them and
+advancing a level. Experience
+points are expended when
+a spell is cast, whether
+or not the casting
+succeeds.
+Casting Time
+Most spells have a casting time of one standard action.
+Some others take a different amount of time.
+A spell that takes one round to cast is a full-round action. It
+comes into effect just before the beginning of the sorcerer’s
+turn in the round after he begins casting the spell. He then
+acts normally after the spell is completed.
+A spell that takes one minute to cast comes into effect
+just before the caster’s turn one minute later; for each of
+those 10 rounds, the sorcerer is casts a spell as a full-round
+action as noted above for one-round casting times. These
+actions must be consecutive and uninterrupted or the
+spell automatically fails.
+When a sorcerer begins a spell that takes one round or
+longer to cast, he must continue his concentration from
+the current round to just before his turn in the next round,
+at least. If he loses concentration before the casting is
+complete, he loses the Power Point cost.
+A spell with a casting time of one free action does not count
+against the sorcerer’s normal limit of one spell per round.
+However, he may cast such a spell only once per round.
+Casting a spell with a casting time of one free action does
+not provoke attacks of opportunity.
+A sorcerer makes all pertinent decisions about a spell
+(range, target, area, effect, version and so forth) when the
+spell comes into effect.
+Spell Range
+A spell’s range indicates how far from the caster it can reach,
+as defined in the Range entry of the spell description. A
+spell’s range is the maximum distance from the caster that
+the spell’s effect can occur, as well as the maximum distance
+at which he can designate the spell’s point of origin. If any
+portion of the spell’s area would extend beyond this range,
+that area is wasted. Standard ranges include the following:
+Personal: The spell affects only the caster.
+Touch: The caster must touch a creature or object to affect
+it. A touch spell that deals damage can score a critical hit
+just as a weapon can. A touch spell threatens a critical
+hit on a natural roll of 20 and deals double damage on a
+successful critical hit. Some touch spells allow a sorcerer
+to touch multiple targets. He can touch as many willing
+targets as he can reach as part of the casting but all targets
+of the spell must be touched in the same round that the
+caster finishes casting the spell.
+237
+Sorcery
+Close: The spell reaches as far as 25 feet away from the
+caster. The maximum range increases by five feet for every
+two full sorcerer levels.
+Medium: The spell reaches as far as 100 feet + 10 feet per
+sorcerer level.
+Long: The spell reaches as far as 400 feet + 40 feet per
+sorcerer level.
+The Evil Eye: Some spells require the sorcerer to meet the
+target’s eyes. This can affect a target within 30 ft. The caster
+simply chooses a target within range and that opponent
+must attempt a saving throw. If the target has already
+specified that he is averting his eyes from the sorcerer’s face
+by some means, the target has a 50% chance of not having
+to make a saving throw. In this case the sorcerer gains onehalf
+concealment against the target, so any attack the target
+makes against the sorcerer has a 20% miss chance.
+A target who has specified that he has shut his eyes or
+turned his back on the caster or is wearing a blindfold
+does not need to make a saving throw. He is immune to
+evil eye spells and other gaze attacks. The sorcerer gains
+total concealment against the target as if the sorcerer were
+invisible. Thus, any attack the target makes against the
+sorcerer has a 50% miss chance and the opponent cannot
+use sight to target attacks.
+If visibility is limited (by dim lighting, a fog or the like)
+so that it results in concealment, there is a percentage
+chance equal to the normal miss chance for that amount of
+concealment that the target will not need to make a saving
+throw. This chance is not cumulative with chances to avoid
+the evil eye but instead is rolled separately.
+If the target is able to avoid meeting the sorcerer’s gaze
+during the round the spell is cast, the evil eye spell has no
+effect.
+Unlimited: The spell reaches anywhere in the world.
+Magical Link: Anyone with even a vague, half-mythical
+understanding of sorcery – and that includes almost
+everyone in the Hyborian Age – knows of several highly
+sinister methods a sorcerer has of sending a spell out to
+his victim. The sorcerer uses an item that has an intimate
+connection with the victim, such as a fragment of his
+clothing, a discarded sandal, a nail-clipping or lock of hair
+or some bodily fluid or other. Whatever the method used,
+this is known as the magical link
+If a magical link is available, the sorcerer may use certain
+spells (those with a range listed as ‘magical link’) against
+the victim from any range, even if he is unable to see the
+victim. The sorcerer must hold the magical link in his
+hand when casting the spell to gain these benefits and
+retain it about his person for the duration of the spell or
+the spell instantly ends.
+Range Expressed in Feet: Some spells have no standard
+range category, just a range expressed in feet.
+Spell Duration
+A spell’s Duration entry indicates how long the magical
+energy of the spell lasts.
+Timed Durations: Many durations are measured in
+rounds, minutes, hours or some other increment. When
+the time is up, the magic goes away and the spell ends. If
+a spell’s duration is variable, the duration is rolled secretly.
+The sorcerer does not know how long the spell will last.
+Instantaneous: The spell energy comes and goes the
+instant the spell is cast, though the consequences might
+be long-lasting.
+Permanent: The energy remains as long as the effect does.
+Mortal: Due to the Law of Impermanence, permanent
+effects are almost impossible for most sorcerers to create.
+Long-lasting spells instead work for a duration of
+‘mortal’. This lasts for as long as the sorcerer himself is
+alive, though the Law of Impermanence may affect it as
+usual if he is badly injured.
+Concentration: The spell lasts as long as the caster
+concentrates on it. Concentrating to maintain a
+spell is a standard action that does not provoke
+attacks of opportunity. Anything that could
+break the caster’s concentration when casting
+a spell can also break his concentration while
+he is maintaining one, causing the spell to end.
+A sorcerer cannot cast a spell while
+concentrating on another one. Sometimes a
+spell lasts for a short time after the caster
+ceases concentrating.
+Power Points: A spell with a
+duration of Power Points will last
+as long as the sorcerer continues to
+pay the Power Point cost
+as required.
+238
+Sorcery
+Discharge: Occasionally a spell lasts for a set duration or
+until triggered or discharged.
+(D) Dismissible: If the Duration line ends with ‘(D),’ the
+spell can be dismissed at will. The caster must be within
+range of the spell’s effect and must speak words of dismissal,
+which are usually a modified form of the spell’s verbal
+component. If the spell has no verbal component, the
+sorcerer can dismiss the effect with a gesture. Dismissing
+a spell is a standard action that does not provoke attacks
+of opportunity.
+A spell that depends on concentration is dismissible by its
+very nature. Dismissing it does not take an action, since all
+a sorcerer has to do to end the spell is to stop concentrating
+on his turn.
+Subjects, Effects and Areas: If a spell affects creatures
+directly, the result travels with the subjects for the spell’s
+duration. If the spell creates an effect, the effect lasts for
+the duration. The effect might move or remain still. Such
+an effect can be destroyed prior to when its duration
+ends. If the spell affects an area, the spell stays within
+that area for its duration.
+Creatures become subject to a spell when they enter an
+affected area and are no longer subject to it when they leave.
+Touch Spells and Holding the Charge: In most cases, if
+a sorcerer does not discharge a touch spell on the round
+he casts it, he can hold the charge (postpone the discharge
+of the spell) indefinitely. The sorcerer can make touch
+attacks round after round. If he casts another spell, the
+touch spell dissipates.
+Some touch spells allow the caster to touch multiple targets
+as part of the spell. He cannot hold the charge of such a
+spell; he must touch all targets of the spell in the same
+round that he finishes casting the spell.
+The Magic Attack Roll
+A magic attack roll is made whenever a sorcerer
+attempts to injure another with his magic and in
+most cases when he attempts to compel another. It
+is made as follows:
+1D20 +
+MAGIC ATTACK BONUS +
+CHARISMA MODIFIER
+In most cases this is opposed by the victim’s relevant saving
+throw. If a spell has multiple targets, the same Magic Attack
+roll is used for all of them.
+Overcharging a Spell
+A sorcerer can put more of his power into a spell than
+normal. For every extra Power Point spent on a spell, the
+sorcerer gets a +1 bonus to his magic attack roll.
+
+
+
+Codes of Honour
+Generally speaking, deciding what is moral and what
+immoral is up to the individual. However, certain
+dark, corrupting forces can turn humans into
+cowed slaves or gibbering madmen. Holding to a code of
+honour, however primitive, is one way by which heroes can
+avoid such a fate.
+The most common codes of honour are given over the page.
+At the Games Master’s discretion, variant codes of honour
+may be permitted but it is strongly recommended that
+they be based on those given here. For example, the Games
+Master may agree with a player that a variant barbaric code
+of honour is better suited to the Vanir character he wishes
+to play, given that the standard barbaric code of honour is
+based more on Cimmerian morality.
+However, there should be no ‘thief code of honour’ or ‘pirate
+code of honour.’ As portrayed in the Conan stories, most
+such characters are inherently without honour, though they
+may occasionally feign honour for their own purposes. Any
+who do have a code of honour have retained a civilised or
+barbaric code from their earlier lives but they are in the
+minority and most lose even that honour sooner or later.
+Conan is a rarity, a barbarian so strong-willed he upholds his
+honour even when among the most treacherous and amoral
+rogues and corsairs.
+Benefits of a
+Code of Honour
+Any character can begin the game with a code of honour
+at no cost. Any character with a code of honour gains
+a +3 morale bonus on all Will saving throws, rising
+to +6 if the Will saving throw is against Corruption
+(see page 82). Furthermore, he gains a +2 bonus to
+Reputation (also on page 82).
+However, living by any code of honour requires certain
+restrictions on what the character can and cannot do
+and breaking a code of honour usually means
+the loss of its benefits forever.
+Barbaric Code
+of Honour
+This is Conan’s style of morality, such as it is.
+The barbaric code of honour is common
+only in lands with harsh climates, such as
+Cimmeria, Vanaheim and Asgard in the
+north and Ghulistan in the east. It
+is also found among some of the
+Shemites and Kozaks who live
+in the great deserts that stretch
+over many of the southern and
+eastern lands. Here
+78
+Classes
+Starting Equipment by Character Class
+Class
+Starting
+Budget Starting Equipment Packages (Choose One)*
+Barbarian 100 +
+10d6 sp
+Broadsword, dagger,
+loincloth, belt pouch,
+sandals, belt
+Bow (any +0) and 20 arrows,
+arming sword or cutlass,
+poniard, loincloth, belt pouch,
+sandals, belt
+Bow (any, up to +2) and 20
+arrows, battleaxe or war spear or
+war club, leather jerkin, steel cap,
+loincloth, belt pouch, sandals or
+feathered head-dress, belt
+Borderer 150 +
+10d6 sp
+Arming sword, axe, hunting
+bow (+0), 20 arrows, dagger,
+quilted jerkin, cloak, doublet
+and hose, work boots, shirt
+and braes, hood, costrel,
+herbalist’s kit, belt pouch, kit
+bag, belt
+Short sword, battleaxe, hunting
+bow (+0), 20 arrows, dagger,
+quilted jerkin, steel cap, cloak,
+doublet and hose, work boots,
+shirt and braes, hood, costrel,
+herbalist’s kit, belt pouch, kit
+bag, belt
+Bow (any, up to +2) and 40
+arrows, short sword, battleaxe,
+leather jerkin, dagger, cloak,
+doublet and hose, work boots,
+shirt and braes, hood, costrel,
+herbalist’s kit, belt pouch, kit bag,
+belt
+Noble 500 +
+10d6 sp
+Arming sword, dagger, steel
+cap, mail shirt, buckler,
+doublet and hose, riding
+boots, shirt and braes, belt
+pouch, belt
+Arming sword, dagger, buckler,
+noble’s outfit (all of noble
+quality, i.e. cost is 50 times
+normal: coat, hat, doublet and
+hose, riding boots, shirt and
+braes, belt pouch, knight’s belt)
+Short sword, light lance, steel
+cap, brigandine coat, large shield,
+riding horse, riding saddle,
+poniard, warhammer, bow (any
++0), 20 arrows, doublet and hose,
+riding boots, shirt and braes,
+cloak, hood, costrel, belt pouch,
+knight’s belt
+Nomad 150 +
+10d6 sp
+Riding horse, riding saddle,
+scimitar, hunting bow,
+20 arrows, dagger, belt,
+saddlebags, robes, sandals
+Riding camel, riding saddle,
+scimitar, bow (any, up to
++1), 40 arrows, dagger, belt,
+saddlebags, robes, sandals
+Riding horse, riding saddle, light
+lance, short sword, bow (any, up
+to +1), 40 arrows, dagger, belt,
+saddlebags, robes, sandals
+Pirate 100 +
+10d6 sp
+Arming sword, silk breeks,
+poniard, buckler, leather
+jerkin, sling and 10 bullets
+Bow (any, up to +5) and 20
+arrows, war spear or war club,
+loincloth, belt pouch, belt,
+feathered head-dress
+Cutlass, silk breeks, dagger, looted
+fancy coat and riding boots (coat
+and boots of good merchant
+quality, i.e. cost is 10 times
+normal), belt, belt pouch
+Scholar 100 +
+10d6 sp
+Dagger, doublet and hose,
+work boots, shirt and braes,
+cloak, hood, costrel, spell
+component pouch, belt
+pouch, belt, quill, ink,
+parchment, herbalist’s kit,
+one dose yellow lotus resin
+Stiletto, robes, belt, belt pouch,
+spell component pouch, shoes,
+priestly trappings (small idol or
+holy symbol, jewellery of rank,
+prayer beads and so on to a
+value of 75 sp), incense worth
+50 sp, ink, quill, parchment
+Dagger, doublet and hose, work
+boots, shirt and braes, cloak,
+hood, costrel, spell component
+pouch, belt pouch, belt, incense
+worth 100 sp, herbalist’s kit, quill,
+ink, 10 sheets parchment, crafter’s
+tools (any)
+Soldier 200 +
+10d6 sp
+Broadsword, poniard, any
+shield, steel cap, quilted
+jerkin, cloak, doublet and
+hose, work boots, shirt and
+braes, hood, costrel, belt
+pouch, kit bag, belt
+Bill, arming sword, crossbow,
+10 bolts, poniard, any shield,
+steel cap, quilted jerkin, cloak,
+doublet and hose, work boots,
+shirt and braes, hood, costrel,
+belt pouch, kit bag, belt
+War sword, poniard, bow (any
++0), 20 arrows, any shield, steel
+cap, leather jerkin, cloak, doublet
+and hose, work boots, shirt and
+braes, hood, costrel, belt pouch,
+kit bag, belt
+Temptress 100 +
+10d6 sp
+Stiletto, masterwork thieves’
+tools, shift, dress or doublet
+and hose, cloak, shoes, hat,
+kit bag, belt, belt pouch.
+Thieves’ tools, stiletto, shift,
+shoes, noble’s dress.
+Dagger, shift, robes or dress, spell
+component pouch, belt, belt
+pouch, shoes, quill, ink, 10 sheets
+parchment, herbalist’s kit.
+Thief 100 +
+10d6 sp
+Arming sword, thieves’ tools,
+cloak, doublet and hose,
+work boots, shirt and braes,
+hood, costrel, belt pouch, kit
+bag, belt
+Masterwork thieves’ tools,
+poniard, cloak, doublet and
+hose, work boots, shirt and
+braes, hood, costrel, belt
+pouch, kit bag, belt
+Short sword, dagger, sling, 10
+bullets, thieves’ tools, quilted
+jack, cloak, doublet and hose,
+work boots, shirt and braes, hood,
+costrel, belt pouch, kit bag, belt
+79
+Classes
+even strangers are given hospitality and fallen foes are
+extended mercy if they ask for it, since it is recognised
+that humanity must to some extent work together against
+the bitter cold or suffocating heat. Barbarian tribes who
+have a relatively easy time of it, such as the Picts in their
+lush forests, do not usually have a need for a code of
+honour, for their environment is not sufficiently deadly
+as to be their most dangerous enemy. It could be argued
+that the presence of a code of honour is what separates a
+barbarian from a mere savage.
+A character with a barbaric code of honour will:
+* Respect alliances with other honourable characters.
+* Ignore an alliance with a dishonourable character, even
+pre-emptively, if it suits him.
+* Abide loyally by a contract of employment, even with
+a dishonourable employer, so long as the character is
+well-treated and shown loyalty in return.
+* Slay a dishonourable foe, even if that foe is helpless.
+* Slay an honourable foe who is not helpless.
+* Protect those weaker than himself, at least from physical
+dangers, if such protection is requested. This includes
+ordinary folk such as peasants captured for interrogation
+who will be set free once it is safe to do so and rewarded
+if they were of assistance, as well as children and most
+women. A woman who has demonstrated herself to be
+more capable in war than the average man need not
+be protected, though the typical male with a barbaric
+code of honour will probably attempt to protect her
+anyway.
+* Offer his allegiance only to an honourable leader
+who is clearly stronger and better suited for power
+than himself, or to a greater cause of some kind; once
+allegiance is granted, the character must be utterly loyal
+so long as his leader remains honourable and loyal to
+him in return. Note that a character with a barbaric
+code of honour need not necessarily retain an allegiance
+that was always intended to be temporary, such as a
+mercenary contract, after its conditions are fulfilled.
+* Plunder and rob anyone other than honourable allies.
+* Lie, cheat and con anyone other than honourable allies.
+* Have no in-principle objection to slavery, being willing
+to keep or free slaves as suits his purposes.
+* Grudgingly respect genuine piety but despise venal
+priests and the typical trappings of civilised ‘religion.’
+* Like or dislike others based on their honour and their
+actions, not their religion or race.
+* Be hospitable and generous to those in need, even to
+strangers. It is said that no man starves in Cimmeria
+unless there is a famine and all starve, because
+every family will give of their own food to
+anyone without.
+* Respect the hospitality shown him.
+* Avenge any seriously intended insult with immediate
+and lethal force, if at all possible. Note that barbarians
+new to civilisation are likely to avenge even a jesting
+insult in the same way, not having yet learnt the
+subtleties of civilised behaviour, which can allow a
+man to insult another without the imminent danger of
+having his skull split.
+* Avenge any physical harm done him at his earliest
+opportunity in a manner fitting his sense of balance
+and justice.
+A character with a barbaric code of honour will not:
+* Slay a wild animal or any other creature for sport alone.
+He may slay in self-defence, for revenge or to get food
+or other resources and he may slay a sworn enemy.
+* Slay an honourable foe who offers a ransom or throws
+himself on the character’s mercy.
+* Slay or steal from someone who has shown him
+hospitality in his own house, even if he turns
+out to be an enemy, unless the other breaks
+hospitality first.
+* Harm anyone currently under his protection or
+receiving his hospitality, even if he turns out to be an
+enemy, unless the other breaks faith first.
+* Assist the authorities with any information about his
+friends or allies, even if refusing to do so puts him at
+risk.
+* Desert his henchmen or retainers, even if they appear
+to desert him. If he ever achieves the position of
+chieftain or a similar authority, he feels he must set
+an example to his followers. Even if they doubt him,
+he must prove himself to them, particularly if they
+need him.
+Civilised Code
+of Honour
+This is the code of honour practiced by
+most knights and nobles from the civilised
+lands. Some civilised warriors, soldiers and
+mercenaries also practice this code of honour.
+A character with a civilised code of honour
+will:
+* Respect alliances with other honourable
+civilised characters. He may
+also respect alliances with
+honourable barbaric characters
+but this is not required.
+80
+Classes
+* Respect an alliance with a dishonourable civilised
+character until that character breaks the alliance.
+* Offer his allegiance to any leader who might be regarded
+as a legitimate authority, or to a greater cause of some
+kind; once he grants his allegiance, the character must
+be utterly loyal, so long as his leader or cause remains
+honourable and loyal to him in return. Note that
+a character with a civilised code of honour need not
+necessarily retain an allegiance that was always intended
+to be temporary, such as a mercenary contract, after the
+conditions are fulfilled.
+* If seriously insulted, demand a formal duel at the
+next suitable opportunity. Honour may also be
+satisfied with sincere and profuse apologies, at
+the discretion of the insulted party.
+* Protect those weaker than
+himself, if such protection is
+formally requested and if
+the person requesting
+protection is
+highborn.
+* Obey the laws of his homeland and co-operate with
+lawful authorities in other lands wherever possible,
+unless at war with those lands. This applies even
+if such behaviour would be to the detriment of his
+friends or allies.
+* Have no in-principle objection to slavery, being willing
+to keep or free slaves as suits his purposes.
+* Respect religious authorities.
+* If religious, make war upon the enemies of his religion
+without showing mercy or offering quarter.
+A character with a civilised code of honour will not:
+* Break the law of the land, unless he has formally
+thrown in his lot with an organised and (in his opinion)
+legitimate force of rebels.
+* Slay an honourable foe who offers a ransom or throws
+himself on the character’s mercy, unless ordered to do
+so by a legitimate authority. Even in the latter case,
+if the character believes that such an order indicates
+that the authority is no longer legitimate, he may
+at the Games Master’s discretion be able to avoid
+killing the foe, so long as he immediately attempts
+to remove the illegitimate authority from power;
+this may involve something along the lines of the
+rebellion mentioned above.
+* Slay a dishonourable foe of noble birth who offers a
+ransom or throws himself on the character’s mercy,
+unless ordered to do so by a legitimate authority.
+* Knowingly work for a dishonourable employer.
+* Attack peasants or ordinary civilians and tradesmen,
+unless those folk have openly rebelled against a
+lawful authority.
+Mercenary
+Code of Honour
+Although they wander far to make their way as
+‘sellswords,’ many mercenaries live by a code of honour.
+Ruthless but not without principles, these mercenaries
+are highly sought after and renowned for always fulfilling
+their contracts to the letter.
+A character with a mercenary code of honour will:
+* Demand half of all promised payment up front if
+payment is to be a lump sum.
+* Demand two months’ payment in advance if payment
+is to be monthly.
+* Notify other mercenaries if a client does not pay.
+* Require the client to spell out exactly what will
+satisfy the requirements of employment, preferably in
+writing.
+* Fulfil all requirements of employment.
+81
+Classes
+* Maintain confidentiality concerning who hired him
+and what he is asked to do.
+* Only work for competing employers after 30 days of a
+contract’s expiry.
+A character with a mercenary code of honour will not:
+* Betray or disobey his employer, no matter what his
+master asks of him or what bribes are offered.
+* Violate any explicitly stated requirements of
+employment.
+* Violate the confidentiality of his employer including
+revealing what he was hired to do.
+* Take assignments from his employer’s competitors
+before 30 days have elapsed.
+* Take any risks or perform any difficult deeds without
+payment (in money or in kind), unless those deeds
+bring immediate personal reward to the mercenary.
+Losing a Code of Honour
+Any character who voluntarily breaks his code of honour
+immediately loses its benefits.
+The character may regain his code of honour if he seeks out
+a priest who can provide atonement (see page 339), so long
+as he worships the same gods as that priest and the priest has
+a code of honour of his own. The priest will set the character
+a task which must be fulfilled before full atonement
+can take place.
+An irreligious character or one who cannot find a suitable
+priest may attempt to right a wrong himself somehow. The
+Games Master will always be the judge of how much needs
+to be done in this case before the code of honour can be
+regained but generally it should be at least as much of a
+challenge as a task set by a priest.
+
+
+
+The Warrior Way – A New
+Code of Honour
+Caught somewhere between the Barbaric and Mercenary
+Codes, this is a new path that characters in Conan the
+Roleplaying Game can choose to prescribe to, showing
+their dedication to the pure sense of battle and survival
+by the strong. It grants the same benefi ts as any other
+Code of Honour, as shown on page 77 of Conan the
+Roleplaying Game: Second Edition.
+The Warrior Way code of honour is commonly taught
+amongst military communities and violent cultures.
+Where cities grow smaller and the population becomes
+more inclined to barbarism, the Warrior Way is too rigid
+and unforgiving to serve its fi ghters.
+The Warrior Way teaches that combat and fi ghting are
+tools to survival, glory and perhaps fortune for those
+strong enough in will and arms to follow it. It takes a
+great deal of dedication and personal willpower to adhere
+to any code of honour, but the Warrior Way is more of a
+life plan that users should use to shape their future.
+A warrior respects his foes before, during and after
+combat, seeing them as brethren of a sort despite their
+obvious confl icts. The saying ‘live by the sword, die
+by the sword’ is a strong tenet of the Warrior Way, as
+anyone dedicating themselves to a warrior’s
+life understands that they put themselves in harm’s way
+whenever they utilise their own talents. Bandits and
+highwaymen use trickery and stealth to get the better
+of their opponents, a warrior uses his skill and resolute
+ability. The Warrior Way is a code of ethics that mixes
+survival and drive with personal honour and a respect for
+others following a similar way of thinking.
+A character with a Warrior Way code of honour will:
+* Respect alliances with characters in a warrior’s
+lifestyle (but not necessarily the Warrior Way).
+He may also respect alliances with honourable
+mercenary or barbaric characters but this is not
+strictly required.
+* Ignore alliances with dishonourable characters,
+breaking them as soon as they show their true
+colours.
+* Dedicate allegiance to the people for which he fi ghts.
+Whether it is a governmental army, family members,
+mercenary soldiers, etc, he must wield his weapons
+on their behalf fi rst and foremost.
+* Show no mercy to dishonourable foes.
+* Accept surrender from honourable foes.
+* Offer generosity to any captured or surrendered
+enemy that has shown honourable ways.
+* Stand and fi ght alongside his allies whenever they
+need him and be ready to kill for their safety.
+* Recognise the skill and ability of greater warriors
+by not questioning their battlefi eld decisions, only
+debating them outside of the situation if they are
+disagreeable to him. Doubt and questions in the hectic
+chaos of a battle causes people to get hurt or killed,
+and any dedicated warrior will not add unnecessary
+danger to any combat scenario.
+* Save violent actions for his enemies, turning not his
+weapons upon his allies in anger. Arguments and
+physical altercations should never reach the level
+of crossed weaponry; such degrees of
+bloodshed cannot be taken back
+when undertaken.
+* Have no objection to slavery
+or the mistreatment of lower
+caste members, unless he has
+The Way of the Warrior
+What is a Warrior?
+For the purposes of this sourcebook, a
+warrior is not simply someone who goes
+off to do battle. Warriors are devoted
+learners of the martial ways of combat,
+making their weapons and armour into
+the tools of their trade.
+In essence, the term warrior in this
+book refers to a devotee of the Warrior
+Way, a true disciple of the ideals
+surrounding combat.
+6
+The Way
+previously chosen to fi ght on behalf of the slaves or
+lower caste members.
+* Put his duties and resources behind someone or
+something he believes is strong enough to utilise
+them properly. No warrior wants to be called upon
+for lesser activities, or those actions he feels are
+dishonourable. Note that a character on the Warrior
+Way does not have to be heroic or altruistic; he
+merely will not choose to fi ght for reasons that are
+either physically, mentally or morally beneath him.
+* Defend any religious, political or personal ideal with
+strength of arms if he feels it is necessary.
+* Always accept honourable challenges for one-on-one
+combat with warriors of near equal battle prowess.
+A character with a Warrior Way code of honour will
+not:
+* Draw a weapon in anger without the resolve and will
+to use it. True warriors do not make threats they are
+not inclined to make good upon.
+* Turn against that for which he fi ghts for newly offered
+money or power. A warrior that dedicates his sword
+arm to a cause cannot allow himself to be swayed by
+greed or avarice.
+* Use poison, toxin or drugs upon his weaponry to
+give him an edge in combat. True warriors need only
+their skill and strength to overcome their foes, not
+trickery.
+* Show mercy to a sorcerous or maddened foe; they
+cannot be trusted to be taken captive and are more
+dangerous when the warrior’s guard is down.
+* Accept a challenge from an obviously lesser
+opponent. He must always choose another of closer
+skill or prowess to fi ght in his stead, if possible.
+* Willingly accept magical or sorcerous aid in the
+form of spells or rituals during battle. Battle magic
+is the worst form of dishonour to a warrior, and
+only the weak hide behind arcane talents instead
+of the strength of their skills. Monastic scholars
+that practice martial mysticism do not cast spells or
+perform rituals exactly, and therefore are exempt to
+this edict of the Warrior Way.

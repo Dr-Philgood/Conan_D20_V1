@@ -1,0 +1,1870 @@
+Feats
+Feat Prerequisites Benefits
+Acrobatic — +2 bonus on Jump and Tumble checks
+Agile — +2 bonus on Balance and Escape Artist checks
+Akbitanan Smith Shemite, Craft (weaponsmith) 12 ranks Create items of Akbitanan quality
+Alertness — +2 bonus to Listen and Spot checks
+Animal Affinity — +2 bonus on Handle Animal and Ride checks
+Armour Proficiency (light) — No armour check penalty on attack rolls
+Armour Proficiency (medium) Armour Proficiency (light) No armour check penalty on attack rolls
+Armour Proficiency (heavy) Armour Proficiency (medium) No armour check penalty on attack rolls
+Athletic — +2 bonus on Climb and Swim checks
+Blind-Fight S — Reroll miss chance from concealment
+Brawl S — Inflict more damage with unarmed attacks
+Carouser Constitution 13, character level 5 Resist drunkenness, get social bonuses while drunk
+Combat Expertise S Int 13 Reduce attack rolls to add to defence
+Improved Disarm S Combat Expertise +4 bonus on disarm attempts; no attack of opportunity
+Improved Feint S Combat Expertise Feint as a move action
+Improved Trip S Combat Expertise +4 bonus on trip attempts; no attack of opportunity; free
+attack on tripped foe
+Whirlwind Attack S Combat Expertise, Dodge, Mobility, base attack bonus +4 Attack everyone within reach
+Combat Reflexes S — Make additional attacks of opportunity
+Web of Death Combat Reflexes, Weapon Focus, base attack bonus +5 Make attacks of opportunity on people who attack you
+Dabbler Int 13, Knowledge (arcana) 6 ranks Minor magical ability
+Deceitful — +2 bonus on Disguise and Forgery checks
+Defensive Martial Arts S Khitan, Vendhyan or Himelian or must have the calm
+of the adept spell
+Bonuses to fighting defensively, trips, overruns and grapples
+Deft Hands — +2 bonus on Sleight of Hand and Use Rope checks
+Demon Killer Must have single-handedly defeated a monster of any
+kind, Iron Will
++2 bonus to Terror saves, immune to Terror from defeated
+monsters
+Diligent — +2 bonus on Appraise and Decipher Script checks
+Dodge S Dex 13, base dodge bonus +1 +1 bonus to Dodge Defence
+Archer’s Bane S Dodge, base dodge bonus +6 Improve Dodge Defence against ranged attacks
+Mobility S Dodge +4 bonus to Dodge Defence against some attacks of opportunity
+Endurance S — +4 bonus on checks or saves to resist nonlethal damage
+Diehard S Endurance Fight while dying
+Exotic Weapon Proficiency* Base attack bonus +1 Avoid nonproficiency penalty with one weapon
+Eyes of the Cat Spot 1 rank Gain low-light vision
+Fighting-Madness Cimmerian, Himelian, Wazuli, Kushite, Nordheimr,
+Pict, Southern Islander, Darfari or Tlazitlan, Con 13,
+base attack bonus +1
+Fight like a berserker
+Fleet-Footed S — +10 feet base movement
+Flyby Attack Fly speed Attack in the middle of flying move
+Great Fortitude — +2 bonus on Fortitude saves
+Gunderland Pike-and-
+Shield Fighting S
+Gunderman, base attack bonus +1, Shield Proficiency,
+Martial Weapon Proficiency (pike)
+Use a shield while fighting with a pike
+Improved Critical* S Base attack bonus +8 Double threat range with one weapon
+Greater Critical S* Improved Critical, base attack bonus +16 Triple threat range with one weapon
+Improved Unarmed Strike S — Make unarmed attacks without penalty
+Improved Grapple S Dex 13, Improved Unarmed Strike +4 bonus on grapple checks
+Crushing Grip S Str 17, Improved Grapple, base attack bonus +8 Inflict ability score damage with a grapple
+Improved Initiative S — +4 bonus on initiative checks
+Investigator — +2 bonus on Gather Information and Search checks
+Iron Will — +2 bonus on Will saves
+Knowledgeable Int 13 +2 bonus on all Knowledge checks
+Leadership Character level 6 Gain followers
+Horde Cha 13, Leadership, nomad or barbarian level 12 Gain lots of followers
+Light-Footed Hide 1 rank, Move Silently 1 rank, sneak attack +1d6 Bonuses while unarmoured
+Lightning Reflexes — +2 bonus on Reflex saves
+Martial Weapon Proficiency — Avoid nonproficiency penalty with one weapon
+Mounted Combat S Ride 1 rank Negate hits on your mount with a Ride check
+Mounted Archery S Mounted Combat Half penalties for firing while mounted
+Ride-By Attack S Mounted Combat Move before and after mounted attack
+Spirited Charge S Ride-By Attack Deal extra damage with a mounted charge
+Trample S Mounted Combat Bonuses to mounted overrun attacks
+Multiattack Three or more natural weapons Easier to attack with multiple natural weapons
+Navigation Int 13, Profession (sailor) 12 ranks Never get lost at sea
+Negotiator — +2 bonus on Diplomacy and Sense Motive checks
+Nimble Fingers — +2 bonus on Disable Device and Open Lock checks
+No Honour Must not have a code of honour +3 bonus to Will saves, but easy to corrupt
+Parry S Str 13, base parry bonus +1 +1 bonus to Parry Defence
+Intricate Swordplay S Weapon Focus, Parry, Combat Expertise, Cha 13 Add Charisma bonus to Parry Defence
+Reflexive Parry S Dex 15, Combat Reflexes, Parry, base parry bonus +8 Parry even while flat-footed
+121
+Feats
+Feat Prerequisites Benefits
+Performer Cha 13 +2 bonus on all Perform checks
+Persuasive — +2 bonus on Bluff and Intimidate checks
+Pirate Code Expert Int 13, pirate level 2 Extensive knowledge of pirate codes
+Point Blank Shot S — +1 bonus to attack and damage within 30 feet
+Far Shot S Point Blank Shot Increase range increments on fired and thrown weapons
+Precise Shot S Point Blank Shot No penalties for firing into melee
+Improved Precise Shot S Dex 19, Precise Shot, base attack bonus +11 Ignore cover and concealment less than total.
+Ranged Finesse S Precise Shot Make finesse attacks with a ranged weapon
+Rapid Shot S Dex 13, Point Blank Shot One extra ranged attack each round
+Shot On The Run S Dex 13, Dodge, Mobility, Point Blank Shot, base attack
+bonus +4
+Move before and after ranged attack
+Poison Use Dex 13, base attack bonus +6 Use poison easily
+Power Attack S Str 13 Reduce attack rolls to add to damage
+Cleave S Power Attack Free attack when you slay an enemy
+Great Cleave S Cleave Cleave an unlimited number of times per round
+Improved Bull Rush S Power Attack +4 bonus on bull rushes; no attack of opportunity
+Improved Overrun S Power Attack +4 bonus on overruns; opponent cannot avoid you
+Improved Sunder S Power Attack +4 bonus on attack rolls against held objects; no attack of
+opportunity
+Greater Sunder S Improved Sunder, base attack bonus +6 Free attack if you destroy an opponent’s weapon
+Monster Slayer S Power Attack, base attack bonus +3 More damage while Power Attacking big creatures
+Priest Scholar level 4, scholar background: lay priest, other
+requirements by religion
+Varied benefits when dealing with the faithful
+Quick Draw S Base attack bonus +1 Draw a weapon as a free action
+Run S — Move five times normal speed as a full-round action
+Self-Sufficient — +2 bonus on Heal and Survival checks
+Shield Proficiency — No armour check penalty on attack rolls
+Simple Weapon Proficiency* — Avoid nonproficiency penalties
+Skill Focus* — +3 bonus to checks using a single skill
+Sleep Mastery Wis 13, Con 13 Gain sleep-related benefits
+Sneak Subdual Sneak attack +1d6, base attack bonus +1 Deal nonlethal damage with sneak attacks
+Spawn of Dagoth Hill Kothian or Zamorian, 1st level only Become inhuman
+Stealthy — +2 bonus to Hide and Move Silently
+Armoured Stealth Dex 13, Hide 4 ranks, Move Silently 1 rank, Armour
+Proficiency (Light), Stealthy
+Avoid light armour check penalties to stealth
+Steely Gaze S Intimidate 8 ranks, Cha 13 Demoralise opponents as a free action
+Menacing Aura S Cha 15, Intimidate 16 ranks, Steely Gaze
+Striking Cobra S Dex 15, Cha 13, Bluff 6 ranks, base attack bonus +6 Gain a surprise round all to yourself
+Stunning Attack S Dex 13, Str 13, base attack bonus +8 Stun opponent with attack
+Superior Armourer Aquilonian, Kothian, Hyrkanian/Turanian or Zingaran,
+Craft (armourer) 12 ranks
+Create superior quality armour
+Toughness S — Gain bonus hit points
+Track — Follow tracks with the Survival skill
+Two-Weapon Combat Base attack bonus +1 Fight with a weapon in each hand
+Improved Two-
+Weapon Combat S
+Two-Weapon Combat, base attack bonus +6 Fight better with a weapon in each hand
+Two-Weapon Defence S Parry, Two-Weapon Combat Trade off-hand attacks for bonus to Parry Defence
+Weapon Focus* S Base attack bonus +1 +1 bonus to attack rolls with one weapon
+Weapon Specialisation* S Weapon Focus, soldier level 4 +2 bonus to damage rolls with one weapon
+Greater Weapon Focus* S Weapon Focus, soldier level 8 Further +1 bonus to attack rolls with one weapon
+Greater Weapon
+Specialisation* S
+Weapon Specialisation, Weapon Focus, Greater
+Weapon Focus, soldier level 12
+Further +2 bonus to damage rolls with one weapon
+Zingaran Surprise S Zingaran, base attack bonus +4, sneak attack +3d6 Bypass Uncanny Dodge more easily
+Sorcery Feats Prerequisite Benefits
+Adept* Scholar level 12+, must know three spells from one
+sorcery style
+Halve casting time for one style
+Focused Magical Link Hexer, magic attack bonus +3, Craft (fine art, sculpture,
+or similar) 1 rank
+Create magical links to your victims
+Hexer Magic attack bonus +1, Sorcery Style: Curses +2 bonus to magic attack rolls with the Curses style
+Ritual Sacrifice Magic attack bonus +1, base attack bonus +1 Gain power points from killing victims
+Opportunistic Sacrifice Magic attack bonus +3, base attack bonus +3, Base PP
+4, Ritual Sacrifice
+Gain sacrifice benefits from anyone you kill
+Tortured Sacrifice Ritual Sacrifice, magic attack bonus +2, base attack
+bonus +2
+Gain extra power points by prolonging death
+Sorcerer’s Boon* Int 13, Scholar level 4, must know two or more sorcery
+styles
+Gain an advanced spell
+Summoner Magic attack bonus +1, Sorcery Style: Summoning +2 bonus to magic attack rolls
+Augment Summoning Summoner, magic attack bonus +4 Summoned creatures gain +4 to Strength and Constitution
+* A character may gain this feat multiple times. Its effects do not stack and instead apply to a new weapon or skill.
+S A soldier may select this feat as one of his soldier bonus feats.
+122
+Feats
+Akbitanan
+Smith (General)
+You have been trained in the fabled smithcraft of Akbitan.
+Prerequisites: Must be a Shemite, Craft (weaponsmith)
+12 ranks.
+Benefit: You may create weapons of Akbitanan quality,
+though this takes significantly longer than usual due to
+their very high cost. Creating a weapon of Akbitanan
+quality follows the usual rules for the Craft skill
+(see page 96).
+Special: You will require a source of Akbitanan (or similarly
+high quality) steel to perform your craft. Furthermore,
+if you manufacture Akbitanan quality weapons outside
+Akbitan itself, you are likely to incur the enmity of the
+smiths of the city.
+Alertness (General)
+You are rarely caught off guard.
+Benefit: You get a +2 bonus on all Listen and Spot checks.
+Animal Affinity (General)
+You have a knack for dealing with animals.
+Benefit: You get a +2 bonus on all Handle Animal and
+Ride checks.
+Archer’s Bane (General)
+You are expert at dodging arrows and other ranged
+weapons, particularly those hurled or shot great distances,
+taking advantage of the missile’s flight time to ensure you
+are not in its path.
+Prerequisites: Dodge, base dodge bonus +6.
+Benefit: You gain a +1 dodge bonus to Dodge
+Defence against all ranged weapons for each range
+increment through which the weapon must be shot
+or thrown to reach you. This dodge bonus is doubled
+if you are fighting defensively or executing the total
+defence standard action.
+Armour Proficiency
+(Heavy) (General)
+You know how to wear and move in
+plate, scale and the other heavy
+armours.
+Prerequisite: Armour
+Proficiency (medium).
+Benefit: See Armour Proficiency (light).
+Normal: See Armour Proficiency (light).
+Armour Proficiency
+(Light) (General)
+You know how to best wear and move in light armour.
+Benefit: When you wear a type of armour with which you
+are proficient, the armour check penalty for that armour
+applies only to Balance, Climb, Escape Artist, Hide, Jump,
+Move Silently, Sleight of Hand and Tumble checks.
+Normal: A character who is wearing armour with which
+he is not proficient applies its armour check penalty to
+attack rolls and to all skill checks that involve moving,
+including Ride.
+Armour Proficiency
+(Medium) (General)
+You know how best to wear brigandine and other medium
+armour.
+Prerequisite: Armour Proficiency (light).
+Benefit: See Armour Proficiency (light).
+Normal: See Armour Proficiency (light).
+Armoured Stealth
+(General)
+Even in armour, your tread makes no more sound than
+that of a panther. This is accomplished through a mixture
+of native sneakiness and cunningly padding, oiling and
+blackening your armour.
+Prerequisites: Dex 13, Hide 4 ranks, Move Silently 1 rank,
+Armour Proficiency (Light), Stealthy.
+Benefit: Whenever you are wearing light armour that you
+have personally prepared, you do not apply its armour
+check penalty (if any) to Move Silently or Hide checks.
+To prepare light armour for stealth initially requires one
+hour and materials worth 5 sp, then ten minutes per day in
+maintenance time.
+Athletic (General)
+You have a natural talent for athletics.
+Benefit: You get a +2 bonus on all Climb and Swim
+checks.
+Augment Summoning
+(Sorcery)
+The creatures you summon are especially strong and tough.
+Prerequisites: Summoner, magic attack bonus +4.
+123
+Feats
+Benefit: Each creature you conjure with any spell from the
+Summoning sorcery style gains a +4 enhancement bonus
+to Strength and Constitution for the duration of the spell
+that summoned it.
+Blind-Fight (General)
+You know how to fight when you are unable to see.
+Benefit: In melee, if you miss because of concealment, you
+can reroll your miss chance once to see if you actually hit.
+An invisible attacker gets no advantages related to hitting
+you in melee. That is, you can still dodge or parry your
+assailant and he does not get the usual +2 bonus to melee
+attack rolls for being invisible. The invisible attacker’s
+bonuses do still apply for ranged attacks, however. You take
+only half the usual penalty to speed for being unable to see.
+Darkness and poor visibility in general reduces your speed
+to three-quarters of normal, instead of one-half.
+Normal: Regular attack roll modifiers for invisible attackers
+trying to hit you apply and you cannot dodge or parry
+your attacker. The speed reduction for darkness and poor
+visibility also applies.
+Brawl (General)
+You are an expert brawler or martial artist, often knocking
+out or even killing an opponent with a single punch.
+Benefit: You deal 1d6 + Strength modifi er points of
+damage with an unarmed strike. You may elect to inflict
+either lethal or nonlethal damage with no penalty.
+Normal: Without this feat, a character deals only 1d3
+points of nonlethal damage with an unarmed strike.
+Carouser (General)
+You can drink others under the table and are never too
+drunk to fight.
+Prerequisites: Constitution 13, character level 5.
+Benefit: You suffer no penalties for drunkenness, however
+much alcohol you drink. Furthermore, you gain a +2
+circumstance bonus to all Bluff and Gather Information
+checks related to your drinking companions after
+at least two hours of heavy drinking. In addition,
+after a night of wenching, drinking or other partying, you
+heal normally as though you had had a full night’s rest.
+Normal: Drunk characters have at least a –2 penalty to
+attack rolls and Defence.
+Special: Note that this feat does not assist with resisting
+drugs other than alcohol, including lotus-based preparations
+of any kind such as Black Lotus Wine (see page 275).
+Cleave (General)
+You know how to follow up a mighty blow.
+Prerequisite: Power Attack.
+Benefit: If you deal a creature enough damage to take it
+out of the fight, typically by dropping it to below zero hit
+points or killing it, you get an immediate, extra melee attack
+against another creature within reach. You cannot take a
+five foot step before making this extra attack. The extra
+attack must be with the same weapon and is at the same
+bonus as the attack that dropped the previous creature. You
+can use this ability once per round.
+Combat Expertise
+(General)
+You are an expert at fighting cautiously so as to minimise
+the risk of being hit.
+Prerequisite: Int 13.
+Benefit: When you use the attack action or full attack
+action in melee, you can take a penalty of as much as –5
+on your attack and add the same number (up to +5) to
+your Defence. This number may not exceed your base
+attack bonus. The changes to attack rolls and Defence
+last until your next action.
+Special: If you use combat expertise while fighting
+defensively, the bonuses are cumulative.
+Combat Reflexes
+(General)
+You are skilled at taking advantage of your
+opponent’s mistakes.
+Benefit: You may make a number of additional
+attacks of opportunity equal to your Dexterity
+bonus. This feat also allows you to make
+attacks of opportunity while flat-footed.
+Normal: A character without this feat can
+make only one attack of opportunity per
+round and cannot make attacks of
+opportunity while flat-footed.
+Special: The Combat Reflexes feat
+does not allow a thief who has the
+opportunist special ability to use it
+more than once per round.
+‘Will you mock me and then lay hands on me?’
+grated the barbarian, his quick rage leaping up;
+and he returned the push with an open-handed
+blow that knocked his tormentor back against the
+rude-hewn table.
+– The Tower of the Elephant
+124
+Feats
+Crushing Grip (General)
+The mighty thews of your hand and arm can crush a man’s
+limb or neck in moments if you can get a grip on him.
+Prerequisites: Str 17, Improved Grapple, base attack
+bonus +8.
+Benefit: If you manage to grapple an opponent and inflict
+damage on him, you may choose to inflict some or all of
+the rolled damage as damage to his Constitution, Dexterity
+or Strength, at your choice. He gets a Fortitude saving
+throw (DC 10 + your Strength bonus + ½ your Base attack
+bonus) for half damage. Crushing Grip may be continued
+from round to round, so long as you are grappling your
+opponent and inflicting damage upon him.
+Dabbler (General)
+Though you might not be a formally trained sorcerer,
+you have learned a little magic here and there, enough to
+perhaps get you out of a tight spot or two – if it works.
+Prerequisites: Int 13, Knowledge (arcana) 6 ranks.
+Benefit: Choose a sorcery style from the following:
+Counterspells, Curses or Divination. Up to once during
+any given month, you may make a Knowledge (arcana)
+check to recall a small amount of sorcerous lore that could
+prove useful to your current situation. You do not have
+a true, permanent understanding of the style you access
+in this way but you are able to remember just enough to
+attempt to use the sorcery in question. You need not meet
+any prerequisites for the style except those that require
+a certain number of ranks in a particular skill. If your
+skill check beats DC 15, the Games Master will select an
+appropriate sorcerous effect from among the basic spells to
+which you are granted temporary access – enough to cast
+once and once only. The effect will be something useful to
+your situation, though in most cases it will not be sufficient
+to completely defeat your opposition on its own. If your
+Knowledge (arcana) check beats DC 25, the sorcerous
+effect may be drawn from the advanced spells of a style
+you dabble in. You may also spend a Fate Point to cast
+a spell using this feat. If you do so, you do not need to
+make a Knowledge (arcana) check – the spell may be
+basic or advanced – and this does not count towards
+your limit of one spell per month.
+Special: You expend Power Points to cast the
+spell as usual. If you do not already have
+any Power Points when you select
+this feat, you immediately
+acquire Base Power Points
+of 2 + Wisdom modifier.
+Deceitful (General)
+You live a life of underhanded dealings and deceit.
+Benefit: You get a +2 bonus on all Disguise and Forgery
+checks.
+Defensive Martial Arts
+(General)
+You have been trained to avoid blows and other attacks
+directed at you in battle.
+Prerequisites: Must be Khitan, Vendhyan or Himelian or
+must have the calm of the adept spell (see page 262).
+Benefit: You gain an additional +2 bonus to Defence when
+fighting defensively or using the total defence action. This
+grants you a total of +4 bonus to Defence when fighting
+defensively and a total of +6 bonus to Defence when using
+the total defence action. Furthermore, you gain a +2 bonus
+to opposed Strength and Dexterity checks any time you
+make trip, overrun or grapple attacks or when you try to
+avoid trips, overruns and grapples made against you.
+Normal: A character using the total defence action without
+this feat gains a +2 bonus to Defence when fighting
+defensively and a +4 bonus to Defence when using the
+total defence action.
+Deft Hands (General)
+Your hands are naturally dextrous.
+Benefit: You get a +2 bonus on all Sleight of Hand and
+Use Rope checks.
+Demon Killer (General)
+You have hardened yourself to supernatural terrors.
+Prerequisites: Iron Will, must have single-handedly
+defeated a monster of any kind. Not available to Southern
+Islanders or Tlazitlans.
+Benefit: You gain a +2 bonus to Will saves versus Terror.
+Each time that you defeat a new monster, you become
+immune to the Terror effect of that creature and others like
+it. You are immune to any fear effects used by a creature of
+a type you have slain.
+Diehard (General)
+You can endure wounds that would drop another man.
+Prerequisite: Endurance.
+Benefit: When reduced to between –1 and –9 hit points,
+you automatically become stable. You do not have to roll
+d% to see if you lose one Hit Point each round.
+When reduced to negative hit points, you may choose to
+act as if you are disabled, rather than dying.
+125
+Feats
+You must make this decision as soon as you are reduced to
+negative hit points, even if it is not your turn. If you do
+not choose to act as if you are disabled, you immediately
+fall unconscious.
+When using this feat, you can take either a single move or
+standard action each turn but not both. You cannot take a
+full round action. You can take a move action without further
+injuring yourself, though if you perform any standard action
+(or any other action deemed as strenuous, including some
+free actions) you take one point of damage after completing
+the act. If you reach –10 hit points, you die.
+Normal: A character without this feat that is reduced to
+between –1 and –9 hit points is unconscious and dying.
+Diligent (General)
+You are skilled at evaluating objects and writing.
+Benefit: You get a +2 bonus on all Appraise and Decipher
+Script checks.
+Dodge (General)
+You are very nimble on your feet, ducking and weaving in
+and out of combat to avoid your enemies’ attacks.
+Prerequisites: Dex 13, base dodge bonus +1.
+Benefit: You gain a +1 dodge bonus to
+your Dodge Defence.
+Endurance (General)
+You have incredible stamina.
+Benefit: You gain a +4 bonus on the following checks
+and saving throws: Swim checks made to resist nonlethal
+damage, Constitution checks made to continue running,
+Constitution checks made to avoid nonlethal damage
+from a forced march, Constitution checks made to hold
+your breath, Constitution checks made to avoid nonlethal
+damage from starvation or thirst, Fortitude saving
+throws made to avoid nonlethal damage from hot
+or cold environments and Fortitude saving throws
+made to resist damage from suffocation. In addition,
+you may sleep in light or medium armour without
+becoming fatigued.
+Normal: A character without this feat who sleeps in
+medium or heavier armour is automatically fatigued
+the next day.
+Exotic Weapon
+Proficiency (General)
+You have learned how to use one of the more unusual
+weapons of the Hyborian age.
+Prerequisite: Base attack bonus +1.
+Benefit: Pick a single exotic weapon. You
+may make attack rolls with that weapon without a
+nonproficiency penalty.
+Normal: A character who uses a weapon with which he is
+not proficient takes a –4 penalty on attack rolls.
+Special: You can gain Exotic Weapon Proficiency
+multiple times. Each time you take the feat, it applies to
+a new type of exotic weapon.
+Eyes Of The Cat
+(General)
+You see more clearly in the dark than many men
+can in full daylight.
+Prerequisites: Spot 1 rank, may only be
+taken at 1st level.
+Benefit: You gain low-light vision. That is,
+you can see twice as far as ordinary humans
+by starlight, moonlight, torchlight or other
+conditions of poor illumination. You can
+even distinguish colour and detail under
+these low-light conditions.
+126
+Feats
+Far Shot (General)
+You are skilled in shooting at very long ranges.
+Prerequisite: Point Blank Shot.
+Benefit: When you use a projectile weapon, such as a
+bow, its range increment increases by one-half (multiply
+by 1.5). When you use a thrown weapon, its range
+increment doubles.
+Special: A Hyrkanian or Turanian need not have the Point
+Blank Shot feat before selecting this feat.
+Fighting-Madness
+(General)
+You can enter a powerful, enraged state.
+Prerequisites: Must be a Cimmerian, Himelian Tribesman,
+Wazuli, Kushite, Nordheimr, Pict, Southern Islander,
+Darfari or Tlazitlan, Con 13, base attack bonus +1.
+Benefit: Up to once per day, you can enter a fightingmadness
+as a free action. You temporarily gain +4 to
+Strength, +4 to Constitution and a +2 morale bonus on
+Will saving throws but suffer a –2 penalty to Defence.
+While in a fighting-madness, you cannot use skills or
+abilities that require patience and concentration, including
+sneak attacks and finesse fighting. You can use any feat
+you might have except for Combat Expertise, sorcery feats
+and Skill Focus, if the latter is tied to a skill that requires
+patience or concentration. A fighting-madness lasts for
+a number of rounds equal to 3 + your newly improved
+Constitution bonus. The increase in Constitution grants
+additional hit points but these hit points go away when
+the fighting-madness ends, possibly killing the warrior!
+You may voluntarily end the fighting-madness at any time.
+You may not enter a fighting-madness if you are under
+the effect of the barbarian class feature Crimson Mist
+and vice versa.
+Fleet-Footed (General)
+You are fast on your feet.
+Benefit: You gain an enhancement bonus of +10 feet
+to your speed when wearing light or no armour (and
+not carrying a heavy load) or an enhancement bonus
+of +5 feet to your speed when wearing medium or
+heavy armour.
+Special: You can select this feat more than once,
+up to a maximum of three times. Its
+benefits stack.
+Flyby Attack (General)
+This feat allows a creature to hit as it flies past.
+Prerequisite: Fly speed.
+Benefit: When flying, you can take a move action
+(including a dive) and another standard action at any point
+during the move. You cannot take a second move action
+during a round when you make a flyby attack.
+Normal: Without this feat, the creature takes a standard
+action either before or after its move.
+Focused Magical Link
+(Sorcery)
+You are capable of creating a ‘voodoo doll’ or similar focus
+so as to break down a target’s resistance to your curses.
+Prerequisites: Craft (fine art, sculpture or similar) 1 rank,
+Hexer, magic attack bonus +3.
+Benefit: You may enhance your magical link (see page
+237) by crafting a representation of your victim, such as
+a doll or a painting, then adding additional connections
+to the victim. You take one full day, with a raw materials
+cost of 10 silver pieces, after which you may make an
+appropriate Craft check and refer to the table below to
+determine the result.
+Craft Check
+Result Bonus To Magical Attack Rolls
+14 or less No bonus; all materials used are wasted
+(lost), including any magical links
+15–24 +1
+25–34 +2
+35–44 +3
+And so on And so on
+Furthermore, for each additional object you incorporate
+into the representation, up to a maximum of four, the
+enhancement bonus increases by +1. Each object must
+be one that by itself could be used as a magical link
+to the victim.
+Great Cleave (General)
+Your blows are the stuff of legends.
+Prerequisites: Str 13, Cleave, base attack bonus +4.
+Benefit: This feat works as Cleave, except there is no limit
+to the number of times you can use it per round.
+127
+Feats
+Greater Critical
+(General)
+Select one weapon that you have already applied the
+Improved Critical feat to. You have learned to wield that
+weapon with such skill as to inflict devastating amounts of
+damage on a regular basis.
+Prerequisites: Improved Critical, base attack bonus +16.
+Benefit: When using the weapon you selected, your threat
+range is tripled. This supersedes the doubling provided by
+the Improved Critical feat.
+Special: This feat can be gained multiple times. The effects
+do not stack. Each time you take the feat, it applies to a new
+weapon. A character who has seven or more levels of the
+barbarian class may not select this feat. If a character with
+this feat ever gains seven or more levels in the barbarian
+class, he immediately and permanently loses this feat.
+Great Fortitude
+(General)
+You are hardier than most other people of your race.
+Benefit: You get a +2 bonus on all Fortitude saving throws.
+Greater Sunder
+(General)
+As a follow-up to sundering an opponent’s weapon, you
+can make an immediate attack on him.
+Prerequisites: Improved Sunder, base attack bonus +6.
+Benefit: If you completely destroy an opponent’s weapon
+in melee combat, you immediately get a melee attack
+against that opponent as if you had not used that attack to
+sunder the weapon.
+Greater Weapon Focus
+(General)
+Choose one type of weapon for which you have already
+selected Weapon Focus. You are extraordinarily skilled
+with this weapon.
+Prerequisites: Weapon Focus, soldier level 8.
+Benefit: You add +1 to all attack rolls you make using the
+selected weapon. This bonus stacks with other bonuses to
+attack rolls, including the bonus granted by the Weapon
+Focus feat.
+Special: This feat can be gained multiple times. The effects
+do not stack. Each time you take the feat, it applies to a new
+weapon. A character who has seven or more levels of the
+barbarian class may not select this feat. If a character with
+this feat ever gains seven or more levels in the barbarian
+class, he immediately and permanently loses this feat.
+Greater Weapon
+Specialisation (General)
+Choose one type of weapon for which you have already
+selected Weapon Specialisation and Greater Weapon
+Focus. You are supremely good at inflicting damage with
+this weapon.
+Prerequisites: Weapon Specialisation, Greater Weapon
+Focus, soldier level 12.
+Benefit: You add +2 to all damage dealt by the weapon
+with which you have specialised. This bonus stacks with
+other damage bonuses, including the bonus granted by the
+Weapon Specialisation feat.
+Special: This feat can be gained multiple times. The effects
+do not stack. Each time you take the feat, it applies to a new
+weapon. A character who has seven or more levels of the
+barbarian class may not select this feat. If a character with
+this feat ever gains seven or more levels in the barbarian
+class, he immediately and permanently loses this feat.
+Gunderland
+Pike-and-Shield
+Fighting (General)
+You have trained in Gunderland’s pike-and-shield
+techniques, learning to control your shield with just a few
+movements of your body and arm while both your hands
+grip the pike.
+Prerequisites: Gunderman, Martial Weapon Proficiency
+(pike), Shield Proficiency, base attack bonus +1.
+Benefit: You may wield a large shield and pike
+simultaneously, without penalty to the use of the pike.
+The large shield only grants a +3 shield bonus to Parry
+Defence rather than the usual +4. The shield confers
+its full +4 shield bonus to your Dodge Defence when
+dodging ranged attacks.
+Normal: A large shield can be strapped to
+the back or shoulder to allow for use of a
+two-handed weapon but the bonus to Parry
+Defence is reduced to +0 and the shield bonus
+to Dodge Defence against ranged attacks is
+reduced to +2.
+Special: The Games Master may permit a
+non-Gunderman to select this feat if he trains
+and fights in a Gunderland pike regiment.
+128
+Feats
+Hexer (Sorcery)
+You are particularly adept at cursing your opponents.
+Prerequisites: Magic attack bonus +1, Sorcery Style:
+Curses.
+Benefit: You gain a +2 bonus to your magic attack roll
+whenever you cast a spell from the Curses sorcery style.
+Horde (General)
+In addition to your own followers, you can call upon a great
+horde of allied tribes, clans or nomad bands to assist you
+with your dreams of raiding or conquest – so long as they
+are assured there will be plenty of plunder for all involved
+and so long as your leadership is strong and successful.
+Prerequisites: Cha 13, Leadership, nomad level 12 or
+barbarian level 12.
+Benefit: You may assemble a horde of barbarians or nomads
+in addition to the followers granted by your Leadership
+feat. You must publicise your planned cause by sending out
+messengers to a number of tribes, at a cost per month of
+one week of your time and 100 gold lunas in gifts and other
+expense. If you do so, you will gain a number of additional
+followers each month equal to the followers gained solely
+from your Leadership feat. These additional followers have
+less loyalty to you than do your personal followers but
+will follow you for as long as your horde is successful in
+battles and raids. You must feed the horde and provide it
+with plenty of opportunities for plunder or it will disperse.
+Furthermore, there is a straight 20% chance per month
+that a rival leader of 1d3 levels lower than you will
+challenge your leadership, usually in an informal duel.
+If you lose this challenge, the majority of the horde
+goes off with its new leader, leaving you with only
+your original followers. If you lose your horde
+by inactivity or challenge, you may not
+attempt to call another horde for
+at least three months.
+Special: A character with levels in both the barbarian and
+nomad classes may combine the two class levels together
+for purposes of qualifying for this feat, so an 8th level
+barbarian/4th level nomad would qualify, for example.
+Improved Bull Rush
+(General)
+You rarely slip when pushing an enemy before you.
+Prerequisite: Power Attack.
+Benefit: When you perform a bull rush you do not provoke
+an attack of opportunity from the defender. You also gain a
++4 bonus on the opposed Strength check you make to push
+back the defender.
+Improved Critical
+(General)
+Select one type of weapon that you are proficient with. You
+have learned to wield that weapon with such skill as to
+inflict devastating quantities of damage very frequently.
+Prerequisite: Base attack bonus +8.
+Benefit: When using the weapon you selected, your threat
+range is doubled.
+Special: This feat can be gained multiple times. The effects
+do not stack. Each time you take the feat, it applies to a new
+weapon. A character who has seven or more levels of the
+barbarian class may not select this feat. If a character with
+this feat ever gains seven or more levels in the barbarian
+class, he immediately and permanently loses this feat.
+Improved Disarm
+(General)
+You are skilled at sending your opponent’s weapon flying.
+Prerequisite: Combat Expertise.
+Benefit: You do not provoke an attack of opportunity
+when you attempt to disarm an opponent, nor does the
+opponent have a chance to disarm you. You also gain a +4
+bonus on the opposed attack roll you make to disarm your
+opponent.
+Normal: See the normal disarm rules (page 206).
+Improved Feint
+(General)
+You make a tricky opponent for anyone.
+Prerequisite: Combat Expertise.
+Benefit: You can feint in combat as a move action.
+Normal: Feinting in combat is a standard action (see
+page 207).
+‘I came into Ghulistan to raise a horde and plunder
+the kingdoms to the south – your own among them.
+Being a chief of the Afghulis was only a start. If
+I can conciliate them, I’ll have a dozen tribes
+following me within a year. But if I can’t I’ll ride
+back to the steppes and loot the Turanian borders
+with the kozaki.’
+– The People of the Black Circle
+129
+Feats
+Improved Grapple
+(General)
+You have a knack for grabbing and keeping hold of your
+opponents.
+Prerequisite: Dex 13, Improved Unarmed Strike.
+Benefit: You do not provoke an attack of opportunity when
+you make a touch attack to start a grapple. You also gain a
++4 bonus on all grapple checks, regardless of whether you
+started the grapple.
+Normal: Without this feat, you provoke an attack of
+opportunity when you make a touch attack to start a grapple.
+Improved Initiative
+(General)
+You are fast to react to any threat.
+Benefit: You get a +4 bonus on initiative checks.
+Improved Overrun
+(General)
+You barrel over your opponents with ease.
+Prerequisite: Power Attack.
+Benefit: When you attempt to overrun an opponent,
+the target may not choose to avoid you. You also gain a
++4 bonus on your Strength check to knock down your
+opponent.
+Normal: Without this feat, the target of an overrun can
+choose to avoid you or block you.
+Improved Precise Shot
+(General)
+You can put your shots exactly where you want them.
+Prerequisites: Dex 19, Point Blank Shot, Precise Shot,
+base attack bonus +11.
+Benefit: Your ranged attacks ignore the bonus to Defence
+granted to targets by anything less than total cover. It also
+ignores the miss chance granted to targets by anything less
+than total concealment. Total cover and total concealment
+provide their normal benefits against your ranged attacks.
+In addition, when you shoot or throw ranged weapons
+at a grappling opponent you automatically strike at the
+opponent you have chosen.
+Normal: See the normal rules on the effects of cover and
+concealment on pages 196–197. Without this feat, a
+character who shoots or throws a ranged weapon at a target
+involved in a grapple must roll randomly to see which
+grappling combatant the attack strikes.
+Improved Sunder
+(General)
+You are skilled at hitting weapons, shields or anything held
+in your opponent’s hands.
+Prerequisite: Power Attack.
+Benefit: When you strike at an object held or carried by
+an opponent (such as a weapon or shield) you do not
+provoke an attack of opportunity. You also gain a +4
+bonus on any attack roll made to attack an object held
+or carried by another character.
+Normal: Without this feat, you provoke an attack
+of opportunity when you strike at an object held or
+carried by another character.
+Improved Trip
+(General)
+You know how to knock your opponents
+down and hit them while they are there.
+Prerequisite: Combat Expertise.
+Benefit: You do not provoke an attack of
+opportunity when you attempt to trip an
+opponent while you are unarmed. You also
+gain a +4 bonus on your Strength check
+to trip your opponent. If you trip an
+opponent in melee combat, you
+immediately get a melee attack
+against that opponent as if you
+had not used that attack for the
+trip attempt.
+130
+Feats
+Normal: Without this feat, you provoke an attack of
+opportunity when you attempt to trip an opponent while
+you are unarmed.
+Improved Two-Weapon
+Combat (General)
+You are an expert at fighting with a weapon in each hand.
+Prerequisites: Two-Weapon Combat, base attack bonus +6.
+Benefit: When you fight with two weapons and take a full
+attack action, you may make a second attack with the offhand
+weapon, albeit at a –5 penalty. For every five points
+of base attack bonus you have above +6, you may make one
+additional attack with your off-hand weapon when taking
+a full attack action, to a maximum of four attacks at a Base
+attack bonus of +16. However, for each attack after the
+first, the attack bonus is reduced by a further –5 penalty.
+For example, a 20th level soldier with base attacks of
++20/+15/+10/+5 who is wielding an arming sword and
+poniard may make attacks with the arming sword at a
+base of +20/+15/+10/+5 and with the poniard at a
+base of +20/+15/+10/+5.
+Normal: A character wielding a weapon in
+each hand may only make one attack
+per round with the off-hand
+weapon.
+Improved Unarmed
+Strike (General)
+You are skilled at fighting without weapons.
+Benefit: You are considered to be armed even when
+you are unarmed; that is, you do not provoke attacks or
+opportunity from armed opponents when you attack them
+while unarmed and you may make attacks of opportunity
+as if you have a weapon in hand. In addition, your unarmed
+strikes can deal lethal or nonlethal damage, at your option.
+You may also parry attacks without penalty when you do
+not have a weapon, shield or other object in your hands.
+Normal: Without this feat, you are considered unarmed
+when attacking with an unarmed strike and you can deal
+only nonlethal damage with such an attack. You suffer a –4
+penalty to Parry Defence when parrying unarmed.
+Intricate Swordplay
+(General)
+You have been trained in the fl ashy, Western style of
+swordplay, perhaps at one of the great fencing schools of
+Zingara or Aquilonia.
+Prerequisites: Cha 13, Weapon Focus (broadsword or
+arming sword), Parry, Combat Expertise.
+Benefit: Whenever you have a broadsword or arming
+sword in one hand and are wearing no heavier than
+medium armour, you may add your Charisma bonus as a
+parry bonus to your Parry Defence.
+Special: A character who has seven or more levels of the
+barbarian class may not select this feat. If a character with
+this feat ever gains seven or more levels in the barbarian
+class, he immediately and permanently loses this feat.
+Investigator (General)
+You look past the obvious to see what is really going on.
+Benefit: You get a +2 bonus on all Gather Information and
+Search checks.
+Iron Will (General)
+You have a formidable sense of self-control.
+Benefit: You get a +2 bonus on all Will saving throws.
+Knowledgeable
+(General)
+You are a natural scholar.
+Prerequisite: Int 13.
+Benefit: You gain a +2 bonus to all Knowledge checks.
+131
+Feats
+Leadership
+(General)
+Your powerful leadership qualities enable you to
+draw a band of loyal followers to your side.
+Prerequisite: Character level 6th.
+Benefits: Having this feat enables a character to
+attract loyal companions and devoted followers to
+assist him. You gain a single cohort – a ‘sidekick’
+close to your ability – and a variable number of
+lesser followers according to the table below. Your
+base Leadership score is equal to your character
+level + your Charisma modifier.
+Leadership Modifiers: Several factors can
+affect a character’s Leadership score, causing
+it to vary from the base score. The noble class
+feature Enhanced Leadership gives a bonus to
+a character’s Leadership score. A character’s
+Reputation modifier to skill checks (see page 85)
+applies to his Leadership score for cohorts only.
+Other forms of reputation affect the Leadership
+score as shown on the table below.
+Leader’s Reputation Modifier
+Great renown +2
+Fairness and generosity +1
+Special power +1
+Failure –1
+Aloofness –1
+Cruelty –2
+Other modifiers apply to attracting followers only:
+The Leader... Modifier
+Has a stronghold, base of operations,
+temple, or the like
++2
+Has the Priest feat +1
+Is a king, shah, or other supreme rank
+in a nation
++4*
+Moves around a lot –1
+Caused the death of other followers –1
+*A king will doubtless have other armies under his
+command as well as his own followers; however, the only
+forces he can trust implicitly are those he gains directly
+through the Leadership feat.
+Cohorts have different priorities. When the
+character tries to attract a cohort, use any of
+the following modifiers that apply.
+The Leader... Modifier
+Has a demonic pact –2*
+Has a code of honour different
+from that of the cohort
+–1
+Has no code of honour, but the
+cohort does (or vice versa)
+–2
+Caused the death of a cohort –2**
+* This penalty only applies if the
+cohort fears and mistrusts those
+allied with demons.
+** Cumulative per cohort killed.
+Leadership
+Score
+Cohort
+Level
+Number of Followers by Level
+1st 2nd 3rd 4th 5th 6th
+1 or lower — — — — — — —
+2 1st — — — — — —
+3 1st — — — — — —
+4 2nd 1 — — — — —
+5 2nd 2 — — — — —
+6 3rd 3 — — — — —
+7 3rd 5 — — — — —
+8 4th 8 — — — — —
+9 4th 12 — — — — —
+10 5th 18 — — — — —
+11 5th 25 — — — — —
+12 6th 32 1 — — — —
+13 6th 40 1 — — — —
+14 7th 50 2 1 — — —
+15 7th 60 2 1 — — —
+16 8th 70 3 1 — — —
+17 8th 85 3 1 — — —
+18 9th 100 4 2 1 — —
+19 9th 120 5 2 1 — —
+20 10th 150 6 3 1 — —
+21 10th 200 8 3 1 — —
+22 11th 250 10 4 2 1 —
+23 11th 300 12 4 2 1 —
+24 12th 350 14 5 2 1 —
+25 12th 400 16 5 2 1 —
+26 13th 500 20 6 3 1 —
+27 13th 600 24 6 3 1 —
+28 14th 800 32 8 4 2 1
+29 14th 1000 40 10 4 2 1
+30 15th 1250 50 13 5 2 1
+31 15th 1500 60 15 5 2 1
+32 16th 2000 80 20 6 3 1
+33 16th 2500 100 25 7 3 1
+34 17th 3000 120 30 8 4 2
+35 or
+higher
+17th 4000 160 40 10 4 2
+132
+Feats
+Leadership Score: A character’s base Leadership score equals
+his level plus any Charisma modifier he has. In order to take
+into account negative Charisma modifiers, this table allows
+for very low Leadership scores but the character must still
+be 6th level or higher in order to gain the Leadership feat.
+Outside factors can affect a character’s Leadership score, as
+detailed above.
+Cohort Level: The character can attract a cohort of up to
+this level. Regardless of a character’s Leadership score, he
+can only recruit a cohort who is two or more levels lower
+than himself. A character can try to attract a cohort of a
+particular race, class and code of honour.
+Cohorts earn XP as follows:
+The cohort does not count as a party member when
+determining the party’s XP.
+Divide the cohort’s level by the level of the character who
+attracted him with the Leadership feat.
+Multiply this result by the total XP awarded to this
+character and add that number of Experience Points to the
+cohort’s total.
+If a cohort gains enough XP to bring it to a level one lower
+than the associated character’s level, the cohort does not
+gain the new level; its new XP total is one fewer than the
+amount needed to attain the next level.
+Number of Followers by Level: The character can lead up to
+the indicated number of characters of each level. Followers
+are similar to cohorts, except they are generally low-level
+Non-player Characters. As they are usually five or more
+levels behind the character they follow, they are not as
+effective in one-on-one combat as the player Characters
+but can be a formidable force for waging large-scale war.
+Followers do not earn experience and thus do not gain
+levels. However, when a character with Leadership
+attains a new level, the player consults the table above
+to determine if he has acquired more followers,
+some of which may be higher level than the
+existing followers. He does not consult the
+table to see if his cohort gains levels,
+however, because cohorts earn
+experience on their own.
+Light-Footed (General)
+You dislike armour and are significantly more effective
+without it.
+Prerequisites: Hide 1 rank, Move Silently 1 rank, sneak
+attack +1d6.
+Benefit: Whenever you are unarmoured and carrying at
+most 20 pounds of gear in total, you gain an extra +1 die to
+your Sneak Attack damage (either d6 or d8 as appropriate),
+a +1 dodge bonus to Dodge Defence and a +1 circumstance
+bonus to all Hide and Move Silently checks.
+Lightning Reflexes
+(General)
+You can leap aside from danger at a moment’s notice.
+Benefit: You get a +2 bonus on all Reflex saving throws.
+Martial Weapon
+proficiency (General)
+Choose a type of martial weapon. You understand how to
+use that type of martial weapon in combat.
+Benefit: You make attack rolls with the selected weapon
+normally.
+Normal: When using a weapon with which you are not
+proficient, you take a –4 penalty on attack rolls.
+Special: You can gain Martial Weapon Proficiency multiple
+times. Each time you take the feat, it applies to a new type
+of weapon.
+Menacing Aura
+(General)
+You project a constant, imposing aura of menace that
+gives many of your opponents pause before they even get a
+chance to attack you.
+Prerequisites: Cha 15, Intimidate 16 ranks, Steely Gaze.
+Benefit: You may make a demoralise opponent attempt
+(see the Intimidate skill on page 107) as a free action against
+any opponent who comes within 15 feet of you, whether
+or not it is your turn to act. You may do this against any
+number of opponents each round.
+Mobility (General)
+You are better able to defend yourself when on the move.
+Prerequisites: Dex 13, Dodge.
+Benefit: You get a +4 dodge bonus to your Dodge Defence
+against attacks of opportunity caused when you move out
+of or within a threatened area. If you cannot dodge, this
+bonus has no effect. Dodge bonuses stack, unlike most
+types of bonuses.
+133
+Feats
+Monster Slayer
+(General)
+Through long practice and bitter experience, you have
+learned a number of techniques for killing monsters quickly
+so as to risk as little damage to yourself as possible.
+Prerequisites: Power Attack, base attack bonus +3.
+Benefit: When making a Power Attack against a foe
+of Large size or greater, you add twice as much to your
+damage roll as you subtract from your attack roll, rather
+than the same amount as is usual for Power Attack. For
+example, you can use your Power Attack to gain a +2 to
+damage for a −1 penalty to your attack roll, or a +6 bonus
+to damage for a –3 penalty to attack or even a +10 bonus
+to damage for a –5 penalty to attack. As ever with Power
+Attack, the bonuses and penalties apply to all your attacks
+in a round. The total damage bonus gained may not exceed
+your base attack bonus.
+Special: When using this feat with a two-handed weapon,
+or with a one-handed weapon wielded in two hands,
+instead add three times the number subtracted from your
+attack rolls. The total damage bonus gained still may not
+exceed your base attack bonus.
+Mounted Archery
+(General)
+You can use a bow even while guiding your mount with
+your knees alone.
+Prerequisite: Mounted Combat.
+Benefit: The penalty you take when using a ranged weapon
+while mounted is halved: –2 instead of –4 if your mount
+is taking a double move and –4 instead of –8 if your
+mount is running.
+Mounted Combat
+(General)
+Your skill at arms on horseback has been honed and trained
+until it is second nature.
+Prerequisite: Ride 1 rank.
+Benefit: Once per round when your mount is hit in combat,
+you may attempt a Ride check (as a reaction) to negate the
+hit. The hit is negated if your Ride check result is greater
+than the opponent’s attack roll. For the rest of the round the
+Ride check result becomes the mount’s Dodge Defence if it
+is higher than the mount’s regular Dodge Defence.
+Multiattack (General)
+Some creatures are particularly adept at using multiple
+natural weapons.
+Prerequisite: Three or more natural weapons.
+Benefit: The creature’s secondary attacks with natural
+weapons suffer only a –2 penalty.
+Normal: Without this feat, the creature’s secondary natural
+attacks suffer a –5 penalty.
+Navigation (General)
+Along with a small number of brave captains around the
+world, you have learned the secrets of deep-sea navigation.
+Prerequisites: Int 13. Profession (sailor) 12 ranks.
+Benefit: You automatically know where you are at sea, even
+in the deep sea out of sight of land. You have a detailed
+mental map of all the lands you have already visited and
+know how to get there from where you are.
+Normal: A character who is out of sight of land and does
+not have this feat may attempt a Profession (sailor) check
+(DC 20) once per day to stay approximately on course for
+his destination. However, if he ever fails a check, he becomes
+lost and strays off course; he must make a more difficult
+check the following day (DC 25 + 1 per additional day
+since a successful check) or remain lost and off-course.
+Negotiator (General)
+You can haggle with the best of them.
+Benefit: You get a +2 bonus on all Diplomacy and Sense
+Motive checks.
+Nimble Fingers
+(General)
+You have a gift for working with locks and other
+mechanisms.
+Benefit: You get a +2 bonus on all Disable Device and
+Open Lock checks.
+No Honour
+(General)
+You have accepted that you have no honour
+whatsoever and revel in your wickedness and
+dishonour. This acceptance fortifies you in
+much the same manner as though you had
+a code of honour yourself, except in cases
+where your very soul is at stake...
+Prerequisites: Must not have a code
+of honour, or must have lost a code of
+honour.
+Benefit: You gain a +3 morale bonus
+on all Will saving throws except
+those made against Corruption.
+Special: You may never gain or
+regain a code of honour.
+134
+Feats
+Opportunistic Sacrifice
+(Sorcery)
+You can take advantage of a chance to slay an opponent by
+sorcery or combat and gain magical energy from so doing,
+just as though you had ritually sacrificed him in a more
+formal manner, by simply dedicating his death to your
+dark gods or your own power.
+Prerequisites: Ritual Sacrifice, magic attack bonus +3,
+base attack bonus +3, base PP 4.
+Benefit: You gain the benefits of the Ritual Sacrifice feat
+any time you slay an enemy, whether by magic, melee or
+ranged attacks.
+Normal: You must slay a helpless opponent with a coup de
+grace to gain the benefits of the Ritual Sacrifice feat.
+Special: This feat may not be used together with Tormented
+Sacrifice on the same victim, except in the case of certain
+spells as described in Chapter 6: Sorcery. It is simply not
+possible for most spells or weapons to cause sufficient pain
+to allow the benefits of Tormented Sacrifice to work when
+slaying a victim in a quick and businesslike manner, as with
+Opportunistic Sacrifice.
+You cannot use Opportunistic Sacrifice after slaying a foe
+with a Defensive Blast.
+Parry (General)
+You are experienced and effective at parrying your enemies’
+attacks.
+Prerequisites: Str 13, base parry bonus +1.
+Benefit: You gain a +1 parry bonus to Parry Defence.
+Performer (General)
+You are a natural performer.
+Prerequisite: Cha 13.
+Benefit: You gain a +2 bonus to all Perform checks.
+Persuasive (General)
+You are very hard to turn down when you set your
+mind on something.
+Benefit: You get a +2 bonus on all Bluff and
+Intimidate checks.
+Pirate Code Expert
+(General)
+You have travelled the world on many different pirate
+vessels, shipping with the Red Brotherhood of the Vilayet
+Sea, the Corsairs of the Black Coast, the Freebooters of
+Zingara and the Pirates of the Baracha Islands. You have
+learned the codes for all these different groups, enabling
+you to easily communicate with any pirate ship.
+Prerequisites: Int 13, pirate level 2.
+Benefit: You know all four of the pirate codes listed
+under the Pirate Code class feature (see page 59).
+Furthermore, you gain a +1 circumstance bonus to all
+Charisma-based skill checks and Charisma checks when
+dealing with any character who has at least two levels in
+the pirate character class.
+Point Blank Shot
+(General)
+At close range, your skill with a ranged weapon is deadly.
+Benefit: You get a +1 bonus on attack and damage rolls
+with ranged weapons at ranges of up to 30 feet.
+Poison Use (General)
+You are an experienced poison-user.
+Prerequisites: Dex 13, Knowledge (nature) 4 ranks, base
+attack bonus +6.
+Benefit: You never suffer the usual 5% chance of poisoning
+yourself if you use poison, nor do you risk accidentally
+poisoning yourself when attacking with a poisoned
+weapon. Furthermore, you gain a +1 resistance bonus
+to all Fortitude saves against poison, as your frequent
+exposure to low doses of a variety of poisons has given
+your body a certain degree of habituation to poisons of
+all kinds. Finally, you can take poisons directly from such
+sources as the glands of a dead Ghost Snake (see page
+373) or the juice of an Apple of Derketa (see page 275)
+without needing to make any particular skill checks. Note
+that this feat does not help with finding such poison
+sources, only extracting them.
+Power Attack
+(General)
+You can pour your strength into your blows to wreak
+devastation upon your enemies.
+Prerequisite: Str 13.
+Benefit: On your action, before making attack rolls for a
+round, you may choose to subtract a number from all melee
+attack rolls and add the same number to all melee damage
+135
+Feats
+rolls. This number may not exceed your base attack bonus.
+The penalty on attacks and bonus on damage both apply
+until your next turn.
+Special: If you attack with a two-handed weapon, or with a
+one-handed weapon wielded in two hands, you instead add
+twice the number subtracted from your attack rolls. You
+cannot add the bonus from Power Attack to the damage
+dealt with a light weapon (except for unarmed strikes or
+natural weapon attacks), though the penalty on attack rolls
+still applies.
+Precise Shot (General)
+Your friends need not fear your missiles when you shoot
+past them.
+Prerequisite: Point Blank Shot.
+Benefit: You can shoot or throw ranged weapons at an
+opponent engaged in melee without taking the standard
+–4 penalty on your attack roll.
+Priest (General)
+You have taken full ordination into the temple of your
+chosen religion.
+Prerequisites: Scholar level 4, scholar background: lay
+priest. Most religions have additional requirements that
+must be met before a priest can be ordained; see Chapter
+12 for details.
+Benefit: You are an ordained priest. This brings a number
+of social and political benefits, as well as some restrictions.
+Many of these benefits and restrictions are dependent on
+your religion. See Chapter 12: Religion in the Hyborian
+Age. These benefits always include the right to command
+followers of the same religion, allowing priests to gain
+bonuses to their Leadership scores (see page 131).
+Furthermore, the priest gains a +1 circumstance bonus
+to Bluff, Diplomacy, Gather Information and Intimidate
+checks when dealing with other characters who follow the
+same religious path as he does. In some regions, this can
+mean entire nations. This bonus is cumulative with the
+similar bonus from having the same Allegiance as the target,
+if applicable. Finally, the priest has certain duties at temple
+that fully occupy him for at least six months of every year;
+it is his choice as to when he fulfils these duties. In return
+for fulfilling his duties, the priest gains an annual stipend
+of 10 sp/scholar level, as well as free room and board at a
+temple of his religion whenever he is working there.
+Quick Draw (General)
+Just because your weapon is sheathed, it does not mean
+you are defenceless.
+Prerequisite: Base attack bonus +1.
+Benefit: You can draw a weapon as a free action instead of
+as a move action. So long as you are able to parry an attack
+(when you are not flat-footed, for example) you can draw a
+weapon in response to being attacked, enabling you to use
+your full Parry Defence against the attack even if you did
+not have a weapon drawn before. You can draw a hidden
+weapon (see the Sleight of Hand skill) as a move action. A
+character who has selected this feat may throw weapons at
+his full normal rate of attack, much like a character with
+a bow.
+Normal: Without this feat, you may draw a weapon as a
+move action or, if your base attack bonus is +1 or higher, as
+a free action as part of movement. Without this feat, you
+can draw a hidden weapon as a standard action.
+Ranged Finesse
+(General)
+Given sufficient time to aim, your ranged
+attacks find their way between gaps in your
+foes’ armour.
+Prerequisite: Precise Shot.
+Benefit: You may take a move action to line
+up an attack with a ranged weapon. You
+must aim at a specific target. The act of
+aiming provokes an attack of opportunity,
+just as if you had attacked with the
+weapon. If, on your next turn, that
+target is within 30 feet and has not
+moved more than 30 feet since
+his last action, you may attempt
+to finesse past his armour
+For answer the Count made a quick gesture with
+his hand below the points of the palisade. Almost
+instantly a shaft hummed venomously through a
+loop-hole and splintered on Strom’s breastplate.
+The pirate yelled ferociously, bounded back and ran
+toward the beach, with arrows whistling all about
+him. His men roared and came on like a wave, blades
+gleaming in the sun.
+‘Curse you, dog!’ raved the Count, felling the
+offending archer with his iron-clad fist. ‘Why did you
+not strike his throat above the gorget? Ready with
+your bows, men – here they come!’
+– The Black Stranger
+136
+Feats
+with your ranged attack. You can also ready an attack while
+aiming but you must have been aiming at the same target
+continuously for at least one round in order to attempt to
+finesse. If you lose sight of your target or attack a different
+target, your aim is broken. Aiming requires your full
+concentration and you must make a Concentration skill
+check if you suffer distraction (see page 95). If you are able
+to make more than one attack in a round, only your first
+attack benefits from any aiming and subsequent attacks
+may not be made as finesse attempts. If you are using a
+bow, you can continue to aim for a number of rounds
+equal to 5 + your Strength modifier, after which you take
+one point of nonlethal damage for every round during
+which you continue to aim.
+Normal: Ranged attacks cannot ordinarily be finessed.
+Rapid Shot (General)
+You can have another arrow in the air before the first has
+hit its target.
+Prerequisites: Dex 13, Point Blank Shot.
+Benefit: You can get one extra attack per round with a
+ranged weapon. The attack is at your highest base attack
+bonus but each attack you make in that round (the extra
+one and the normal ones) takes a –2 penalty. You must use
+the full attack action to use this feat.
+Reflexive Parry
+(General)
+Though you may not have time to dodge a surprise attack,
+you will at least have a chance to bring up your weapon or
+shield in a desperate, instinctive parry.
+Prerequisites: Dex 15, Combat Reflexes, Parry, base parry
+bonus +8.
+Benefit: You can still parry if caught flat-footed or struck
+by an invisible attacker. You are not able to parry when
+grappled or helpless, however.
+Ride-By Attack
+(General)
+You can slash at an opponent as you spur your
+mount past.
+Prerequisite: Mounted Combat.
+Benefit: When you are mounted and
+use the charge action, you may
+move and attack as if with
+a standard charge and then
+move again, continuing
+the straight line of
+the charge.
+Your total movement for the round cannot exceed double
+your mounted speed. You and your mount do not provoke
+an attack of opportunity from the opponent you attack.
+Ritual Sacrifice
+(Sorcery)
+You have been trained to ritually kill a helpless opponent to
+gain sorcerous power.
+Prerequisites: Magic attack bonus +1, base attack bonus
++1, base PP 4.
+Benefit: If you attempt a coup de grace on a helpless
+character or creature (see page 198), the victim gets a –2
+circumstance penalty on his Fortitude saving throw to
+avoid dying. In addition, you may move one step down
+on the Sacrifice Table when calculating the number of PP
+gained. See page 228 for the Sacrifice Table.
+Normal: If you kill a creature by coup de grace but do not
+know this feat, you may still gain some power points by
+dedicating its death to your gods or to your own personal
+power. See page 228.
+Run (General)
+Your pace is phenomenal.
+Benefit: When running, you move at five times your
+normal speed. You may only do this if wearing light or no
+armour and carrying no more than a light load. You may
+move at four times your speed if wearing medium or heavy
+armour or carrying a medium or heavy load. If you make a
+jump after a running start (see the Jump skill description)
+you gain a +4 bonus on your Jump check. You can dodge
+while running.
+Normal: You move at four times your speed while running
+(if wearing light or no armour and carrying no more than a
+light load) or at three times your speed (if wearing medium
+or heavy armour or carrying a medium or heavy load) and
+you are not able to dodge.
+Self-Sufficient
+(General)
+You can survive in the wild with little fear.
+Benefit: You get a +2 bonus on all Heal and Survival
+checks.
+Shield Proficiency
+(General)
+You are adept at using a shield to parry blows.
+Benefit: You can use a shield and take only the standard
+penalties.
+137
+Feats
+Normal: When you are using a shield with which you are
+not proficient, you take the shield’s armour check penalty
+on attack rolls and on all skill checks that involve moving,
+including Ride checks.
+Shot On The Run
+(General)
+Prerequisites: Dex 13, Dodge, Mobility, Point Blank Shot,
+base attack bonus +4.
+Benefit: When using the attack action with a ranged
+weapon, you can move both before and after the attack,
+provided that the total distance moved is not greater
+than your speed.
+Normal: When using the attack action you must make
+your attack before or after you move.
+Simple Weapon
+Proficiency (General)
+You are competent at wielding less demanding weapons.
+Benefit: You make attack rolls with simple weapons
+normally.
+Normal: When using a weapon with which you are not
+proficient, you take a –4 penalty on attack rolls.
+Skill Focus (General)
+You have a particular knack for one task or another.
+Benefit: You get a +3 bonus on all checks involving that
+skill.
+Special: You can gain this feat multiple times. Its effects
+do not stack. Each time you take the feat, it applies
+to a new skill.
+Sleep Mastery
+(General)
+You have almost total control of your body’s sleep patterns
+and your waking and sleeping habits.
+Prerequisites: Con 13, Wis 13.
+Benefit: You need only sleep for six hours a night to
+awaken fully rested. Up to once per week, you may spend
+one full night without any sleep, with no penalties, so long
+as you get at least twelve hours of sleep the following night.
+In addition, you may make Listen checks as though you
+were awake if any untoward sounds occur as you sleep;
+if you succeed at such a Listen check, you may become
+fully awake as a free action. Finally, you gain a +2 bonus
+on all saving throws against spells, supernatural effects,
+drugs and poisons that would cause you to sleep or
+prevent you from waking.
+Sneak Subdual (General)
+You can make sneak attacks that subdue your enemies.
+Prerequisites: Sneak attack +1d6, base attack bonus +1.
+Benefit: You can use a weapon that deals normal damage
+to deal nonlethal damage in a sneak attack, with the usual
+–4 penalty. Alternatively, when sneak attacking with any
+bludgeoning weapon, you can elect to deal half normal
+damage and half nonlethal damage (round down) with no
+penalty.
+Normal: Sneak attacks can only deal nonlethal damage if
+made with an unarmed strike or sap.
+Sorcerer’s Boon
+(Sorcery)
+You have spent many years studying sorcery.
+Prerequisites: Int 13, scholar level 4, must know at least
+two sorcery styles.
+Benefit: You gain one advanced spell of your choice. You
+must meet any prerequisites of the spell as usual, including
+knowledge of the sorcery style in question. However,
+unlike the usual spells you gain as class features, you are
+not restricted by your background class feature – you may
+choose any spell for which you meet the prerequisites
+without needing to learn it from your masters.
+Special: This feat may be taken more than once – you gain
+a different spell each time.
+Spawn of Dagoth Hill
+(General)
+You are only half human, one of your parents having
+been a demonic pre-human creature.
+Prerequisites: Must be Kothian or Zamorian, may
+only be taken at 1st level.
+Benefit: You apply the Spawn of Dagoth Hill template
+to your character (see page 388).
+Spirited Charge
+(General)
+You can spur your mount into the charge and
+brace yourself to strike a powerful blow.
+Prerequisites: Ride-By Attack.
+Benefit: When mounted and using the
+charge action, you deal double damage
+with a melee weapon or triple damage
+with a lance.
+138
+Feats
+Stealthy (General)
+You have a knack for moving sneakily.
+Benefit: You get a +2 bonus on all Hide and Move Silently
+checks.
+Steely Gaze (General)
+One glance from you is enough to make lesser opponents
+quail in terror.
+Prerequisites: Cha 13, Intimidate 8 ranks.
+Benefit: You may perform the demoralise opponent action
+(see page 107) as a free action once per round.
+Striking Cobra
+(General)
+You can make surprise attacks even when your
+opponents are aware of your presence, using your
+body language to convince them you are no threat,
+then attacking with the speed and suddenness of
+a striking cobra.
+Prerequisites: Dex 15, Cha 13,
+Bluff 6 ranks, base attack
+bonus +6.
+Benefit: So long as
+combat has not yet
+begun, you
+may attempt a Bluff check opposed by your opponents’
+Sense Motive checks. If you succeed, they are surprised and
+you may make a full round of actions in the surprise round
+when combat begins. An opponent who had readied an
+action will lose that action if he does not beat your Bluff
+check with his Sense Motive check. Opponents who do
+beat your Bluff check gain a standard action in the surprise
+round as usual.
+Stunning Attack
+(General)
+Your punches (and similar attacks) are so accurate and
+powerful that you can stun your enemies.
+Prerequisites: Str 13, Dex 13, base attack bonus +8.
+Benefit: You may use this feat with any of the following
+weapons: unarmed strike, buckler, gauntlet or pommel.
+You must declare that you are using the feat before making
+an attack roll; a missed attack roll ruins the attempt. It
+forces a foe damaged by your attack to make a Fortitude
+saving throw (DC 10 + ½ your level + your Str modifier),
+in addition to dealing damage normally. If the defender
+fails his saving throw, he is stunned for one round, until
+just before your next action. A stunned character may not
+act and can neither dodge nor parry. Attackers get a +2
+bonus on attack rolls against a stunned opponent. You may
+attempt a stunning attack once per day for every four levels
+you have attained. You may not attempt a stunning attack
+more than once per round.
+Summoner (Sorcery)
+You are particularly adept at summoning demons and
+elementals.
+Prerequisites: Magic attack bonus +1, Sorcery Style:
+Summoning.
+Benefit: You gain a +2 bonus to your magic attack
+roll whenever you cast a spell from the Summoning
+sorcery style.
+Superior Armourer
+(General)
+You have been trained in producing Aquilonian style plate
+armour, Kothic scale or Hyrkanian mail.
+Prerequisites: Must be an Aquilonian, Kothian, Hyrkanian/
+Turanian or Zingaran, Craft (armourer) 12 ranks.
+Benefit: You may create superior quality armour, though
+this takes significantly longer than usual due to its very
+high cost. If you are an Aquilonian, you may only create
+superior visored helms, breastplates and plate armour; if
+you are a Hyrkanian or Turanian, you may only create
+superior steel caps, mail hauberks and mail
+139
+Feats
+shirts; if you are a Kothian, you may only create superior
+scale corselets, scale hauberks and great helms; if you are
+a Zingaran, you may only create superior quality leather
+jerkins. Creating a suit of superior quality armour follows
+the usual rules for the Craft skill (see page 96).
+Toughness (General)
+You can shrug off blows that would cripple or kill a
+normal man.
+Benefit: You gain bonus hit points equal to +1 per character
+level or Hit Die, up to a maximum of +10.
+Special: Each time your character level increases, if your new
+level is 10th or below you gain another +1 bonus Hit Point.
+Tortured Sacrifice
+(Sorcery)
+You may draw a huge quantity of magical power from
+a creature by painstakingly sacrificing it over a period
+of several hours. You may bleed it to death, whip it or
+otherwise inflict great torture on it. Different sorcerers may
+have preferred methods of performing a sacrifice. In every
+case, though, the point is to maximize the magical power
+you gain from a single ritual sacrifice.
+Prerequisites: Ritual Sacrifice, magic attack bonus +2,
+base attack bonus +2.
+Benefit: If you take at least 15 minutes to torture a victim
+to death in a ritualistic manner you can move two steps
+down on the Sacrifice Table (see page 228). If you are able
+to spin the process out for an hour or more, you can move
+three steps down on the Sacrifice Table. The victim must
+be bound or otherwise helpless during the sacrifice. If for
+some reason you need to know how much damage you
+have inflicted on your victim part way through the process
+(for example, if the victim is rescued before you finish him
+off ), assume that you inflicted at least a minimum of 1d3
+hit points damage per five minutes. If you prefer, you could
+inflict as much as your standard melee attack damage every
+round if desired (this latter damage assumes that you either
+have a particularly tough opponent or that you choose to
+kill him quickly because he is about to be rescued). You
+may also choose any amount of damage in between. If you
+kill your victim before the 15 minutes is up, you only gain
+the normal Power Points for a Ritual Sacrifice.
+Track (General)
+You can track beast or man across the land.
+Benefit: To find tracks or to follow them for one mile
+requires a successful Survival check. You must make
+another Survival check every time the tracks
+become difficult to follow. While tracking, you
+either move at half your normal speed, at your normal
+speed with a –5 penalty on the check or at up to twice your
+normal speed with a –20 penalty on the check. The DC
+depends on the surface and the prevailing conditions, as
+given in the table below:
+Track Modifiers
+Condition
+Survival DC
+Modifier
+Every three creatures in the group
+being tracked
+–1
+Size of creature or creatures
+being tracked:1
+Fine +8
+Diminutive +4
+Tiny +2
+Small +1
+Medium +0
+Large –1
+Huge –2
+Gargantuan –4
+Colossal –8
+Every 24 hours since the trail was made +1
+Every hour of rain since the trail was made +1
+Fresh snow cover since the trail was made +10
+Poor visibility:2
+Overcast or moonless night +6
+Moonlight +3
+Fog or precipitation +3
+Tracked party hides trail (and moves
+at half speed)
++5
+1 For a group of mixed sizes, apply
+only the modifier for the largest
+size category.
+2 Apply only the largest modifier
+from this category.
+In what had seemed a curtain of solid marble,
+a thin perpendicular crack showed and in the crack
+hung a wisp of silk. In an instant he was bending
+over it. That shred was from Muriela’s torn skirt.
+The implication was unmistakable. It had been caught
+in the closing door and torn off as she was borne
+through the opening by whatever grim beings were her
+captors. The bit of clothing had prevented the door
+from fitting perfectly into its frame.
+– Jewels of Gwahlur
+140
+Feats
+Surface Survival DC
+Very soft ground 5
+Soft ground 10
+Firm ground 15
+Hard ground 20
+Very Soft Ground: Any surface, such as fresh snow, thick
+dust or wet mud which holds deep, clear impressions of
+footprints.
+Soft Ground: Any surface soft enough to yield to pressure,
+but firmer than wet mud or fresh snow, in which a creature
+leaves frequent but shallow footprints.
+Firm Ground: Most normal outdoor surfaces, such as lawns,
+fields, woods and the like, or exceptionally soft or dirty
+indoor surfaces, such as thick rugs and very dirty or dusty
+floors. A creature might leave some traces of its passing,
+such as broken branches or tufts of hair but it leaves only
+occasional or partial footprints.
+Hard Ground: Any surface that does not hold footprints at
+all, such as bare rock or an indoor floor. Most streambeds
+fall into this category, since any footprints left behind are
+obscured or washed away. A creature leaves only traces of
+its passing, such as scuffmarks or displaced pebbles.
+If you fail a Survival check, you can retry after one hour
+(outdoors) or 10 minutes (indoors) of searching.
+Normal: Without this feat, you can use the Survival skill
+to find tracks but you can follow them only if the DC for
+the task is 10 or lower. Alternatively, you can use the Search
+skill to find a footprint or similar sign of a creature’s passage
+using the DCs given above. You cannot use Search to follow
+tracks, even if someone else has already found them.
+Trample (General)
+You can urge your horse to lash out with its hooves as it
+rides over an opponent.
+Prerequisite: Mounted Combat.
+Benefit: When you attempt to overrun an opponent
+while mounted, your target may not choose to
+avoid you. Your mount may make one
+hoof attack against any target
+you knock down, gaining
+the standard +4 bonus
+on attack rolls against
+prone targets.
+Two-Weapon Combat
+(General)
+You can fight effectively with a weapon in each hand.
+Prerequisite: Base attack bonus +1.
+Benefit: When you fight with two weapons, you take no
+penalty to your attack rolls so long as at least one of the
+weapons is a light weapon. You take only a –4 penalty to
+all attack rolls if both weapons are one-handed.
+Normal: A character who is not proficient in two-weapon
+combat has a –2 penalty to attack rolls if using a light
+or one-handed weapon in his primary hand and a light
+weapon in his secondary hand, or –6 if using a one-handed
+weapon in each hand.
+Two-Weapon Defence
+(General)
+When wielding a weapon in each hand, you are an expert
+at defensive parrying.
+Prerequisites: Parry, Two-Weapon Combat.
+Benefit: When you fight with two weapons, you can give
+up one attack at your highest attack bonus with one of
+the weapons to gain a parry bonus to Parry Defence for
+one full round after you would have made the attack. This
+parry bonus is +2 if the weapon is light, or +3 if the weapon
+is one-handed.
+Special: Two-Weapon Defence can also apply to shields
+if you use a shield to make shield bash attacks rather than
+for parrying.
+Weapon Focus (General)
+Choose one type of weapon that you are proficient with. If
+desired, this weapon could be ‘unarmed strike’ or ‘grapple.’
+You are highly skilled with this weapon.
+Prerequisite: Base attack bonus +1.
+Benefit: You add +1 to all attack rolls you make using the
+selected weapon.
+Special: This feat can be gained multiple times. The effects
+do not stack. Each time you take the feat, it applies to a new
+weapon. A character who has seven or more levels of the
+barbarian class may not select this feat. If a character with
+this feat ever gains seven or more levels in the barbarian
+class, he immediately and permanently loses this feat.
+Web of Death (General)
+You can spin your blade and endanger any opponents who
+dare attack you.
+Prerequisites: Combat Reflexes, Weapon Focus, base
+attack bonus +5.
+141
+Feats
+Benefit: When taking a total defence action, you spin
+your weapon so skilfully that you can make an attack of
+opportunity against anyone who attacks you. The normal
+rules for attacks of opportunity apply. This attack is
+resolved after your opponent’s.
+Special: A character that has seven or more levels of the
+barbarian class may not select this feat. If a character with
+this feat ever gains seven or more levels in the barbarian
+class, he immediately and permanently loses this feat.
+Weapon Specialisation
+(General)
+Choose one type of weapon that you already have Weapon
+Focus with. If desired, this weapon could be ‘unarmed
+strike’ or ‘grapple.’ You are especially good at inflicting
+damage with this weapon.
+Prerequisites: Weapon Focus, soldier level 4.
+Benefit: You add +2 to all damage dealt with the weapon
+you have specialised with.
+Special: This feat can be gained multiple times. The effects
+do not stack. Each time you take the feat, it applies to a new
+weapon. A character who has seven or more levels of the
+barbarian class may not select this feat. If a character with
+this feat ever gains seven or more levels in the barbarian
+class, he immediately and permanently loses this feat.
+Whirlwind Attack
+(General)
+You lash out at any available target, dispatching foes all
+around you with terrifying speed.
+Prerequisites: Dodge, Mobility, Combat Expertise, base
+attack bonus +4.
+Benefit: When you use the full attack action, you can give
+up your regular attacks and instead make one melee attack
+at your full base attack bonus against each opponent within
+your threatened area. When you use the Whirlwind Attack
+feat, you forfeit any bonuses or extra attacks
+granted by other feats, spells or abilities.
+Zingaran Surprise
+(General)
+Though the Zingarans are famed for swordplay, they
+are perhaps still more famed for their willingness to take
+advantage of any momentary distraction on the part
+of an ally to give him a blow to the head from behind,
+rob him and leave him for dead. Even Zingarans who
+are not primarily thieves or pirates are often expert with
+the sneak attack.
+Prerequisites: Must be Zingaran, sneak attack +3d6, base
+attack bonus +4.
+Benefit: For purposes of determining whether or not
+you are able to sneak attack an opponent who has the
+Improved Uncanny Dodge class feature, you may use
+your character level, rather than your thief or pirate
+class level. Furthermore, if your opponent is distracted
+at the time of your sneak attack, you may use double
+your character level, rather than your pirate or
+thief class level, for this purpose. You could
+potentially contrive to create a suitable
+distraction with a Bluff versus Sense Motive
+check or you could take advantage of a
+distraction such as a suddenly revealed treasure
+or bizarre happenstance.
+Normal: Usually you may only sneak attack
+a character who has Improved Uncanny
+Dodge if you have four more levels as a
+thief or pirate than that character has levels
+in the class or classes that granted him
+Improved Uncanny Dodge.

@@ -1,0 +1,117 @@
+{
+  "id": "conan",
+  "title": "Conan",
+  "description": "Conan the Roleplaying Game 2e strict-rules MVP for Foundry VTT V13.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.350"
+  },
+  "authors": [
+    {
+      "name": "Philip N Clayton"
+    }
+  ],
+  "esmodules": [
+    "conan.mjs"
+  ],
+  "styles": [
+    "styles/conan.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "documentTypes": {
+    "Actor": {
+      "character": {
+        "htmlFields": [
+          "details.biography"
+        ]
+      },
+      "npc": {
+        "htmlFields": [
+          "details.biography"
+        ]
+      }
+    },
+    "Item": {
+      "weapon": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "armor": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "gear": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "sorcery": {
+        "htmlFields": [
+          "description",
+          "requirements",
+          "notes"
+        ]
+      },
+      "feat": {
+        "htmlFields": [
+          "description",
+          "benefit",
+          "normal",
+          "special"
+        ]
+      }
+    }
+  },
+  "packs": [
+    {
+      "name": "sorcery",
+      "label": "Sorcery",
+      "path": "packs/sorcery",
+      "type": "Item",
+      "system": "conan"
+    },
+    {
+      "name": "weapons",
+      "label": "Weapons",
+      "path": "packs/weapons",
+      "type": "Item",
+      "system": "conan"
+    },
+    {
+      "name": "armor",
+      "label": "Armor",
+      "path": "packs/armor",
+      "type": "Item",
+      "system": "conan"
+    },
+    {
+      "name": "feats",
+      "label": "Feats",
+      "path": "packs/feats",
+      "type": "Item",
+      "system": "conan"
+    },
+    {
+      "name": "rules",
+      "label": "Rules Reference",
+      "path": "packs/rules",
+      "type": "JournalEntry",
+      "system": "conan"
+    }
+  ],
+  "primaryTokenAttribute": "combat.hp",
+  "secondaryTokenAttribute": null,
+  "url": "https://github.com/Dr-Philgood/Conan_D20_V1",
+  "manifest": "https://raw.githubusercontent.com/Dr-Philgood/Conan_D20_V1/refs/heads/main/conan/system.json",
+  "download": "https://github.com/Dr-Philgood/Conan_D20_V1/archive/refs/tags/Conan_D20_V1.zip",
+  "license": "LICENSE.txt"
+}

@@ -1,0 +1,40 @@
+{{!-- Feat item sheet: rules text and metadata for compendium feats. --}}
+<form class="{{cssClass}}" autocomplete="off">
+  <header class="sheet-header">
+    <h1><input name="name" type="text" value="{{item.name}}" placeholder="Feat Name"></h1>
+  </header>
+
+  <section class="sheet-body">
+    <div class="form-grid two-column">
+      <label>Category
+        <input type="text" name="system.category" value="{{system.category}}" placeholder="General or Sorcery">
+      </label>
+      <label>Source
+        <input type="text" name="system.source" value="{{system.source}}">
+      </label>
+      <label class="wide">Prerequisites
+        <input type="text" name="system.prerequisites" value="{{system.prerequisites}}">
+      </label>
+      <label><input type="checkbox" name="system.soldierBonus" {{#if system.soldierBonus}}checked{{/if}}> Soldier Bonus Feat</label>
+      <label><input type="checkbox" name="system.repeatable" {{#if system.repeatable}}checked{{/if}}> Repeatable</label>
+      <label><input type="checkbox" name="system.active" {{#if system.active}}checked{{/if}}> Active</label>
+    </div>
+
+    <div class="item-description">
+      <h2>Description</h2>
+      {{editor system.description target="system.description" button=true owner=owner editable=editable}}
+    </div>
+    <div class="item-description">
+      <h2>Benefit</h2>
+      {{editor system.benefit target="system.benefit" button=true owner=owner editable=editable}}
+    </div>
+    <div class="item-description">
+      <h2>Normal</h2>
+      {{editor system.normal target="system.normal" button=true owner=owner editable=editable}}
+    </div>
+    <div class="item-description">
+      <h2>Special</h2>
+      {{editor system.special target="system.special" button=true owner=owner editable=editable}}
+    </div>
+  </section>
+</form>

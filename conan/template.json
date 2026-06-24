@@ -1,0 +1,1236 @@
+{
+    "Actor":  {
+                  "types":  [
+                                "character",
+                                "npc"
+                            ],
+                  "character":  {
+                                    "details":  {
+                                                    "level":  1,
+                                                    "xp":  0,
+                                                    "race":  "",
+                                                    "archetype":  "",
+                                                    "homeland":  "",
+                                                    "religion":  "",
+                                                    "biography":  ""
+                                                },
+                                    "abilities":  {
+                                                      "str":  {
+                                                                  "value":  10,
+                                                                  "mod":  0
+                                                              },
+                                                      "dex":  {
+                                                                  "value":  10,
+                                                                  "mod":  0
+                                                              },
+                                                      "con":  {
+                                                                  "value":  10,
+                                                                  "mod":  0
+                                                              },
+                                                      "int":  {
+                                                                  "value":  10,
+                                                                  "mod":  0
+                                                              },
+                                                      "wis":  {
+                                                                  "value":  10,
+                                                                  "mod":  0
+                                                              },
+                                                      "cha":  {
+                                                                  "value":  10,
+                                                                  "mod":  0
+                                                              }
+                                                  },
+                                    "saves":  {
+                                                  "fort":  {
+                                                               "base":  0,
+                                                               "ability":  "con",
+                                                               "misc":  0,
+                                                               "total":  0
+                                                           },
+                                                  "ref":  {
+                                                              "base":  0,
+                                                              "ability":  "dex",
+                                                              "misc":  0,
+                                                              "total":  0
+                                                          },
+                                                  "will":  {
+                                                               "base":  0,
+                                                               "ability":  "wis",
+                                                               "misc":  0,
+                                                               "total":  0
+                                                           }
+                                              },
+                                    "combat":  {
+                                                   "hp":  {
+                                                              "value":  10,
+                                                              "max":  10
+                                                          },
+                                                   "initiative":  {
+                                                                      "misc":  0,
+                                                                      "total":  0
+                                                                  },
+                                                   "magicAttack":  {
+                                                                       "base":  0,
+                                                                       "misc":  0,
+                                                                       "total":  0
+                                                                   },
+                                                   "dodge":  {
+                                                                 "base":  10,
+                                                                 "misc":  0,
+                                                                 "total":  10
+                                                             },
+                                                   "parry":  {
+                                                                 "base":  10,
+                                                                 "misc":  0,
+                                                                 "total":  10
+                                                             },
+                                                   "damageReduction":  {
+                                                                           "armor":  0,
+                                                                           "misc":  0,
+                                                                           "total":  0
+                                                                       },
+                                                   "armorCheckPenalty":  0,
+                                                   "featToggles":  {
+                                                                       "powerAttack":  {
+                                                                                           "active":  false,
+                                                                                           "value":  0
+                                                                                       },
+                                                                       "pointBlankShot":  {
+                                                                                              "active":  false
+                                                                                          },
+                                                                       "rapidShot":  {
+                                                                                         "active":  false
+                                                                                     },
+                                                                       "toughness":  {
+                                                                                         "ranks":  0
+                                                                                     }
+                                                                   },
+                                                   "attack":  {
+                                                                  "melee":  {
+                                                                                "base":  0,
+                                                                                "misc":  0,
+                                                                                "total":  0
+                                                                            },
+                                                                  "ranged":  {
+                                                                                 "base":  0,
+                                                                                 "misc":  0,
+                                                                                 "total":  0
+                                                                             }
+                                                              },
+                                                   "massiveDamage":  {
+                                                                         "total":  10
+                                                                     },
+                                                   "threshold":  {
+                                                                     "total":  0
+                                                                 },
+                                                   "maneuvers":  [
+
+                                                                 ]
+                                               },
+                                    "optionalRules":  {
+                                                          "permanentDamage":  false
+                                                      },
+                                    "resources":  {
+                                                      "fate":  {
+                                                                   "value":  3
+                                                               },
+                                                      "wealth":  {
+                                                                     "gold":  0,
+                                                                     "silver":  0,
+                                                                     "copper":  0,
+                                                                     "totalSilver":  0,
+                                                                     "notes":  ""
+                                                                 }
+                                                  },
+                                    "social":  {
+                                                   "reputation":  {
+                                                                      "value":  0,
+                                                                      "misc":  0,
+                                                                      "notes":  ""
+                                                                  },
+                                                   "allegiances":  [
+
+                                                                   ],
+                                                   "codes":  [
+
+                                                             ],
+                                                   "languages":  [
+
+                                                                 ]
+                                               },
+                                    "movement":  {
+                                                     "speed":  {
+                                                                   "base":  30,
+                                                                   "armor":  0,
+                                                                   "misc":  0,
+                                                                   "total":  30
+                                                               },
+                                                     "encumbrance":  {
+                                                                         "current":  0,
+                                                                         "light":  0,
+                                                                         "medium":  0,
+                                                                         "heavy":  0,
+                                                                         "notes":  "",
+                                                                         "load":  "Light",
+                                                                         "maxDex":  "",
+                                                                         "checkPenalty":  0,
+                                                                         "speed":  30,
+                                                                         "runMultiplier":  4,
+                                                                         "liftOverhead":  0,
+                                                                         "liftOffGround":  0,
+                                                                         "pushDrag":  0
+                                                                     }
+                                                 },
+                                    "sorcery":  {
+                                                    "powerPoints":  {
+                                                                        "value":  0,
+                                                                        "max":  0,
+                                                                        "temporary":  0,
+                                                                        "recovery":  ""
+                                                                    },
+                                                    "corruption":  {
+                                                                       "score":  0,
+                                                                       "taint":  "",
+                                                                       "notes":  ""
+                                                                   },
+                                                    "styles":  [
+
+                                                               ],
+                                                    "spells":  [
+
+                                                               ],
+                                                    "rituals":  [
+
+                                                                ],
+                                                    "components":  [
+
+                                                                   ],
+                                                    "sacrifices":  [
+
+                                                                   ],
+                                                    "notes":  ""
+                                                },
+                                    "injuries":  [
+
+                                                 ],
+                                    "customSkills":  {
+                                                         "professions":  [
+
+                                                                         ],
+                                                         "crafts":  [
+
+                                                                    ],
+                                                         "performs":  [
+
+                                                                      ]
+                                                     },
+                                    "skills":  {
+                                                   "acrobatics":  {
+                                                                      "keyAbility":  "dex",
+                                                                      "ranks":  0,
+                                                                      "misc":  0,
+                                                                      "armorCheck":  true,
+                                                                      "trainedOnly":  false,
+                                                                      "total":  0,
+                                                                      "classSkill":  false,
+                                                                      "pinned":  false
+                                                                  },
+                                                   "appraise":  {
+                                                                    "keyAbility":  "int",
+                                                                    "ranks":  0,
+                                                                    "misc":  0,
+                                                                    "armorCheck":  false,
+                                                                    "trainedOnly":  false,
+                                                                    "total":  0,
+                                                                    "classSkill":  false,
+                                                                    "pinned":  false
+                                                                },
+                                                   "bluff":  {
+                                                                 "keyAbility":  "cha",
+                                                                 "ranks":  0,
+                                                                 "misc":  0,
+                                                                 "armorCheck":  false,
+                                                                 "trainedOnly":  false,
+                                                                 "total":  0,
+                                                                 "classSkill":  false,
+                                                                 "pinned":  false
+                                                             },
+                                                   "challenge":  {
+                                                                     "keyAbility":  "cha",
+                                                                     "ranks":  0,
+                                                                     "misc":  0,
+                                                                     "armorCheck":  false,
+                                                                     "trainedOnly":  true,
+                                                                     "total":  0,
+                                                                     "classSkill":  false,
+                                                                     "pinned":  false
+                                                                 },
+                                                   "climb":  {
+                                                                 "keyAbility":  "str",
+                                                                 "ranks":  0,
+                                                                 "misc":  0,
+                                                                 "armorCheck":  true,
+                                                                 "trainedOnly":  false,
+                                                                 "total":  0,
+                                                                 "classSkill":  false,
+                                                                 "pinned":  false
+                                                             },
+                                                   "concentration":  {
+                                                                         "keyAbility":  "con",
+                                                                         "ranks":  0,
+                                                                         "misc":  0,
+                                                                         "armorCheck":  false,
+                                                                         "trainedOnly":  false,
+                                                                         "total":  0,
+                                                                         "classSkill":  false,
+                                                                         "pinned":  false
+                                                                     },
+                                                   "decipherScript":  {
+                                                                          "keyAbility":  "int",
+                                                                          "ranks":  0,
+                                                                          "misc":  0,
+                                                                          "armorCheck":  false,
+                                                                          "trainedOnly":  true,
+                                                                          "total":  0,
+                                                                          "classSkill":  false,
+                                                                          "pinned":  false
+                                                                      },
+                                                   "diplomacy":  {
+                                                                     "keyAbility":  "cha",
+                                                                     "ranks":  0,
+                                                                     "misc":  0,
+                                                                     "armorCheck":  false,
+                                                                     "trainedOnly":  false,
+                                                                     "total":  0,
+                                                                     "classSkill":  false,
+                                                                     "pinned":  false
+                                                                 },
+                                                   "disableDevice":  {
+                                                                         "keyAbility":  "int",
+                                                                         "ranks":  0,
+                                                                         "misc":  0,
+                                                                         "armorCheck":  false,
+                                                                         "trainedOnly":  true,
+                                                                         "total":  0,
+                                                                         "classSkill":  false,
+                                                                         "pinned":  false
+                                                                     },
+                                                   "disguise":  {
+                                                                    "keyAbility":  "cha",
+                                                                    "ranks":  0,
+                                                                    "misc":  0,
+                                                                    "armorCheck":  false,
+                                                                    "trainedOnly":  false,
+                                                                    "total":  0,
+                                                                    "classSkill":  false,
+                                                                    "pinned":  false
+                                                                },
+                                                   "forgery":  {
+                                                                   "keyAbility":  "int",
+                                                                   "ranks":  0,
+                                                                   "misc":  0,
+                                                                   "armorCheck":  false,
+                                                                   "trainedOnly":  false,
+                                                                   "total":  0,
+                                                                   "classSkill":  false,
+                                                                   "pinned":  false
+                                                               },
+                                                   "handleAnimal":  {
+                                                                        "keyAbility":  "cha",
+                                                                        "ranks":  0,
+                                                                        "misc":  0,
+                                                                        "armorCheck":  false,
+                                                                        "trainedOnly":  false,
+                                                                        "total":  0,
+                                                                        "classSkill":  false,
+                                                                        "pinned":  false
+                                                                    },
+                                                   "heal":  {
+                                                                "keyAbility":  "wis",
+                                                                "ranks":  0,
+                                                                "misc":  0,
+                                                                "armorCheck":  false,
+                                                                "trainedOnly":  false,
+                                                                "total":  0,
+                                                                "classSkill":  false,
+                                                                "pinned":  false
+                                                            },
+                                                   "intimidate":  {
+                                                                      "keyAbility":  "cha",
+                                                                      "ranks":  0,
+                                                                      "misc":  0,
+                                                                      "armorCheck":  false,
+                                                                      "trainedOnly":  false,
+                                                                      "total":  0,
+                                                                      "classSkill":  false,
+                                                                      "pinned":  false
+                                                                  },
+                                                   "knowledgeArcana":  {
+                                                                           "keyAbility":  "int",
+                                                                           "ranks":  0,
+                                                                           "misc":  0,
+                                                                           "armorCheck":  false,
+                                                                           "trainedOnly":  true,
+                                                                           "total":  0,
+                                                                           "classSkill":  false,
+                                                                           "pinned":  false
+                                                                       },
+                                                   "knowledgeGeography":  {
+                                                                              "keyAbility":  "int",
+                                                                              "ranks":  0,
+                                                                              "misc":  0,
+                                                                              "armorCheck":  false,
+                                                                              "trainedOnly":  false,
+                                                                              "total":  0,
+                                                                              "classSkill":  false,
+                                                                              "pinned":  false
+                                                                          },
+                                                   "knowledgeHistory":  {
+                                                                            "keyAbility":  "int",
+                                                                            "ranks":  0,
+                                                                            "misc":  0,
+                                                                            "armorCheck":  false,
+                                                                            "trainedOnly":  true,
+                                                                            "total":  0,
+                                                                            "classSkill":  false,
+                                                                            "pinned":  false
+                                                                        },
+                                                   "knowledgeLocal":  {
+                                                                          "keyAbility":  "int",
+                                                                          "ranks":  0,
+                                                                          "misc":  0,
+                                                                          "armorCheck":  false,
+                                                                          "trainedOnly":  false,
+                                                                          "total":  0,
+                                                                          "classSkill":  false,
+                                                                          "pinned":  false
+                                                                      },
+                                                   "knowledgeNobility":  {
+                                                                             "keyAbility":  "int",
+                                                                             "ranks":  0,
+                                                                             "misc":  0,
+                                                                             "armorCheck":  false,
+                                                                             "trainedOnly":  true,
+                                                                             "total":  0,
+                                                                             "classSkill":  false,
+                                                                             "pinned":  false
+                                                                         },
+                                                   "knowledgeReligion":  {
+                                                                             "keyAbility":  "int",
+                                                                             "ranks":  0,
+                                                                             "misc":  0,
+                                                                             "armorCheck":  false,
+                                                                             "trainedOnly":  true,
+                                                                             "total":  0,
+                                                                             "classSkill":  false,
+                                                                             "pinned":  false
+                                                                         },
+                                                   "knowledgeRumours":  {
+                                                                            "keyAbility":  "int",
+                                                                            "ranks":  0,
+                                                                            "misc":  0,
+                                                                            "armorCheck":  false,
+                                                                            "trainedOnly":  false,
+                                                                            "total":  0,
+                                                                            "classSkill":  false,
+                                                                            "pinned":  false
+                                                                        },
+                                                   "knowledgeTactics":  {
+                                                                            "keyAbility":  "int",
+                                                                            "ranks":  0,
+                                                                            "misc":  0,
+                                                                            "armorCheck":  false,
+                                                                            "trainedOnly":  true,
+                                                                            "total":  0,
+                                                                            "classSkill":  false,
+                                                                            "pinned":  false
+                                                                        },
+                                                   "perception":  {
+                                                                      "keyAbility":  "wis",
+                                                                      "ranks":  0,
+                                                                      "misc":  0,
+                                                                      "armorCheck":  false,
+                                                                      "trainedOnly":  false,
+                                                                      "total":  0,
+                                                                      "classSkill":  false,
+                                                                      "pinned":  false
+                                                                  },
+                                                   "ride":  {
+                                                                "keyAbility":  "dex",
+                                                                "ranks":  0,
+                                                                "misc":  0,
+                                                                "armorCheck":  false,
+                                                                "trainedOnly":  false,
+                                                                "total":  0,
+                                                                "classSkill":  false,
+                                                                "pinned":  false
+                                                            },
+                                                   "senseMotive":  {
+                                                                       "keyAbility":  "wis",
+                                                                       "ranks":  0,
+                                                                       "misc":  0,
+                                                                       "armorCheck":  false,
+                                                                       "trainedOnly":  false,
+                                                                       "total":  0,
+                                                                       "classSkill":  false,
+                                                                       "pinned":  false
+                                                                   },
+                                                   "sharpen":  {
+                                                                   "keyAbility":  "wis",
+                                                                   "ranks":  0,
+                                                                   "misc":  0,
+                                                                   "armorCheck":  false,
+                                                                   "trainedOnly":  true,
+                                                                   "total":  0,
+                                                                   "classSkill":  false,
+                                                                   "pinned":  false
+                                                               },
+                                                   "sleightOfHand":  {
+                                                                         "keyAbility":  "dex",
+                                                                         "ranks":  0,
+                                                                         "misc":  0,
+                                                                         "armorCheck":  true,
+                                                                         "trainedOnly":  false,
+                                                                         "total":  0,
+                                                                         "classSkill":  false,
+                                                                         "pinned":  false
+                                                                     },
+                                                   "stealth":  {
+                                                                   "keyAbility":  "dex",
+                                                                   "ranks":  0,
+                                                                   "misc":  0,
+                                                                   "armorCheck":  true,
+                                                                   "trainedOnly":  false,
+                                                                   "total":  0,
+                                                                   "classSkill":  false,
+                                                                   "pinned":  false
+                                                               },
+                                                   "survival":  {
+                                                                    "keyAbility":  "wis",
+                                                                    "ranks":  0,
+                                                                    "misc":  0,
+                                                                    "armorCheck":  false,
+                                                                    "trainedOnly":  false,
+                                                                    "total":  0,
+                                                                    "classSkill":  false,
+                                                                    "pinned":  false
+                                                                },
+                                                   "swim":  {
+                                                                "keyAbility":  "str",
+                                                                "ranks":  0,
+                                                                "misc":  0,
+                                                                "armorCheck":  false,
+                                                                "trainedOnly":  false,
+                                                                "total":  0,
+                                                                "classSkill":  false,
+                                                                "pinned":  false
+                                                            },
+                                                   "useRope":  {
+                                                                   "keyAbility":  "dex",
+                                                                   "ranks":  0,
+                                                                   "misc":  0,
+                                                                   "armorCheck":  false,
+                                                                   "trainedOnly":  false,
+                                                                   "total":  0,
+                                                                   "classSkill":  false,
+                                                                   "pinned":  false
+                                                               }
+                                               },
+                                    "classes":  [
+                                                    {
+                                                        "classKey":  "barbarian",
+                                                         "level":  1,
+                                                         "hpRolled":  0,
+                                                         "favored":  false,
+                                                         "choices":  [
+
+                                                                     ],
+                                                         "notes":  ""
+                                                     }
+                                                ],
+                                    "feats":  [
+
+                                              ],
+                                    "conditions":  {
+                                                       "blinded":  false,
+                                                       "cowering":  false,
+                                                       "dazed":  false,
+                                                       "dazzled":  false,
+                                                       "deafened":  false,
+                                                       "disabled":  false,
+                                                       "dying":  false,
+                                                       "entangled":  false,
+                                                       "exhausted":  false,
+                                                       "fatigued":  false,
+                                                       "frightened":  false,
+                                                       "nauseated":  false,
+                                                       "panicked":  false,
+                                                       "pinned":  false,
+                                                       "prone":  false,
+                                                       "shaken":  false,
+                                                       "sickened":  false,
+                                                       "stable":  false,
+                                                       "staggered":  false,
+                                                       "stunned":  false,
+                                                       "unconscious":  false
+                                                   }
+                                },
+                  "npc":  {
+                              "details":  {
+                                              "level":  1,
+                                              "xp":  0,
+                                              "race":  "",
+                                              "archetype":  "",
+                                              "homeland":  "",
+                                              "religion":  "",
+                                              "biography":  ""
+                                          },
+                              "abilities":  {
+                                                "str":  {
+                                                            "value":  10,
+                                                            "mod":  0
+                                                        },
+                                                "dex":  {
+                                                            "value":  10,
+                                                            "mod":  0
+                                                        },
+                                                "con":  {
+                                                            "value":  10,
+                                                            "mod":  0
+                                                        },
+                                                "int":  {
+                                                            "value":  10,
+                                                            "mod":  0
+                                                        },
+                                                "wis":  {
+                                                            "value":  10,
+                                                            "mod":  0
+                                                        },
+                                                "cha":  {
+                                                            "value":  10,
+                                                            "mod":  0
+                                                        }
+                                            },
+                              "saves":  {
+                                            "fort":  {
+                                                         "base":  0,
+                                                         "ability":  "con",
+                                                         "misc":  0,
+                                                         "total":  0
+                                                     },
+                                            "ref":  {
+                                                        "base":  0,
+                                                        "ability":  "dex",
+                                                        "misc":  0,
+                                                        "total":  0
+                                                    },
+                                            "will":  {
+                                                         "base":  0,
+                                                         "ability":  "wis",
+                                                         "misc":  0,
+                                                         "total":  0
+                                                     }
+                                        },
+                              "combat":  {
+                                             "hp":  {
+                                                        "value":  10,
+                                                        "max":  10
+                                                    },
+                                             "initiative":  {
+                                                                "misc":  0,
+                                                                "total":  0
+                                                            },
+                                             "magicAttack":  {
+                                                                 "base":  0,
+                                                                 "misc":  0,
+                                                                 "total":  0
+                                                             },
+                                             "dodge":  {
+                                                           "base":  10,
+                                                           "misc":  0,
+                                                           "total":  10
+                                                       },
+                                             "parry":  {
+                                                           "base":  10,
+                                                           "misc":  0,
+                                                           "total":  10
+                                                       },
+                                             "damageReduction":  {
+                                                                     "armor":  0,
+                                                                     "misc":  0,
+                                                                     "total":  0
+                                                                 },
+                                             "armorCheckPenalty":  0,
+                                             "featToggles":  {
+                                                                 "powerAttack":  {
+                                                                                     "active":  false,
+                                                                                     "value":  0
+                                                                                 },
+                                                                 "pointBlankShot":  {
+                                                                                        "active":  false
+                                                                                    },
+                                                                 "rapidShot":  {
+                                                                                   "active":  false
+                                                                               },
+                                                                 "toughness":  {
+                                                                                   "ranks":  0
+                                                                               }
+                                                             },
+                                             "attack":  {
+                                                            "melee":  {
+                                                                          "base":  0,
+                                                                          "misc":  0,
+                                                                          "total":  0
+                                                                      },
+                                                            "ranged":  {
+                                                                           "base":  0,
+                                                                           "misc":  0,
+                                                                           "total":  0
+                                                                       }
+                                                        },
+                                             "massiveDamage":  {
+                                                                   "total":  10
+                                                               },
+                                             "threshold":  {
+                                                               "total":  0
+                                                           },
+                                             "maneuvers":  [
+
+                                                           ]
+                                         },
+                              "optionalRules":  {
+                                                    "permanentDamage":  false
+                                                },
+                              "resources":  {
+                                                "fate":  {
+                                                             "value":  3
+                                                         },
+                                                "wealth":  {
+                                                               "gold":  0,
+                                                               "silver":  0,
+                                                               "copper":  0,
+                                                               "totalSilver":  0,
+                                                               "notes":  ""
+                                                           }
+                                            },
+                              "social":  {
+                                             "reputation":  {
+                                                                "value":  0,
+                                                                "misc":  0,
+                                                                "notes":  ""
+                                                            },
+                                             "allegiances":  [
+
+                                                             ],
+                                             "codes":  [
+
+                                                       ],
+                                             "languages":  [
+
+                                                           ]
+                                         },
+                              "movement":  {
+                                               "speed":  {
+                                                             "base":  30,
+                                                             "armor":  0,
+                                                             "misc":  0,
+                                                             "total":  30
+                                                         },
+                                               "encumbrance":  {
+                                                                   "current":  0,
+                                                                   "light":  0,
+                                                                   "medium":  0,
+                                                                   "heavy":  0,
+                                                                   "notes":  "",
+                                                                   "load":  "Light",
+                                                                   "maxDex":  "",
+                                                                   "checkPenalty":  0,
+                                                                   "speed":  30,
+                                                                   "runMultiplier":  4,
+                                                                   "liftOverhead":  0,
+                                                                   "liftOffGround":  0,
+                                                                   "pushDrag":  0
+                                                               }
+                                           },
+                              "sorcery":  {
+                                              "powerPoints":  {
+                                                                  "value":  0,
+                                                                  "max":  0,
+                                                                  "temporary":  0,
+                                                                  "recovery":  ""
+                                                              },
+                                              "corruption":  {
+                                                                 "score":  0,
+                                                                 "taint":  "",
+                                                                 "notes":  ""
+                                                             },
+                                              "styles":  [
+
+                                                         ],
+                                              "spells":  [
+
+                                                         ],
+                                              "rituals":  [
+
+                                                          ],
+                                              "components":  [
+
+                                                             ],
+                                              "sacrifices":  [
+
+                                                             ],
+                                              "notes":  ""
+                                          },
+                              "injuries":  [
+
+                                           ],
+                              "customSkills":  {
+                                                   "professions":  [
+
+                                                                   ],
+                                                   "crafts":  [
+
+                                                              ],
+                                                   "performs":  [
+
+                                                                ]
+                                               },
+                              "skills":  {
+                                             "acrobatics":  {
+                                                                "keyAbility":  "dex",
+                                                                "ranks":  0,
+                                                                "misc":  0,
+                                                                "armorCheck":  true,
+                                                                "trainedOnly":  false,
+                                                                "total":  0,
+                                                                "classSkill":  false,
+                                                                "pinned":  false
+                                                            },
+                                             "appraise":  {
+                                                              "keyAbility":  "int",
+                                                              "ranks":  0,
+                                                              "misc":  0,
+                                                              "armorCheck":  false,
+                                                              "trainedOnly":  false,
+                                                              "total":  0,
+                                                              "classSkill":  false,
+                                                              "pinned":  false
+                                                          },
+                                             "bluff":  {
+                                                           "keyAbility":  "cha",
+                                                           "ranks":  0,
+                                                           "misc":  0,
+                                                           "armorCheck":  false,
+                                                           "trainedOnly":  false,
+                                                           "total":  0,
+                                                           "classSkill":  false,
+                                                           "pinned":  false
+                                                       },
+                                             "challenge":  {
+                                                               "keyAbility":  "cha",
+                                                               "ranks":  0,
+                                                               "misc":  0,
+                                                               "armorCheck":  false,
+                                                               "trainedOnly":  true,
+                                                               "total":  0,
+                                                               "classSkill":  false,
+                                                               "pinned":  false
+                                                           },
+                                             "climb":  {
+                                                           "keyAbility":  "str",
+                                                           "ranks":  0,
+                                                           "misc":  0,
+                                                           "armorCheck":  true,
+                                                           "trainedOnly":  false,
+                                                           "total":  0,
+                                                           "classSkill":  false,
+                                                           "pinned":  false
+                                                       },
+                                             "concentration":  {
+                                                                   "keyAbility":  "con",
+                                                                   "ranks":  0,
+                                                                   "misc":  0,
+                                                                   "armorCheck":  false,
+                                                                   "trainedOnly":  false,
+                                                                   "total":  0,
+                                                                   "classSkill":  false,
+                                                                   "pinned":  false
+                                                               },
+                                             "decipherScript":  {
+                                                                    "keyAbility":  "int",
+                                                                    "ranks":  0,
+                                                                    "misc":  0,
+                                                                    "armorCheck":  false,
+                                                                    "trainedOnly":  true,
+                                                                    "total":  0,
+                                                                    "classSkill":  false,
+                                                                    "pinned":  false
+                                                                },
+                                             "diplomacy":  {
+                                                               "keyAbility":  "cha",
+                                                               "ranks":  0,
+                                                               "misc":  0,
+                                                               "armorCheck":  false,
+                                                               "trainedOnly":  false,
+                                                               "total":  0,
+                                                               "classSkill":  false,
+                                                               "pinned":  false
+                                                           },
+                                             "disableDevice":  {
+                                                                   "keyAbility":  "int",
+                                                                   "ranks":  0,
+                                                                   "misc":  0,
+                                                                   "armorCheck":  false,
+                                                                   "trainedOnly":  true,
+                                                                   "total":  0,
+                                                                   "classSkill":  false,
+                                                                   "pinned":  false
+                                                               },
+                                             "disguise":  {
+                                                              "keyAbility":  "cha",
+                                                              "ranks":  0,
+                                                              "misc":  0,
+                                                              "armorCheck":  false,
+                                                              "trainedOnly":  false,
+                                                              "total":  0,
+                                                              "classSkill":  false,
+                                                              "pinned":  false
+                                                          },
+                                             "forgery":  {
+                                                             "keyAbility":  "int",
+                                                             "ranks":  0,
+                                                             "misc":  0,
+                                                             "armorCheck":  false,
+                                                             "trainedOnly":  false,
+                                                             "total":  0,
+                                                             "classSkill":  false,
+                                                             "pinned":  false
+                                                         },
+                                             "handleAnimal":  {
+                                                                  "keyAbility":  "cha",
+                                                                  "ranks":  0,
+                                                                  "misc":  0,
+                                                                  "armorCheck":  false,
+                                                                  "trainedOnly":  false,
+                                                                  "total":  0,
+                                                                  "classSkill":  false,
+                                                                  "pinned":  false
+                                                              },
+                                             "heal":  {
+                                                          "keyAbility":  "wis",
+                                                          "ranks":  0,
+                                                          "misc":  0,
+                                                          "armorCheck":  false,
+                                                          "trainedOnly":  false,
+                                                          "total":  0,
+                                                          "classSkill":  false,
+                                                          "pinned":  false
+                                                      },
+                                             "intimidate":  {
+                                                                "keyAbility":  "cha",
+                                                                "ranks":  0,
+                                                                "misc":  0,
+                                                                "armorCheck":  false,
+                                                                "trainedOnly":  false,
+                                                                "total":  0,
+                                                                "classSkill":  false,
+                                                                "pinned":  false
+                                                            },
+                                             "knowledgeArcana":  {
+                                                                     "keyAbility":  "int",
+                                                                     "ranks":  0,
+                                                                     "misc":  0,
+                                                                     "armorCheck":  false,
+                                                                     "trainedOnly":  true,
+                                                                     "total":  0,
+                                                                     "classSkill":  false,
+                                                                     "pinned":  false
+                                                                 },
+                                             "knowledgeGeography":  {
+                                                                        "keyAbility":  "int",
+                                                                        "ranks":  0,
+                                                                        "misc":  0,
+                                                                        "armorCheck":  false,
+                                                                        "trainedOnly":  false,
+                                                                        "total":  0,
+                                                                        "classSkill":  false,
+                                                                        "pinned":  false
+                                                                    },
+                                             "knowledgeHistory":  {
+                                                                      "keyAbility":  "int",
+                                                                      "ranks":  0,
+                                                                      "misc":  0,
+                                                                      "armorCheck":  false,
+                                                                      "trainedOnly":  true,
+                                                                      "total":  0,
+                                                                      "classSkill":  false,
+                                                                      "pinned":  false
+                                                                  },
+                                             "knowledgeLocal":  {
+                                                                    "keyAbility":  "int",
+                                                                    "ranks":  0,
+                                                                    "misc":  0,
+                                                                    "armorCheck":  false,
+                                                                    "trainedOnly":  false,
+                                                                    "total":  0,
+                                                                    "classSkill":  false,
+                                                                    "pinned":  false
+                                                                },
+                                             "knowledgeNobility":  {
+                                                                       "keyAbility":  "int",
+                                                                       "ranks":  0,
+                                                                       "misc":  0,
+                                                                       "armorCheck":  false,
+                                                                       "trainedOnly":  true,
+                                                                       "total":  0,
+                                                                       "classSkill":  false,
+                                                                       "pinned":  false
+                                                                   },
+                                             "knowledgeReligion":  {
+                                                                       "keyAbility":  "int",
+                                                                       "ranks":  0,
+                                                                       "misc":  0,
+                                                                       "armorCheck":  false,
+                                                                       "trainedOnly":  true,
+                                                                       "total":  0,
+                                                                       "classSkill":  false,
+                                                                       "pinned":  false
+                                                                   },
+                                             "knowledgeRumours":  {
+                                                                      "keyAbility":  "int",
+                                                                      "ranks":  0,
+                                                                      "misc":  0,
+                                                                      "armorCheck":  false,
+                                                                      "trainedOnly":  false,
+                                                                      "total":  0,
+                                                                      "classSkill":  false,
+                                                                      "pinned":  false
+                                                                  },
+                                             "knowledgeTactics":  {
+                                                                      "keyAbility":  "int",
+                                                                      "ranks":  0,
+                                                                      "misc":  0,
+                                                                      "armorCheck":  false,
+                                                                      "trainedOnly":  true,
+                                                                      "total":  0,
+                                                                      "classSkill":  false,
+                                                                      "pinned":  false
+                                                                  },
+                                             "perception":  {
+                                                                "keyAbility":  "wis",
+                                                                "ranks":  0,
+                                                                "misc":  0,
+                                                                "armorCheck":  false,
+                                                                "trainedOnly":  false,
+                                                                "total":  0,
+                                                                "classSkill":  false,
+                                                                "pinned":  false
+                                                            },
+                                             "ride":  {
+                                                          "keyAbility":  "dex",
+                                                          "ranks":  0,
+                                                          "misc":  0,
+                                                          "armorCheck":  false,
+                                                          "trainedOnly":  false,
+                                                          "total":  0,
+                                                          "classSkill":  false,
+                                                          "pinned":  false
+                                                      },
+                                             "senseMotive":  {
+                                                                 "keyAbility":  "wis",
+                                                                 "ranks":  0,
+                                                                 "misc":  0,
+                                                                 "armorCheck":  false,
+                                                                 "trainedOnly":  false,
+                                                                 "total":  0,
+                                                                 "classSkill":  false,
+                                                                 "pinned":  false
+                                                             },
+                                             "sharpen":  {
+                                                             "keyAbility":  "wis",
+                                                             "ranks":  0,
+                                                             "misc":  0,
+                                                             "armorCheck":  false,
+                                                             "trainedOnly":  true,
+                                                             "total":  0,
+                                                             "classSkill":  false,
+                                                             "pinned":  false
+                                                         },
+                                             "sleightOfHand":  {
+                                                                   "keyAbility":  "dex",
+                                                                   "ranks":  0,
+                                                                   "misc":  0,
+                                                                   "armorCheck":  true,
+                                                                   "trainedOnly":  false,
+                                                                   "total":  0,
+                                                                   "classSkill":  false,
+                                                                   "pinned":  false
+                                                               },
+                                             "stealth":  {
+                                                             "keyAbility":  "dex",
+                                                             "ranks":  0,
+                                                             "misc":  0,
+                                                             "armorCheck":  true,
+                                                             "trainedOnly":  false,
+                                                             "total":  0,
+                                                             "classSkill":  false,
+                                                             "pinned":  false
+                                                         },
+                                             "survival":  {
+                                                              "keyAbility":  "wis",
+                                                              "ranks":  0,
+                                                              "misc":  0,
+                                                              "armorCheck":  false,
+                                                              "trainedOnly":  false,
+                                                              "total":  0,
+                                                              "classSkill":  false,
+                                                              "pinned":  false
+                                                          },
+                                             "swim":  {
+                                                          "keyAbility":  "str",
+                                                          "ranks":  0,
+                                                          "misc":  0,
+                                                          "armorCheck":  false,
+                                                          "trainedOnly":  false,
+                                                          "total":  0,
+                                                          "classSkill":  false,
+                                                          "pinned":  false
+                                                      },
+                                             "useRope":  {
+                                                             "keyAbility":  "dex",
+                                                             "ranks":  0,
+                                                             "misc":  0,
+                                                             "armorCheck":  false,
+                                                             "trainedOnly":  false,
+                                                             "total":  0,
+                                                             "classSkill":  false,
+                                                             "pinned":  false
+                                                         }
+                                         },
+                              "classes":  [
+                                              {
+                                                  "classKey":  "soldier",
+                                                   "level":  1,
+                                                   "hpRolled":  0,
+                                                   "favored":  false,
+                                                   "choices":  [
+
+                                                               ],
+                                                   "notes":  ""
+                                               }
+                                          ],
+                              "feats":  [
+
+                                        ],
+                              "conditions":  {
+                                                 "blinded":  false,
+                                                 "cowering":  false,
+                                                 "dazed":  false,
+                                                 "dazzled":  false,
+                                                 "deafened":  false,
+                                                 "disabled":  false,
+                                                 "dying":  false,
+                                                 "entangled":  false,
+                                                 "exhausted":  false,
+                                                 "fatigued":  false,
+                                                 "frightened":  false,
+                                                 "nauseated":  false,
+                                                 "panicked":  false,
+                                                 "pinned":  false,
+                                                 "prone":  false,
+                                                 "shaken":  false,
+                                                 "sickened":  false,
+                                                 "stable":  false,
+                                                 "staggered":  false,
+                                                 "stunned":  false,
+                                                 "unconscious":  false
+                                             }
+                          }
+              },
+    "Item":  {
+                 "types":  [
+                               "weapon",
+                               "armor",
+                               "gear",
+                               "sorcery",
+                               "feat"
+                           ],
+                 "weapon":  {
+                                "description":  "",
+                                "category":  "",
+                                "attackType":  "melee",
+                                "damage":  "1d6",
+                                "critical":  "x2",
+                                "damageType":  "",
+                                "qualities":  "",
+                                "quality":  "average",
+                                "material":  "iron",
+                                "hitpoints":  0,
+                                "hardness":  0,
+                                "handedness":  "one",
+                                "rangeIncrement":  0,
+                                "armorPiercing":  0,
+                                "finesse":  false,
+                                "attackBonus":  0,
+                                "equipped":  true,
+                                "weight":  0,
+                                "cost":  "",
+                                "pinned":  false
+                            },
+                 "armor":  {
+                               "description":  "",
+                               "category":  "",
+                               "quality":  "average",
+                               "material":  "iron",
+                               "damageReduction":  0,
+                               "maxDexBonus":  "",
+                               "armorPenalty":  0,
+                               "sorceryFailure":  0,
+                               "speed":  "",
+                               "shieldBonus":  0,
+                               "damage":  "",
+                               "critical":  "",
+                               "armorPiercing":  0,
+                               "hardness":  0,
+                               "hitpoints":  0,
+                               "damageType":  "",
+                               "equipped":  true,
+                               "weight":  0,
+                               "cost":  ""
+                           },
+                 "gear":  {
+                              "description":  "",
+                              "quantity":  1,
+                              "weight":  0,
+                              "cost":  "",
+                              "equipped":  false
+                          },
+                 "sorcery":  {
+                                 "description":  "",
+                                 "category":  "spell",
+                                 "style":  "",
+                                 "source":  "",
+                                 "ppCost":  "",
+                                 "castingTime":  "",
+                                 "range":  "",
+                                 "duration":  "",
+                                 "components":  "",
+                                 "difficulty":  "",
+                                 "prepared":  false,
+                                 "requirements":  "",
+                                 "notes":  ""
+                             },
+                 "feat":  {
+                              "description":  "",
+                              "category":  "General",
+                              "prerequisites":  "",
+                              "benefit":  "",
+                              "normal":  "",
+                              "special":  "",
+                              "source":  "",
+                              "soldierBonus":  false,
+                              "repeatable":  false,
+                              "active":  true
+                          }
+             }
+}

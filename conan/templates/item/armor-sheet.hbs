@@ -1,0 +1,144 @@
+{{!-- Armor item sheet. Equipped armor feeds actor damage reduction and armor check penalty. --}}
+<form class="conan-item-sheet" autocomplete="off">
+  {{!-- Header: item image and editable item name. --}}
+  <header class="sheet-header">
+    <img class="profile-img" src="{{item.img}}" data-edit="img" title="{{item.name}}">
+    <div class="header-fields">
+      <h1>
+        <input name="name" type="text" value="{{item.name}}" placeholder="Armor Name">
+      </h1>
+    </div>
+  </header>
+
+  {{!-- Main armor fields: protection, penalty, equipped state, weight, and cost. --}}
+  <section class="panel">
+    <div class="grid two">
+      <label>
+        Category
+        <input type="text" name="system.category" value="{{system.category}}">
+      </label>
+
+      {{#unless (eq system.category "Shields")}}
+        <label>
+          Quality
+          <select name="system.quality">
+            {{#each config.armorQuality}}
+              <option value="{{@key}}" {{#if (eq @key ../system.quality)}}selected{{/if}}>
+                {{this}}
+              </option>
+            {{/each}}
+          </select>
+        </label>
+
+        <label>
+          Material
+          <select name="system.material">
+            {{#each config.armorMaterials}}
+              <option value="{{@key}}" {{#if (eq @key ../system.material)}}selected{{/if}}>
+                {{this}}
+              </option>
+            {{/each}}
+          </select>
+        </label>
+      {{/unless}}
+
+      <label>
+        Damage Reduction
+        <input type="number" name="system.damageReduction" value="{{system.damageReduction}}">
+      </label>
+
+      <label>
+        Max Dex Bonus
+        <input type="text" name="system.maxDexBonus" value="{{system.maxDexBonus}}">
+      </label>
+
+      <label>
+        Armor Check Penalty
+        <input type="number" name="system.armorPenalty" value="{{system.armorPenalty}}">
+      </label>
+
+      <label>
+        Sorcery Failure
+        <input type="number" name="system.sorceryFailure" value="{{system.sorceryFailure}}">
+      </label>
+
+      <label>
+        Speed
+        <input type="text" name="system.speed" value="{{system.speed}}">
+      </label>
+
+      <label>
+        Shield Bonus
+        <input type="number" name="system.shieldBonus" value="{{system.shieldBonus}}">
+      </label>
+
+      <label>
+        Damage
+        <input type="text" name="system.damage" value="{{system.damage}}">
+      </label>
+
+      <label>
+        Critical
+        <input type="text" name="system.critical" value="{{system.critical}}">
+      </label>
+
+      <label>
+        Armour Piercing
+        <input type="number" name="system.armorPiercing" value="{{system.armorPiercing}}">
+      </label>
+
+      <label>
+        Hardness
+        <input type="number" name="system.hardness" value="{{system.hardness}}">
+      </label>
+
+      <label>
+        Hit Points
+        <input type="number" name="system.hitpoints" value="{{system.hitpoints}}">
+      </label>
+
+      <label>
+        Damage Type
+        <input type="text" name="system.damageType" value="{{system.damageType}}">
+      </label>
+
+      <label>
+        Equipped
+        <input type="checkbox" name="system.equipped" {{#if system.equipped}}checked{{/if}}>
+      </label>
+
+      <label>
+        Weight
+        <input type="number" step="0.1" name="system.weight" value="{{system.weight}}">
+      </label>
+
+      <label>
+        Cost
+        <input type="text" name="system.cost" value="{{system.cost}}">
+      </label>
+    </div>
+  </section>
+
+  {{#unless (eq system.category "Shields")}}
+    <section class="panel">
+      <h2>Quality & Material Effects</h2>
+      <div class="grid two">
+        <div>Effective DR: <strong>{{effects.damageReduction}}</strong></div>
+        <div>Effective Max Dex: <strong>{{effects.maxDexBonus}}</strong></div>
+        <div>Effective ACP: <strong>{{effects.armorPenalty}}</strong></div>
+        <div>Effective Weight: <strong>{{effects.weight}} lb.</strong></div>
+        <div>Damage Threshold: <strong>{{effects.damageThreshold}}+</strong></div>
+        <div>Adjusted Cost: <strong>{{#if effects.adjustedCost}}{{effects.adjustedCost}}{{else}}Manual{{/if}}</strong></div>
+      </div>
+      {{#if effects.notes.length}}
+        <p>{{#each effects.notes}}{{this}}{{#unless @last}} {{/unless}}{{/each}}</p>
+      {{/if}}
+    </section>
+  {{/unless}}
+
+  {{!-- Rich-text description stored on the item. --}}
+  <section class="panel">
+    <h2>Description</h2>
+    {{editor system.description target="system.description" button=true owner=owner editable=editable}}
+  </section>
+</form>

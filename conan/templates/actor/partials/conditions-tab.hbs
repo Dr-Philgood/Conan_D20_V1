@@ -1,0 +1,26 @@
+{{!-- Conditions & Buffs tab: toggles rulebook conditions and shows their automatic/mechanical notes. --}}
+<section class="panel">
+  <h2>Conditions & Buffs</h2>
+  <div class="condition-grid">
+    {{#each conditions}}
+      <label class="condition-card {{#if this.active}}active{{/if}}">
+        <span class="condition-card-header">
+          <input type="checkbox" name="system.conditions.{{this.key}}" {{#if this.active}}checked{{/if}}>
+          <strong>{{this.label}}</strong>
+        </span>
+        <span>{{this.summary}}</span>
+      </label>
+    {{/each}}
+  </div>
+</section>
+
+{{#if activeConditionNotes.length}}
+  <section class="panel">
+    <h2>Active Condition Notes</h2>
+    <ul class="condition-notes-list">
+      {{#each activeConditionNotes}}
+        <li><strong>{{this.label}}:</strong> {{this.summary}}</li>
+      {{/each}}
+    </ul>
+  </section>
+{{/if}}
