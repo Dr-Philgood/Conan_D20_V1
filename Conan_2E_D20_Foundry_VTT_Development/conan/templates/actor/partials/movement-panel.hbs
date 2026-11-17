@@ -1,0 +1,62 @@
+{{!-- Movement and encumbrance panel: speed and carried-weight bookkeeping. --}}
+<section class="panel">
+  <h2>Movement and Encumbrance</h2>
+  <div class="movement-grid">
+    <label>Base Speed<input type="number" name="system.movement.speed.base" value="{{movement.speed.base}}" min="0"></label>
+    <label>Armor Speed Mod<input type="number" name="system.movement.speed.armor" value="{{movement.speed.armor}}"></label>
+    <label>Misc Speed Mod<input type="number" name="system.movement.speed.misc" value="{{movement.speed.misc}}"></label>
+    <div class="movement-total-card">
+      <span>Speed</span>
+      <strong>{{movement.speed.total}}</strong>
+    </div>
+    <div class="movement-total-card">
+      <span>Current Load</span>
+      <strong>{{movement.encumbrance.current}} lb.</strong>
+    </div>
+    <div class="movement-total-card">
+      <span>Load Category</span>
+      <strong>{{movement.encumbrance.load}}</strong>
+    </div>
+    <div class="movement-total-card">
+      <span>Load Speed</span>
+      <strong>{{movement.encumbrance.speed}}</strong>
+    </div>
+    <div class="movement-total-card">
+      <span>Light Load</span>
+      <strong>{{movement.encumbrance.light}} lb.</strong>
+    </div>
+    <div class="movement-total-card">
+      <span>Medium Load</span>
+      <strong>{{movement.encumbrance.medium}} lb.</strong>
+    </div>
+    <div class="movement-total-card">
+      <span>Heavy Load</span>
+      <strong>{{movement.encumbrance.heavy}} lb.</strong>
+    </div>
+    <div class="movement-total-card">
+      <span>Max Dex</span>
+      <strong>{{#if movement.encumbrance.maxDex}}{{movement.encumbrance.maxDex}}{{else}}None{{/if}}</strong>
+    </div>
+    <div class="movement-total-card">
+      <span>Check Penalty</span>
+      <strong>{{movement.encumbrance.checkPenalty}}</strong>
+    </div>
+    <div class="movement-total-card">
+      <span>Run</span>
+      <strong>{{#if movement.encumbrance.runMultiplier}}x{{movement.encumbrance.runMultiplier}}{{else}}No{{/if}}</strong>
+    </div>
+    <div class="movement-total-card">
+      <span>Lift Overhead</span>
+      <strong>{{movement.encumbrance.liftOverhead}} lb.</strong>
+    </div>
+    <div class="movement-total-card">
+      <span>Lift Off Ground</span>
+      <strong>{{movement.encumbrance.liftOffGround}} lb.</strong>
+    </div>
+    <div class="movement-total-card">
+      <span>Push / Drag</span>
+      <strong>{{movement.encumbrance.pushDrag}} lb.</strong>
+    </div>
+  </div>
+  <label>Encumbrance Notes<textarea name="system.movement.encumbrance.notes">{{movement.encumbrance.notes}}</textarea></label>
+</section>

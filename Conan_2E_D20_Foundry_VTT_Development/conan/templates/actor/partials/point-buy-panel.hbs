@@ -1,0 +1,31 @@
+{{!-- Ability score point-buy helper. Starts from 10 and applies purchased scores to the normal ability fields. --}}
+<div class="point-buy-panel">
+  <div class="panel-header">
+    <h2>Ability Point Buy</h2>
+    <button type="button" class="reset-point-buy">Reset to 10</button>
+  </div>
+
+  <div class="point-buy-controls">
+    <label>Point Pool
+      <select class="point-buy-pool">
+        <option value="28" {{#if (eq pointBuy.pool 28)}}selected{{/if}}>Standard - 28</option>
+        <option value="32" {{#if (eq pointBuy.pool 32)}}selected{{/if}}>Heroic - 32</option>
+      </select>
+    </label>
+    <div class="point-buy-status">
+      <span>Spent <strong data-point-buy-spent>{{pointBuy.spent}}</strong></span>
+      <span>Remaining <strong data-point-buy-remaining>{{pointBuy.remaining}}</strong></span>
+    </div>
+  </div>
+
+  <div class="point-buy-grid">
+    {{#each pointBuy.scores}}
+      <label>{{this.short}}
+        <input class="point-buy-score" type="number" data-ability="{{this.key}}" value="{{this.value}}" min="3" max="18">
+        <span>Cost <strong data-point-buy-cost="{{this.key}}">{{this.cost}}</strong></span>
+      </label>
+    {{/each}}
+  </div>
+
+  <button type="button" class="apply-point-buy">Apply to Abilities</button>
+</div>

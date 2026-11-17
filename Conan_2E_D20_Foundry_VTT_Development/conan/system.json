@@ -1,0 +1,83 @@
+{
+  "id": "conan",
+  "title": "Conan d20 Development",
+  "description": "Local development baseline for a Conan-inspired d20 game system for Foundry VTT V13.",
+  "version": "0.4.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.350"
+  },
+  "authors": [
+    {
+      "name": "Philip N Clayton"
+    }
+  ],
+  "esmodules": [
+    "conan.mjs"
+  ],
+  "styles": [
+    "styles/conan.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "documentTypes": {
+    "Actor": {
+      "character": {
+        "htmlFields": [
+          "details.biography"
+        ]
+      },
+      "npc": {
+        "htmlFields": [
+          "details.biography"
+        ]
+      }
+    },
+    "Item": {
+      "weapon": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "armor": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "gear": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "sorcery": {
+        "htmlFields": [
+          "description",
+          "requirements",
+          "notes"
+        ]
+      },
+      "feat": {
+        "htmlFields": [
+          "description",
+          "benefit",
+          "normal",
+          "special"
+        ]
+      },
+      "option": {
+        "htmlFields": [
+          "description"
+        ]
+      }
+    }
+  },
+  "primaryTokenAttribute": "combat.hp",
+  "secondaryTokenAttribute": null,
+  "license": "LICENSE.txt",
+  "packs": []
+}
