@@ -80,7 +80,7 @@
   "secondaryTokenAttribute": null,
   "url": "https://github.com/Dr-Philgood/Conan_D20_V1",
   "manifest": "https://raw.githubusercontent.com/Dr-Philgood/Conan_D20_V1/refs/heads/main/Conan_2E_D20_Foundry_VTT_Development/conan/system.json",
-  "download": "",
+  "download": "https://github.com/Dr-Philgood/Conan_D20_V1/archive/refs/tags/Conan_V1.zip",
   "license": "LICENSE.txt",
   "packs": []
 }
