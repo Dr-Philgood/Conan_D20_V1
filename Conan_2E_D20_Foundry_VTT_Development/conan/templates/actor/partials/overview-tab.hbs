@@ -1,0 +1,137 @@
+{{!-- Overview dashboard: fast-read character state plus pinned rolls for table play. --}}
+<section class="overview-dashboard">
+  <div class="overview-band overview-hp-band overview-two-cell-band">
+    <div class="overview-band-title">Hit Points</div>
+    <div class="overview-cell">
+      <span>Current</span>
+      <input type="number" name="system.combat.hp.value" value="{{system.combat.hp.value}}" min="0">
+    </div>
+    <div class="overview-cell">
+      <span>Maximum</span>
+      <strong title="HP rolled + Constitution modifier per level + Toughness ranks">{{system.combat.hp.max}}</strong>
+    </div>
+  </div>
+
+  <div class="overview-band overview-threshold-band overview-two-cell-band">
+    <div class="overview-band-title">Thresholds</div>
+    <div class="overview-cell">
+      <span>Massive Damage Threshold</span>
+      <strong>{{system.combat.massiveDamage.total}}</strong>
+    </div>
+    <div class="overview-cell">
+      <span>Permanent Damage Threshold</span>
+      <strong>{{system.combat.threshold.total}}</strong>
+    </div>
+  </div>
+
+  <div class="overview-band overview-speed-band overview-two-cell-band">
+    <div class="overview-band-title">Speed</div>
+    <div class="overview-cell">
+      <span>Base Speed</span>
+      <input type="number" name="system.movement.speed.base" value="{{movement.speed.base}}" min="0">
+    </div>
+    <div class="overview-cell">
+      <span>Speed in Armor</span>
+      <strong>{{overviewSpeed.armored}}</strong>
+    </div>
+  </div>
+</section>
+
+<section class="overview-dashboard">
+  <div class="overview-section-title">Defenses</div>
+  <div class="overview-stat-grid">
+    <div class="overview-stat">
+      <span>Base Defence</span>
+      <strong>D {{system.combat.dodge.base}} / P {{system.combat.parry.base}}</strong>
+    </div>
+    <div class="overview-stat">
+      <span>Dodge</span>
+      <strong>{{system.combat.dodge.total}}</strong>
+    </div>
+    <div class="overview-stat">
+      <span>Parry</span>
+      <strong>{{system.combat.parry.total}}</strong>
+    </div>
+    <div class="overview-stat">
+      <span>DR</span>
+      <strong>{{system.combat.damageReduction.total}}</strong>
+    </div>
+  </div>
+  <div class="overview-stat-grid">
+    {{#each saves}}
+      <div class="overview-stat">
+        <span>{{this.label}}</span>
+        <button type="button" class="rollable-save" data-save="{{this.key}}">{{this.data.total}}</button>
+        <label>Misc
+          <input type="number" name="system.saves.{{this.key}}.misc" value="{{this.data.misc}}">
+        </label>
+      </div>
+    {{/each}}
+    <div class="overview-stat">
+      <span>Initiative</span>
+      <button type="button" class="rollable-initiative">{{system.combat.initiative.total}}</button>
+      <label>Misc
+        <input type="number" name="system.combat.initiative.misc" value="{{system.combat.initiative.misc}}">
+      </label>
+    </div>
+  </div>
+</section>
+
+<section class="overview-dashboard">
+  <div class="overview-section-title">Abilities</div>
+  <div class="overview-ability-grid">
+    {{#each abilities}}
+      <div class="overview-ability">
+        <button type="button" class="rollable-ability" data-ability="{{this.key}}">{{this.short}}</button>
+        <input type="number" name="system.abilities.{{this.key}}.value" value="{{this.data.value}}">
+        <strong>{{this.data.mod}}</strong>
+      </div>
+    {{/each}}
+  </div>
+</section>
+
+<section class="overview-dashboard quick-actions-panel">
+  <div class="overview-section-title">Quick Actions</div>
+
+  <div class="quick-action-group">
+    <h3>Pinned Skills</h3>
+    <div class="quick-action-list">
+      {{#each pinnedSkills}}
+        <button type="button" class="quick-action rollable-skill" data-skill="{{this.key}}">
+          <span>{{this.label}}</span>
+          <strong>{{this.data.total}}</strong>
+        </button>
+      {{/each}}
+      {{#each pinnedCustomSkills}}
+        <button type="button" class="quick-action rollable-custom-skill" data-group="{{this.group}}" data-skill-id="{{this.id}}">
+          <span>{{this.label}}</span>
+          <strong>{{this.data.total}}</strong>
+        </button>
+      {{/each}}
+      {{#unless pinnedSkills.length}}
+        {{#unless pinnedCustomSkills.length}}
+          <div class="quick-action-empty">Pin skills from the Skills tab.</div>
+        {{/unless}}
+      {{/unless}}
+    </div>
+  </div>
+
+  <div class="quick-action-group">
+    <h3>Pinned Attacks</h3>
+    <div class="quick-action-list">
+      {{#each pinnedWeapons}}
+        <div class="quick-action weapon-quick-action" data-item-id="{{this.id}}">
+          <span>{{this.name}}</span>
+          <small>{{this.system.damage}} {{#if this.system.damageType}}({{this.system.damageType}}){{/if}}</small>
+          <div class="quick-action-buttons">
+            <button type="button" class="weapon-attack">Attack</button>
+            <button type="button" class="weapon-full-attack">Full</button>
+          </div>
+        </div>
+      {{else}}
+        <div class="quick-action-empty">Pin weapons from the Combat tab.</div>
+      {{/each}}
+    </div>
+  </div>
+
+</section>

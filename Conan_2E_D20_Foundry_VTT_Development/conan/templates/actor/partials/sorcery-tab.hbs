@@ -1,0 +1,163 @@
+{{!-- Sorcery tab: power points, magic attack, known styles/spells, rituals, components, sacrifices, corruption, and notes. --}}
+<section class="panel sorcery-section">
+  <h2>{{localize "CONAN.Tabs.Sorcery"}}</h2>
+  <div class="sorcery-summary-grid">
+    <label>
+      Current Power Points
+      <input type="number" name="system.sorcery.powerPoints.value" value="{{sorcery.powerPoints.value}}" min="0">
+    </label>
+    <label>
+      Maximum Power Points
+      <input type="number" name="system.sorcery.powerPoints.max" value="{{sorcery.powerPoints.max}}" min="0">
+    </label>
+    <label>
+      Temporary Power Points
+      <input type="number" name="system.sorcery.powerPoints.temporary" value="{{sorcery.powerPoints.temporary}}" min="0">
+    </label>
+    <label>
+      Power Point Recovery
+      <input type="text" name="system.sorcery.powerPoints.recovery" value="{{sorcery.powerPoints.recovery}}">
+    </label>
+    <button type="button" class="spend-power-point">Spend PP</button>
+    <button type="button" class="recover-power-point">Recover PP</button>
+    <label>
+      Magic Attack Base
+      <input type="number" value="{{system.combat.magicAttack.base}}" disabled>
+    </label>
+    <label>
+      Magic Attack Misc
+      <input type="number" name="system.combat.magicAttack.misc" value="{{system.combat.magicAttack.misc}}">
+    </label>
+    <div class="sorcery-total-card">
+      <span>Magic Attack Total</span>
+      <strong>{{system.combat.magicAttack.total}}</strong>
+      <button type="button" class="rollable-magic-attack">Roll</button>
+    </div>
+  </div>
+</section>
+
+<section class="panel sorcery-section">
+  <div class="panel-header">
+    <h2>Sorcery Styles</h2>
+    <button type="button" class="add-sorcery-entry" data-group="styles">Add Style</button>
+  </div>
+  <div class="sorcery-list">
+    {{#each sorcery.styles}}
+      <div class="sorcery-row sorcery-style-row" data-sorcery-id="{{this.id}}">
+        <input type="hidden" name="system.sorcery.styles.{{@index}}.id" value="{{this.id}}">
+        <label>Style<input type="text" name="system.sorcery.styles.{{@index}}.name" value="{{this.name}}"></label>
+        <label>Source<input type="text" name="system.sorcery.styles.{{@index}}.source" value="{{this.source}}"></label>
+        <label>Notes<textarea name="system.sorcery.styles.{{@index}}.notes">{{this.notes}}</textarea></label>
+        <button type="button" class="delete-sorcery-entry" data-group="styles">Delete</button>
+      </div>
+    {{/each}}
+  </div>
+</section>
+
+<section class="panel sorcery-section">
+  <div class="panel-header">
+    <h2>Spells and Advanced Spells</h2>
+    <button type="button" class="add-sorcery-entry" data-group="spells">Add Spell</button>
+  </div>
+  <div class="sorcery-list">
+    {{#each sorcery.spells}}
+      <div class="sorcery-row sorcery-spell-row" data-sorcery-id="{{this.id}}">
+        <input type="hidden" name="system.sorcery.spells.{{@index}}.id" value="{{this.id}}">
+        <label>Spell<input type="text" name="system.sorcery.spells.{{@index}}.name" value="{{this.name}}"></label>
+        <label>Style<input type="text" name="system.sorcery.spells.{{@index}}.style" value="{{this.style}}"></label>
+        <label>PP Cost<input type="text" name="system.sorcery.spells.{{@index}}.ppCost" value="{{this.ppCost}}"></label>
+        <label>Casting Time<input type="text" name="system.sorcery.spells.{{@index}}.castingTime" value="{{this.castingTime}}"></label>
+        <label>Range<input type="text" name="system.sorcery.spells.{{@index}}.range" value="{{this.range}}"></label>
+        <label>Duration<input type="text" name="system.sorcery.spells.{{@index}}.duration" value="{{this.duration}}"></label>
+        <label>Components<input type="text" name="system.sorcery.spells.{{@index}}.components" value="{{this.components}}"></label>
+        <label>Difficulty<input type="text" value="{{this.difficulty}}" disabled></label>
+        <button type="button" class="rollable-sorcery-difficulty" data-group="spells">Roll Difficulty</button>
+        <label><input type="checkbox" name="system.sorcery.spells.{{@index}}.prepared" {{#if this.prepared}}checked{{/if}}> Prepared</label>
+        <label class="sorcery-notes">Notes<textarea name="system.sorcery.spells.{{@index}}.notes">{{this.notes}}</textarea></label>
+        <button type="button" class="delete-sorcery-entry" data-group="spells">Delete</button>
+      </div>
+    {{/each}}
+  </div>
+</section>
+
+<section class="panel sorcery-section">
+  <div class="panel-header">
+    <h2>Rituals and Long Castings</h2>
+    <button type="button" class="add-sorcery-entry" data-group="rituals">Add Ritual</button>
+  </div>
+  <div class="sorcery-list">
+    {{#each sorcery.rituals}}
+      <div class="sorcery-row sorcery-ritual-row" data-sorcery-id="{{this.id}}">
+        <input type="hidden" name="system.sorcery.rituals.{{@index}}.id" value="{{this.id}}">
+        <label>Ritual<input type="text" name="system.sorcery.rituals.{{@index}}.name" value="{{this.name}}"></label>
+        <label>Style<input type="text" name="system.sorcery.rituals.{{@index}}.style" value="{{this.style}}"></label>
+        <label>PP Cost<input type="text" name="system.sorcery.rituals.{{@index}}.ppCost" value="{{this.ppCost}}"></label>
+        <label>Casting Time<input type="text" name="system.sorcery.rituals.{{@index}}.castingTime" value="{{this.castingTime}}"></label>
+        <label>Difficulty<input type="text" value="{{this.difficulty}}" disabled></label>
+        <button type="button" class="rollable-sorcery-difficulty" data-group="rituals">Roll Difficulty</button>
+        <label>Requirements<textarea name="system.sorcery.rituals.{{@index}}.notes">{{this.notes}}</textarea></label>
+        <button type="button" class="delete-sorcery-entry" data-group="rituals">Delete</button>
+      </div>
+    {{/each}}
+  </div>
+</section>
+
+<section class="panel sorcery-section">
+  <div class="panel-header">
+    <h2>Components and Foci</h2>
+    <button type="button" class="add-sorcery-entry" data-group="components">Add Component</button>
+  </div>
+  <div class="sorcery-list">
+    {{#each sorcery.components}}
+      <div class="sorcery-row sorcery-component-row" data-sorcery-id="{{this.id}}">
+        <input type="hidden" name="system.sorcery.components.{{@index}}.id" value="{{this.id}}">
+        <label>Component<input type="text" name="system.sorcery.components.{{@index}}.name" value="{{this.name}}"></label>
+        <label>Used By<input type="text" name="system.sorcery.components.{{@index}}.style" value="{{this.style}}"></label>
+        <label>Source<input type="text" name="system.sorcery.components.{{@index}}.source" value="{{this.source}}"></label>
+        <label>Notes<textarea name="system.sorcery.components.{{@index}}.notes">{{this.notes}}</textarea></label>
+        <button type="button" class="delete-sorcery-entry" data-group="components">Delete</button>
+      </div>
+    {{/each}}
+  </div>
+</section>
+
+<section class="panel sorcery-section">
+  <div class="panel-header">
+    <h2>Sacrifices and Power Sources</h2>
+    <button type="button" class="add-sorcery-entry" data-group="sacrifices">Add Source</button>
+  </div>
+  <div class="sorcery-list">
+    {{#each sorcery.sacrifices}}
+      <div class="sorcery-row sorcery-sacrifice-row" data-sorcery-id="{{this.id}}">
+        <input type="hidden" name="system.sorcery.sacrifices.{{@index}}.id" value="{{this.id}}">
+        <label>Source<input type="text" name="system.sorcery.sacrifices.{{@index}}.name" value="{{this.name}}"></label>
+        <label>PP / Benefit<input type="text" name="system.sorcery.sacrifices.{{@index}}.ppCost" value="{{this.ppCost}}"></label>
+        <label>Limits / Cost<textarea name="system.sorcery.sacrifices.{{@index}}.notes">{{this.notes}}</textarea></label>
+        <button type="button" class="delete-sorcery-entry" data-group="sacrifices">Delete</button>
+      </div>
+    {{/each}}
+  </div>
+</section>
+
+<section class="panel sorcery-section">
+  <h2>Corruption and Sorcerous Consequences</h2>
+  <div class="grid two">
+    <label>
+      Corruption
+      <input type="number" name="system.sorcery.corruption.score" value="{{sorcery.corruption.score}}" min="0">
+    </label>
+    <label>
+      Taint / Mark
+      <input type="text" name="system.sorcery.corruption.taint" value="{{sorcery.corruption.taint}}">
+    </label>
+  </div>
+  <label>
+    Corruption Notes
+    <textarea name="system.sorcery.corruption.notes">{{sorcery.corruption.notes}}</textarea>
+  </label>
+</section>
+
+<section class="panel sorcery-section">
+  <h2>Sorcery Notes</h2>
+  <textarea name="system.sorcery.notes">{{sorcery.notes}}</textarea>
+</section>

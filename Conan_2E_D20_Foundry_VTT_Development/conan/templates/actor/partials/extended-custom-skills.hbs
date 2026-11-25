@@ -1,0 +1,50 @@
+{{!-- Additional workbook skill families beyond Craft, Perform, and Profession. --}}
+<section class="panel">
+  <div class="panel-header">
+    <h2>Custom Knowledge</h2>
+    <button type="button" class="add-custom-skill" data-group="knowledge">Add Knowledge</button>
+  </div>
+  <div class="custom-skill-list">
+    {{#each customSkills.knowledge}}
+      <div class="custom-skill-row" data-skill-id="{{this.id}}">
+        <button type="button" class="rollable-custom-skill" data-group="knowledge" data-skill-id="{{this.id}}">Knowledge</button>
+        <input type="text" name="system.customSkills.knowledge.{{@index}}.name" value="{{this.name}}" placeholder="Specialization">
+        <select name="system.customSkills.knowledge.{{@index}}.keyAbility">
+          {{selectOptions @root.config.abilityOptions selected=this.keyAbility}}
+        </select>
+        <input type="number" name="system.customSkills.knowledge.{{@index}}.ranks" value="{{this.ranks}}">
+        <input type="number" name="system.customSkills.knowledge.{{@index}}.misc" value="{{this.misc}}">
+        <label><input type="checkbox" {{#if this.classSkill}}checked{{/if}} disabled> Class</label>
+        <label><input type="checkbox" class="toggle-skill-pin" name="system.customSkills.knowledge.{{@index}}.pinned" {{#if this.pinned}}checked{{/if}}> Pin</label>
+        <label><input type="checkbox" name="system.customSkills.knowledge.{{@index}}.trainedOnly" {{#if this.trainedOnly}}checked{{/if}}> Trained</label>
+        <strong>{{this.total}}</strong>
+        <button type="button" class="delete-custom-skill" data-group="knowledge">Delete</button>
+      </div>
+    {{/each}}
+  </div>
+</section>
+
+<section class="panel">
+  <div class="panel-header">
+    <h2>Other Custom Skills</h2>
+    <button type="button" class="add-custom-skill" data-group="others">Add Skill</button>
+  </div>
+  <div class="custom-skill-list">
+    {{#each customSkills.others}}
+      <div class="custom-skill-row" data-skill-id="{{this.id}}">
+        <button type="button" class="rollable-custom-skill" data-group="others" data-skill-id="{{this.id}}">Skill</button>
+        <input type="text" name="system.customSkills.others.{{@index}}.name" value="{{this.name}}" placeholder="Skill name">
+        <select name="system.customSkills.others.{{@index}}.keyAbility">
+          {{selectOptions @root.config.abilityOptions selected=this.keyAbility}}
+        </select>
+        <input type="number" name="system.customSkills.others.{{@index}}.ranks" value="{{this.ranks}}">
+        <input type="number" name="system.customSkills.others.{{@index}}.misc" value="{{this.misc}}">
+        <label><input type="checkbox" {{#if this.classSkill}}checked{{/if}} disabled> Class</label>
+        <label><input type="checkbox" class="toggle-skill-pin" name="system.customSkills.others.{{@index}}.pinned" {{#if this.pinned}}checked{{/if}}> Pin</label>
+        <label><input type="checkbox" name="system.customSkills.others.{{@index}}.trainedOnly" {{#if this.trainedOnly}}checked{{/if}}> Trained</label>
+        <strong>{{this.total}}</strong>
+        <button type="button" class="delete-custom-skill" data-group="others">Delete</button>
+      </div>
+    {{/each}}
+  </div>
+</section>

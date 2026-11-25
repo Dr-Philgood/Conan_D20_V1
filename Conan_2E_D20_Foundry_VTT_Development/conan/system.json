@@ -1,0 +1,216 @@
+{
+  "id": "conan",
+  "title": "Conan d20 Development",
+  "description": "Local development baseline for a Conan-inspired d20 game system for Foundry VTT V13.",
+  "version": "0.5.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.350"
+  },
+  "authors": [
+    {
+      "name": "Philip N Clayton"
+    }
+  ],
+  "esmodules": [
+    "conan.mjs"
+  ],
+  "styles": [
+    "styles/conan.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "documentTypes": {
+    "Actor": {
+      "character": {
+        "htmlFields": [
+          "details.biography"
+        ]
+      },
+      "npc": {
+        "htmlFields": [
+          "details.biography"
+        ]
+      }
+    },
+    "Item": {
+      "weapon": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "armor": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "gear": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "sorcery": {
+        "htmlFields": [
+          "description",
+          "requirements",
+          "notes"
+        ]
+      },
+      "feat": {
+        "htmlFields": [
+          "description",
+          "benefit",
+          "normal",
+          "special"
+        ]
+      },
+      "option": {
+        "htmlFields": [
+          "description"
+        ]
+      }
+    }
+  },
+  "primaryTokenAttribute": "combat.hp",
+  "secondaryTokenAttribute": null,
+  "license": "LICENSE.txt",
+  "packs": [
+    {
+      "name": "equipment",
+      "label": "Clothing & Equipment",
+      "path": "packs/equipment",
+      "type": "Item",
+      "system": "conan",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "weapons",
+      "label": "Weapons & Ammunition",
+      "path": "packs/weapons",
+      "type": "Item",
+      "system": "conan",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "armor",
+      "label": "Armour & Shields",
+      "path": "packs/armor",
+      "type": "Item",
+      "system": "conan",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "equipment-modifications",
+      "label": "Weapon & Armor Modifications",
+      "path": "packs/equipment-modifications",
+      "type": "Item",
+      "system": "conan",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "alchemical-items",
+      "label": "Alchemical Items",
+      "path": "packs/alchemical-items",
+      "type": "Item",
+      "system": "conan",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "herbs-poisons",
+      "label": "Herbs & Poisons",
+      "path": "packs/herbs-poisons",
+      "type": "Item",
+      "system": "conan",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "war-machines",
+      "label": "War Machines",
+      "path": "packs/war-machines",
+      "type": "Item",
+      "system": "conan",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "unusual-items",
+      "label": "Unusual Items",
+      "path": "packs/unusual-items",
+      "type": "Item",
+      "system": "conan",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "vehicles",
+      "label": "Vehicles",
+      "path": "packs/vehicles",
+      "type": "Item",
+      "system": "conan",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ship-parts",
+      "label": "Ship Parts",
+      "path": "packs/ship-parts",
+      "type": "Item",
+      "system": "conan",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "animals-mounts",
+      "label": "Animals & Mounts",
+      "path": "packs/animals-mounts",
+      "type": "Item",
+      "system": "conan",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}

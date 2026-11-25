@@ -1,0 +1,86 @@
+{{!-- Sorcery item sheet. Used by compendium entries for styles, spells, rituals, components, and power sources. --}}
+<form class="conan-item-sheet" autocomplete="off">
+  <header class="sheet-header">
+    <img class="profile-img" src="{{item.img}}" data-edit="img" title="{{item.name}}">
+    <div class="header-fields">
+      <h1>
+        <input name="name" type="text" value="{{item.name}}" placeholder="Sorcery Name">
+      </h1>
+    </div>
+  </header>
+
+  <section class="panel">
+    <div class="grid two">
+      <label>
+        Category
+        <select name="system.category">
+          {{#each config.sorceryItemTypes}}
+            <option value="{{@key}}" {{#if (eq @key ../system.category)}}selected{{/if}}>
+              {{this}}
+            </option>
+          {{/each}}
+        </select>
+      </label>
+
+      <label>
+        Style
+        <input type="text" name="system.style" value="{{system.style}}">
+      </label>
+
+      <label>
+        Source
+        <input type="text" name="system.source" value="{{system.source}}">
+      </label>
+
+      <label>
+        PP Cost / Benefit
+        <input type="text" name="system.ppCost" value="{{system.ppCost}}">
+      </label>
+
+      <label>
+        Casting Time
+        <input type="text" name="system.castingTime" value="{{system.castingTime}}">
+      </label>
+
+      <label>
+        Range
+        <input type="text" name="system.range" value="{{system.range}}">
+      </label>
+
+      <label>
+        Duration
+        <input type="text" name="system.duration" value="{{system.duration}}">
+      </label>
+
+      <label>
+        Components
+        <input type="text" name="system.components" value="{{system.components}}">
+      </label>
+
+      <label>
+        Difficulty
+        <input type="text" name="system.difficulty" value="{{system.difficulty}}">
+      </label>
+
+      <label>
+        Prepared / Available
+        <input type="checkbox" name="system.prepared" {{#if system.prepared}}checked{{/if}}>
+      </label>
+    </div>
+  </section>
+
+  <section class="panel">
+    <h2>Requirements</h2>
+    {{editor system.requirements target="system.requirements" button=true owner=owner editable=editable}}
+  </section>
+
+  <section class="panel">
+    <h2>Notes</h2>
+    {{editor system.notes target="system.notes" button=true owner=owner editable=editable}}
+  </section>
+
+  <section class="panel">
+    <h2>Description</h2>
+    {{editor system.description target="system.description" button=true owner=owner editable=editable}}
+  </section>
+</form>

@@ -1,0 +1,33 @@
+{{!-- Workbook-backed regional origin selector and rules summary. --}}
+<section class="panel master-options-panel">
+  <h2>Regional Origin</h2>
+  <div class="grid three">
+    <label>Origin
+      <select class="origin-select" name="system.details.race">
+        <option value="">Custom / None</option>
+        {{#each originOptions}}
+          <option value="{{this.name}}" {{#if (eq ../system.details.race this.name)}}selected{{/if}}>{{this.name}}</option>
+        {{/each}}
+      </select>
+    </label>
+    <label>Regional Group<input type="text" name="system.details.originGroup" value="{{system.details.originGroup}}" readonly></label>
+    <label>Primary Language<input type="text" name="system.details.primaryLanguage" value="{{system.details.primaryLanguage}}" readonly></label>
+  </div>
+
+  {{#if selectedOrigin}}
+    <div class="origin-option-grid">
+      <div><strong>Origin Skills</strong><span>{{selectedOrigin.skills}}</span></div>
+      <div><strong>Favored Classes</strong><span>{{selectedOrigin.favoredClasses}}</span></div>
+      <div><strong>Restricted Classes</strong><span>{{selectedOrigin.restrictedClasses}}</span></div>
+      <div><strong>Secondary Languages</strong><span>{{selectedOrigin.secondaryLanguages}}</span></div>
+    </div>
+    <details class="origin-option-details">
+      <summary>Regional Traits</summary>
+      {{#each selectedOrigin.traits}}<p>{{this}}</p>{{/each}}
+    </details>
+    <details class="origin-option-details">
+      <summary>Origin Feat Options</summary>
+      <div class="option-preserve-lines">{{selectedOrigin.featOptions}}</div>
+    </details>
+  {{/if}}
+</section>

@@ -1,0 +1,40 @@
+<div class="play-heading"><div><h2>Skills</h2><p>Click a skill's name to roll. Star it to add it to Overview.</p></div><span class="sheet-count" data-filter-count="skills" aria-live="polite"></span></div>
+<div class="sheet-filter-bar">
+  <label class="search-field"><span class="sr-only">Search all skills</span><input type="search" data-sheet-filter="skills" placeholder="Search skills, abilities or specializations…"></label>
+  <label><span class="sr-only">Filter skills</span><select data-sheet-filter-mode="skills"><option value="all">All skills</option><option value="ranked">With ranks</option><option value="class">Class skills</option><option value="pinned">Favorites</option></select></label>
+  <button type="button" data-clear-filter="skills">Clear</button>
+</div>
+<div data-filter-list="skills">
+  <section class="panel skill-table">
+    <div class="skill-table-heading" aria-hidden="true"><span>Skill / ability</span><span>Total</span><span>Ranks</span><span>Misc</span><span>Favorite</span></div>
+    {{#each skills}}
+      <div class="skill-row play-skill-row" data-filter-row data-search="{{this.label}} {{this.data.keyAbility}}" data-class-skill="{{this.data.classSkill}}">
+        <div class="skill-name"><button type="button" class="rollable-skill" data-skill="{{this.key}}">{{this.label}}</button><small><span class="ability-short">{{this.data.keyAbility}}</span>{{#if this.data.classSkill}} · Class skill{{/if}}{{#if this.data.trainedOnly}} · Trained only{{/if}}{{#if this.data.armorCheck}} · Armor penalty{{/if}}</small></div>
+        <strong class="skill-total">{{numberFormat this.data.total sign=true}}</strong>
+        <label><span class="sr-only">{{this.label}} ranks</span><input type="number" name="system.skills.{{this.key}}.ranks" value="{{this.data.ranks}}" min="0" data-skill-ranks></label>
+        <label><span class="sr-only">{{this.label}} miscellaneous modifier</span><input type="number" name="system.skills.{{this.key}}.misc" value="{{this.data.misc}}"></label>
+        <label class="favorite-toggle" title="Show {{this.label}} on Overview"><input type="checkbox" class="toggle-skill-pin" name="system.skills.{{this.key}}.pinned" {{#if this.data.pinned}}checked{{/if}} aria-label="Favorite {{this.label}}"><span aria-hidden="true">★</span></label>
+      </div>
+    {{/each}}
+  </section>
+  {{#each skillGroups}}
+    <section class="panel custom-skill-section">
+      <div class="panel-header"><h2>{{this.label}}</h2><button type="button" class="add-custom-skill" data-group="{{this.key}}">Add specialization</button></div>
+      {{#each this.entries}}
+        <div class="custom-skill-row play-custom-skill" data-skill-id="{{this.id}}" data-filter-row data-search="{{../label}} {{this.name}} {{this.keyAbility}}" data-class-skill="{{this.classSkill}}">
+          <div class="custom-skill-name"><button type="button" class="rollable-custom-skill" data-group="{{../key}}" data-skill-id="{{this.id}}" title="Roll {{this.name}}">Roll {{numberFormat this.total sign=true}}</button><label><span class="sr-only">{{../label}} specialization</span><input type="text" name="system.customSkills.{{../key}}.{{@index}}.name" value="{{this.name}}" placeholder="Specialization"></label></div>
+          <div class="custom-skill-fields">
+            <label>Ability<select name="system.customSkills.{{../key}}.{{@index}}.keyAbility">{{selectOptions @root.config.abilityOptions selected=this.keyAbility}}</select></label>
+            <label>Ranks<input type="number" name="system.customSkills.{{../key}}.{{@index}}.ranks" value="{{this.ranks}}" min="0" data-skill-ranks></label>
+            <label>Misc<input type="number" name="system.customSkills.{{../key}}.{{@index}}.misc" value="{{this.misc}}"></label>
+            <label class="inline-check"><input type="checkbox" disabled {{#if this.classSkill}}checked{{/if}}> Class</label>
+            <label class="inline-check"><input type="checkbox" name="system.customSkills.{{../key}}.{{@index}}.trainedOnly" {{#if this.trainedOnly}}checked{{/if}}> Trained only</label>
+            <label class="favorite-toggle" title="Show on Overview"><input type="checkbox" class="toggle-skill-pin" name="system.customSkills.{{../key}}.{{@index}}.pinned" {{#if this.pinned}}checked{{/if}} aria-label="Favorite {{this.name}}"><span aria-hidden="true">★</span></label>
+            <button type="button" class="delete-custom-skill quiet-danger" data-group="{{../key}}" aria-label="Delete {{this.name}}">Delete</button>
+          </div>
+        </div>
+      {{else}}<p class="sheet-hint">Add a specialization, such as a trade, field of knowledge or performance.</p>{{/each}}
+    </section>
+  {{/each}}
+</div>
+<div class="sheet-empty" data-filter-empty="skills" hidden><p>No skills match these filters.</p><button type="button" data-clear-filter="skills">Show all skills</button></div>
